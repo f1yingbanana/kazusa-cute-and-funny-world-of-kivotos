@@ -5,6 +5,10 @@
   "description": "The students of Kivotos, from Trinity to Millennium. 145 characters, with ARONA as your system admin.",
   "author": "breados17",
   "homepage": "https://openrp.ai/kazusa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/f1yingbanana/kazusa-cute-and-funny-world-of-kivotos.git"
+  },
   "private": true,
   "kazusa": {
     "systemAgent": "arona",
