@@ -10,6 +10,7 @@ summary:
   "Big public park of lawns, jogging loops and a pond; always open, joggers at
   dawn, families on weekends, couples on the benches at dusk."
 renown: known
+backdrop: park
 ---
 
 # Millennium District Park

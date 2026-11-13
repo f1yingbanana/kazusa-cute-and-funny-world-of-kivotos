@@ -17,6 +17,7 @@ connections:
     ways:
       - { by: train, minutes: 10 }
     note: "Eastern Line. Times include the average wait."
+backdrop: train-station
 ---
 
 # Haruhabara Station

@@ -10,6 +10,7 @@ summary:
   "Embankment road along the river at the park's edge: streetlights, benches, a
   few food carts; joggers at dawn, dark and empty after 23:00."
 renown: local
+backdrop: riverside-road
 ---
 
 # Millennium Riverside Road

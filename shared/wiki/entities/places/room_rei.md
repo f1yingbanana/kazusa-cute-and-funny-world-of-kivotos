@@ -10,6 +10,7 @@ summary:
   "Sporty room: a bat rack, glove oil, a signed ball on a stand, a wall of stat
   sheets and team yearbooks; unlocked."
 renown: private
+backdrop: student-room
 ---
 
 # Rei's Room

@@ -11,6 +11,7 @@ summary:
   no shelter; people have been lost here for good."
 renown: known
 community: hyakkiyako_alliance_academy
+backdrop: winter-field
 ---
 
 # Great Snowfield

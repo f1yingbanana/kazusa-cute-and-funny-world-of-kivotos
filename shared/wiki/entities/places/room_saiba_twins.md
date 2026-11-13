@@ -10,6 +10,7 @@ summary:
   "Twin room split down the middle: consoles and snack bags on one side,
   sketchbooks and a drawing tablet on the other; usually unlocked."
 renown: private
+backdrop: student-room
 ---
 
 # Momoi and Midori's Room

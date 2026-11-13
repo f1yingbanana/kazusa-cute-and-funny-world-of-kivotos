@@ -11,6 +11,7 @@ summary:
   hours; beds rarely empty after field missions."
 renown: known
 community: millennium_science_school
+backdrop: infirmary
 ---
 
 # Millennium Infirmary

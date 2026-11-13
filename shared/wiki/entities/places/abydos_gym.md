@@ -12,6 +12,7 @@ summary:
   weights, a stage with faded curtains. Unlocked 07:00–19:00, usually empty."
 renown: local
 community: abydos_high_school
+backdrop: gym
 ---
 
 # Abydos Gymnasium

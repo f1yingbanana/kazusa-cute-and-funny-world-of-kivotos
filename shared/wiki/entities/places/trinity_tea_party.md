@@ -13,6 +13,7 @@ summary:
   later."
 renown: famous
 community: tea_party
+backdrop: trinity-terrace
 ---
 
 # Tea Party Chamber

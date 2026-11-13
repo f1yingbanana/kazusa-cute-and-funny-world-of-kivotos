@@ -10,6 +10,7 @@ summary:
   "First-year homeroom at the end of the Academic Hall's ground floor, beside
   the stairs; homeroom 08:30, lessons until 15:20; left unlocked at lunch,
   locked at 19:00."
+backdrop: trinity-classroom
 ---
 
 # Trinity Class 1-C

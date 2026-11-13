@@ -18,6 +18,7 @@ connections:
       - { by: walk, minutes: 16 }
     note:
       "Campus monorail to the station's upper level; the time includes the wait."
+backdrop: millennium-monorail
 ---
 
 # Millennium Study Area Monorail Station

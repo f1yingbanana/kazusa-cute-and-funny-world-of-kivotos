@@ -23,6 +23,7 @@ connections:
       - { by: walk, minutes: 9 }
       - { by: bike, minutes: 4 }
     note: "Down through the quarter to the top of Trinity Street."
+backdrop: dormitory
 ---
 
 # Magnolia Hall

@@ -11,6 +11,7 @@ summary:
   merchandise; members drift in all day, someone is usually napping."
 renown: local
 community: yin_yang_club
+backdrop: tatami-room
 ---
 
 # Yin-Yang Club Tatami Lounge

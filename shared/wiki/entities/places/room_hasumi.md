@@ -10,6 +10,7 @@ summary:
   "West Wing room: tea tins, a bathroom scale turned to the wall, a sweets
   stash, a locked notebook; the lamp is often on late."
 renown: private
+backdrop: student-room
 ---
 
 # Hasumi's Room

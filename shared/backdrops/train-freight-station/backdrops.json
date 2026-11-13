@@ -1,0 +1,6 @@
+{
+  "states": {
+    "empty": "No trains or freight in the yard",
+    "ruined": "The yard wrecked: twisted rails and debris"
+  }
+}

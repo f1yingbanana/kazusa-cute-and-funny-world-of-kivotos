@@ -11,6 +11,7 @@ summary:
   restaurants; locked, tea things laid out."
 renown: private
 community: gourmet_research_society
+backdrop: student-room
 ---
 
 # Haruna's Room

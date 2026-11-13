@@ -10,6 +10,7 @@ summary:
   "Room 205: a nest of blankets, a transistor radio, crossword books; uniform on
   the floor, curtains closed until noon; rarely locked."
 renown: private
+backdrop: valkyrie-student-room
 ---
 
 # Fubuki's Room

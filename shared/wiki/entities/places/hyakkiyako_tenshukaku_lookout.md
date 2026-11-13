@@ -11,6 +11,7 @@ summary:
   roped off after, though students slip up the stairs at night."
 renown: known
 community: hyakkiyako_alliance_academy
+backdrop: hyakkiyako-lookout
 ---
 
 # Tenshukaku Lookout

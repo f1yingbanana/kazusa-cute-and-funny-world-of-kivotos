@@ -11,6 +11,7 @@ summary:
   attended by family and shrine maidens, closed to visitors."
 renown: local
 community: kadenokouji_family
+backdrop: hyakkiyako-temple
 ---
 
 # Kadenokouji Family Shrine

@@ -10,6 +10,7 @@ summary:
   "Tidy tech room: dual monitors, labeled cable bins, a framed code of hacker
   ethics; a smart lock of her own design."
 renown: private
+backdrop: student-room
 ---
 
 # Chihiro's Room

@@ -11,6 +11,7 @@ summary:
   pavilion; open 07:00–17:00, pickers in spring, almost empty otherwise."
 renown: known
 community: shanhaijing_senior_secondary_school
+backdrop: shanhaijing-tea-house
 ---
 
 # Shanhaijing Tea Garden

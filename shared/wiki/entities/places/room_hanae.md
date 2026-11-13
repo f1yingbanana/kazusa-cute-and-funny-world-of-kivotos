@@ -11,6 +11,7 @@ summary:
   sill, pom-poms, a calisthenics chart, a first-aid kit as big as a suitcase;
   locked."
 renown: private
+backdrop: student-room
 ---
 
 # Hanae's Room

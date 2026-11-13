@@ -11,6 +11,7 @@ summary:
   "A small fishing village down the coast from Kanesaki Port: shrimp boats, a
   fish market at dawn, one bus an hour; quiet by 20:00."
 renown: local
+backdrop: fishing-village
 ---
 
 # Yatoura Fishing Village

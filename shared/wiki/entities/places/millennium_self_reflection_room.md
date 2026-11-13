@@ -12,6 +12,7 @@ summary:
   stairs."
 renown: known
 community: seminar
+backdrop: millennium-prison
 ---
 
 # Self-Reflection Room

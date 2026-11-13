@@ -11,6 +11,7 @@ summary:
 renown: famous
 community: general_student_council
 map: { x: 0.5, y: 0.44 }
+backdrop: city-downtown
 ---
 
 # D.U. Downtown

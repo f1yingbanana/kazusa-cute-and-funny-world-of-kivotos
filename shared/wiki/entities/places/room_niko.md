@@ -10,6 +10,7 @@ summary:
   "A small bedroom that smells of simmered tofu: a rice cooker, a hot plate,
   jars on the shelf; door usually ajar until lights-out."
 renown: private
+backdrop: student-room
 ---
 
 # Niko's Room

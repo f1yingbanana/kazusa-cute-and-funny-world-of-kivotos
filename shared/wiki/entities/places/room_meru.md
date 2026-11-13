@@ -11,6 +11,7 @@ summary:
   badges; a curtained corkboard nobody may see; thin walls; locked when out."
 renown: private
 community: red_winter_federal_academy
+backdrop: student-room
 ---
 
 # Meru's Room

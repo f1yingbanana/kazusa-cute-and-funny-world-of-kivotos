@@ -20,6 +20,7 @@ connections:
     ways:
       - { by: walk, minutes: 10 }
     note: "Up the hill road to the main gate."
+backdrop: gehenna-street
 ---
 
 # Gehenna Shopping District

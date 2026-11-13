@@ -11,6 +11,7 @@ summary:
   council; check-in 15:00, baths 06:00–24:00, expensive."
 renown: local
 community: pandemonium_society
+backdrop: onsen
 ---
 
 # Pandemonium Spa Resort

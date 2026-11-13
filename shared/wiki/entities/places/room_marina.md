@@ -11,6 +11,7 @@ summary:
   cleaning supplies, cat spray by the door; locked, the key often lost."
 renown: private
 community: red_winter_federal_academy
+backdrop: student-room
 ---
 
 # Marina's Room

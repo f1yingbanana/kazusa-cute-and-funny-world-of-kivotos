@@ -10,6 +10,7 @@ summary:
   "Cozy room in the staff house: a sewing basket, children's drawings, a parfait
   stamp card; locked, a teddy on the pillow."
 renown: private
+backdrop: student-room
 ---
 
 # Shun's Room

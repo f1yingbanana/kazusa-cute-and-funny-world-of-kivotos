@@ -11,6 +11,7 @@ summary:
   "Top-floor room: poetry books, a mini fridge of milk cartons, a beanbag by the
   window; the door is usually ajar."
 renown: private
+backdrop: student-room
 ---
 
 # Natsu Yutori's Room

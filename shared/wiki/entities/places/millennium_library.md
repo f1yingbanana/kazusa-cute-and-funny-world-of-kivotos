@@ -11,6 +11,7 @@ summary:
   in exam weeks; strict silence enforced by patrolling drones."
 renown: known
 community: millennium_science_school
+backdrop: library
 ---
 
 # 42nd Millennium Library

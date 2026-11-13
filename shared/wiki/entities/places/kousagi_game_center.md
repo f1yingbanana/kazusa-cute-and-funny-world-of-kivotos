@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "Three floors of cranes, rhythm and fighting games; open 10:00–23:00, students
   crowd it after 16:00."
+backdrop: arcade
 ---
 
 # Kousagi Game Center

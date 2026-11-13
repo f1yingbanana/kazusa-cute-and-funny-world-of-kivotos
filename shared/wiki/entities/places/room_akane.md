@@ -10,6 +10,7 @@ summary:
   "Spotless room: a tea set, neatly folded aprons, polished glasses, a locked
   case of detonators labeled like spice jars; locked."
 renown: private
+backdrop: student-room
 ---
 
 # Akane Murokasa's Room

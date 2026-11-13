@@ -16,6 +16,7 @@ connections:
     ways:
       - { by: walk, minutes: 2 }
     note: "A staff corridor straight onto the concourse."
+backdrop: highlander-central
 ---
 
 # Highlander Station Campus

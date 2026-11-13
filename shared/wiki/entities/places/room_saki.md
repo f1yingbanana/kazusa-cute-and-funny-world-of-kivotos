@@ -10,6 +10,7 @@ summary:
   "A square-pitched tent with a rifle-cleaning kit laid out like a diagram and
   wild greens drying on a cord; zipped shut, helmet always on its peg."
 renown: private
+backdrop: tent-inside
 ---
 
 # Saki's Tent

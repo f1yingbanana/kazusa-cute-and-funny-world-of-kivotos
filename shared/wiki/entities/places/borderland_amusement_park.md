@@ -16,6 +16,7 @@ connections:
       - { by: walk, minutes: 18 }
     note:
       "Out the rear gate on the Gehenna side; half the rides are in Gehenna."
+backdrop: amusement-park
 ---
 
 # Borderland Amusement Park

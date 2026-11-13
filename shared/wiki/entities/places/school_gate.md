@@ -17,6 +17,7 @@ connections:
       - { by: walk, minutes: 6 }
       - { by: bike, minutes: 2 }
     note: "Down the hill road to the shops."
+backdrop: trinity-front-gate
 ---
 
 # Trinity Main Gate

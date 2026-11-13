@@ -17,6 +17,7 @@ connections:
     ways:
       - { by: walk, minutes: 7 }
     note: "Along the tree-lined lane to the main gate."
+backdrop: dormitory
 ---
 
 # Gehenna Dormitory No. 2

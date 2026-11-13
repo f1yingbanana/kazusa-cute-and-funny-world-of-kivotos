@@ -10,6 +10,7 @@ summary:
   "Immaculate, minimal room: ironed maid uniforms, a rifle case under the bed,
   flashcards for the next make-up exam; always locked."
 renown: private
+backdrop: student-room
 ---
 
 # Karin's Room

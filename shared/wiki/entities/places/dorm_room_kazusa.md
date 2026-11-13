@@ -11,6 +11,7 @@ summary:
   "Second-floor room: tidy and dim, a bass guitar on its stand, a drawer kept
   for sweets; locked whenever she's out."
 renown: private
+backdrop: student-room
 ---
 
 # Kazusa's Room

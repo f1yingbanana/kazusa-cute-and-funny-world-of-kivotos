@@ -12,6 +12,7 @@ summary:
 renown: known
 community: red_winter_federal_academy
 map: { x: 0.55, y: 0.08 }
+backdrop: red-winter-street
 ---
 
 # Red Winter District

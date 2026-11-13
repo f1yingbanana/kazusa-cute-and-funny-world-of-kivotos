@@ -10,6 +10,7 @@ summary:
   "Sparse tatami room facing the river, window always open to the breeze; a low
   desk with brush and poem strips; seldom locked."
 renown: private
+backdrop: tatami-room
 ---
 
 # Chise's Room

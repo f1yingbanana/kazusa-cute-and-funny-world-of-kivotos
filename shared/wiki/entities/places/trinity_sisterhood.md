@@ -21,6 +21,7 @@ connections:
     ways:
       - { by: walk, minutes: 5 }
     note: "Down the cathedral close onto Trinity Street."
+backdrop: cathedral
 ---
 
 # Trinity Cathedral

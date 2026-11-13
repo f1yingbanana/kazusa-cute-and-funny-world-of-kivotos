@@ -10,6 +10,7 @@ summary:
   "A squad tent kept regulation-tidy: folded bedroll, a rabbit hutch by the
   door, a mess kit; flap zipped and tied at night, a whistle hung inside."
 renown: private
+backdrop: tent-inside
 ---
 
 # Miyako's Tent

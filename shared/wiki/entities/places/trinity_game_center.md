@@ -15,6 +15,7 @@ connections:
     ways:
       - { by: walk, minutes: 1 }
     note: "Right beside the station exit."
+backdrop: arcade
 ---
 
 # Trinity Stationside Game Center

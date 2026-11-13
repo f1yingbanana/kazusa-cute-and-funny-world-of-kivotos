@@ -23,6 +23,7 @@ connections:
     note:
       "Hyakkiyako North Line, through the long tunnel, hourly. Times include the
       average wait."
+backdrop: train-station
 ---
 
 # Hyakkiyako Station

@@ -11,6 +11,7 @@ summary:
   Festival procession route, a quiet evening walk otherwise."
 renown: known
 community: hyakkiyako_alliance_academy
+backdrop: hyakkiyako-lantern-road
 ---
 
 # Lantern Road

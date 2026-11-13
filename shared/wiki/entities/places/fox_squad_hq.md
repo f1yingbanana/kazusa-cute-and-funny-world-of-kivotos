@@ -10,6 +10,7 @@ summary:
   "FOX Squad's operations room in SCHALE's basement: maps, gear lockers, a
   coffee machine; FOX's keycard only."
 community: fox_platoon
+backdrop: fox-hq-room
 ---
 
 # FOX Squad HQ

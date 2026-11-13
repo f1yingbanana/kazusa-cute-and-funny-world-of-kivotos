@@ -10,6 +10,7 @@ summary:
   "West Wing room: half-started hobbies everywhere, an unused guitar in the
   corner, flea-market finds in boxes; locked, the key under the mat."
 renown: private
+backdrop: student-room
 ---
 
 # Ichika's Room

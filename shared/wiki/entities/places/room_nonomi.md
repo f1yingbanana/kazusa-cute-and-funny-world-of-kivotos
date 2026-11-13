@@ -11,6 +11,7 @@ summary:
   cleaning caddy, a framed club photo. Locked when she's out, like the villa
   gate."
 renown: private
+backdrop: student-room
 ---
 
 # Nonomi's Room

@@ -11,6 +11,7 @@ summary:
   charger, shelves of chipped antiques with price tags. Always locked; spare
   glasses by the bed."
 renown: private
+backdrop: student-room
 ---
 
 # Ayane's Room

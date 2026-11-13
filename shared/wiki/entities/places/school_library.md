@@ -13,6 +13,7 @@ summary:
   after closing."
 renown: known
 community: trinity_library_committee
+backdrop: library
 ---
 
 # Trinity Central Library

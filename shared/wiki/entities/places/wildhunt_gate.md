@@ -18,6 +18,7 @@ connections:
     ways:
       - { by: walk, minutes: 4 }
     note: "Over the drawbridge and along the moat to town."
+backdrop: wildhunt-front-gate
 ---
 
 # Wild Hunt Fortress Gate

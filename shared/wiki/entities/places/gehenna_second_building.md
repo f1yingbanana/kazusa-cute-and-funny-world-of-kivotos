@@ -11,6 +11,7 @@ summary:
   07:00–20:00, the infirmary entrance at the side stays open all night."
 renown: local
 community: gehenna_academy
+backdrop: gehenna-corridor
 ---
 
 # Gehenna Second School Building

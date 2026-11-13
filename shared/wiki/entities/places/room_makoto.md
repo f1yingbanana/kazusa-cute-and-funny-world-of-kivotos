@@ -11,6 +11,7 @@ summary:
   locked, a cat inside."
 renown: private
 community: pandemonium_society
+backdrop: student-room
 ---
 
 # Makoto's Room

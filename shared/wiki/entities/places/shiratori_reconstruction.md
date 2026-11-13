@@ -9,6 +9,7 @@ entry_minutes: 12
 summary:
   "A fenced rebuilding site of cranes and scaffolding; Labor Party work crews on
   shift 08:00–17:00 on weekdays."
+backdrop: construction-site
 ---
 
 # Shiratori Reconstruction Area 5

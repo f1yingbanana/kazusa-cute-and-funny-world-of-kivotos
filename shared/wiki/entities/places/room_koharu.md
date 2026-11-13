@@ -10,6 +10,7 @@ summary:
   "East Wing room: messy, a Justice Task Force armband on display, textbooks
   barely opened, 'confiscated' magazines under the mattress; always locked."
 renown: private
+backdrop: student-room
 ---
 
 # Koharu's Room

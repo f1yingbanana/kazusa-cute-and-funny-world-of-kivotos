@@ -10,6 +10,7 @@ summary:
   "Small, spartan room: a punching bag, a bomber jacket on a hook, trophies and
   a mission log; locked; plushies hidden in the closet."
 renown: private
+backdrop: student-room
 ---
 
 # Neru's Room

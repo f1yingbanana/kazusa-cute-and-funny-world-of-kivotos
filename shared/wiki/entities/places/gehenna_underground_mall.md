@@ -23,6 +23,7 @@ connections:
     note:
       "Gehenna Subway to the stop under the campus forecourt, every 6 minutes
       05:30–00:30."
+backdrop: underground-shopping-area
 ---
 
 # Gehenna Underground Mall

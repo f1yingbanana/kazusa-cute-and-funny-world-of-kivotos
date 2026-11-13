@@ -11,6 +11,7 @@ summary:
   downstairs, a rooftop; open 07:00–20:00, crowded at 08:20 and at lunch."
 renown: known
 community: millennium_science_school
+backdrop: millennium-corridor
 ---
 
 # Millennium Lecture Building

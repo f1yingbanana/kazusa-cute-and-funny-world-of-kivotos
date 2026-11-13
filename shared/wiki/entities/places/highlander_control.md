@@ -12,6 +12,7 @@ summary:
   radios, a snack drawer; staffed around the clock, frantic at rush hours."
 renown: known
 community: highlander_control_center
+backdrop: train-control-room-front
 ---
 
 # Central Control Center Operations Floor

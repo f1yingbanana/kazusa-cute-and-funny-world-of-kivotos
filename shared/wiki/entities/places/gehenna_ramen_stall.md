@@ -10,6 +10,7 @@ summary:
   "A cheap night ramen cart under a bridge: open 20:00–03:00, six stools, garlic
   and pork broth; delinquents and night-shift workers."
 renown: local
+backdrop: food-cart-ramen
 ---
 
 # Kagaribi Ramen Stall

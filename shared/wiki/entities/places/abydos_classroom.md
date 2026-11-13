@@ -13,6 +13,7 @@ summary:
   textbooks and coursework."
 renown: local
 community: abydos_high_school
+backdrop: abydos-meeting-room
 ---
 
 # Abydos Combined Classroom

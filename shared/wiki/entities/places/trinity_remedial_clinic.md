@@ -13,6 +13,7 @@ summary:
   drills."
 renown: known
 community: knights_hospitaller
+backdrop: hospital-ward
 ---
 
 # Remedial Knights Central Ward

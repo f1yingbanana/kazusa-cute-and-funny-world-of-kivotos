@@ -10,6 +10,7 @@ summary:
   "Tatami side room off the council hall, slept in most nights: a sunny cushion,
   military histories, cat's-cradle string; unlocked."
 renown: private
+backdrop: student-room
 ---
 
 # Kikyou's Room

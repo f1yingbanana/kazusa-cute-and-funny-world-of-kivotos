@@ -10,6 +10,7 @@ summary:
   "Room papered with festival pamphlets sorted by region, a festival calendar
   map; locked when she's out, which is often."
 renown: private
+backdrop: tatami-room
 ---
 
 # Umika's Room

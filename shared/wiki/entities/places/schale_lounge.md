@@ -10,6 +10,7 @@ entry_minutes: 2
 summary:
   "A quiet room of recliners, beds and a juice bar in the residence wing; anyone
   may nap here."
+backdrop: resting-lounge
 ---
 
 # SCHALE Resting Room

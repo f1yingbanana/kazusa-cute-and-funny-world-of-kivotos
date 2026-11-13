@@ -12,6 +12,7 @@ summary:
   06:00–22:00, busiest at dawn and after class."
 renown: known
 community: gym_training_department
+backdrop: health-club
 ---
 
 # Millennium Fitness Center

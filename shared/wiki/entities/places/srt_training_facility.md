@@ -11,6 +11,7 @@ summary:
   "The closed SRT academy's training compound: locked gates, empty barracks, a
   GSC seal on the door."
 community: srt_special_academy
+backdrop: srt-base
 ---
 
 # SRT Special Academy Campus

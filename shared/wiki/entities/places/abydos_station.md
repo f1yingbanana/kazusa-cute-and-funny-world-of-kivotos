@@ -13,6 +13,7 @@ connections:
     ways:
       - { by: walk, minutes: 8 }
     note: "Through the half-buried concourse into town."
+backdrop: abydos-station-platform
 ---
 
 # Abydos Central Station

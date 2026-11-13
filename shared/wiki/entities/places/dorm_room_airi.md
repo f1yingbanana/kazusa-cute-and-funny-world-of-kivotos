@@ -11,6 +11,7 @@ summary:
   "Second-floor room: neat shelves of tea tins, a planner, mint green
   everywhere; locked when she's out, but she opens to a friend's knock."
 renown: private
+backdrop: student-room
 ---
 
 # Airi's Room

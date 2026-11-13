@@ -26,6 +26,7 @@ connections:
     ways:
       - { by: walk, minutes: 10 }
     note: "Down the back lane past the hospital wall to Trinity Street."
+backdrop: dormitory
 ---
 
 # Old Living Quarters

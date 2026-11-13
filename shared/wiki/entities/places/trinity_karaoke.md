@@ -10,6 +10,7 @@ summary:
   "Karaoke box with rooms by the hour, 11:00–23:00 via the side lift; groups
   after school, bands book the big room to rehearse."
 renown: local
+backdrop: karaoke
 ---
 
 # Galleria Karaoke Box

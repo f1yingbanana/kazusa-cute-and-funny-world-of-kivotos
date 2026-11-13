@@ -12,6 +12,7 @@ summary:
   somewhere at every hour, rival bureaus share the lifts."
 renown: local
 community: valkyrie_police_academy
+backdrop: valkyrie-office
 ---
 
 # Valkyrie Headquarters Building

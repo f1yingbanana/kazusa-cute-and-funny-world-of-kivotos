@@ -12,6 +12,7 @@ summary:
   out."
 renown: known
 community: abydos_district
+backdrop: abydos-ruins
 ---
 
 # Abydos Desert

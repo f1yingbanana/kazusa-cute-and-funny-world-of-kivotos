@@ -12,6 +12,7 @@ summary:
 renown: famous
 community: gehenna_academy
 map: { x: 0.43, y: 0.75 }
+backdrop: gehenna-street
 ---
 
 # Gehenna District

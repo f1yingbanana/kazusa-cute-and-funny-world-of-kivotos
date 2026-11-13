@@ -11,6 +11,7 @@ summary:
   blast-proof posters on the wall."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Megu's Room

@@ -11,6 +11,7 @@ summary:
   drift, a framed photo of an explosion; unlocked, but booby-trapped on
   principle."
 renown: private
+backdrop: tent-inside
 ---
 
 # Moe's Tent

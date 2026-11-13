@@ -11,6 +11,7 @@ summary:
   printer whirring late."
 renown: private
 community: pandemonium_society
+backdrop: student-room
 ---
 
 # Chiaki's Room

@@ -12,6 +12,7 @@ summary:
   tests."
 renown: local
 community: sparkle_club
+backdrop: ruined-classroom
 ---
 
 # Gehenna Old Classroom 7

@@ -12,6 +12,7 @@ summary:
   rack. One clerk at night; near-expiry bento discounted after 22:00."
 renown: local
 community: angel_24
+backdrop: convenience
 ---
 
 # Angel 24, Abydos Suburban Branch

@@ -10,6 +10,7 @@ summary:
   "West Wing room: bookshelves on every wall, handmade bookmarks drying on a
   string, a reading lamp on all night; locked."
 renown: private
+backdrop: student-room
 ---
 
 # Shimiko's Room

@@ -12,6 +12,7 @@ summary:
   trial; guarded around the clock; visitors 13:00–16:00 with a pass."
 renown: known
 community: justice_task_force
+backdrop: trinity-prison
 ---
 
 # Trinity Academy Prison

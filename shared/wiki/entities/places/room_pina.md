@@ -10,6 +10,7 @@ summary:
   "Room by the stairs: yakuza film posters, a sake-cup set used for tea, a guide
   flag and megaphone; door open, visitors welcome."
 renown: private
+backdrop: tatami-room
 ---
 
 # Pina's Room

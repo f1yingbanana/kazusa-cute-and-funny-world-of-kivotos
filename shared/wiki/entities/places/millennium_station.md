@@ -13,6 +13,7 @@ connections:
     ways:
       - { by: walk, minutes: 4 }
     note: "Out to the district's streets."
+backdrop: train-station
 ---
 
 # Millennium Station

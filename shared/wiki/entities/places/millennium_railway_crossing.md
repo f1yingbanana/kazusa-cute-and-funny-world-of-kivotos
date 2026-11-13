@@ -15,6 +15,7 @@ connections:
     ways:
       - { by: walk, minutes: 7 }
     note: "Over the crossing and up to the south gate."
+backdrop: railway-crossing
 ---
 
 # Euler Heights Railway Crossing

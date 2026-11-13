@@ -11,6 +11,7 @@ summary:
   and receives guests; afternoon tea at 15:00, invitation only."
 renown: known
 community: tea_party
+backdrop: trinity-terrace
 ---
 
 # Tea Party Terrace

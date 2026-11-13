@@ -12,6 +12,7 @@ summary:
   Deities rite is held; benches, open all hours, busy on festival days."
 renown: known
 community: hyakkiyako_alliance_academy
+backdrop: hyakkiyako-tree-square
 ---
 
 # Tree Square

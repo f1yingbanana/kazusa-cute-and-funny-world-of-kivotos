@@ -13,6 +13,7 @@ connections:
     ways:
       - { by: walk, minutes: 8 }
     note: "Out into the snow and the trams."
+backdrop: train-station
 ---
 
 # Red Winter Central Station

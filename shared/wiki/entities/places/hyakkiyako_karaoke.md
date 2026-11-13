@@ -11,6 +11,7 @@ summary:
   after school, groups on festival nights."
 renown: local
 community: hyakkiyako_alliance_academy
+backdrop: karaoke
 ---
 
 # Utage Karaoke Box

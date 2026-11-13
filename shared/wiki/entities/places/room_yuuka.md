@@ -10,6 +10,7 @@ summary:
   "Orderly single room: ledger binders by fiscal quarter, an abacus on the
   nightstand, a radio for sleepless nights; always locked."
 renown: private
+backdrop: student-room
 ---
 
 # Yuuka's Room

@@ -10,6 +10,7 @@ summary:
   "Ground-floor lounge with the dorm's one real fire, a samovar and worn
   armchairs; open until 23:00, crowded every evening, roll call here at 22:30."
 community: red_winter_federal_academy
+backdrop: fireplace-dormitory
 ---
 
 # First Shared Dormitory Fireplace Lounge

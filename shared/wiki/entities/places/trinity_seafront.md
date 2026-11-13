@@ -18,6 +18,7 @@ connections:
     note:
       "Seafront bus from the stop on Trinity Street, every 30 minutes until
       21:00. Time includes the average wait."
+backdrop: beachside
 ---
 
 # Trinity Seafront

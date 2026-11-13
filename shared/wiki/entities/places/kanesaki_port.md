@@ -10,6 +10,7 @@ summary:
   "D.U.'s port: piers, warehouses, merchant guilds and a small beach; Odyssey's
   fleet berths at Port Terminal 3."
 renown: known
+backdrop: wharf
 ---
 
 # Kanesaki Port

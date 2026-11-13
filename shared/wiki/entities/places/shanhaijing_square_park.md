@@ -11,6 +11,7 @@ summary:
   dancing in the evening; open all hours, lit until 23:00."
 renown: known
 community: shanhaijing_senior_secondary_school
+backdrop: shanhaijing-square-park
 ---
 
 # Shanhaijing Square Park

@@ -11,6 +11,7 @@ summary:
   reading lamp, a sleeping bag; rarely slept in, locked with two padlocks."
 renown: private
 community: red_winter_federal_academy
+backdrop: student-room
 ---
 
 # Momiji's Room

@@ -11,6 +11,7 @@ summary:
   "24-hour convenience store at the dorm end of Trinity Street: bento, milk,
   ammo, magazines; one night clerk after 23:00; students drift in until the
   dorms lock."
+backdrop: convenience
 ---
 
 # Angel 24, Trinity Street Branch

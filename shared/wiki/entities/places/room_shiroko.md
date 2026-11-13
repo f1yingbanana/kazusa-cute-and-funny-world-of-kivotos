@@ -10,6 +10,7 @@ summary:
   "Fourth-floor flat: a road bike hung on the wall, a pull-up bar in the
   doorway, a whiteboard of planning maps. Locked; a spare key hangs next door."
 renown: private
+backdrop: student-room
 ---
 
 # Shiroko's Room

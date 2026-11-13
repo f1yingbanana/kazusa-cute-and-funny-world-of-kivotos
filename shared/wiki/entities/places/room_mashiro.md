@@ -10,6 +10,7 @@ summary:
   "West Wing room at the end of the corridor: a telescope at the window, shelves
   of books on justice, an observation diary by the bed; locked."
 renown: private
+backdrop: student-room
 ---
 
 # Mashiro's Room

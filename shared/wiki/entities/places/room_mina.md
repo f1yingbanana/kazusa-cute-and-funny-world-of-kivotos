@@ -10,6 +10,7 @@ summary:
   "Guard room by the VIP quarters' gate: noir film posters, a trench coat and
   umbrella by the door, a recorder on the desk; never locked."
 renown: private
+backdrop: student-room
 ---
 
 # Mina's Room

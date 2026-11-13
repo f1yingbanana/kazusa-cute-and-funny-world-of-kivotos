@@ -11,6 +11,7 @@ summary:
   June–September and locked at night; sports clubs crowd it 16:00–18:30."
 renown: local
 community: trinity_general_school
+backdrop: gym
 ---
 
 # Trinity Gymnasium

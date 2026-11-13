@@ -17,6 +17,7 @@ connections:
     ways:
       - { by: walk, minutes: 8 }
     note: "Down Hospital Lane to the top of Trinity Street."
+backdrop: trinity-hospital
 ---
 
 # Saint Teresa General Hospital

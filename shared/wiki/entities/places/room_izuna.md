@@ -10,6 +10,7 @@ summary:
   "Rented room upstairs: stacks of ninja drama DVDs by a small TV, a shuriken
   target, a rope ladder out the window; locked, she leaves by the window."
 renown: private
+backdrop: tatami-room
 ---
 
 # Izuna's Room

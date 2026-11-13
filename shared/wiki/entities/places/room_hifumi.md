@@ -11,6 +11,7 @@ summary:
   release-date pinboard, study notes for friends; locked, the key on a Peroro
   charm."
 renown: private
+backdrop: student-room
 ---
 
 # Hifumi's Room

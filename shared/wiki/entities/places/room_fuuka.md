@@ -11,6 +11,7 @@ summary:
   at night, empty before dawn."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Fuuka's Room

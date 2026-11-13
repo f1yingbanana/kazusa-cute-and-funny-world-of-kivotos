@@ -11,6 +11,7 @@ summary:
   "A small family diner with home cooking and a counter; open 11:00–21:00,
   regulars at lunch, a corner table the food critics claim."
 renown: local
+backdrop: family-restaurant
 ---
 
 # Diner Sparrow

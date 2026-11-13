@@ -12,6 +12,7 @@ summary:
   wooden-fronted building; onigiri, bento, ammo; the only light on the street
   after 23:00."
 renown: known
+backdrop: convenience
 ---
 
 # Angel 24, Hyakkiyako Branch

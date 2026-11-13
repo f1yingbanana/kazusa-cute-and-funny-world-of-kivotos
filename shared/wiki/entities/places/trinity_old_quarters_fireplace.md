@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "The old dorm's common room: a real fireplace, worn armchairs, a kettle and a
   toaster; warm in the evenings, empty most of the day."
+backdrop: fireplace-dormitory
 ---
 
 # Old Living Quarters Fireplace Room

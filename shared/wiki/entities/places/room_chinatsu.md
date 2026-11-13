@@ -11,6 +11,7 @@ summary:
   red throw; locked at night, door open to anyone hurt."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Chinatsu's Room

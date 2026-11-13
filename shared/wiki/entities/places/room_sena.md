@@ -11,6 +11,7 @@ summary:
   night; locked, emptied in a hurry when an alert comes."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Sena's Room

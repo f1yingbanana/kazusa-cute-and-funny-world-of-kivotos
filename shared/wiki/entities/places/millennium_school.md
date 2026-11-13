@@ -12,6 +12,7 @@ summary:
   gates 06:00–23:00, ID card after hours; busiest 08:00–08:30 and 16:00–18:00."
 renown: famous
 community: millennium_science_school
+backdrop: millennium-campus
 ---
 
 # Millennium Science School Campus

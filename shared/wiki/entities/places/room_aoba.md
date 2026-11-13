@@ -10,6 +10,7 @@ summary:
   "A crew bedroom at the far end from the twins: a workbench corner of
   half-mended appliances, earplugs, motion-sickness pills; always locked."
 renown: private
+backdrop: student-room
 ---
 
 # Aoba's Room

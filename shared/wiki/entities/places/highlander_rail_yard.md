@@ -12,6 +12,7 @@ summary:
   is made up; works around the clock, staff and crews only past the yard gate."
 renown: known
 community: highlander_freight_logistics
+backdrop: train-freight-station
 ---
 
 # Highlander Freight Yard

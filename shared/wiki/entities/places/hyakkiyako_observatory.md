@@ -12,6 +12,7 @@ summary:
   also reached by cable car; path open all hours, crowded on fireworks nights."
 renown: famous
 community: hyakkiyako_alliance_academy
+backdrop: hyakkiyako-observatory
 ---
 
 # Hyakkiyako Tree Observatory

@@ -10,6 +10,7 @@ summary:
   "East Wing room: a spartan cot, gear laid out in rows, a tripwire across the
   doorway at night; one shelf of plushes given by a friend."
 renown: private
+backdrop: student-room
 ---
 
 # Azusa Shirasu's Room

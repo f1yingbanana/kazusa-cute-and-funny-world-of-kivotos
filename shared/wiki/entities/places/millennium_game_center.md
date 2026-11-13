@@ -10,6 +10,7 @@ summary:
   "Three floors of rhythm, fighting and claw machines plus batting cages on the
   roof; 10:00–24:00, a line for new cabinets on release mornings."
 renown: local
+backdrop: arcade
 ---
 
 # Game Center Quantum

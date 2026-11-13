@@ -27,6 +27,7 @@ connections:
     note:
       "Trans-Desert Railway, D.U. branch, every 90 minutes. Few trains, so
       riders plan around the posted timetable; the time assumes they do."
+backdrop: train-station
 ---
 
 # Kousagi Station

@@ -11,6 +11,7 @@ summary:
   cans; locked, its owner usually elsewhere."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Iroha's Room

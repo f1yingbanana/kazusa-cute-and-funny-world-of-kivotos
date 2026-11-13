@@ -12,6 +12,7 @@ summary:
   kettle, spare armbands; used 15:30–20:00 and as a meeting point before night
   patrols."
 community: vigilante_crew
+backdrop: trinity-clubroom
 ---
 
 # Vigilante Crew Room

@@ -13,6 +13,7 @@ summary:
   tourists kept to Castle Square."
 renown: known
 community: hyakkiyako_alliance_academy
+backdrop: hyakkiyako-campus
 ---
 
 # Hyakkiyako Alliance Academy Grounds

@@ -12,6 +12,7 @@ summary:
   calm."
 renown: local
 community: gehenna_academy
+backdrop: gehenna-classroom
 ---
 
 # Gehenna Class 3-A

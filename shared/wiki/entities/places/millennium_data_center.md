@@ -11,6 +11,7 @@ summary:
   around the clock; cold inside."
 renown: local
 community: millennium_science_school
+backdrop: millennium-data-center
 ---
 
 # Millennium Data Center

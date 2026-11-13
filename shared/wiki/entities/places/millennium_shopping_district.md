@@ -23,6 +23,7 @@ connections:
       - { by: bus, minutes: 5 }
     note:
       "Up the avenue to the campus gate; the school bus is packed at rush hour."
+backdrop: shopping-district
 ---
 
 # Millennium Shopping District

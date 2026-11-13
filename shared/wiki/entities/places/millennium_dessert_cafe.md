@@ -10,6 +10,7 @@ summary:
   "Dessert café: parfaits, afternoon tea sets, ice cream; 11:00–21:00, a waiting
   line around 15:00 on weekends."
 renown: local
+backdrop: dessert-cafe
 ---
 
 # Café Parabola

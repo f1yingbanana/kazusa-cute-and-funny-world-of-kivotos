@@ -12,6 +12,7 @@ summary:
 renown: known
 community: abydos_high_school
 map: { x: 0.76, y: 0.8 }
+backdrop: abydos-street
 ---
 
 # Abydos Residential Area

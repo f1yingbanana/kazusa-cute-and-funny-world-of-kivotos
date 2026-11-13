@@ -13,6 +13,7 @@ summary:
   supply truck twice a week."
 renown: local
 community: red_winter_special_class_183
+backdrop: red-winter-183-hangar
 ---
 
 # Facility No. 183

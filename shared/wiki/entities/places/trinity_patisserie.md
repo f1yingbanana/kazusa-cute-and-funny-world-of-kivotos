@@ -12,6 +12,7 @@ summary:
   terrace; open 10:00–20:00; queues on new-menu days, students crowd it after
   15:30."
 renown: known
+backdrop: dessert-cafe
 ---
 
 # Cafe Mille-Feuille

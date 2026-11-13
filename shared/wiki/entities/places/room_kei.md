@@ -10,6 +10,7 @@ summary:
   "Orderly room: a hair-ribbon collection, fashion magazines, a framed photo of
   her and her sister; locked."
 renown: private
+backdrop: student-room
 ---
 
 # Kei's Room

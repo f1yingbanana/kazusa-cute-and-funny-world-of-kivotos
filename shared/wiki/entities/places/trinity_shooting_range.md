@@ -10,6 +10,7 @@ summary:
   "Outdoor range behind the gymnasium: twelve lanes and earth berms; open
   06:00–19:00, nearly empty at dawn; ammunition sold at the hut until 17:00."
 renown: local
+backdrop: shooting-range
 ---
 
 # Trinity Shooting Range

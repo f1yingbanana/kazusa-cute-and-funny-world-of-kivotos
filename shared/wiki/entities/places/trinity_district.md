@@ -15,6 +15,7 @@ connections:
     ways:
       - { by: bus, minutes: 30 }
     note: "Cross-border bus; it waits at the checkpoint."
+backdrop: trinity-street
 ---
 
 # Trinity District

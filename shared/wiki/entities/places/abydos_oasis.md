@@ -10,6 +10,7 @@ summary:
   "The Great Oasis, dry now: a cracked basin, dead palms and rusting festival
   stalls, an hour's shadeless hike. The Sand Festival used to be held here."
 renown: known
+backdrop: desert-oasis
 ---
 
 # Abydos Great Oasis

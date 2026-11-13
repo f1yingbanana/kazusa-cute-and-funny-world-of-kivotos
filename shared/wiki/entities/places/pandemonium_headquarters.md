@@ -12,6 +12,7 @@ summary:
   08:00–20:00, guards at the door, members drifting in and out all day."
 renown: known
 community: pandemonium_society
+backdrop: gehenna-council-hall
 ---
 
 # Pandemonium Society Headquarters

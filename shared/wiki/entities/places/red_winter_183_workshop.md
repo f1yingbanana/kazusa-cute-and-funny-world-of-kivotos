@@ -10,6 +10,7 @@ summary:
   "The facility's garage: a half-built tank, lathes, welding gear, a
   chalk-ringed wrestling mat for settling disputes; noisy 08:00–20:00."
 community: red_winter_special_class_183
+backdrop: red-winter-183-hangar
 ---
 
 # No. 183 Tank Workshop

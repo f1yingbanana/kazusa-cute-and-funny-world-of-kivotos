@@ -11,6 +11,7 @@ summary:
   here and a locker doubles as a hideout; noisy until late most nights."
 renown: known
 community: game_development_department
+backdrop: game-dev-room
 ---
 
 # Game Development Department Club Room

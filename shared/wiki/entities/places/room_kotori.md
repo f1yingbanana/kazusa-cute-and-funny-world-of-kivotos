@@ -10,6 +10,7 @@ summary:
   "Room of whiteboards covered in diagrams, stacks of physics books, a voice
   recorder; unlocked and open to anyone who wants an explanation."
 renown: private
+backdrop: student-room
 ---
 
 # Kotori's Room

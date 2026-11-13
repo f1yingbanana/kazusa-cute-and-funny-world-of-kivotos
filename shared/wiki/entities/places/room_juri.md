@@ -11,6 +11,7 @@ summary:
   the hot plate; locked at night."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Juri's Room

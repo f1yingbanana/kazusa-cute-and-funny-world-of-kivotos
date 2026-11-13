@@ -10,6 +10,7 @@ summary:
   "A small camouflaged tent half-hidden in the shrubs, easy to walk past; a
   pebble collection, a thermos, a rifle wrapped in a blanket; always zipped."
 renown: private
+backdrop: tent-inside
 ---
 
 # Miyu's Tent

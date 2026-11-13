@@ -10,6 +10,7 @@ summary:
   "Blackout curtains and a nest of pillows of every firmness; door unlocked, she
   sleeps through knocking."
 renown: private
+backdrop: tatami-room
 ---
 
 # Tsubaki's Room

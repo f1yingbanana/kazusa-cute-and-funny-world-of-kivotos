@@ -12,6 +12,7 @@ summary:
   line was cut back to the suburbs; rails half buried, Highlander survey crews
   now and then. No trains, no water."
 renown: local
+backdrop: desert-railway
 ---
 
 # Old Desert Line Station

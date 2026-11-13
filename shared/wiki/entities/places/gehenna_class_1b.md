@@ -11,6 +11,7 @@ summary:
   seats empty on any given day, more after lunch."
 renown: local
 community: gehenna_academy
+backdrop: gehenna-classroom
 ---
 
 # Gehenna Class 1-B

@@ -10,6 +10,7 @@ summary:
   "Second-year homeroom on the Academic Hall's first floor, facing Trinity
   Square; homeroom 08:30, lessons until 15:20; left unlocked at lunch, locked at
   19:00."
+backdrop: trinity-classroom
 ---
 
 # Trinity Class 2-A

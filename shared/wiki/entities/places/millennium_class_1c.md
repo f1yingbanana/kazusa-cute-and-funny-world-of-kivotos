@@ -11,6 +11,7 @@ summary:
   with empty desks whenever a club deadline or a mission runs late."
 renown: local
 community: millennium_science_school
+backdrop: classroom
 ---
 
 # Millennium Class 1-C

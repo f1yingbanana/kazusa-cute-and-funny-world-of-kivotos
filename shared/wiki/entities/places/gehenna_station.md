@@ -20,6 +20,7 @@ connections:
     note:
       "Trans-Desert Railway. Few trains, so riders plan around the posted
       timetable; the time assumes they do."
+backdrop: train-station
 ---
 
 # Gehenna Central Station

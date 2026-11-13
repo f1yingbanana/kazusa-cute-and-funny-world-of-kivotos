@@ -10,6 +10,7 @@ summary:
   "Small, very orderly room: a picture-book bookcase, an instructor's whistle
   and lesson planner, a step stool; locked."
 renown: private
+backdrop: student-room
 ---
 
 # Kokona's Room

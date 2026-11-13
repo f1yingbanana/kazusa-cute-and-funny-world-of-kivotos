@@ -10,6 +10,7 @@ summary:
   "Room with kettlebells under the bed, protein tubs, a training-plan whiteboard
   and potted herbs; unlocked while she runs at dawn."
 renown: private
+backdrop: student-room
 ---
 
 # Sumire's Room

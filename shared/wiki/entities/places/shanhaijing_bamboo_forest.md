@@ -11,6 +11,7 @@ summary:
   lights; pass holders only, easy to get lost."
 renown: known
 community: shanhaijing_senior_secondary_school
+backdrop: bamboo-forest
 ---
 
 # Shanhaijing Bamboo Forest

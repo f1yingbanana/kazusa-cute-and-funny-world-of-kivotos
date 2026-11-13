@@ -11,6 +11,7 @@ summary:
   07:00–21:00, noisy every evening, explosions on a bad day."
 renown: local
 community: gehenna_academy
+backdrop: gehenna-clubroom
 ---
 
 # Gehenna Clubroom Main Building

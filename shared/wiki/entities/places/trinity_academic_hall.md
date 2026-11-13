@@ -11,6 +11,7 @@ summary:
   "Main teaching building: homerooms on three floors, lecture halls, a bell
   tower; open 07:30–19:00; corridors packed 08:20–08:30 and between periods."
 community: trinity_general_school
+backdrop: trinity-class-corridor
 ---
 
 # Trinity Academic Hall

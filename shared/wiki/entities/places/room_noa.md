@@ -10,6 +10,7 @@ summary:
   "Almost bare white room: a bed, a desk, rows of identical notebooks; locked,
   and always exactly as she left it."
 renown: private
+backdrop: student-room
 ---
 
 # Noa's Room

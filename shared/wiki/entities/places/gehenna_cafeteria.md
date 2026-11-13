@@ -13,6 +13,7 @@ summary:
   out."
 renown: local
 community: school_lunch_club
+backdrop: school-cafeteria
 ---
 
 # Gehenna Dining Hall

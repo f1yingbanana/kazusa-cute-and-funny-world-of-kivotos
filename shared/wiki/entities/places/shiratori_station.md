@@ -21,6 +21,7 @@ connections:
     ways:
       - { by: subway, minutes: 14 }
     note: "Metro outer arc. Times include the average wait."
+backdrop: train-station
 ---
 
 # Shiratori Station

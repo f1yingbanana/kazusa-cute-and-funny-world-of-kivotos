@@ -11,6 +11,7 @@ summary:
   "The police academy's leafy D.U. campus: bureaus, classrooms, a shooting range
   and Valkyrie's dorms; front desk staffed day and night."
 community: valkyrie_police_academy
+backdrop: valkyrie-yard
 ---
 
 # Valkyrie Police School, Shiratori Branch

@@ -10,6 +10,7 @@ summary:
   "High-ceilinged room under the eaves: a tree-costume rack, ninja manuals,
   thick curtains to hide behind; locked."
 renown: private
+backdrop: tatami-room
 ---
 
 # Tsukuyo's Room

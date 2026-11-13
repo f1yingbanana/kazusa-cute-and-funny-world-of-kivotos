@@ -12,6 +12,7 @@ summary:
   06:00–21:00, most halls lock at 19:00; crowded 08:00–08:30 and after 15:30."
 renown: famous
 community: trinity_general_school
+backdrop: trinity-campus
 ---
 
 # Trinity General School Campus

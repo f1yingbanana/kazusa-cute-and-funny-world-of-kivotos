@@ -10,6 +10,7 @@ summary:
   "A cosy convalescent room facing Songbird Park: towers of books, a half-done
   puzzle on the blanket, a bird feeder at the window; a Knight checks in daily."
 renown: private
+backdrop: student-room
 ---
 
 # Seia's Room

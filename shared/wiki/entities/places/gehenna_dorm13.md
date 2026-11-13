@@ -18,6 +18,7 @@ connections:
     ways:
       - { by: walk, minutes: 6 }
     note: "Across the road and in through the main gate."
+backdrop: dormitory
 ---
 
 # Gehenna Dormitory No. 13

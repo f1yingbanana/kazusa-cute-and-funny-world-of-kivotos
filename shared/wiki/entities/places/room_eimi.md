@@ -10,6 +10,7 @@ summary:
   "Room kept freezing: air conditioner on maximum, a fan aimed at the bed, a
   mini-freezer of ice cream; door propped open for airflow."
 renown: private
+backdrop: student-room
 ---
 
 # Eimi's Room

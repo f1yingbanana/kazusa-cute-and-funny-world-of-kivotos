@@ -11,6 +11,7 @@ summary:
   "Odyssey's flagship and school building: the Island leadership's bridge,
   lecture decks, the mess; gangway guarded, students aboard from 07:00 to 21:00."
 renown: known
+backdrop: odyssey-main-deck
 ---
 
 # Flagship Olympus

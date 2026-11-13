@@ -11,6 +11,7 @@ summary:
   locked, a freezer of mochi."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Akari's Room

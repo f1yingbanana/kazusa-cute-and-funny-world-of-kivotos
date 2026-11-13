@@ -10,6 +10,7 @@ summary:
   "First-floor room: a pressed nurse's cap, a box of handmade gifts for
   children, a map of every building she covers; locked."
 renown: private
+backdrop: student-room
 ---
 
 # Serina's Room

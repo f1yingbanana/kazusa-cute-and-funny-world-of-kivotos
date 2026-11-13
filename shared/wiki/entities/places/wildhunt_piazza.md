@@ -12,6 +12,7 @@ summary:
   benches, the refectory, the academy store. Busy 12:00–13:30 and after class."
 renown: known
 community: wild_hunt_academy
+backdrop: wildhunt-campus-plaza
 ---
 
 # Wild Hunt Statue Piazza

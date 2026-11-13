@@ -10,6 +10,7 @@ summary:
   "Ground-floor room by the back stairs: glow-in-the-dark stars on the ceiling,
   a crate of flash grenades under the bed; always locked."
 renown: private
+backdrop: student-room
 ---
 
 # Suzumi's Room

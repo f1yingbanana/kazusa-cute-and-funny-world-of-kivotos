@@ -13,6 +13,7 @@ summary:
   sentries."
 renown: known
 community: red_winter_federal_academy
+backdrop: red-winter-campus
 ---
 
 # Red Winter Federal Academy Campus

@@ -10,6 +10,7 @@ summary:
   "Clinically neat room: pressed maid uniforms, a weapons-care kit, a tablet
   paused on a stream; locked."
 renown: private
+backdrop: student-room
 ---
 
 # Toki's Room

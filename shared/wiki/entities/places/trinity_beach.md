@@ -11,6 +11,7 @@ summary:
   "Long white beach, once the Tea Party's private beach and now open to all
   students; lifeguards 09:00–18:00 in summer, empty and windy in winter."
 renown: known
+backdrop: private-beach
 ---
 
 # Tea Party Beach

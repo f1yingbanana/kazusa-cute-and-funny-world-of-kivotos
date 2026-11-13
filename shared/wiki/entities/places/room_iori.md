@@ -11,6 +11,7 @@ summary:
   she's out, which is most evenings."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Iori's Room

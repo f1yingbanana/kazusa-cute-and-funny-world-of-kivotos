@@ -11,6 +11,7 @@ summary:
   hooks, a coin jar labelled for the debt, and a proper bathtub. Locked; she
   checks twice."
 renown: private
+backdrop: student-room
 ---
 
 # Serika's Room

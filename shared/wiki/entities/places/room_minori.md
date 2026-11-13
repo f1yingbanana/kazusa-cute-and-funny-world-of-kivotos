@@ -11,6 +11,7 @@ summary:
   the bed, a binder of union minutes; locked when out, lights out 22:30."
 renown: private
 community: red_winter_public_works
+backdrop: student-room
 ---
 
 # Minori's Room

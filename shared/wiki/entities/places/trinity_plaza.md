@@ -12,6 +12,7 @@ summary:
   hall; packed 08:15–08:30, 12:00–12:20 and 15:30, nearly empty after dark."
 renown: known
 community: trinity_general_school
+backdrop: trinity-campus-plaza
 ---
 
 # Trinity Square

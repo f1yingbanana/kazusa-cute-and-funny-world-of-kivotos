@@ -11,6 +11,7 @@ summary:
   07:00–20:00, packed 12:00–13:00, the bread counter sells out by 12:20."
 renown: known
 community: millennium_science_school
+backdrop: school-cafeteria
 ---
 
 # Millennium Central Cafeteria

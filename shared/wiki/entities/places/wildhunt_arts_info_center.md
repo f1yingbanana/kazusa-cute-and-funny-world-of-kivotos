@@ -11,6 +11,7 @@ summary:
   portfolios, with an information desk; 08:00–21:00, quiet, busy before exams."
 renown: known
 community: wild_hunt_academy
+backdrop: wildhunt-library
 ---
 
 # Wild Hunt Arts Information Center

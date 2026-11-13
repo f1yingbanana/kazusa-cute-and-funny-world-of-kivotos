@@ -22,6 +22,7 @@ connections:
     ways:
       - { by: walk, minutes: 5 }
     note: "The tour route to the plaza."
+backdrop: hyakkiyako-movie-street
 ---
 
 # Movie Village

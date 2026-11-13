@@ -10,6 +10,7 @@ summary:
   "Cheerfully messy room: maid uniforms on a drying rack, a bowl of lucky
   trinkets, a dartboard full of holes; often left unlocked."
 renown: private
+backdrop: student-room
 ---
 
 # Asuna's Room

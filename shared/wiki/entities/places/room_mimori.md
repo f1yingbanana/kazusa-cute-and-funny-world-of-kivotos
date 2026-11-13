@@ -10,6 +10,7 @@ summary:
   "Spotless tatami room: embroidery hoop, a prized apron on its hook, a shelf of
   shojo manga behind a curtain; locked, always neat."
 renown: private
+backdrop: tatami-room
 ---
 
 # Mimori's Room

@@ -11,6 +11,7 @@ summary:
   polish; door open when friends are over, which is often."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Kirara's Room

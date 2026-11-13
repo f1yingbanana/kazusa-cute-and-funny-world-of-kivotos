@@ -10,6 +10,7 @@ summary:
   "Cramped room: an editing desk with camcorder and ring light, ninja figure
   shelves; locked, light on late while she edits videos."
 renown: private
+backdrop: tatami-room
 ---
 
 # Michiru's Room

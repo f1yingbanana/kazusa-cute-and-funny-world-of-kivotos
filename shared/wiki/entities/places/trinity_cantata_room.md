@@ -12,6 +12,7 @@ summary:
   piano; booked by sign-up sheet on the door, bands and idol units rehearse
   16:00–20:00."
 renown: local
+backdrop: trinity-clubroom
 ---
 
 # Cantata Room

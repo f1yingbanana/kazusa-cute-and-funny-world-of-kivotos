@@ -12,6 +12,7 @@ summary:
   batting."
 renown: local
 community: millennium_science_school
+backdrop: baseball-park
 ---
 
 # Millennium Baseball Grounds

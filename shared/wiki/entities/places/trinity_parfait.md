@@ -11,6 +11,7 @@ summary:
   "24-hour parfait parlour: tall glass sundaes, quiet booths; students by day,
   night owls, insomniacs and patrols after midnight."
 renown: local
+backdrop: dessert-cafe
 ---
 
 # Étoile Parfait Parlour

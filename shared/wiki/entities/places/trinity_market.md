@@ -10,6 +10,7 @@ summary:
   "Covered market hall off Trinity Street: produce, tea-leaf merchants, flowers
   and seeds, cheap food stalls; open 07:00–18:00, busiest on weekend mornings."
 renown: known
+backdrop: trinity-market
 ---
 
 # Trinity Market

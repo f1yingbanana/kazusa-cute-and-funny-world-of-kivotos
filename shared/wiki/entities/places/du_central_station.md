@@ -59,6 +59,7 @@ connections:
     ways:
       - { by: subway, minutes: 8 }
     note: "Metro Shiratori Line. Times include the average wait."
+backdrop: train-station
 ---
 
 # D.U. Central Station

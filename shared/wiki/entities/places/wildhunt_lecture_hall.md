@@ -11,6 +11,7 @@ summary:
   mornings 09:00–12:00. The back rows are for sleeping."
 renown: local
 community: wild_hunt_academy
+backdrop: wildhunt-classroom
 ---
 
 # Wild Hunt Grand Lecture Hall

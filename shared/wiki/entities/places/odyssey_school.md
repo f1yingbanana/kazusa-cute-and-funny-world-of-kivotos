@@ -12,6 +12,7 @@ summary:
   visitors sign in at the terminal office."
 renown: known
 community: odyssey_school
+backdrop: odyssey-wharf
 ---
 
 # Odyssey Fleet Berth, Port Terminal 3

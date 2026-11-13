@@ -11,6 +11,7 @@ summary:
   signed; open grounds, its crypt leads to the catacombs."
 renown: known
 community: trinity_general_school
+backdrop: cathedral-ruins
 ---
 
 # Old Cathedral of Communion

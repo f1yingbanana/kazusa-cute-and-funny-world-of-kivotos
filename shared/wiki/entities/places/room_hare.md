@@ -10,6 +10,7 @@ summary:
   "Night owl's room: a fridge packed with energy drinks, a gaming rig, a
   half-built drone, blackout curtains; locked, no visitors before noon."
 renown: private
+backdrop: student-room
 ---
 
 # Hare's Room

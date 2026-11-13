@@ -11,6 +11,7 @@ summary:
   inflatable pool in summer; drills 06:00–07:00, quiet afternoons."
 renown: local
 community: hyakkaryouran_resolution_council
+backdrop: hyakkaryouran-garden
 ---
 
 # Hyakkaryouran Courtyard Garden

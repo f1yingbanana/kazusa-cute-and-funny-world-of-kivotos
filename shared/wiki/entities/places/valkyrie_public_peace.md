@@ -13,6 +13,7 @@ summary:
   escort."
 renown: known
 community: valkyrie_police_academy
+backdrop: valkyrie-office-desks
 ---
 
 # Valkyrie Public Peace Bureau

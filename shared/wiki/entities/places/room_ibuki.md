@@ -11,6 +11,7 @@ summary:
   locked at night, a pudding nightlight on."
 renown: private
 community: pandemonium_society
+backdrop: student-room
 ---
 
 # Ibuki's Room

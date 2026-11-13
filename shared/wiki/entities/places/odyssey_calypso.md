@@ -11,6 +11,7 @@ summary:
   "An old accommodation ship of the flotilla, cabins on three decks; gangway
   watch at night, lights out 22:30, deck roll call 06:30."
 renown: local
+backdrop: odyssey-patrol-vessel
 ---
 
 # Berthing Ship Calypso

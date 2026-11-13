@@ -11,6 +11,7 @@ summary:
   nightlight and a bug zapper always on."
 renown: private
 community: pandemonium_society
+backdrop: student-room
 ---
 
 # Satsuki's Room

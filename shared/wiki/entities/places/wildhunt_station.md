@@ -13,6 +13,7 @@ connections:
     ways:
       - { by: walk, minutes: 8 }
     note: "Along the canal to town."
+backdrop: train-station
 ---
 
 # Wild Hunt Station

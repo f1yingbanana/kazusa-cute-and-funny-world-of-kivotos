@@ -12,6 +12,7 @@ summary:
   evenings."
 renown: known
 community: abydos_high_school
+backdrop: ramen-ya
 ---
 
 # Shiba Seki Ramen

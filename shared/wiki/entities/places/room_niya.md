@@ -10,6 +10,7 @@ summary:
   "Corner room: a kotatsu, a go board mid-game, piles of unsigned paperwork;
   never locked, often empty when someone comes looking."
 renown: private
+backdrop: tatami-room
 ---
 
 # Niya's Room

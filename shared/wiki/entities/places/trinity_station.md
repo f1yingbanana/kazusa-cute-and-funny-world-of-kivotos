@@ -17,6 +17,7 @@ connections:
     ways:
       - { by: train, minutes: 16 }
     note: "Southern Line across the border. Times include the average wait."
+backdrop: train-station
 ---
 
 # Trinity Station

@@ -10,6 +10,7 @@ summary:
   "Karaoke box with thirty rooms; 11:00–05:00, student discount before 18:00,
   full on Friday nights."
 renown: local
+backdrop: karaoke
 ---
 
 # Karaoke Hertz

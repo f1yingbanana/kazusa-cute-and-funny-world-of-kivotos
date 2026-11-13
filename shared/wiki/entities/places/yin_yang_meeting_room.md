@@ -12,6 +12,7 @@ summary:
   late."
 renown: local
 community: yin_yang_club
+backdrop: hyakkiyako-meeting-room
 ---
 
 # Yin-Yang Club Meeting Room

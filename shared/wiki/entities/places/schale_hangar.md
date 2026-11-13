@@ -10,6 +10,7 @@ entry_minutes: 3
 summary:
   "Vehicle hangar and rooftop heliport for SCHALE's cars, tanks and helicopters;
   staff and invited students only."
+backdrop: hangar
 ---
 
 # SCHALE Hangar

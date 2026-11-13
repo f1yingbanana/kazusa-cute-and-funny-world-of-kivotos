@@ -19,6 +19,7 @@ connections:
     ways:
       - { by: walk, minutes: 4 }
     note: "Up the lane from the river into the Residential Quarter."
+backdrop: trinity-waterside-street
 ---
 
 # Trinity Riverside Path

@@ -10,6 +10,7 @@ summary:
   "East Wing room: elegant and tidy, a swimsuit hung like a trophy,
   perfect-score exam papers used as coasters; usually left unlocked, on purpose."
 renown: private
+backdrop: student-room
 ---
 
 # Hanako's Room

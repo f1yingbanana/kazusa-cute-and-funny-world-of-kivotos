@@ -17,6 +17,7 @@ connections:
     note:
       "The desert bus from the station forecourt, four a day; riders plan around
       it."
+backdrop: black-market
 ---
 
 # Black Market District

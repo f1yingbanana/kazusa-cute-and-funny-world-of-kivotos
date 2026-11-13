@@ -11,6 +11,7 @@ summary:
   disciplinary floor; lobby 07:00–21:00, upper floors by ID only."
 renown: famous
 community: seminar
+backdrop: millennium-center
 ---
 
 # Millennium Tower

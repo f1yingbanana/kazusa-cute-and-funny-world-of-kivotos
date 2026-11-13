@@ -8,6 +8,7 @@ parent: schale_residence
 entry_minutes: 1
 summary:
   "Dining hall with practice kitchens anyone may cook in; open 07:00–21:00."
+backdrop: schale-cafeteria
 ---
 
 # SCHALE Cafeteria

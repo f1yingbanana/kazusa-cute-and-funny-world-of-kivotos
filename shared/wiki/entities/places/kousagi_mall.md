@@ -9,6 +9,7 @@ entry_minutes: 2
 summary:
   "A small mall on the station's south side: boutiques, a hardware shop, a
   bookshop, a karaoke box and a food court; open 10:00–21:00."
+backdrop: shopping-mall
 ---
 
 # Kousagi Station Mall

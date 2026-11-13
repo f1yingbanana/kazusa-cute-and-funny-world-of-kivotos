@@ -11,6 +11,7 @@ summary:
   "Family restaurant with a drink bar and a monthly challenge menu; 07:00–02:00,
   students camp at booths with homework after 21:00."
 renown: local
+backdrop: family-restaurant
 ---
 
 # Galileo Family Restaurant

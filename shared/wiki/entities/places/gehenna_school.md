@@ -13,6 +13,7 @@ summary:
   packed at 08:30 and 15:50."
 renown: famous
 community: gehenna_academy
+backdrop: gehenna-campus
 ---
 
 # Gehenna Academy Campus

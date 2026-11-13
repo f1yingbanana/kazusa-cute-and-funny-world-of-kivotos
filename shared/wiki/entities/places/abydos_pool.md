@@ -11,6 +11,7 @@ summary:
   "The outdoor pool, dry and cracked, sand in the deep end; shade by the
   changing huts is cool at midday. Always open, always empty."
 renown: local
+backdrop: empty-swimming-pool
 ---
 
 # Abydos School Pool

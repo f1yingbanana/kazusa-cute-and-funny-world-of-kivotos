@@ -11,6 +11,7 @@ summary:
 renown: famous
 community: hyakkiyako_alliance_academy
 map: { x: 0.3, y: 0.3 }
+backdrop: hyakkiyako-square-street
 ---
 
 # Hyakkiyako District

@@ -8,6 +8,7 @@ parent: schale_night_duty_corridor
 entry_minutes: 1
 summary:
   "A bunk, a desk and the night phone for the student on night duty; unlocked."
+backdrop: schale-overnight-room
 ---
 
 # SCHALE Night-Duty Room

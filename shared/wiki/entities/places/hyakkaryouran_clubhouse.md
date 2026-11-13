@@ -12,6 +12,7 @@ summary:
   hall, courtyard training yard, storehouse; lights often on past midnight."
 renown: known
 community: hyakkaryouran_resolution_council
+backdrop: hyakkaryouran-tatami-room
 ---
 
 # Hyakkaryouran Clubhouse

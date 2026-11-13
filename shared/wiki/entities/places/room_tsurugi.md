@@ -10,6 +10,7 @@ summary:
   "West Wing room: surprisingly neat, romance novels shelved by author, movie
   ticket stubs, a locked treasure chest; locked."
 renown: private
+backdrop: student-room
 ---
 
 # Tsurugi's Room

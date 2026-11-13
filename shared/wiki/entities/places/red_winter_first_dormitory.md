@@ -21,6 +21,7 @@ connections:
     ways:
       - { by: walk, minutes: 5 }
     note: "Down the block to the shops."
+backdrop: fireplace-lounge-hearth-view
 ---
 
 # First Shared Dormitory

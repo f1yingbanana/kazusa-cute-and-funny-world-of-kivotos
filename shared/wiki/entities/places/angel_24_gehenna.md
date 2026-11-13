@@ -11,6 +11,7 @@ summary:
   "24-hour convenience store opposite the main gate: bento, coffee, ammo; packed
   08:00–08:30, night-shift medics and patrol officers after midnight."
 renown: local
+backdrop: convenience
 ---
 
 # Angel 24, Gehenna Main Gate Branch

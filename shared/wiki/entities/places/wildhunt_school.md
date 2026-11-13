@@ -13,6 +13,7 @@ summary:
   curfew 22:00."
 renown: known
 community: wild_hunt_academy
+backdrop: wildhunt-campus
 ---
 
 # Wild Hunt Academy Fortress

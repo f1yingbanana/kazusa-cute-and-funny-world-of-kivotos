@@ -12,6 +12,7 @@ summary:
   candy; 17:00–23:00 daily, all day on festival days, crowded after 19:00."
 renown: known
 community: hyakkiyako_alliance_academy
+backdrop: food-stall-street
 ---
 
 # Hyakkiyako Yatai Row

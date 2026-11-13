@@ -12,6 +12,7 @@ summary:
   classrooms, a kitchen, plum trees; 07:30–18:00, full of children."
 renown: known
 community: plum_blossom_garden
+backdrop: shanhaijing-plum-blossom-garden
 ---
 
 # Plum Blossom Garden Main Building

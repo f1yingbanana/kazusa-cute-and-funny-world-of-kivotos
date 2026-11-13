@@ -10,6 +10,7 @@ summary:
   "Three-floor shopping mall by the station: clothes, a cinema, karaoke, books,
   music and accessories; open 10:00–21:00; packed on weekends."
 renown: known
+backdrop: shopping-mall
 ---
 
 # Trinity Galleria

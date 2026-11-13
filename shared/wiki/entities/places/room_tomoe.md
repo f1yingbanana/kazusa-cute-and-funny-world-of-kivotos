@@ -11,6 +11,7 @@ summary:
   megaphone and a lullaby songbook; locked, empty until late most nights."
 renown: private
 community: red_winter_federal_academy
+backdrop: student-room
 ---
 
 # Tomoe's Room

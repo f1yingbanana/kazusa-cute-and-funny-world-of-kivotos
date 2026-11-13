@@ -10,6 +10,7 @@ summary:
   "The host's suite: a wall of labelled tea-leaf tins, paperwork piled under a
   silver tray, a window box of herbs; locked, a guard down the hall."
 renown: private
+backdrop: student-room
 ---
 
 # Nagisa's Room

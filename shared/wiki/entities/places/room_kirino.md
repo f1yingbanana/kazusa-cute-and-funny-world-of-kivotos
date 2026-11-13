@@ -10,6 +10,7 @@ summary:
   "Room 204: police posters, a pegboard of practice targets with stray holes,
   handcuffs on a hook; alarm set for 05:30, door locked."
 renown: private
+backdrop: valkyrie-student-room
 ---
 
 # Kirino's Room

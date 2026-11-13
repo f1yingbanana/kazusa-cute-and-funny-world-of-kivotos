@@ -11,6 +11,7 @@ summary:
   quiet in the mornings, emptying fast at the bell."
 renown: local
 community: millennium_science_school
+backdrop: classroom
 ---
 
 # Millennium Class 2-A

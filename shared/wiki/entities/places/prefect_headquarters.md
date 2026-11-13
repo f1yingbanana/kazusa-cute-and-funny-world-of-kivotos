@@ -12,6 +12,7 @@ summary:
   around the clock, officers on night shift, lights on past midnight."
 renown: known
 community: prefect_team
+backdrop: committee-room
 ---
 
 # Prefect Team Headquarters

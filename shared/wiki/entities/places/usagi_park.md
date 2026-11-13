@@ -11,6 +11,7 @@ summary:
   "A hilly public park where RABBIT Squad keeps its tent camp; paths open at all
   hours, the camp is theirs."
 community: srt_special_academy
+backdrop: park
 ---
 
 # Usagi Park

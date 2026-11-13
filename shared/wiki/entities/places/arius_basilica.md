@@ -11,6 +11,7 @@ summary:
   and cold air, patrolled at night. Few go near it willingly."
 renown: known
 community: arius_satellite_school
+backdrop: arius-basilica
 ---
 
 # Arius Basilica Ruins

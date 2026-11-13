@@ -13,6 +13,7 @@ connections:
     ways:
       - { by: walk, minutes: 5 }
     note: "To the entrance compounds."
+backdrop: train-station
 ---
 
 # Shanhaijing Station

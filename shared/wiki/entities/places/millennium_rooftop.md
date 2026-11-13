@@ -13,6 +13,7 @@ summary:
   stars."
 renown: local
 community: millennium_science_school
+backdrop: school-rooftop
 ---
 
 # Millennium Lecture Building Rooftop

@@ -10,6 +10,7 @@ summary:
   "Lacquered chamber in the VIP quarters: a smoking censer, a tea table, stacks
   of petitions; guards outside, door barred at night."
 renown: private
+backdrop: student-room
 ---
 
 # Kisaki's Room

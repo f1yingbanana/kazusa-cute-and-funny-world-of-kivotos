@@ -11,6 +11,7 @@ summary:
 renown: local
 community: arius_satellite_school
 map: { x: 0.27, y: 0.7 }
+backdrop: arius-street
 ---
 
 # Arius District

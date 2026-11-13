@@ -11,6 +11,7 @@ summary:
   pennant, books annotated in red; locked, hot plate hidden from the warden."
 renown: private
 community: red_winter_federal_academy
+backdrop: student-room
 ---
 
 # Takane's Room

@@ -11,6 +11,7 @@ summary:
   half the class is usually away on research or club work."
 renown: local
 community: millennium_science_school
+backdrop: classroom
 ---
 
 # Millennium Class 3-B

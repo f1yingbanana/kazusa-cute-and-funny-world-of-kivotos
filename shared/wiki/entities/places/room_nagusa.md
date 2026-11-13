@@ -10,6 +10,7 @@ summary:
   "Dim north-facing room, the coolest in the house: a meditation cushion,
   paperbacks, a fan and a cold-water jug; locked, quiet."
 renown: private
+backdrop: tatami-room
 ---
 
 # Nagusa's Room

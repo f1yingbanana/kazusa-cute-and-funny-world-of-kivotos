@@ -10,6 +10,7 @@ summary:
   "Tidy room next to the president's: shelves of Hyakkiyako mascot goods and
   festival posters, a PR whiteboard; locked when she's out."
 renown: private
+backdrop: tatami-room
 ---
 
 # Kaho's Room

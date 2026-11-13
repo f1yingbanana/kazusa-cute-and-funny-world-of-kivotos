@@ -10,6 +10,7 @@ summary:
   "Room 301: sparse, a corkboard of case strings, shelves of detective novels
   and films, a pressed spare uniform; locked, and she sleeps lightly."
 renown: private
+backdrop: valkyrie-student-room
 ---
 
 # Kanna Ogata's Room

@@ -10,6 +10,7 @@ summary:
   "Room off the courtyard: a wooden training dummy, kung fu film posters, a
   staff rack, a notebook of rival menus; locked."
 renown: private
+backdrop: student-room
 ---
 
 # Reijo's Room

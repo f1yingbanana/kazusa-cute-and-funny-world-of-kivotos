@@ -10,6 +10,7 @@ summary:
   "A small bedroom that often stands empty at night: a half-made bed, a desk of
   opened electronics, a pile of strangers' gifts; never locked."
 renown: private
+backdrop: student-room
 ---
 
 # Otogi's Room

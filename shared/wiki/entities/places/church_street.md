@@ -12,6 +12,7 @@ summary:
   mall and market; shops 10:00–20:00, some 24 hours; packed after 15:30 and
   weekends."
 renown: known
+backdrop: trinity-street
 ---
 
 # Trinity Street

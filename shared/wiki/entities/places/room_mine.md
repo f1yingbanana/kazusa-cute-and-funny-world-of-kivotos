@@ -10,6 +10,7 @@ summary:
   "Ground-floor room lined with glass cabinets of medicine bottles and retired
   equipment, a tea tray, a shield by the bed; locked, up before 05:00."
 renown: private
+backdrop: student-room
 ---
 
 # Mine's Room

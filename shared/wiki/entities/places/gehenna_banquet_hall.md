@@ -11,6 +11,7 @@ summary:
   for events only; otherwise locked, though the Prefect Team holds a key."
 renown: local
 community: pandemonium_society
+backdrop: gehenna-party-room
 ---
 
 # Gehenna Banquet Hall

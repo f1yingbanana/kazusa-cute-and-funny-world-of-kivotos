@@ -12,6 +12,7 @@ summary:
   07:00–08:15, lunch 11:50–13:30 (packed 12:10–12:50), dinner 17:30–19:30."
 renown: local
 community: trinity_general_school
+backdrop: school-cafeteria
 ---
 
 # Trinity Dining Hall

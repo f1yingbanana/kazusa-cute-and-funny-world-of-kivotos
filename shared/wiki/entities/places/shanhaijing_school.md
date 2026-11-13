@@ -12,6 +12,7 @@ summary:
   gardens; pass holders only, gates 06:00–23:00, guards at every arch."
 renown: known
 community: shanhaijing_senior_secondary_school
+backdrop: shanhaijing-campus
 ---
 
 # Shanhaijing Central Special Zone

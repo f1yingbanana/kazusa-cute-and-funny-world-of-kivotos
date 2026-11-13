@@ -13,6 +13,7 @@ summary:
   day."
 renown: known
 community: seminar
+backdrop: millennium-seminar-clubroom
 ---
 
 # Seminar Office

@@ -11,6 +11,7 @@ summary:
   night, armed lookouts, raids into town some evenings."
 renown: local
 community: helmet_gang
+backdrop: desert-camp
 ---
 
 # Kata-Kata Helmet Gang Camp

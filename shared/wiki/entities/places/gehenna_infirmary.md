@@ -12,6 +12,7 @@ summary:
   in and out."
 renown: local
 community: gehenna_academy
+backdrop: infirmary
 ---
 
 # Gehenna Academy Infirmary

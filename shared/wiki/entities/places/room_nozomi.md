@@ -10,6 +10,7 @@ summary:
   "A crew bedroom next to her sister's: glass cases of train and mascot merch, a
   speed-record chart, a bed she falls into dressed; usually unlocked."
 renown: private
+backdrop: student-room
 ---
 
 # Nozomi's Room

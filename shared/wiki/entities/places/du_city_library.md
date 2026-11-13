@@ -10,6 +10,7 @@ summary:
   "Kivotos's public library: quiet floors, study desks and archives; open
   09:00–20:00, closed Mondays; a card is needed to borrow."
 renown: known
+backdrop: library
 ---
 
 # D.U. City Library

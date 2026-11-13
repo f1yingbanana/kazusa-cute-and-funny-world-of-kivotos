@@ -13,6 +13,7 @@ summary:
   naps here at lunch."
 renown: local
 community: foreclosure_task_force
+backdrop: abydos-task-force-room
 ---
 
 # Abydos Foreclosure Task Force Room

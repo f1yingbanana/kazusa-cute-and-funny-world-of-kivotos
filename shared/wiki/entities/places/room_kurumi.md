@@ -11,6 +11,7 @@ summary:
   fruit milk, a cleaning caddy; locked with a keycard and a habit of checking
   twice."
 renown: private
+backdrop: student-room
 ---
 
 # Kurumi Takakura's Room

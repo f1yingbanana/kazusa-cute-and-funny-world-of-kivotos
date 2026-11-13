@@ -9,6 +9,7 @@ entry_minutes: 2
 summary:
   "A classroom and small chemistry lab where Sensei holds lessons for any
   student who asks; open when Sensei is in."
+backdrop: classroom
 ---
 
 # SCHALE Classroom

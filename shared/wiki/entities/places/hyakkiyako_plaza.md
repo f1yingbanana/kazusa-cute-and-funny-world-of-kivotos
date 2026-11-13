@@ -17,6 +17,7 @@ connections:
     ways:
       - { by: walk, minutes: 4 }
     note: "Under the lantern arch into the shops."
+backdrop: hyakkiyako-lantern-square
 ---
 
 # Hyakkiyako Central Plaza

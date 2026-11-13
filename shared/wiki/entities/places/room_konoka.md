@@ -10,6 +10,7 @@ summary:
   "Room 302: a massage chair takes up half of it, horoscope clippings on the
   mirror, charms on every handle; locked, key on a lucky-cat keyring."
 renown: private
+backdrop: valkyrie-student-room
 ---
 
 # Konoka's Room

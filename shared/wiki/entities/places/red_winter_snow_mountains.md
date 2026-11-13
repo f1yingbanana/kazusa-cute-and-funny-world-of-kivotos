@@ -13,6 +13,7 @@ summary:
   dark."
 renown: known
 community: red_winter_federal_academy
+backdrop: winter-field
 ---
 
 # Red Winter Snow Mountains

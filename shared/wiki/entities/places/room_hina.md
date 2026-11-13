@@ -11,6 +11,7 @@ summary:
   keyboard; locked and usually dark."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Hina's Room

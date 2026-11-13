@@ -10,6 +10,7 @@ summary:
   "The district's new ramen shop: garlic-heavy rich broth and a challenge bowl;
   open 11:00–23:00, queues at lunch and after 21:00."
 renown: local
+backdrop: ramen-ya
 ---
 
 # Menya Rengoku

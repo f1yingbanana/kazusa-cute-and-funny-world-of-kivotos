@@ -10,6 +10,7 @@ entry_minutes: 10
 summary:
   "A large, quiet park of lawns, ponds and wooded paths; rarely crowded, open at
   all hours."
+backdrop: park
 ---
 
 # Shiratori Neighborhood Park

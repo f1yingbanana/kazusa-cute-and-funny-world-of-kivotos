@@ -9,6 +9,7 @@ entry_minutes: 4
 summary:
   "The district's own bank: loans to anyone, at terrible rates; open 09:00–17:00
   behind armoured doors."
+backdrop: bank
 ---
 
 # Black Market Bank

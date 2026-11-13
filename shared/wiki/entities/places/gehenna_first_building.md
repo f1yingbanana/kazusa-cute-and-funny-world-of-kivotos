@@ -11,6 +11,7 @@ summary:
   periods, doors unlocked 07:00–19:00, the roof stairwell officially closed."
 renown: local
 community: gehenna_academy
+backdrop: gehenna-corridor
 ---
 
 # Gehenna First School Building

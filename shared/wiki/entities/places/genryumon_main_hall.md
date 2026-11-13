@@ -11,6 +11,7 @@ summary:
   09:00–17:00, officials working late on bad days."
 renown: known
 community: xuanlong_office
+backdrop: shanhaijing-president
 ---
 
 # Genryumon Main Hall

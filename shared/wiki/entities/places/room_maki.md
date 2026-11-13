@@ -10,6 +10,7 @@ summary:
   "Room with every wall painted in murals, spray cans lined up by colour, a
   console always on; unlocked."
 renown: private
+backdrop: student-room
 ---
 
 # Maki's Room

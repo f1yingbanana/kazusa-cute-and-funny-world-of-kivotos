@@ -12,6 +12,7 @@ summary:
   warmers, milk, ammo; the only lit shop on 3rd Street after 22:00."
 renown: local
 community: angel_24
+backdrop: convenience
 ---
 
 # Angel 24, Red Winter 3rd Street Branch

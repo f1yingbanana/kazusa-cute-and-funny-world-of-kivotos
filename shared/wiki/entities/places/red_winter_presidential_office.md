@@ -12,6 +12,7 @@ summary:
   lunch."
 renown: known
 community: red_winter_office
+backdrop: cherino-office
 ---
 
 # Red Winter Presidential Office

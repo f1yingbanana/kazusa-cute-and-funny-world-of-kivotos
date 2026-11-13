@@ -11,6 +11,7 @@ summary:
   unlocked, smells vary."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Izumi's Room

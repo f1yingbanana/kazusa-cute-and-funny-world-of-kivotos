@@ -12,6 +12,7 @@ summary:
   pursuers sharing it."
 renown: local
 community: gehenna_academy
+backdrop: gehenna-classroom
 ---
 
 # Gehenna Class 2-D

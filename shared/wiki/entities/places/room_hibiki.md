@@ -10,6 +10,7 @@ summary:
   "Room of a sewing machine beside a soldering station, dress forms in half-made
   costumes, a labeled drawer of spare buttons; locked."
 renown: private
+backdrop: student-room
 ---
 
 # Hibiki's Room

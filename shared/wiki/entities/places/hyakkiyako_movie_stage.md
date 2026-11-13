@@ -11,6 +11,7 @@ summary:
   seating, tourists and children crowd it at showtimes."
 renown: known
 community: hyakkiyako_alliance_academy
+backdrop: hyakkiyako-square-stage
 ---
 
 # Movie Village Open-Air Stage

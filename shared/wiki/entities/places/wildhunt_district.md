@@ -12,6 +12,7 @@ summary:
 renown: known
 community: wild_hunt_academy
 map: { x: 0.15, y: 0.55 }
+backdrop: wildhunt-street
 ---
 
 # Wild Hunt Integrated Arts District

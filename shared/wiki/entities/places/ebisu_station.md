@@ -13,6 +13,7 @@ connections:
     ways:
       - { by: walk, minutes: 5 }
     note: "Into the snow."
+backdrop: train-station
 ---
 
 # Ebisu Way Station

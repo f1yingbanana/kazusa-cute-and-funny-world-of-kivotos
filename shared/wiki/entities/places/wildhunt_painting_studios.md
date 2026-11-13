@@ -11,6 +11,7 @@ summary:
   classes 09:00–15:00, open to students until 21:00."
 renown: local
 community: wild_hunt_academy
+backdrop: atelier
 ---
 
 # Wild Hunt Painting Studios

@@ -11,6 +11,7 @@ summary:
   "Sunlit club room smelling of vanilla: long table, countertop oven, a fridge
   of milk cartons; busy after 15:30, locked with the annex at 20:00."
 community: after_school_sweets_club
+backdrop: trinity-clubroom
 ---
 
 # Sweets Club Room

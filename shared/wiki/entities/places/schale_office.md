@@ -11,6 +11,7 @@ summary:
   "Sensei's top-floor office in the SCHALE building; student duty 17:00–20:00
   weekdays, 10:00–15:00 Saturdays; locked at night unless Sensei works late."
 renown: known
+backdrop: main-office
 ---
 
 # SCHALE Office

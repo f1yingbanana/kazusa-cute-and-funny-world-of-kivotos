@@ -10,6 +10,7 @@ summary:
   "Small room at the end of the hall: a beetle terrarium, binders of Mushiqueen
   cards, hero-show posters; locked when she remembers."
 renown: private
+backdrop: tatami-room
 ---
 
 # Kaede's Room

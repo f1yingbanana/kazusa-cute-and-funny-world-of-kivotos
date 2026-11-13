@@ -11,6 +11,7 @@ summary:
   creative-writing classes, quiet study after 15:00."
 renown: local
 community: wild_hunt_academy
+backdrop: wildhunt-classroom
 ---
 
 # Wild Hunt Literature Seminar Room

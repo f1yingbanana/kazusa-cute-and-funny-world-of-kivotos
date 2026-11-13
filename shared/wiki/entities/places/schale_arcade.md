@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "A small room of retro arcade cabinets in the residence wing; free play, open
   until 23:00."
+backdrop: arcade
 ---
 
 # SCHALE Arcade

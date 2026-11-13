@@ -11,6 +11,7 @@ summary:
   showcases; open on event days 09:00–20:00, otherwise locked."
 renown: known
 community: millennium_science_school
+backdrop: millennium-expo
 ---
 
 # Millennium Exhibition Hall

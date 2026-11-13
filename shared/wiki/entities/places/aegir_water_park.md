@@ -10,6 +10,7 @@ summary:
   "The largest water park in Kivotos; outdoor pools open June–September, indoor
   wave pool weekends only off-season, 09:00–18:00."
 renown: known
+backdrop: water-park-outside
 ---
 
 # Aegir Water Park

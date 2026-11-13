@@ -11,6 +11,7 @@ summary:
   guards on the gate around the clock, visitors announced."
 renown: local
 community: xuanlong_office
+backdrop: shanhaijing-vip-room
 ---
 
 # Old Palace VIP Quarters

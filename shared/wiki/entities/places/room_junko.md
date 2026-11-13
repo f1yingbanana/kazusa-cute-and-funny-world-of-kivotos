@@ -11,6 +11,7 @@ summary:
   cup ramen for broke weeks."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Junko's Room

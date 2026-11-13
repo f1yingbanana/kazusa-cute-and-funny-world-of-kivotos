@@ -19,6 +19,7 @@ connections:
     ways:
       - { by: walk, minutes: 7 }
     note: "Up Zone 32 past the pawnshops to the station."
+backdrop: building-back-street
 ---
 
 # Gehenna Zone 32 Backstreets

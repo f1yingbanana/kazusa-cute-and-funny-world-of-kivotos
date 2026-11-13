@@ -12,6 +12,7 @@ summary:
   recliner, a thermostat fought over daily; members only, quiet before noon."
 renown: local
 community: paranormal_affairs_department
+backdrop: occult-room
 ---
 
 # Super Phenomenon Task Force Room

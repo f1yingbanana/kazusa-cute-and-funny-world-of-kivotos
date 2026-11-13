@@ -12,6 +12,7 @@ summary:
   open 10:00–17:00 in theory; visitors sign the log and keep their voices down."
 renown: local
 community: trinity_library_committee
+backdrop: trinity-old-library
 ---
 
 # Old Library

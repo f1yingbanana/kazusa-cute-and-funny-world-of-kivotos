@@ -1,0 +1,6 @@
+{
+  "states": {
+    "alert": "Red alert lights on",
+    "dark": "Lights off"
+  }
+}

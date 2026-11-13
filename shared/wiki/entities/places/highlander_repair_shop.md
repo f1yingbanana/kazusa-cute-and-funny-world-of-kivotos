@@ -12,6 +12,7 @@ summary:
   07:00–19:00, on-call at night, noisy and smelling of grease."
 renown: local
 community: highlander_freight_logistics
+backdrop: train-hangar
 ---
 
 # Highlander Repair Shop

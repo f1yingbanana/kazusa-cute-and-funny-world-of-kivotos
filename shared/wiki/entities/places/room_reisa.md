@@ -10,6 +10,7 @@ summary:
   "Second-floor room two doors from a certain rival's: magical-girl posters, a
   duel whiteboard on the door; locked, though the key gets left inside weekly."
 renown: private
+backdrop: student-room
 ---
 
 # Reisa's Room

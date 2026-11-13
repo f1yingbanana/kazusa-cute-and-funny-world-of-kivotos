@@ -10,6 +10,7 @@ summary:
   "Five floors of boutiques, a specialist tool shop, a supplement store, a
   swimsuit shop and a food court; 10:00–21:00, packed on weekends."
 renown: local
+backdrop: shopping-mall
 ---
 
 # Prism Mall

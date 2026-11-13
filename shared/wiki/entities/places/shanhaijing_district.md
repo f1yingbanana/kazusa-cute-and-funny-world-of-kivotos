@@ -11,6 +11,7 @@ summary:
 renown: famous
 community: shanhaijing_senior_secondary_school
 map: { x: 0.17, y: 0.36 }
+backdrop: shanhaijing-street
 ---
 
 # Shanhaijing District

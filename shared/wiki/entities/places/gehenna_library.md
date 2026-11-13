@@ -12,6 +12,7 @@ summary:
   enforced by a fierce librarian club, nearly empty before exams."
 renown: local
 community: gehenna_academy
+backdrop: library
 ---
 
 # Gehenna Academy Library

@@ -8,6 +8,7 @@ parent: schale_training_wing
 entry_minutes: 1
 summary:
   "A full gym with spectator seating on SCHALE's lower floor; open 06:00–22:00."
+backdrop: gym
 ---
 
 # SCHALE Gym

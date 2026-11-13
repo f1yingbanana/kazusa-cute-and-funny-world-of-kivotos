@@ -11,6 +11,7 @@ summary:
   by the door, glow-in-the-dark fish on the ceiling. She locks it and keeps
   losing the key."
 renown: private
+backdrop: student-room
 ---
 
 # Hoshino's Room

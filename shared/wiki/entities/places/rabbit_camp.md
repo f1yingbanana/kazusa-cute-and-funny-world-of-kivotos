@@ -28,6 +28,7 @@ connections:
     note:
       "A footpath from the camp's east side into the trees and up onto the hill
       trail."
+backdrop: srt-camp-site
 ---
 
 # RABBIT Camp

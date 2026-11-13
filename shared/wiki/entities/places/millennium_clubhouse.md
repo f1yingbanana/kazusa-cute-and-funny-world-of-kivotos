@@ -11,6 +11,7 @@ summary:
   registered members tap in by ID; some clubs never seem to leave."
 renown: known
 community: millennium_science_school
+backdrop: millennium-club
 ---
 
 # Millennium Clubhouse

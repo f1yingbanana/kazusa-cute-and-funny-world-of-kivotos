@@ -13,6 +13,7 @@ summary:
   desk."
 renown: local
 community: abydos_high_school
+backdrop: library
 ---
 
 # Abydos School Library

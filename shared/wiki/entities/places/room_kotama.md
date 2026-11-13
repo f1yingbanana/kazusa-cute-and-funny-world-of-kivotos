@@ -10,6 +10,7 @@ summary:
   "Dim room of radio receivers, antennas and headphones, a giant teddy bear,
   shelves of labeled recordings; locked and soundproofed."
 renown: private
+backdrop: student-room
 ---
 
 # Kotama's Room

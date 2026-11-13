@@ -11,6 +11,7 @@ summary:
   and drafted helpers only, chronically short of hands."
 renown: local
 community: school_lunch_club
+backdrop: kitchen
 ---
 
 # Gehenna Dining Hall Kitchen

@@ -11,6 +11,7 @@ summary:
   experiments and commissions on weekdays, smells of solvent, door propped open
   for air."
 community: red_winter_special_class_183
+backdrop: red-winter-183-lab
 ---
 
 # No. 183 Laboratory

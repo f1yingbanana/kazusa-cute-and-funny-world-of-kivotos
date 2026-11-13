@@ -12,6 +12,7 @@ summary:
   ten-thousand-year ginseng; ranger hut, closed after dusk."
 renown: known
 community: shanhaijing_senior_secondary_school
+backdrop: shanhaijing-mountain
 ---
 
 # Kunlun Mountain Trailhead

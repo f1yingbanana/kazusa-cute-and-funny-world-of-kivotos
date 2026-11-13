@@ -10,6 +10,7 @@ entry_minutes: 1
 summary:
   "24-hour convenience store on the station corner: bento, milk, ammo;
   near-expiry bento discounted after 22:00."
+backdrop: convenience
 ---
 
 # Angel 24, Kousagi Station Branch

@@ -11,6 +11,7 @@ summary:
   Helmet Gang festival stalls and fireworks in summer, empty and unpatrolled the
   rest of the year."
 renown: local
+backdrop: beachside
 ---
 
 # Outlaw Beach

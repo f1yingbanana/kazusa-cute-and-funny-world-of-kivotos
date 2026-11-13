@@ -11,6 +11,7 @@ summary:
   sky; locked when she wants time alone."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Erika Hatami's Room

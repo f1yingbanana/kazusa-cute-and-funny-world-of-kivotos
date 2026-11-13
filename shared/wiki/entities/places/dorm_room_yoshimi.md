@@ -11,6 +11,7 @@ summary:
   "Top-floor room: a handheld console charging, dessert rankings pinned to the
   wall; she often forgets to lock it."
 renown: private
+backdrop: student-room
 ---
 
 # Yoshimi's Room

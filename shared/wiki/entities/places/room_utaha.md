@@ -10,6 +10,7 @@ summary:
   "Workbench with a bed beside it: a pegboard of premium tools, a robot charging
   dock, a lab coat on a hook; locked; often empty overnight."
 renown: private
+backdrop: student-room
 ---
 
 # Utaha's Room

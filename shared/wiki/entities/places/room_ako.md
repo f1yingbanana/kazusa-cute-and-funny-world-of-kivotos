@@ -11,6 +11,7 @@ summary:
   lights on early and late."
 renown: private
 community: gehenna_academy
+backdrop: student-room
 ---
 
 # Ako Amau's Room

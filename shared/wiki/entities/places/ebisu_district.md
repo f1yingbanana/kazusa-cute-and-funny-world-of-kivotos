@@ -10,6 +10,7 @@ summary:
   quiet, hourly tunnel trains from town; the Great Snowfield beyond."
 community: hyakkiyako_alliance_academy
 map: { x: 0.28, y: 0.12 }
+backdrop: hyakkiyako-north-town-street
 ---
 
 # Hyakkiyako North District

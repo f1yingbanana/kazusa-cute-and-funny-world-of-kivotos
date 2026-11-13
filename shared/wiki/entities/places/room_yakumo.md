@@ -11,6 +11,7 @@ summary:
   boxes washed and shelved; proposal binders; locked."
 renown: private
 community: red_winter_federal_academy
+backdrop: student-room
 ---
 
 # Yakumo's Room

@@ -12,6 +12,7 @@ connections:
     ways:
       - { by: walk, minutes: 3 }
     note: "Through the port gates."
+backdrop: train-station
 ---
 
 # Kanesaki Port Station

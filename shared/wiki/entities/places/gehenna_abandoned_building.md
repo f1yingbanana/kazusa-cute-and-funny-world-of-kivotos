@@ -11,6 +11,7 @@ summary:
   empty classrooms; officially off-limits, unofficially used at all hours."
 renown: local
 community: gehenna_academy
+backdrop: ruined-school-corridor
 ---
 
 # Gehenna Abandoned School Building
