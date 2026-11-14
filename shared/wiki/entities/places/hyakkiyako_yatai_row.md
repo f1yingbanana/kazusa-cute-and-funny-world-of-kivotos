@@ -13,6 +13,7 @@ summary:
 renown: known
 community: hyakkiyako_alliance_academy
 backdrop: food-stall-street
+map: { x: 0.8901, y: 0.9262 }
 ---
 
 # Hyakkiyako Yatai Row

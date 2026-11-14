@@ -10,6 +10,7 @@ summary:
   "Basement hall of filing cabinets and a clattering card reader holding every
   student record; open 09:00–16:00 on weekdays, nearly empty, cold."
 community: red_winter_office
+map: { x: 1.4731, y: 0.2923 }
 ---
 
 # Red Winter Punch Card Registry

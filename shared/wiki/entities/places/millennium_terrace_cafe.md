@@ -12,6 +12,7 @@ summary:
   08:00–20:00, laptops on every table, terrace seats taken by noon."
 renown: local
 community: millennium_science_school
+map: { x: 2.6573, y: 1.6902 }
 ---
 
 # Café Theorem

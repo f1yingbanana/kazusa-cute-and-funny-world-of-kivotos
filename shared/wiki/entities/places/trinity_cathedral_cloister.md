@@ -11,6 +11,7 @@ summary:
   21:00–05:30, bells at 05:30; Sisters only beyond the gate."
 renown: local
 community: sisterhood
+map: { x: 0.9676, y: 2.4153 }
 ---
 
 # Trinity Cathedral Cloister

@@ -12,6 +12,7 @@ summary:
   and Valkyrie's dorms; front desk staffed day and night."
 community: valkyrie_police_academy
 backdrop: valkyrie-yard
+map: { x: 1.8721, y: 1.4625 }
 ---
 
 # Valkyrie Police School, Shiratori Branch

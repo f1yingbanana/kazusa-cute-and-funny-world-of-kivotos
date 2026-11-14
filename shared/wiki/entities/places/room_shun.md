@@ -11,6 +11,7 @@ summary:
   stamp card; locked, a teddy on the pillow."
 renown: private
 backdrop: student-room
+map: { x: 0.1936, y: 1.2738 }
 ---
 
 # Shun's Room

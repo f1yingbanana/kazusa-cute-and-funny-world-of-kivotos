@@ -12,6 +12,7 @@ summary:
   wall; she often forgets to lock it."
 renown: private
 backdrop: student-room
+map: { x: 0.8045, y: 2.3232 }
 ---
 
 # Yoshimi's Room

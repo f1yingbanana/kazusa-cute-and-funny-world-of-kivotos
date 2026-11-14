@@ -12,6 +12,7 @@ summary:
 renown: private
 community: gehenna_academy
 backdrop: student-room
+map: { x: 1.47, y: 2.5796 }
 ---
 
 # Iroha's Room

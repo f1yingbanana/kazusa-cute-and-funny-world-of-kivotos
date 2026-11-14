@@ -12,6 +12,7 @@ summary:
 renown: local
 community: gehenna_academy
 backdrop: gehenna-clubroom
+map: { x: 1.4941, y: 2.7966 }
 ---
 
 # Gehenna Clubroom Main Building

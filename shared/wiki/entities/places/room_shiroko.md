@@ -11,6 +11,7 @@ summary:
   doorway, a whiteboard of planning maps. Locked; a spare key hangs next door."
 renown: private
 backdrop: student-room
+map: { x: 2.6497, y: 2.7058 }
 ---
 
 # Shiroko's Room

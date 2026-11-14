@@ -12,6 +12,7 @@ summary:
 renown: private
 community: red_winter_federal_academy
 backdrop: student-room
+map: { x: 1.3797, y: 0.3331 }
 ---
 
 # Yakumo's Room

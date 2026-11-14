@@ -11,6 +11,7 @@ summary:
   clock, visits only with council permission."
 renown: known
 community: xuanlong_office
+map: { x: 0.2127, y: 1.2113 }
 ---
 
 # Shanhaijing School Prison

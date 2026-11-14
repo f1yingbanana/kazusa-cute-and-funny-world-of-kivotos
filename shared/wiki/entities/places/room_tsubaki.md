@@ -11,6 +11,7 @@ summary:
   sleeps through knocking."
 renown: private
 backdrop: tatami-room
+map: { x: 0.7657, y: 0.6941 }
 ---
 
 # Tsubaki's Room

@@ -11,6 +11,7 @@ summary:
   few food carts; joggers at dawn, dark and empty after 23:00."
 renown: local
 backdrop: riverside-road
+map: { x: 2.8558, y: 1.7046 }
 ---
 
 # Millennium Riverside Road

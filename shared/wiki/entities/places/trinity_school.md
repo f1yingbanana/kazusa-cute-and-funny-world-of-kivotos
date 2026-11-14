@@ -13,6 +13,7 @@ summary:
 renown: famous
 community: trinity_general_school
 backdrop: trinity-campus
+map: { x: 0.8765, y: 2.583 }
 ---
 
 # Trinity General School Campus

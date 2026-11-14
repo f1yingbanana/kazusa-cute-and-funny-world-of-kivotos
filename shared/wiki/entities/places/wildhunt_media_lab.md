@@ -11,6 +11,7 @@ summary:
   09:00–21:00, equipment signed out at the desk."
 renown: local
 community: wild_hunt_academy
+map: { x: 0.6232, y: 1.6674 }
 ---
 
 # Wild Hunt Media Arts Lab

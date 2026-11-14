@@ -17,6 +17,7 @@ connections:
     ways:
       - { by: walk, minutes: 5 }
     note: "Across the forecourt to the platform."
+map: { x: 2.6331, y: 2.6665 }
 ---
 
 # Abydos Suburban Town

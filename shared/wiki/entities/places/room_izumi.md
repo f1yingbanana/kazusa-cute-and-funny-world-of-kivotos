@@ -12,6 +12,7 @@ summary:
 renown: private
 community: gehenna_academy
 backdrop: student-room
+map: { x: 1.4906, y: 2.5927 }
 ---
 
 # Izumi's Room

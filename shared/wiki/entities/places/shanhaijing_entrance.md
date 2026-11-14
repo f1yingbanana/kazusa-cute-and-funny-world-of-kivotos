@@ -18,6 +18,7 @@ connections:
     ways:
       - { by: walk, minutes: 3 }
     note: "Out through the red arch to the station."
+map: { x: 0.3956, y: 1.1822 }
 ---
 
 # Shanhaijing Entrance Compounds

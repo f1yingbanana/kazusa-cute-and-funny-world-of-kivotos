@@ -11,6 +11,7 @@ summary:
   cooking from 04:00 to 01:00, the smoke alarm goes off weekly."
 renown: local
 community: gehenna_academy
+map: { x: 1.4843, y: 2.5494 }
 ---
 
 # Dormitory No. 13 Third-Floor Kitchen

@@ -12,6 +12,7 @@ summary:
 renown: local
 community: gehenna_academy
 backdrop: gehenna-corridor
+map: { x: 1.5353, y: 2.8474 }
 ---
 
 # Gehenna Second School Building

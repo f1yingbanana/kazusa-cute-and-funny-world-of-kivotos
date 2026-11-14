@@ -10,7 +10,7 @@ summary:
   Mountain; outsiders only in the restaurant-lined entrance compounds."
 renown: famous
 community: shanhaijing_senior_secondary_school
-map: { x: 0.17, y: 0.36 }
+map: { x: 0.3, y: 1.2 }
 backdrop: shanhaijing-street
 ---
 

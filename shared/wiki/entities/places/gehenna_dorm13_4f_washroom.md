@@ -11,6 +11,7 @@ summary:
   place to talk after 23:00."
 renown: local
 community: gehenna_academy
+map: { x: 1.4588, y: 2.5827 }
 ---
 
 # Dormitory No. 13 Fourth-Floor Washroom

@@ -7,7 +7,7 @@ name: "Shiratori Station"
 summary:
   "Metro station under Tri-Square: the Shiratori Line to D.U. Central and
   Kanesaki Port, the outer arc to Kousagi; 05:30–00:30."
-map: { x: 0.53, y: 0.52 }
+map: { x: 1.58, y: 1.98 }
 connections:
   - to: tri_square
     ways:

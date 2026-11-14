@@ -12,6 +12,7 @@ summary:
   floor, dumplings, a test kitchen; 11:00–22:00, queues at 12:00 and 18:00."
 renown: famous
 community: xuanwu_merchant_association
+map: { x: 0.4453, y: 1.1722 }
 ---
 
 # Black Tortoise Main Restaurant

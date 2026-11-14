@@ -11,6 +11,7 @@ summary:
   hall in the repaired wing. Unlocked 07:00–21:00, the rest sealed off."
 renown: local
 community: arius_satellite_school
+map: { x: 0.4872, y: 2.797 }
 ---
 
 # Arius Branch Schoolhouse

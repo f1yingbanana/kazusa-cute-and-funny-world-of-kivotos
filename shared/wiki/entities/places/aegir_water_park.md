@@ -11,6 +11,7 @@ summary:
   wave pool weekends only off-season, 09:00–18:00."
 renown: known
 backdrop: water-park-outside
+map: { x: 1.9979, y: 1.5781 }
 ---
 
 # Aegir Water Park

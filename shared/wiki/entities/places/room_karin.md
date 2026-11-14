@@ -11,6 +11,7 @@ summary:
   flashcards for the next make-up exam; always locked."
 renown: private
 backdrop: student-room
+map: { x: 2.8529, y: 1.6061 }
 ---
 
 # Karin's Room

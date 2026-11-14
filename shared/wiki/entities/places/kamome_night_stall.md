@@ -12,6 +12,7 @@ summary:
   oolong tea, six stools; 20:00–03:00, dockworkers and sailors, nobody asks
   questions."
 renown: local
+map: { x: 1.9865, y: 1.6257 }
 ---
 
 # Menyu Suzu

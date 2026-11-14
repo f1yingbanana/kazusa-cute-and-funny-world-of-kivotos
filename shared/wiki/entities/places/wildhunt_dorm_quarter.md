@@ -24,6 +24,7 @@ connections:
     ways:
       - { by: walk, minutes: 2 }
     note: "Out of the arch onto the piazza."
+map: { x: 0.6873, y: 1.7207 }
 ---
 
 # Wild Hunt Dormitory Quarter

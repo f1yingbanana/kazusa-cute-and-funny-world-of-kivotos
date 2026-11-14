@@ -11,6 +11,7 @@ summary:
   after classes, homework and snacks until 19:00."
 renown: local
 community: pandemonium_society
+map: { x: 1.4678, y: 2.8801 }
 ---
 
 # Pandemonium Break Room

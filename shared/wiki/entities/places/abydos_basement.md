@@ -11,6 +11,7 @@ summary:
   toolbench. Blackouts and water cuts get fixed down here by hand. Dim, dusty,
   unlocked."
 renown: local
+map: { x: 2.7193, y: 2.6549 }
 ---
 
 # Abydos Main Building Basement

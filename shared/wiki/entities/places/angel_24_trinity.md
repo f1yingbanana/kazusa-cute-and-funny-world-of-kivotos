@@ -12,6 +12,7 @@ summary:
   ammo, magazines; one night clerk after 23:00; students drift in until the
   dorms lock."
 backdrop: convenience
+map: { x: 0.9163, y: 2.3504 }
 ---
 
 # Angel 24, Trinity Street Branch

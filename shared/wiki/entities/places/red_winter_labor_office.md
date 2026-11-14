@@ -13,6 +13,7 @@ summary:
   meetings Thursday nights."
 renown: known
 community: red_winter_public_works
+map: { x: 1.5305, y: 0.3259 }
 ---
 
 # Labor Party Workforce Office

@@ -12,6 +12,7 @@ summary:
 renown: famous
 community: seminar
 backdrop: millennium-center
+map: { x: 2.7354, y: 1.6337 }
 ---
 
 # Millennium Tower

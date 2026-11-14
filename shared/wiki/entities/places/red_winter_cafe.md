@@ -10,6 +10,7 @@ summary:
   "Warm café with nesting-doll shelves and a big front window over 3rd Street:
   tea, blini, cocoa; 08:00–21:00, busy after classes and on weekends."
 renown: local
+map: { x: 1.4286, y: 0.4186 }
 ---
 
 # Café Matryoshka

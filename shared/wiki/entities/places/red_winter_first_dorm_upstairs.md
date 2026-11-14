@@ -10,6 +10,7 @@ summary:
   "A cold corridor of residents' rooms and the washroom; hot water maybe twice a
   week"
 renown: local
+map: { x: 1.3682, y: 0.3346 }
 ---
 
 # First Shared Dormitory Upper Floor

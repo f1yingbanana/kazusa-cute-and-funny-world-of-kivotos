@@ -10,6 +10,7 @@ summary:
   "Long tables under green lamps and the circulation desk; open 09:00–20:00
   except Mondays, a few readers, warmest seats beside the single heater."
 community: knowledge_liberation_front
+map: { x: 1.5485, y: 0.3289 }
 ---
 
 # Federal Library Reading Hall

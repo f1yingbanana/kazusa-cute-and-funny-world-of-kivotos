@@ -11,6 +11,7 @@ summary:
   jars on the shelf; door usually ajar until lights-out."
 renown: private
 backdrop: student-room
+map: { x: 1.4296, y: 1.6916 }
 ---
 
 # Niko's Room

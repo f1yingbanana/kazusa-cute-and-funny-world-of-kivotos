@@ -10,7 +10,7 @@ summary:
   Science School; Millennium runs its own trains."
 renown: famous
 community: millennium_science_school
-map: { x: 0.73, y: 0.38 }
+map: { x: 2.82, y: 1.68 }
 ---
 
 # Millennium District

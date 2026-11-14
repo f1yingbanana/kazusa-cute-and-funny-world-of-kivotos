@@ -12,6 +12,7 @@ summary:
   tidy."
 renown: private
 community: red_winter_special_class_183
+map: { x: 1.3183, y: 0.3803 }
 ---
 
 # Erina Niki's Room

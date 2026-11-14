@@ -11,6 +11,7 @@ summary:
   and pork broth; delinquents and night-shift workers."
 renown: local
 backdrop: food-cart-ramen
+map: { x: 1.6326, y: 2.671 }
 ---
 
 # Kagaribi Ramen Stall

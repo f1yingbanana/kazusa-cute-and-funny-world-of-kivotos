@@ -10,6 +10,7 @@ summary:
   "Sand-filled ruins of the school's old satellite wing, 20 min into the dunes:
   roofless classrooms, a broken bell tower. Almost nobody comes here."
 renown: local
+map: { x: 2.6324, y: 2.7054 }
 ---
 
 # Abydos Satellite Wing Ruins

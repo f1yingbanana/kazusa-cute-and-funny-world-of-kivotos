@@ -10,6 +10,7 @@ summary:
   "Narrow room by the barracks door: a bed under pinned sheet music, a harmonica
   case, a snack tin marked for the juniors. Never locked, so juniors can knock."
 renown: private
+map: { x: 0.5116, y: 2.7736 }
 ---
 
 # Subaru's Room

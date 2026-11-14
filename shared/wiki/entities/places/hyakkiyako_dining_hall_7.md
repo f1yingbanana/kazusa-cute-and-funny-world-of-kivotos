@@ -12,6 +12,7 @@ summary:
   12:10–13:00; the kitchen lends its stoves to students after 15:30."
 renown: known
 community: hyakkiyako_alliance_academy
+map: { x: 0.7429, y: 0.974 }
 ---
 
 # Student Dining Hall No. 7

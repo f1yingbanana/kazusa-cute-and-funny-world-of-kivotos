@@ -12,6 +12,7 @@ summary:
   locked."
 renown: private
 backdrop: student-room
+map: { x: 0.8165, y: 2.2622 }
 ---
 
 # Hanae's Room

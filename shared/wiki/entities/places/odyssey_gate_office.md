@@ -11,6 +11,7 @@ summary:
   "The terminal's gatehouse: visitor passes, deliveries and a duty sailor;
   staffed 06:00–22:00, after that a bell and a long wait."
 renown: local
+map: { x: 1.9797, y: 1.642 }
 ---
 
 # Terminal 3 Gate Office

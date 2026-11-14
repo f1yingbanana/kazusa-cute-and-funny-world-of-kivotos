@@ -11,6 +11,7 @@ summary:
   back are often empty on lab or patrol days."
 renown: local
 community: shanhaijing_senior_secondary_school
+map: { x: 0.2371, y: 1.262 }
 ---
 
 # Shanhaijing Class 2-A

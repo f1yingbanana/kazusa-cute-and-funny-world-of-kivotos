@@ -16,6 +16,7 @@ summary:
   complex, a boxing gym, a railway crossing on the way to school; streets empty
   after 22:00."
 renown: local
+map: { x: 2.8564, y: 1.6176 }
 ---
 
 # Euler Heights

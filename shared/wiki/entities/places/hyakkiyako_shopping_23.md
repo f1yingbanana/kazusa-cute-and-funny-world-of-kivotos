@@ -12,6 +12,7 @@ summary:
   goods, camera repair, karaoke; 10:00–21:00, karaoke until 01:00."
 renown: known
 community: hyakkiyako_alliance_academy
+map: { x: 0.891, y: 0.9478 }
 ---
 
 # Shopping District No. 23

@@ -11,6 +11,7 @@ summary:
   equipment, a tea tray, a shield by the bed; locked, up before 05:00."
 renown: private
 backdrop: student-room
+map: { x: 0.8233, y: 2.2692 }
 ---
 
 # Mine's Room

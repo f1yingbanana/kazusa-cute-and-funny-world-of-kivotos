@@ -11,6 +11,7 @@ summary:
   and always exactly as she left it."
 renown: private
 backdrop: student-room
+map: { x: 2.7986, y: 1.7711 }
 ---
 
 # Noa's Room

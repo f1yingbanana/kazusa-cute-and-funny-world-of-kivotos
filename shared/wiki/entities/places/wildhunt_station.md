@@ -7,7 +7,7 @@ name: "Wild Hunt Station"
 summary:
   "Western Line terminus in the canal town outside the fortress; trains to D.U.
   Central every 15 minutes, 05:30–23:30."
-map: { x: 0.16, y: 0.53 }
+map: { x: 1.04, y: 1.66 }
 connections:
   - to: wildhunt_district
     ways:

@@ -10,6 +10,7 @@ summary:
   "Covered market of produce, egg, bread and hardware stalls; 06:00–13:00,
   busiest before school. Flyers are handed out at the entrance most mornings."
 renown: local
+map: { x: 2.6234, y: 2.666 }
 ---
 
 # Abydos Suburban Market

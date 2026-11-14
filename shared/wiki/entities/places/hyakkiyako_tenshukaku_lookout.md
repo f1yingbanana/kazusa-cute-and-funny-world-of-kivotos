@@ -12,6 +12,7 @@ summary:
 renown: known
 community: hyakkiyako_alliance_academy
 backdrop: hyakkiyako-lookout
+map: { x: 0.711, y: 0.9912 }
 ---
 
 # Tenshukaku Lookout

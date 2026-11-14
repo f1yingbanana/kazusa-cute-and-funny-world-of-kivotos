@@ -11,6 +11,7 @@ summary:
   "The flotilla's dining deck, cooked by Cruise Operations: fish from the
   school's own farm, kelp tea; meals 07:00, 12:00, 18:00, crowded and loud."
 renown: local
+map: { x: 2.0152, y: 1.6203 }
 ---
 
 # Olympus Mess Deck

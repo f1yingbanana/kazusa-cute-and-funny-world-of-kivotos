@@ -12,6 +12,7 @@ summary:
   and a small kitchen; open after class until 19:00, tea served to visitors."
 renown: local
 community: etiquette_training_society
+map: { x: 0.6928, y: 0.9503 }
 ---
 
 # Old Schoolhouse No. 18

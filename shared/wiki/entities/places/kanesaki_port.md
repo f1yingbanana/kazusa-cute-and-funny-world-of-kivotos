@@ -11,6 +11,7 @@ summary:
   fleet berths at Port Terminal 3."
 renown: known
 backdrop: wharf
+map: { x: 1.9938, y: 1.5869 }
 ---
 
 # Kanesaki Port

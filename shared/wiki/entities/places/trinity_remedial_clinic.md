@@ -14,6 +14,7 @@ summary:
 renown: known
 community: knights_hospitaller
 backdrop: hospital-ward
+map: { x: 0.8656, y: 2.5643 }
 ---
 
 # Remedial Knights Central Ward

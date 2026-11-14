@@ -11,7 +11,7 @@ summary:
   outing pass."
 renown: known
 community: wild_hunt_academy
-map: { x: 0.15, y: 0.55 }
+map: { x: 0.72, y: 1.62 }
 backdrop: wildhunt-street
 ---
 

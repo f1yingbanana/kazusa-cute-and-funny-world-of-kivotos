@@ -10,6 +10,7 @@ summary:
   "A cramped CD and record shop specialising in metal, with listening booths;
   open 12:00–21:00, quiet weekday afternoons, regulars only."
 renown: local
+map: { x: 1.6355, y: 2.6542 }
 ---
 
 # Hellhound Records

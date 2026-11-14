@@ -18,6 +18,7 @@ connections:
       - { by: walk, minutes: 28 }
     note:
       "The ward bus stops at the old parking lot every 20 minutes until 23:00."
+map: { x: 1.8513, y: 1.5775 }
 ---
 
 # Slumpia Back Gate

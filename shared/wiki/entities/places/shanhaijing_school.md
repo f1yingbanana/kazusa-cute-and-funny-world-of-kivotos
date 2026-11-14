@@ -13,6 +13,7 @@ summary:
 renown: known
 community: shanhaijing_senior_secondary_school
 backdrop: shanhaijing-campus
+map: { x: 0.2225, y: 1.2636 }
 ---
 
 # Shanhaijing Central Special Zone

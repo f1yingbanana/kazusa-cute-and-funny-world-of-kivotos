@@ -17,6 +17,7 @@ connections:
     ways:
       - { by: walk, minutes: 4 }
     note: "Past the station square to the arcade."
+map: { x: 1.4005, y: 0.3703 }
 ---
 
 # Red Winter Ice Arena

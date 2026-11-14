@@ -11,6 +11,7 @@ summary:
   Beauty gang; unlit, unwelcoming, lookouts on the roof."
 renown: local
 community: natures_beauty
+map: { x: 0.8878, y: 0.3844 }
 ---
 
 # Mansion of the Beyond

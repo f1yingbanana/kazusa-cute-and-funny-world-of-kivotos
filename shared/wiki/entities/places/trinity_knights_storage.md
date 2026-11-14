@@ -11,6 +11,7 @@ summary:
   and retired equipment nobody can bear to throw out; Knights only."
 renown: local
 community: knights_hospitaller
+map: { x: 0.8753, y: 2.5642 }
 ---
 
 # Remedial Knights Storage Room

@@ -10,6 +10,7 @@ summary:
   "The ride's old control booth: a cot, a rack of buffed helmets, a jar of coins
   from under vending machines; door wedged shut from inside at night."
 renown: private
+map: { x: 1.8384, y: 1.5531 }
 ---
 
 # Rabu's Room

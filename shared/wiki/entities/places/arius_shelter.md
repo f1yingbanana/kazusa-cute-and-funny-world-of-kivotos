@@ -22,6 +22,7 @@ connections:
     ways:
       - { by: walk, minutes: 4 }
     note: "Round the corner to the lamps."
+map: { x: 0.4589, y: 2.7552 }
 ---
 
 # Arius Squad Shelter

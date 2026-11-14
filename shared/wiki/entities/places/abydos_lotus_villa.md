@@ -20,6 +20,7 @@ connections:
     ways:
       - { by: walk, minutes: 8 }
     note: "Downhill to the shops."
+map: { x: 2.6377, y: 2.6333 }
 ---
 
 # Lotus Court Villa

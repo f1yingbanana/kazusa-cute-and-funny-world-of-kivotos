@@ -11,6 +11,7 @@ summary:
   doors side by side with a gourmand's, quiet-ish after midnight."
 renown: local
 community: gehenna_academy
+map: { x: 1.4992, y: 2.5972 }
 ---
 
 # Dormitory No. 13 Second Floor

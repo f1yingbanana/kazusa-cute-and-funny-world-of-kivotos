@@ -11,6 +11,7 @@ summary:
   overlooking all Trinity; officially closed, but the door's lock has been
   broken for years."
 renown: local
+map: { x: 0.9211, y: 2.5426 }
 ---
 
 # Trinity Bell Tower

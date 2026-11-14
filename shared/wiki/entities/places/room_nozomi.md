@@ -11,6 +11,7 @@ summary:
   speed-record chart, a bed she falls into dressed; usually unlocked."
 renown: private
 backdrop: student-room
+map: { x: 1.7036, y: 1.4323 }
 ---
 
 # Nozomi's Room

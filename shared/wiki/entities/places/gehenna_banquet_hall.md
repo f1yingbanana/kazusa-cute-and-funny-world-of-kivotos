@@ -12,6 +12,7 @@ summary:
 renown: local
 community: pandemonium_society
 backdrop: gehenna-party-room
+map: { x: 1.6091, y: 2.7266 }
 ---
 
 # Gehenna Banquet Hall

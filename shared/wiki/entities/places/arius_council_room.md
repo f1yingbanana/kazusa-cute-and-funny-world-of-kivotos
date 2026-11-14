@@ -11,6 +11,7 @@ summary:
   repair schedules, a hot plate. Used most evenings and Saturdays."
 renown: local
 community: arius_reconstruction
+map: { x: 0.4859, y: 2.7874 }
 ---
 
 # Arius Interim Council Room

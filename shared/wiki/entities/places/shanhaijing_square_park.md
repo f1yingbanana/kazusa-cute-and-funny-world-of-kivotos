@@ -12,6 +12,7 @@ summary:
 renown: known
 community: shanhaijing_senior_secondary_school
 backdrop: shanhaijing-square-park
+map: { x: 0.4001, y: 1.1736 }
 ---
 
 # Shanhaijing Square Park

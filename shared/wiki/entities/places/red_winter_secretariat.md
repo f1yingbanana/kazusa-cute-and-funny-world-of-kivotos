@@ -13,6 +13,7 @@ summary:
   door day and night."
 renown: known
 community: red_winter_office
+map: { x: 1.4782, y: 0.284 }
 ---
 
 # Red Winter Office Building

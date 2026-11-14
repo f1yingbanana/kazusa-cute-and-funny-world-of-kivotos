@@ -11,6 +11,7 @@ summary:
   video tapes; 10:00–18:00, closed Sundays."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.8976, y: 0.9407 }
 ---
 
 # Tamaya Camera and Tape Repair

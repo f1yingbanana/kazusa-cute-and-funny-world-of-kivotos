@@ -11,6 +11,7 @@ summary:
   a mission log; locked; plushies hidden in the closet."
 renown: private
 backdrop: student-room
+map: { x: 2.8703, y: 1.6261 }
 ---
 
 # Neru's Room

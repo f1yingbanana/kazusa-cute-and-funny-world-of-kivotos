@@ -12,6 +12,7 @@ summary:
   a milk bar; open 16:00–22:30, town visitors arrive on the evening shuttles."
 renown: local
 community: red_winter_hot_springs
+map: { x: 1.3602, y: 0.4979 }
 ---
 
 # No. 227 Bathhouse

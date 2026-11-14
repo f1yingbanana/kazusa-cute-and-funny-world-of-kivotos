@@ -12,6 +12,7 @@ summary:
   changing huts is cool at midday. Always open, always empty."
 renown: local
 backdrop: empty-swimming-pool
+map: { x: 2.6889, y: 2.646 }
 ---
 
 # Abydos School Pool

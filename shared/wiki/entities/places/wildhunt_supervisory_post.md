@@ -11,6 +11,7 @@ summary:
   confiscation shelf, patrols 21:30–06:00."
 renown: known
 community: wild_hunt_academy
+map: { x: 0.6844, y: 1.7115 }
 ---
 
 # Dorm Supervisory Unit Post

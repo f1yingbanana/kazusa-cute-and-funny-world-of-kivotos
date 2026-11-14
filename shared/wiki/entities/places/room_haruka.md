@@ -11,6 +11,7 @@ summary:
   anyone who finds it."
 renown: private
 community: problem_solver_68
+map: { x: 1.6079, y: 2.6667 }
 ---
 
 # Haruka's Room

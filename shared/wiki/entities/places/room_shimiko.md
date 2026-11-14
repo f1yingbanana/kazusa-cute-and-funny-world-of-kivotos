@@ -11,6 +11,7 @@ summary:
   string, a reading lamp on all night; locked."
 renown: private
 backdrop: student-room
+map: { x: 0.7674, y: 2.2399 }
 ---
 
 # Shimiko's Room

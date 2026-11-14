@@ -11,6 +11,7 @@ summary:
   moat. Open 06:00–21:00, patrolled after dark; parcels sometimes land here."
 renown: local
 community: wild_hunt_academy
+map: { x: 0.6665, y: 1.6662 }
 ---
 
 # Wild Hunt Outer Rampart

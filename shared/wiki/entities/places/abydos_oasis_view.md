@@ -20,6 +20,7 @@ connections:
     ways:
       - { by: walk, minutes: 6 }
     note: "Down to the shops and the station."
+map: { x: 2.6585, y: 2.7019 }
 ---
 
 # Oasis View Apartments

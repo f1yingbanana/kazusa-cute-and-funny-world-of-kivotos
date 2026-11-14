@@ -11,6 +11,7 @@ summary:
   half-built drone, blackout curtains; locked, no visitors before noon."
 renown: private
 backdrop: student-room
+map: { x: 2.832, y: 1.788 }
 ---
 
 # Hare's Room

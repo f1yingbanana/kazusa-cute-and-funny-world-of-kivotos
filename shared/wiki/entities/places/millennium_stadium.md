@@ -11,6 +11,7 @@ summary:
   06:00–21:00, crowds and drink sellers in the stands on game days."
 renown: known
 community: millennium_science_school
+map: { x: 2.6426, y: 1.6472 }
 ---
 
 # 12th Millennium Stadium

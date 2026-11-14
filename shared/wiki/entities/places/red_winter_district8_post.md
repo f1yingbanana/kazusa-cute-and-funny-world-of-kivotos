@@ -11,6 +11,7 @@ summary:
   a field telephone; manned by day, often by someone who got lost on the way."
 renown: local
 community: red_winter_office
+map: { x: 1.3439, y: 0.3852 }
 ---
 
 # District 8 Security Post

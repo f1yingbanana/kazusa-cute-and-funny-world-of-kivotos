@@ -12,6 +12,7 @@ summary:
   07:30 and 16:00, holding cells downstairs; busiest on weekend nights."
 renown: known
 community: justice_task_force
+map: { x: 0.8596, y: 2.5973 }
 ---
 
 # Justice Task Force Headquarters

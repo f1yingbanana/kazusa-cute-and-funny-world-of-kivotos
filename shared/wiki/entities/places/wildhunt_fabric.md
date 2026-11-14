@@ -10,6 +10,7 @@ summary:
   "Fabric, ribbon, thread and craft supplies the academy store won't stock;
   10:00–19:00. Students on outing passes rush in before the gate closes."
 renown: local
+map: { x: 0.7697, y: 1.6356 }
 ---
 
 # Bobbin & Bolt Fabrics

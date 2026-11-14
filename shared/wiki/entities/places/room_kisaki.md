@@ -11,6 +11,7 @@ summary:
   of petitions; guards outside, door barred at night."
 renown: private
 backdrop: student-room
+map: { x: 0.2271, y: 1.1838 }
 ---
 
 # Kisaki's Room

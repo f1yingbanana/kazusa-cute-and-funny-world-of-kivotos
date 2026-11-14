@@ -9,6 +9,7 @@ entry_minutes: 6
 summary:
   "Neon-lit arcades, gambling dens and bars that never check student IDs; wakes
   up after dark."
+map: { x: 2.1297, y: 2.9201 }
 ---
 
 # Black Market Entertainment Quarter

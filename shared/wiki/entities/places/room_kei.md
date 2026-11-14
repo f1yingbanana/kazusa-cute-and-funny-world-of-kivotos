@@ -11,6 +11,7 @@ summary:
   her and her sister; locked."
 renown: private
 backdrop: student-room
+map: { x: 2.8282, y: 1.7522 }
 ---
 
 # Kei's Room

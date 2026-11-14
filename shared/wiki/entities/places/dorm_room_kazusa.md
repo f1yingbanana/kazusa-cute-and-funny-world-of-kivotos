@@ -12,6 +12,7 @@ summary:
   for sweets; locked whenever she's out."
 renown: private
 backdrop: student-room
+map: { x: 0.7997, y: 2.3147 }
 ---
 
 # Kazusa's Room

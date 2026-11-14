@@ -11,6 +11,7 @@ summary:
   visits by permission, escapes about once a week."
 renown: local
 community: prefect_team
+map: { x: 1.4684, y: 2.8058 }
 ---
 
 # Prefect Team Holding Cells

@@ -10,6 +10,7 @@ summary:
   "Flat snowy roof above the treeline with a clear sky to the south; telescope
   tripod marks in the snow; windy and bitterly cold after dark."
 community: special_class_227
+map: { x: 1.3625, y: 0.4763 }
 ---
 
 # Former Institute Roof

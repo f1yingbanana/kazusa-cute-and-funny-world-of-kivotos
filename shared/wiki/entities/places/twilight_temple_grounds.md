@@ -11,6 +11,7 @@ summary:
   no hours, always dusk-lit."
 renown: local
 community: kuzunoha
+map: { x: 0.9038, y: 0.3941 }
 ---
 
 # Twilight Temple Grounds

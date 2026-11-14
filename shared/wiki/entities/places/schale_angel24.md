@@ -11,6 +11,7 @@ summary:
   "The 24-hour Angel 24 in SCHALE's residence wing: food, drinks and, as the
   sign says, explosives."
 backdrop: convenience
+map: { x: 1.4451, y: 1.6666 }
 ---
 
 # Angel 24 at SCHALE

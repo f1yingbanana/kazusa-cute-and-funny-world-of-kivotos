@@ -11,6 +11,7 @@ summary:
   never locked, often empty when someone comes looking."
 renown: private
 backdrop: tatami-room
+map: { x: 0.7721, y: 0.6868 }
 ---
 
 # Niya's Room

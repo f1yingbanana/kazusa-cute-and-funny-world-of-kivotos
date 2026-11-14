@@ -10,6 +10,7 @@ summary:
   "A shared washroom and tiny kitchen on the third-floor landing; one shower,
   hot water some days, a kettle and a microwave."
 renown: local
+map: { x: 1.6113, y: 2.6502 }
 ---
 
 # Hotaru Building Shared Washroom

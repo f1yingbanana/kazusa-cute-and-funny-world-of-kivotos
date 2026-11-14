@@ -11,6 +11,7 @@ summary:
   shelves; locked, light on late while she edits videos."
 renown: private
 backdrop: tatami-room
+map: { x: 0.7732, y: 0.7828 }
 ---
 
 # Michiru's Room

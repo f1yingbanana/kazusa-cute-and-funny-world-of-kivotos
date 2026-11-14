@@ -10,6 +10,7 @@ entry_minutes: 1
 summary:
   "Small shared kitchen off the lounge: kettle, two-burner stove, a fridge full
   of labelled snacks; open all hours, breakfast crowd 07:30–08:00."
+map: { x: 0.8025, y: 2.3054 }
 ---
 
 # Willow Hall Kitchenette

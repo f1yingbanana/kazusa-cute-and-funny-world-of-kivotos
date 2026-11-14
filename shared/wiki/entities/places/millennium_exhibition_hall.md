@@ -12,6 +12,7 @@ summary:
 renown: known
 community: millennium_science_school
 backdrop: millennium-expo
+map: { x: 2.9034, y: 1.6791 }
 ---
 
 # Millennium Exhibition Hall

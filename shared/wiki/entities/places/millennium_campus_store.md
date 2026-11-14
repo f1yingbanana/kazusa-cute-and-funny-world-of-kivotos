@@ -11,6 +11,7 @@ summary:
   snacks, lab supplies; dorm and lab night owls drift in after midnight."
 renown: known
 community: millennium_science_school
+map: { x: 2.7047, y: 1.6622 }
 ---
 
 # Millennium Campus Convenience Store

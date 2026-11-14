@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "West Wing kitchenette: kettle, toaster, a tea shelf and a snack drawer; open
   all hours, often occupied at 02:00 by someone who can't sleep."
+map: { x: 0.7587, y: 2.2441 }
 ---
 
 # Magnolia Hall West Kitchenette

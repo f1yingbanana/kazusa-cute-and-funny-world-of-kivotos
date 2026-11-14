@@ -11,6 +11,7 @@ summary:
   labeled shelves; open all hours."
 renown: local
 community: millennium_science_school
+map: { x: 2.8339, y: 1.761 }
 ---
 
 # Millennium Dormitory 2F West Kitchenette

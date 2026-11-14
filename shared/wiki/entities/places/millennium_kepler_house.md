@@ -10,6 +10,7 @@ summary:
   "Plain four-storey walk-up at the edge of Euler Heights near the old
   outskirts; cheap rent, a shared bike rack, quiet."
 renown: local
+map: { x: 2.8684, y: 1.6356 }
 ---
 
 # Kepler House

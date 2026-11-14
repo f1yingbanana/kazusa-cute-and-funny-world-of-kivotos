@@ -10,6 +10,7 @@ summary:
   "Elegant chamber in the estate's main house: a small altar, silk cushions, a
   hidden drawer of snacks; servants check on her at night."
 renown: private
+map: { x: 0.7877, y: 0.8817 }
 ---
 
 # Yukari's Room

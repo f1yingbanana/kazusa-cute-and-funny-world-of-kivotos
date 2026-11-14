@@ -14,6 +14,7 @@ summary:
 renown: local
 community: school_lunch_club
 backdrop: school-cafeteria
+map: { x: 1.5004, y: 2.8342 }
 ---
 
 # Gehenna Dining Hall

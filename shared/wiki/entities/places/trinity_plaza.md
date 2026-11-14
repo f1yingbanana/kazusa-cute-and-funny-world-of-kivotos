@@ -13,6 +13,7 @@ summary:
 renown: known
 community: trinity_general_school
 backdrop: trinity-campus-plaza
+map: { x: 0.9053, y: 2.5128 }
 ---
 
 # Trinity Square

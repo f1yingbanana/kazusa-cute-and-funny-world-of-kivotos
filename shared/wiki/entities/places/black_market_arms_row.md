@@ -9,6 +9,7 @@ entry_minutes: 3
 summary:
   "A covered alley of gun and parts dealers; open noon until late, haggling
   expected."
+map: { x: 2.1104, y: 2.919 }
 ---
 
 # Black Market Arms Row

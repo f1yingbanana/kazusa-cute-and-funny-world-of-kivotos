@@ -11,6 +11,7 @@ summary:
   06:00–19:00, nearly empty at dawn; ammunition sold at the hut until 17:00."
 renown: local
 backdrop: shooting-range
+map: { x: 0.8869, y: 2.5293 }
 ---
 
 # Trinity Shooting Range

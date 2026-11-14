@@ -11,6 +11,7 @@ summary:
   lessons 08:30–15:30, open 07:30–18:00."
 renown: known
 community: shanhaijing_senior_secondary_school
+map: { x: 0.2459, y: 1.2661 }
 ---
 
 # Wenchang Lecture Hall

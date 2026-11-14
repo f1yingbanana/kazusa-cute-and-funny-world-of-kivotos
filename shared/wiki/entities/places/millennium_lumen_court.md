@@ -10,6 +10,7 @@ summary:
   "Tall residential tower with layered security: concierge, card gates,
   camera-watched lifts; residents only, visitors announced."
 renown: local
+map: { x: 2.9236, y: 1.6923 }
 ---
 
 # Lumen Court

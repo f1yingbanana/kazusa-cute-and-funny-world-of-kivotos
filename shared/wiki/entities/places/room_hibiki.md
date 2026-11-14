@@ -11,6 +11,7 @@ summary:
   costumes, a labeled drawer of spare buttons; locked."
 renown: private
 backdrop: student-room
+map: { x: 2.8048, y: 1.7482 }
 ---
 
 # Hibiki's Room

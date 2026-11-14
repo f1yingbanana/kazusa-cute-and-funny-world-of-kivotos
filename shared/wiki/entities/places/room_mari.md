@@ -10,6 +10,7 @@ summary:
   "A neat, sparse cell with a prayer corner and a small box of cute hair
   accessories she tells herself she shouldn't keep; locked."
 renown: private
+map: { x: 0.9584, y: 2.4183 }
 ---
 
 # Mari's Room

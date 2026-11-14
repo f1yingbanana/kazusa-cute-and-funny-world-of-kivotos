@@ -10,6 +10,7 @@ summary:
   "Small, old boxing gym on the outskirts of Euler Heights: heavy bags, a ring,
   rusty weights; 06:00–22:00, a handful of regulars."
 renown: local
+map: { x: 2.865, y: 1.6131 }
 ---
 
 # Faraday Boxing Gym

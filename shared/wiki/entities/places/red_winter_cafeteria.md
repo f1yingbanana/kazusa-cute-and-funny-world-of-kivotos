@@ -13,6 +13,7 @@ summary:
   everything."
 renown: known
 community: red_winter_federal_academy
+map: { x: 1.5144, y: 0.3365 }
 ---
 
 # Third Communal Cafeteria

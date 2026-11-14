@@ -11,6 +11,7 @@ summary:
   dawn, families on weekends, couples on the benches at dusk."
 renown: known
 backdrop: park
+map: { x: 2.8495, y: 1.712 }
 ---
 
 # Millennium District Park

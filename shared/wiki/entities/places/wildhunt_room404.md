@@ -13,6 +13,7 @@ summary:
   locked when empty."
 renown: private
 community: occult_research_society
+map: { x: 0.709, y: 1.7381 }
 ---
 
 # Dormitory No. 4, Room 404

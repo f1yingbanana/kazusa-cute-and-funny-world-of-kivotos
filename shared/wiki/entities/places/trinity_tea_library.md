@@ -12,6 +12,7 @@ summary:
   table; members and their guests only, key kept at the chamber desk."
 renown: local
 community: tea_party
+map: { x: 0.8381, y: 2.5668 }
 ---
 
 # Tea Party Library

@@ -10,6 +10,7 @@ summary:
   "High-floor apartment behind extra locks of its owner's design: server racks,
   a 3D printer, stacks of frozen-meal boxes and unopened parcels."
 renown: private
+map: { x: 2.9149, y: 1.688 }
 ---
 
 # Apartment 3108, Lumen Court

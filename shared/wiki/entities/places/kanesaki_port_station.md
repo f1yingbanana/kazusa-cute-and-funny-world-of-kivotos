@@ -6,7 +6,7 @@ place_id: kanesaki_port_station
 name: "Kanesaki Port Station"
 summary:
   "Metro terminus at the port gates, end of the Shiratori Line; 05:30–00:30."
-map: { x: 0.56, y: 0.6 }
+map: { x: 1.9, y: 1.93 }
 connections:
   - to: kanesaki_port
     ways:

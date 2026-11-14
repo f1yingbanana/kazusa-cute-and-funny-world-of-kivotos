@@ -11,6 +11,7 @@ summary:
   10:00–16:00, school tour groups on weekdays."
 renown: known
 community: hyakkiyako_alliance_academy
+map: { x: 0.8325, y: 0.8751 }
 ---
 
 # Hyakkiyako Traditional Crafts Workshop

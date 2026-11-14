@@ -11,6 +11,7 @@ summary:
   berries, cleaning supplies, salvaged parts; 07:00–16:00, crowded Saturday
   mornings."
 renown: known
+map: { x: 1.4147, y: 0.4296 }
 ---
 
 # Beluga Market

@@ -10,6 +10,7 @@ summary:
   "An unused music room with an old upright piano still roughly in tune, chairs
   stacked against the wall; empty most days, sand in the corners."
 renown: local
+map: { x: 2.6783, y: 2.6632 }
 ---
 
 # Abydos Music Room

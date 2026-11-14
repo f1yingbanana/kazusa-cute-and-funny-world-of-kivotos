@@ -11,6 +11,7 @@ summary:
   coffee cans, a magnifier lamp; she locks the library at night, never this
   door."
 renown: private
+map: { x: 0.888, y: 2.5774 }
 ---
 
 # Ui's Room

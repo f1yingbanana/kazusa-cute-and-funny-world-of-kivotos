@@ -12,6 +12,7 @@ summary:
   quarters, a garden; guards at the gate day and night, petitioners 09:00–17:00."
 renown: famous
 community: xuanlong_office
+map: { x: 0.2222, y: 1.2134 }
 ---
 
 # Genryumon Old Palace

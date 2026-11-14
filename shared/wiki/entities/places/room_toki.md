@@ -11,6 +11,7 @@ summary:
   paused on a stream; locked."
 renown: private
 backdrop: student-room
+map: { x: 2.7877, y: 1.7668 }
 ---
 
 # Toki's Room

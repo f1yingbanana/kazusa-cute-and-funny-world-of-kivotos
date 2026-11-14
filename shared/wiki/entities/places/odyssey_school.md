@@ -13,6 +13,7 @@ summary:
 renown: known
 community: odyssey_school
 backdrop: odyssey-wharf
+map: { x: 1.9869, y: 1.6355 }
 ---
 
 # Odyssey Fleet Berth, Port Terminal 3

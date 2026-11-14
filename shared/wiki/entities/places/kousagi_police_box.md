@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "Valkyrie's small police box in front of Kousagi Station; staffed 09:00–18:00,
   otherwise a phone on the wall."
+map: { x: 1.5352, y: 1.6917 }
 ---
 
 # Kousagi Station Police Box

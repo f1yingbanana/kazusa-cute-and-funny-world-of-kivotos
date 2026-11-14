@@ -12,6 +12,7 @@ summary:
   arctic; door code only, lights on at all hours."
 renown: known
 community: veritas
+map: { x: 2.6494, y: 1.5927 }
 ---
 
 # Hackers' Lounge

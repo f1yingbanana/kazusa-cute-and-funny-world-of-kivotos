@@ -11,6 +11,7 @@ summary:
   first and talk kept low; guests by invitation."
 renown: local
 community: sisterhood
+map: { x: 0.9695, y: 2.4248 }
 ---
 
 # Sisterhood Refectory

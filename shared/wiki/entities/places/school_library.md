@@ -14,6 +14,7 @@ summary:
 renown: known
 community: trinity_library_committee
 backdrop: library
+map: { x: 0.9135, y: 2.5076 }
 ---
 
 # Trinity Central Library

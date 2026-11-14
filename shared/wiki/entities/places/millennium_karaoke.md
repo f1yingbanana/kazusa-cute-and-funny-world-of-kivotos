@@ -11,6 +11,7 @@ summary:
   full on Friday nights."
 renown: local
 backdrop: karaoke
+map: { x: 2.8355, y: 1.6704 }
 ---
 
 # Karaoke Hertz

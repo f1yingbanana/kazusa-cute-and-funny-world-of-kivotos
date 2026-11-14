@@ -27,6 +27,7 @@ connections:
       - { by: walk, minutes: 10 }
     note: "Down the back lane past the hospital wall to Trinity Street."
 backdrop: dormitory
+map: { x: 0.8139, y: 2.2715 }
 ---
 
 # Old Living Quarters

@@ -25,6 +25,7 @@ connections:
       - { by: walk, minutes: 7 }
     note: "The jogging route past the canal."
 backdrop: dormitory
+map: { x: 2.8137, y: 1.764 }
 ---
 
 # Millennium Dormitory

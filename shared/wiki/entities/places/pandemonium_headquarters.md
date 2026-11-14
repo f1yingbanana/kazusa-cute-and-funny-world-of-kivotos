@@ -13,6 +13,7 @@ summary:
 renown: known
 community: pandemonium_society
 backdrop: gehenna-council-hall
+map: { x: 1.467, y: 2.8898 }
 ---
 
 # Pandemonium Society Headquarters

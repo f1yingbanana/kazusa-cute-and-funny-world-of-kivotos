@@ -12,6 +12,7 @@ summary:
   drawers, live samples; lights on at all hours, knock first, touch nothing."
 renown: known
 community: chinese_alchemy_study_club
+map: { x: 0.2316, y: 1.2964 }
 ---
 
 # Eastern Alchemy Society Laboratory

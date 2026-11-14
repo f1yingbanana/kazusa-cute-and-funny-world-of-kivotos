@@ -11,6 +11,7 @@ summary:
   doorway at night; one shelf of plushes given by a friend."
 renown: private
 backdrop: student-room
+map: { x: 0.7268, y: 2.2602 }
 ---
 
 # Azusa Shirasu's Room

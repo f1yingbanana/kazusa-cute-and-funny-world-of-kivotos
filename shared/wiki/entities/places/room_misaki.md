@@ -10,6 +10,7 @@ summary:
   "The emptiest room, chosen for its big window and high ceiling: a mattress,
   one plush bear, a carved wooden miniature, masks and tissues. Door kept ajar."
 renown: private
+map: { x: 0.4596, y: 2.7649 }
 ---
 
 # Misaki's Room

@@ -19,6 +19,7 @@ connections:
       - { by: walk, minutes: 5 }
     note: "Out of the gate and down to the lit street."
 backdrop: arius-campus
+map: { x: 0.5065, y: 2.7873 }
 ---
 
 # Arius Satellite School Grounds

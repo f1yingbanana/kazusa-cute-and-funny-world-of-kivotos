@@ -11,6 +11,7 @@ summary:
   "The yard's two-storey office over the throat of the tracks: consists,
   waybills, a kettle; staffed around the clock, short-tempered at shift change."
 renown: local
+map: { x: 1.661, y: 1.4286 }
 ---
 
 # Highlander Freight Yard Office

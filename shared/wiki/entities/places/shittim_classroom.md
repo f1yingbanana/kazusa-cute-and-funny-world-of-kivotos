@@ -12,6 +12,8 @@ summary:
   physical exit or walking route to Kivotos. ARONA stays here while helping
   Sensei through the console."
 renown: private
+backdrop: shittim-chest-classroom
+map: { x: 1.37, y: 1.611 }
 ---
 
 # Shittim Chest Classroom

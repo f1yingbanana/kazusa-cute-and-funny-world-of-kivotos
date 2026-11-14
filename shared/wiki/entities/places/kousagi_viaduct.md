@@ -11,6 +11,7 @@ summary:
   "The Southern Line's concrete viaduct crossing the ward's river: a riverside
   path, vending machines and graffiti beneath; trains overhead 05:00–01:00."
 renown: local
+map: { x: 1.513, y: 1.593 }
 ---
 
 # Kousagi Viaduct

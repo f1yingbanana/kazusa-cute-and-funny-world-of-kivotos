@@ -10,6 +10,7 @@ summary:
   "Top-floor room above the restaurant, half bedroom, half test kitchen:
   steamers, spice jars, a recipe board; locked during service."
 renown: private
+map: { x: 0.4368, y: 1.1674 }
 ---
 
 # Rumi's Room

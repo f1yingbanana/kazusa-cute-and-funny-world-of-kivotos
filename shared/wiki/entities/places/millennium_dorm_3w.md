@@ -11,6 +11,7 @@ summary:
   lock by ID card, quiet hours 23:00–07:00."
 renown: local
 community: millennium_science_school
+map: { x: 2.8224, y: 1.7891 }
 ---
 
 # Millennium Dormitory 3F West

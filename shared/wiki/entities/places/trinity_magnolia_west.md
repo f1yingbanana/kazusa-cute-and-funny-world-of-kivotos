@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "Third-floor west corridor of Magnolia Hall: five rooms and a kitchenette; a
   Justice Task Force corridor, quiet and early to bed in theory."
+map: { x: 0.7666, y: 2.2496 }
 ---
 
 # Magnolia Hall West Wing

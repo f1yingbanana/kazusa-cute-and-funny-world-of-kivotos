@@ -11,6 +11,7 @@ summary:
   day, a small crowd of night owls around 01:00."
 renown: local
 community: millennium_science_school
+map: { x: 2.8228, y: 1.7675 }
 ---
 
 # Millennium Dormitory Laundry Room

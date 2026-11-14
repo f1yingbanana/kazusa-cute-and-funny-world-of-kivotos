@@ -11,6 +11,7 @@ summary:
   sheets and team yearbooks; unlocked."
 renown: private
 backdrop: student-room
+map: { x: 2.8151, y: 1.7349 }
 ---
 
 # Rei's Room

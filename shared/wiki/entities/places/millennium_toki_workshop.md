@@ -12,6 +12,7 @@ summary:
   neat racks, a charging rig; owner's key only."
 renown: local
 community: cleaning_and_clearing
+map: { x: 2.6663, y: 1.6445 }
 ---
 
 # Toki's Equipment Workshop

@@ -11,6 +11,7 @@ summary:
   of books on justice, an observation diary by the bed; locked."
 renown: private
 backdrop: student-room
+map: { x: 0.7754, y: 2.2455 }
 ---
 
 # Mashiro's Room

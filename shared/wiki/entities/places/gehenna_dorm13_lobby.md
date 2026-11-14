@@ -11,6 +11,7 @@ summary:
   07:30–08:30 and at 22:30 roll call, the night door buzzer after 23:00."
 renown: local
 community: gehenna_academy
+map: { x: 1.4951, y: 2.5757 }
 ---
 
 # Dormitory No. 13 Lobby

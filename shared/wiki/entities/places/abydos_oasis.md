@@ -11,6 +11,7 @@ summary:
   stalls, an hour's shadeless hike. The Sand Festival used to be held here."
 renown: known
 backdrop: desert-oasis
+map: { x: 2.6222, y: 2.7083 }
 ---
 
 # Abydos Great Oasis

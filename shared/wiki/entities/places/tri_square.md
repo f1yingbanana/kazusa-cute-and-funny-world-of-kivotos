@@ -10,6 +10,7 @@ summary:
   "Shiratori's paved meeting square of benches, fountains and food trucks;
   busiest at noon and in the evening."
 renown: known
+map: { x: 1.9135, y: 1.529 }
 ---
 
 # Tri-Square

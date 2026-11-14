@@ -10,6 +10,7 @@ summary:
   "A two-floor bookshop of new and used books with reading chairs; open
   10:00–21:00, quiet, browsers welcome to linger."
 renown: local
+map: { x: 1.5497, y: 2.7078 }
 ---
 
 # Pandora Books

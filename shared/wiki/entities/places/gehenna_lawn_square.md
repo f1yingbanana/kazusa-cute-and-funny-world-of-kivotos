@@ -11,6 +11,7 @@ summary:
   crowded at lunch and after 16:00, sunbathers and duels in good weather."
 renown: known
 community: gehenna_academy
+map: { x: 1.5008, y: 2.8222 }
 ---
 
 # Gehenna Lawn Square

@@ -12,6 +12,7 @@ summary:
   shopping."
 renown: local
 community: pandemonium_society
+map: { x: 1.4762, y: 2.893 }
 ---
 
 # Pandemonium Intelligence Room

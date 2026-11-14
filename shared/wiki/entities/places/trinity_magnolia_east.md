@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "Second-floor east corridor of Magnolia Hall: five rooms and a laundry room;
   quiet after roll call, except when a club meeting runs late."
+map: { x: 0.7333, y: 2.253 }
 ---
 
 # Magnolia Hall East Wing

@@ -12,6 +12,7 @@ summary:
 renown: private
 community: gehenna_academy
 backdrop: student-room
+map: { x: 1.4911, y: 2.5564 }
 ---
 
 # Fuuka's Room

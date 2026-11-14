@@ -11,6 +11,7 @@ summary:
   day jobs for students; 07:00–18:00, Valkyrie and Trinity crews."
 renown: local
 community: arius_reconstruction
+map: { x: 0.4971, y: 2.7228 }
 ---
 
 # Arius Repair Depot

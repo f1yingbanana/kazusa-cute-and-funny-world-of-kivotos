@@ -11,6 +11,7 @@ summary:
   running 09:00–19:00, all night before an issue deadline."
 renown: local
 community: pandemonium_society
+map: { x: 1.6421, y: 2.6729 }
 ---
 
 # Pandemonium Printing Office

@@ -11,6 +11,7 @@ summary:
   opera and performances on festival evenings; open 06:00–22:00."
 renown: known
 community: shanhaijing_senior_secondary_school
+map: { x: 0.2142, y: 1.2586 }
 ---
 
 # White Tiger Park

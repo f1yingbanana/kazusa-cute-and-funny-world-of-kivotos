@@ -11,6 +11,7 @@ summary:
   barely opened, 'confiscated' magazines under the mattress; always locked."
 renown: private
 backdrop: student-room
+map: { x: 0.743, y: 2.2531 }
 ---
 
 # Koharu's Room

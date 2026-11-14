@@ -11,6 +11,7 @@ summary:
   "The park's stalled Ferris wheel, climbable to the top car for a view of
   Shiratori; a dare by night, gang lookouts by day, no railings."
 renown: local
+map: { x: 1.8569, y: 1.5597 }
 ---
 
 # Slumpia Ferris Wheel

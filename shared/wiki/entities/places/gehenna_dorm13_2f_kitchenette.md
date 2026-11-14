@@ -11,6 +11,7 @@ summary:
   in use mornings and late nights, the fridge labelled in angry marker."
 renown: local
 community: gehenna_academy
+map: { x: 1.4996, y: 2.6069 }
 ---
 
 # Dormitory No. 13 Second-Floor Kitchenette

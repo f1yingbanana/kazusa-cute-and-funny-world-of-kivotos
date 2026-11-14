@@ -11,6 +11,7 @@ summary:
   booked, packed on festival planning days."
 renown: known
 community: yin_yang_club
+map: { x: 0.7606, y: 0.9847 }
 ---
 
 # Yin-Yang Club Auditorium

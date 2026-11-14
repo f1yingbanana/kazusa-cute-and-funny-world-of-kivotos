@@ -10,6 +10,7 @@ summary:
   "A neighbourhood supermarket with wholesale crates out back; open 07:00–23:00,
   discount stickers after 20:00, the dining hall's bulk orders at dawn."
 renown: local
+map: { x: 1.5607, y: 2.7045 }
 ---
 
 # Chirp Supermarket

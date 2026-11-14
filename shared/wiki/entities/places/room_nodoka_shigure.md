@@ -12,6 +12,7 @@ summary:
   night."
 renown: private
 community: special_class_227
+map: { x: 1.3447, y: 0.4828 }
 ---
 
 # Nodoka and Shigure's Room

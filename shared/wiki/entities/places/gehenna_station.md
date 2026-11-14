@@ -8,7 +8,7 @@ aliases: ["Zone 32-1 Station"]
 summary:
   "Southern Line and Trans-Desert station in Zone 32-1: Trinity and D.U. every
   10 minutes 05:00–00:30, Abydos every 90 minutes until 21:00."
-map: { x: 0.43, y: 0.73 }
+map: { x: 1.62, y: 2.38 }
 connections:
   - to: gehenna_district
     ways:

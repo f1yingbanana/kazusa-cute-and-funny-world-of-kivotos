@@ -12,6 +12,7 @@ summary:
 renown: private
 community: gehenna_academy
 backdrop: student-room
+map: { x: 1.4582, y: 2.5936 }
 ---
 
 # Erika Hatami's Room

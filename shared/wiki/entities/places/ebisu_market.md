@@ -11,6 +11,7 @@ summary:
   06:00–12:00, restaurant buyers from town on the first train."
 renown: local
 community: ebisu_satellite_school
+map: { x: 0.8737, y: 0.3926 }
 ---
 
 # Ebisu Farmers' Market

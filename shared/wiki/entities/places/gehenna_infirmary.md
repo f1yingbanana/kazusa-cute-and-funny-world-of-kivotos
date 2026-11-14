@@ -13,6 +13,7 @@ summary:
 renown: local
 community: gehenna_academy
 backdrop: infirmary
+map: { x: 1.5441, y: 2.8433 }
 ---
 
 # Gehenna Academy Infirmary

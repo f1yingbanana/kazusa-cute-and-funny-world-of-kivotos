@@ -11,6 +11,7 @@ summary:
   07:00–21:00, booked by security clubs, ear protection mandatory."
 renown: local
 community: millennium_science_school
+map: { x: 2.6781, y: 1.7157 }
 ---
 
 # Millennium Training Center

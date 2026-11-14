@@ -11,6 +11,7 @@ summary:
   classes; open 09:00–20:00, pins everywhere."
 renown: local
 community: wild_hunt_academy
+map: { x: 0.6169, y: 1.6747 }
 ---
 
 # Wild Hunt Costume Workshop

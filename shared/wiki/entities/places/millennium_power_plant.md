@@ -11,6 +11,7 @@ summary:
   shift 24 hours, entry by permit only."
 renown: local
 community: millennium_science_school
+map: { x: 2.6791, y: 1.6978 }
 ---
 
 # Millennium Power Plant 1

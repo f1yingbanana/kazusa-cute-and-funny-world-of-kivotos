@@ -11,6 +11,7 @@ summary:
   backpack packed by the door, a phone on a portable battery. Locked, then
   checked again."
 renown: private
+map: { x: 0.4525, y: 2.7478 }
 ---
 
 # Hiyori's Room

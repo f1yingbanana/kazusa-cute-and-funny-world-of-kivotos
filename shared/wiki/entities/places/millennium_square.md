@@ -11,6 +11,7 @@ summary:
   11:30–14:00; the campus meeting point, busy all day and lit at night."
 renown: known
 community: millennium_science_school
+map: { x: 2.714, y: 1.6595 }
 ---
 
 # Millennium Square

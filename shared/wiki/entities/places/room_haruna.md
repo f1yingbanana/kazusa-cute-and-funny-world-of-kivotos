@@ -12,6 +12,7 @@ summary:
 renown: private
 community: gourmet_research_society
 backdrop: student-room
+map: { x: 1.5284, y: 2.6392 }
 ---
 
 # Haruna's Room

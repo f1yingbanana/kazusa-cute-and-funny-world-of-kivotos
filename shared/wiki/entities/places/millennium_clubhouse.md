@@ -12,6 +12,7 @@ summary:
 renown: known
 community: millennium_science_school
 backdrop: millennium-club
+map: { x: 2.658, y: 1.5873 }
 ---
 
 # Millennium Clubhouse

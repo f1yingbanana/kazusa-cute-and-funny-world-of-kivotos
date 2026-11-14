@@ -19,6 +19,7 @@ connections:
     note:
       "Campus monorail to the station's upper level; the time includes the wait."
 backdrop: millennium-monorail
+map: { x: 2.6626, y: 1.7093 }
 ---
 
 # Millennium Study Area Monorail Station

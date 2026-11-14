@@ -11,6 +11,7 @@ summary:
   open 07:00–22:00, busiest after 16:00 when clubs take breaks."
 renown: local
 community: millennium_science_school
+map: { x: 2.6664, y: 1.602 }
 ---
 
 # Millennium Student Lounge

@@ -11,6 +11,7 @@ summary:
   always lit, busiest 07:45–08:15 and late-night delivery runs."
 renown: local
 community: millennium_science_school
+map: { x: 2.8049, y: 1.7601 }
 ---
 
 # Millennium Dormitory Lobby

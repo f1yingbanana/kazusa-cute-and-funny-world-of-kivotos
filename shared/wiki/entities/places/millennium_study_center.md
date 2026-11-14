@@ -11,6 +11,7 @@ summary:
   07:00–23:00, full of crammers and club meetings."
 renown: known
 community: millennium_science_school
+map: { x: 2.6481, y: 1.6933 }
 ---
 
 # Millennium Study Center

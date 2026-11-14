@@ -11,6 +11,7 @@ summary:
   mini-freezer of ice cream; door propped open for airflow."
 renown: private
 backdrop: student-room
+map: { x: 2.8345, y: 1.7431 }
 ---
 
 # Eimi's Room

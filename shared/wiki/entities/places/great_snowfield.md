@@ -12,6 +12,7 @@ summary:
 renown: known
 community: hyakkiyako_alliance_academy
 backdrop: winter-field
+map: { x: 0.8972, y: 0.387 }
 ---
 
 # Great Snowfield

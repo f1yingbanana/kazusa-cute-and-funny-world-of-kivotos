@@ -12,6 +12,7 @@ summary:
   mats, a helmet rack, a camp stove; gang members in and out all night."
 renown: local
 community: splash_helmet_gang
+map: { x: 1.8355, y: 1.5623 }
 ---
 
 # Slumpia Haunted Mansion

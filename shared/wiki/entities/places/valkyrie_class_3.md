@@ -10,6 +10,7 @@ summary:
   "The third-years' homeroom: exam timetables and bureau rosters on the board;
   homeroom 08:40, often more duty sheets than students."
 renown: local
+map: { x: 1.8446, y: 1.4382 }
 ---
 
 # Valkyrie Class 3-A

@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "Dining hall with practice kitchens anyone may cook in; open 07:00–21:00."
 backdrop: schale-cafeteria
+map: { x: 1.4358, y: 1.6639 }
 ---
 
 # SCHALE Cafeteria

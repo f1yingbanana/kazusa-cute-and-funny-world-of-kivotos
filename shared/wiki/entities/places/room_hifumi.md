@@ -12,6 +12,7 @@ summary:
   charm."
 renown: private
 backdrop: student-room
+map: { x: 0.7248, y: 2.2484 }
 ---
 
 # Hifumi's Room

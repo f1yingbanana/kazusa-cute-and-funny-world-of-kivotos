@@ -14,6 +14,7 @@ summary:
 renown: local
 community: red_winter_special_class_183
 backdrop: red-winter-183-hangar
+map: { x: 1.3226, y: 0.3889 }
 ---
 
 # Facility No. 183

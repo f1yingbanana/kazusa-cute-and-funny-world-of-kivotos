@@ -10,6 +10,7 @@ summary:
   "A fenced rebuilding site of cranes and scaffolding; Labor Party work crews on
   shift 08:00–17:00 on weekdays."
 backdrop: construction-site
+map: { x: 1.91, y: 1.5104 }
 ---
 
 # Shiratori Reconstruction Area 5

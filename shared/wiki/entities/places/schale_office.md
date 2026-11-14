@@ -12,6 +12,7 @@ summary:
   weekdays, 10:00–15:00 Saturdays; locked at night unless Sensei works late."
 renown: known
 backdrop: main-office
+map: { x: 1.3983, y: 1.6353 }
 ---
 
 # SCHALE Office

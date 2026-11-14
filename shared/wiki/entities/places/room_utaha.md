@@ -11,6 +11,7 @@ summary:
   dock, a lab coat on a hook; locked; often empty overnight."
 renown: private
 backdrop: student-room
+map: { x: 2.7972, y: 1.7422 }
 ---
 
 # Utaha's Room

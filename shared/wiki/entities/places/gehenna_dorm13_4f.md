@@ -11,6 +11,7 @@ summary:
   the night and a radio scanner crackling behind one door."
 renown: local
 community: gehenna_academy
+map: { x: 1.4665, y: 2.5886 }
 ---
 
 # Dormitory No. 13 Fourth Floor

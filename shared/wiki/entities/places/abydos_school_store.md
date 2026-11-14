@@ -12,6 +12,7 @@ summary:
   and 12:00–13:00 on weekdays, an honesty box the rest of the day."
 renown: local
 community: abydos_high_school
+map: { x: 2.7077, y: 2.6704 }
 ---
 
 # Abydos School Store

@@ -12,6 +12,7 @@ summary:
   gear, puzzle boxes; reached by a ladder behind a gate, chalk marks show the
   way."
 renown: private
+map: { x: 1.5227, y: 1.5934 }
 ---
 
 # Pier 7 Inspection Walkway

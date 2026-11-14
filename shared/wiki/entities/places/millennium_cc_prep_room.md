@@ -12,6 +12,7 @@ summary:
   mops and explosives on separate shelves, a tea table; C&C agents only."
 renown: local
 community: cleaning_and_clearing
+map: { x: 2.6664, y: 1.5922 }
 ---
 
 # Cleaning & Clearing Prep Room

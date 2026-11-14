@@ -9,6 +9,7 @@ entry_minutes: 15
 summary:
   "The quiet edge of Trinity: old buildings, fields, a bird-filled park and the
   road to the ruined cathedral; few buses."
+map: { x: 0.8022, y: 2.4326 }
 ---
 
 # Trinity Outskirts

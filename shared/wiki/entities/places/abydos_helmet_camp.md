@@ -12,6 +12,7 @@ summary:
 renown: local
 community: helmet_gang
 backdrop: desert-camp
+map: { x: 2.6328, y: 2.6931 }
 ---
 
 # Kata-Kata Helmet Gang Camp

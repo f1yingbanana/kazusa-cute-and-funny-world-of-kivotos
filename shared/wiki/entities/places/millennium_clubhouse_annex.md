@@ -11,6 +11,7 @@ summary:
   dim corridors, rarely cleaned, mostly empty at any hour."
 renown: local
 community: millennium_science_school
+map: { x: 2.6748, y: 1.5724 }
 ---
 
 # Millennium Clubhouse Annex

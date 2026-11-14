@@ -12,6 +12,7 @@ summary:
   teahouse bench; open 07:00–18:00, quiet except during lessons."
 renown: known
 community: hyakkiyako_alliance_academy
+map: { x: 0.7536, y: 0.9552 }
 ---
 
 # Hyakkiyako Great Garden

@@ -13,6 +13,7 @@ summary:
 renown: known
 community: highlander_freight_logistics
 backdrop: train-freight-station
+map: { x: 1.6516, y: 1.4308 }
 ---
 
 # Highlander Freight Yard

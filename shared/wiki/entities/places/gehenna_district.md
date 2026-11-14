@@ -11,7 +11,7 @@ summary:
   subway until 00:30."
 renown: famous
 community: gehenna_academy
-map: { x: 0.43, y: 0.75 }
+map: { x: 1.58, y: 2.72 }
 backdrop: gehenna-street
 ---
 

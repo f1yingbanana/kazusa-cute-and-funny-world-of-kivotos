@@ -11,6 +11,7 @@ summary:
   swimsuit shop and a food court; 10:00–21:00, packed on weekends."
 renown: local
 backdrop: shopping-mall
+map: { x: 2.8538, y: 1.6782 }
 ---
 
 # Prism Mall

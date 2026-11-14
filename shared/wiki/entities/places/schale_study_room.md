@@ -8,6 +8,7 @@ parent: schale_residence
 entry_minutes: 3
 summary:
   "Bookable quiet study desks in the residence wing; reserve at the front desk."
+map: { x: 1.4307, y: 1.6798 }
 ---
 
 # SCHALE Self-Study Room

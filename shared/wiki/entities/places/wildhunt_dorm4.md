@@ -12,6 +12,7 @@ summary:
   room check 22:30. Rumoured to be haunted on the fourth floor."
 renown: local
 community: wild_hunt_academy
+map: { x: 0.7074, y: 1.7285 }
 ---
 
 # Dormitory No. 4

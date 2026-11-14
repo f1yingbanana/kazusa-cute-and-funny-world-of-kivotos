@@ -12,6 +12,7 @@ summary:
   year, wooden corridors that creak; open 07:00–19:00, locked at night."
 renown: famous
 community: hyakkiyako_alliance_academy
+map: { x: 0.7201, y: 0.9944 }
 ---
 
 # Hyakkiyako Main Academy Building

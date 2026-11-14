@@ -12,6 +12,7 @@ summary:
   Tri-Square, galleries, the river food street and the port."
 renown: known
 community: general_student_council
+map: { x: 1.9139, y: 1.5193 }
 ---
 
 # Shiratori Ward

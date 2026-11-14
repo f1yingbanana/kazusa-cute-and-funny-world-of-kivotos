@@ -13,6 +13,7 @@ summary:
 renown: known
 community: abydos_high_school
 backdrop: ramen-ya
+map: { x: 2.6412, y: 2.6719 }
 ---
 
 # Shiba Seki Ramen

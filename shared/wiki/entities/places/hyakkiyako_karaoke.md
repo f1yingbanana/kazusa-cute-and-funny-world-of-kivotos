@@ -12,6 +12,7 @@ summary:
 renown: local
 community: hyakkiyako_alliance_academy
 backdrop: karaoke
+map: { x: 0.8854, y: 0.9557 }
 ---
 
 # Utage Karaoke Box

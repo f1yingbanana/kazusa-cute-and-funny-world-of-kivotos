@@ -11,6 +11,7 @@ summary:
   packed 12:00–13:00, round tables shared by everyone."
 renown: known
 community: shanhaijing_senior_secondary_school
+map: { x: 0.2234, y: 1.2732 }
 ---
 
 # Shanhaijing Student Refectory

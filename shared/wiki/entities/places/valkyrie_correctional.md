@@ -12,6 +12,7 @@ summary:
   appointment 10:00–16:00."
 renown: known
 community: valkyrie_police_academy
+map: { x: 1.703, y: 1.5112 }
 ---
 
 # Valkyrie Correctional Facility

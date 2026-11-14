@@ -11,6 +11,7 @@ summary:
   door; a small monitor, a headset and a fan inside; latched from within."
 renown: private
 community: game_development_department
+map: { x: 2.6364, y: 1.5812 }
 ---
 
 # Yuzu's Locker

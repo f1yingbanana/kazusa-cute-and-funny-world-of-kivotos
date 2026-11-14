@@ -12,6 +12,7 @@ summary:
 renown: local
 community: wild_hunt_academy
 backdrop: wildhunt-classroom
+map: { x: 0.6234, y: 1.6889 }
 ---
 
 # Wild Hunt Grand Lecture Hall

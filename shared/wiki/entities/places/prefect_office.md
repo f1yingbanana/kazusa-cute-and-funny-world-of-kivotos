@@ -11,6 +11,7 @@ summary:
   night duty officer after; paperwork piles high by evening."
 renown: local
 community: prefect_team
+map: { x: 1.4649, y: 2.7912 }
 ---
 
 # Prefect Team Office

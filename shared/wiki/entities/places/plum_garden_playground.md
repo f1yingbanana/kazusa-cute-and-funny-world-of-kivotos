@@ -11,6 +11,7 @@ summary:
   children 10:00–17:00, empty and quiet after dark."
 renown: local
 community: plum_blossom_garden
+map: { x: 0.1755, y: 1.292 }
 ---
 
 # Plum Blossom Playground

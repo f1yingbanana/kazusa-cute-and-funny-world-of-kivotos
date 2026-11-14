@@ -10,6 +10,7 @@ summary:
   "A smoking volcano west of town, its slopes full of hot springs and valleys;
   trails always open, buses to the hot-spring village hourly."
 renown: known
+map: { x: 1.639, y: 2.7719 }
 ---
 
 # Hinnom Volcano

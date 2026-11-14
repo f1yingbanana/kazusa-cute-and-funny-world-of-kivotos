@@ -11,6 +11,7 @@ summary:
   rowboats 10:00–17:00, joggers at dawn and couples at dusk."
 renown: known
 community: hyakkiyako_alliance_academy
+map: { x: 0.8141, y: 0.769 }
 ---
 
 # Shirakawa Riverbank

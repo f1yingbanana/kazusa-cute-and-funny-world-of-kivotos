@@ -13,6 +13,7 @@ summary:
 renown: famous
 community: hyakkiyako_alliance_academy
 backdrop: hyakkiyako-observatory
+map: { x: 0.763, y: 0.9576 }
 ---
 
 # Hyakkiyako Tree Observatory

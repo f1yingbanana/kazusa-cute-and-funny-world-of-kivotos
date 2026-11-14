@@ -10,6 +10,7 @@ summary:
   "Bookshop on the Galleria's first floor: new books, a big magazine rack, a
   romance aisle and a second-hand basement; open 10:00–21:00."
 renown: local
+map: { x: 0.9034, y: 2.3772 }
 ---
 
 # Vellum Books

@@ -11,6 +11,7 @@ summary:
   line around 15:00 on weekends."
 renown: local
 backdrop: dessert-cafe
+map: { x: 2.8321, y: 1.6795 }
 ---
 
 # Café Parabola

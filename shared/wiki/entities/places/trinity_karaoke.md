@@ -11,6 +11,7 @@ summary:
   after school, bands book the big room to rehearse."
 renown: local
 backdrop: karaoke
+map: { x: 0.9125, y: 2.3682 }
 ---
 
 # Galleria Karaoke Box

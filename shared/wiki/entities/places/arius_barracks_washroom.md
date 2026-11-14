@@ -10,6 +10,7 @@ summary:
   "Shared washroom and laundry tubs; hot water 06:00–07:00 and 20:00–21:30 only,
   queues before roll call."
 renown: local
+map: { x: 0.5274, y: 2.7786 }
 ---
 
 # Nicomedia Barracks Washroom

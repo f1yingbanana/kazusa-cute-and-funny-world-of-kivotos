@@ -12,6 +12,7 @@ summary:
   empty."
 renown: local
 community: gourmet_research_society
+map: { x: 1.5008, y: 2.7896 }
 ---
 
 # Gourmet Research Society Clubroom

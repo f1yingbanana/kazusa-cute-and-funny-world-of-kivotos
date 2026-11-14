@@ -10,6 +10,7 @@ summary:
   "General shop in an old vestry: tins, snacks, soap, phone cards and a rack of
   week-old magazines; 08:00–20:00."
 renown: local
+map: { x: 0.5135, y: 2.7305 }
 ---
 
 # Lantern Street Provisions

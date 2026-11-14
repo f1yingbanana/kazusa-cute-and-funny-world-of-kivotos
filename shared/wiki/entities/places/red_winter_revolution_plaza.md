@@ -13,6 +13,7 @@ summary:
   busiest 12:00–13:00."
 renown: known
 community: red_winter_federal_academy
+map: { x: 1.4971, y: 0.2946 }
 ---
 
 # Red Mustache Revolution Plaza

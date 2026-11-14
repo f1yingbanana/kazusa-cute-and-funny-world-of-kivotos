@@ -10,6 +10,7 @@ summary:
   "Fourth-floor shared kitchen and washroom: kettle, two burners, a fridge of
   labelled food. Open until curfew; said to have a ghost at 02:00."
 renown: local
+map: { x: 0.7157, y: 1.7234 }
 ---
 
 # Dormitory No. 4 Common Kitchen

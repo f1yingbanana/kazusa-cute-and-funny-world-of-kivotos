@@ -13,6 +13,7 @@ summary:
 renown: known
 community: seminar
 backdrop: millennium-prison
+map: { x: 2.7446, y: 1.6308 }
 ---
 
 # Self-Reflection Room

@@ -11,6 +11,7 @@ summary:
   home, so knock on the pole."
 renown: local
 community: rabbit_platoon
+map: { x: 1.5635, y: 1.5905 }
 ---
 
 # RABBIT Tent Row

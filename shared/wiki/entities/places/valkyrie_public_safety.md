@@ -13,6 +13,7 @@ summary:
   board, an answering machine; open 08:30–18:00, the machine takes the rest."
 renown: known
 community: valkyrie_police_academy
+map: { x: 1.8929, y: 1.477 }
 ---
 
 # Valkyrie Public Safety Bureau

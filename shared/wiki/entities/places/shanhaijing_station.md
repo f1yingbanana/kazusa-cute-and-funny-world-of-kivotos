@@ -7,7 +7,7 @@ name: "Shanhaijing Station"
 summary:
   "Northwestern Line terminus outside Shanhaijing's entrance compounds; trains
   to Hyakkiyako and D.U. every 15 minutes, 05:30–23:30."
-map: { x: 0.19, y: 0.36 }
+map: { x: 0.58, y: 1.14 }
 connections:
   - to: shanhaijing_district
     ways:

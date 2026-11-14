@@ -14,6 +14,7 @@ summary:
 renown: known
 community: red_winter_federal_academy
 backdrop: red-winter-campus
+map: { x: 1.5235, y: 0.3329 }
 ---
 
 # Red Winter Federal Academy Campus

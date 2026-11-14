@@ -11,6 +11,7 @@ summary:
   "A cramped radio shack on the upper deck: transceivers, logbooks, a kettle;
   open to licensed students at all hours, quiet except for static."
 renown: local
+map: { x: 1.997, y: 1.6674 }
 ---
 
 # Calypso Radio Room

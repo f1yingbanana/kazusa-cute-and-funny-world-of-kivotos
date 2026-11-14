@@ -11,6 +11,7 @@ summary:
   07:00–08:30, lunch 12:00–13:30, dinner 18:00–20:00; packed at noon."
 renown: known
 community: wild_hunt_academy
+map: { x: 0.6374, y: 1.7213 }
 ---
 
 # Wild Hunt Refectory

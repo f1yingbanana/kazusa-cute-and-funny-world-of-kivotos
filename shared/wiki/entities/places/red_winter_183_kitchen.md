@@ -10,6 +10,7 @@ summary:
   "Small mess kitchen and table by the facility's boiler, the warmest room up
   here; meals at 07:30, 12:30, 19:00, cooked by whoever loses the argument."
 community: red_winter_special_class_183
+map: { x: 1.3311, y: 0.3937 }
 ---
 
 # No. 183 Mess Kitchen

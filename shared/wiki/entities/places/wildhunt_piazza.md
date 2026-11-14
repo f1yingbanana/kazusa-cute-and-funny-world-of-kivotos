@@ -13,6 +13,7 @@ summary:
 renown: known
 community: wild_hunt_academy
 backdrop: wildhunt-campus-plaza
+map: { x: 0.6301, y: 1.715 }
 ---
 
 # Wild Hunt Statue Piazza

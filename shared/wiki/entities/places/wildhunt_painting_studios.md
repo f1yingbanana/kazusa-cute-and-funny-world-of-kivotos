@@ -12,6 +12,7 @@ summary:
 renown: local
 community: wild_hunt_academy
 backdrop: atelier
+map: { x: 0.6149, y: 1.6842 }
 ---
 
 # Wild Hunt Painting Studios

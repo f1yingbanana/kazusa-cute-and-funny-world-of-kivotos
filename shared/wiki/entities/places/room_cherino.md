@@ -12,6 +12,7 @@ summary:
   inside."
 renown: private
 community: red_winter_office
+map: { x: 1.4862, y: 0.2784 }
 ---
 
 # Cherino's Room

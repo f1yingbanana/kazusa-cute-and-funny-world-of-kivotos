@@ -11,6 +11,7 @@ summary:
   stocked with snacks for guests. Where the club's parties end up."
 renown: local
 community: foreclosure_task_force
+map: { x: 2.6441, y: 2.6406 }
 ---
 
 # Lotus Court Villa Parlour

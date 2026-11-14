@@ -7,7 +7,7 @@ name: "Trinity Station"
 summary:
   "Southern Line station at the foot of Trinity Street: trains to Kousagi, D.U.
   Central and Gehenna every 10 minutes, 05:00–00:30."
-map: { x: 0.34, y: 0.6 }
+map: { x: 1.18, y: 2.18 }
 connections:
   - to: church_street
     ways:

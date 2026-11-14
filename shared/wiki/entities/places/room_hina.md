@@ -12,6 +12,7 @@ summary:
 renown: private
 community: gehenna_academy
 backdrop: student-room
+map: { x: 1.5074, y: 2.592 }
 ---
 
 # Hina's Room

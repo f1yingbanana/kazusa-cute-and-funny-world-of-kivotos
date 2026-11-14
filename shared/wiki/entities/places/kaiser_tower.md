@@ -11,6 +11,7 @@ summary:
   "Kaiser's black-glass headquarters: loans, construction and security
   divisions; the lobby is public, everything above needs a pass."
 renown: known
+map: { x: 1.9236, y: 1.4949 }
 ---
 
 # Kaiser Corporation Tower

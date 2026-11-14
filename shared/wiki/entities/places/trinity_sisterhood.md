@@ -22,6 +22,7 @@ connections:
       - { by: walk, minutes: 5 }
     note: "Down the cathedral close onto Trinity Street."
 backdrop: cathedral
+map: { x: 0.956, y: 2.4346 }
 ---
 
 # Trinity Cathedral

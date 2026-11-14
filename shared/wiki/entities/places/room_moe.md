@@ -12,6 +12,7 @@ summary:
   principle."
 renown: private
 backdrop: tent-inside
+map: { x: 1.5702, y: 1.5975 }
 ---
 
 # Moe's Tent

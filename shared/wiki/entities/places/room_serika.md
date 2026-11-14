@@ -12,6 +12,7 @@ summary:
   checks twice."
 renown: private
 backdrop: student-room
+map: { x: 2.6575, y: 2.7115 }
 ---
 
 # Serika's Room

@@ -12,6 +12,7 @@ summary:
   nights."
 renown: local
 community: prefect_team
+map: { x: 1.4516, y: 2.7963 }
 ---
 
 # Hina's Office

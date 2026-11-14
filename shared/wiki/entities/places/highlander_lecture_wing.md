@@ -12,6 +12,7 @@ summary:
   09:00–14:00 fitted around shifts, crews nodding off after night runs."
 renown: local
 community: highlander_railroad_academy
+map: { x: 1.6777, y: 1.4168 }
 ---
 
 # Highlander Lecture Wing

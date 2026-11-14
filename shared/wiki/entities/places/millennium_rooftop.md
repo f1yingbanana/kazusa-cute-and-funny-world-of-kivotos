@@ -14,6 +14,7 @@ summary:
 renown: local
 community: millennium_science_school
 backdrop: school-rooftop
+map: { x: 2.7011, y: 1.6333 }
 ---
 
 # Millennium Lecture Building Rooftop

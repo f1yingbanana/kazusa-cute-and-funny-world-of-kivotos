@@ -10,6 +10,7 @@ summary:
   "Indoor range in SCHALE's basement level with ammunition for every school's
   weapons; open 08:00–20:00."
 backdrop: shooting-range
+map: { x: 1.4021, y: 1.6043 }
 ---
 
 # SCHALE Shooting Range

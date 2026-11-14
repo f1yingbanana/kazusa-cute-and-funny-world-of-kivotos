@@ -10,7 +10,7 @@ summary:
   castle keep; tourists all day, a festival most weeks, rickshaws until 22:00."
 renown: famous
 community: hyakkiyako_alliance_academy
-map: { x: 0.3, y: 0.3 }
+map: { x: 0.82, y: 0.88 }
 backdrop: hyakkiyako-square-street
 ---
 

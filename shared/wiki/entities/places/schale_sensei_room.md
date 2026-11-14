@@ -10,6 +10,7 @@ summary:
   "Sensei's private room in the residence wing: a queen bed, piles of documents;
   locked."
 renown: private
+map: { x: 1.4285, y: 1.6703 }
 ---
 
 # Sensei's Room

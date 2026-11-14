@@ -10,6 +10,7 @@ summary:
   "Small house of her own down a riverside lane: light novels, dumbbells, a
   youth to-do list; locked, a key under the planter."
 renown: private
+map: { x: 0.7959, y: 0.7638 }
 ---
 
 # Renge's House

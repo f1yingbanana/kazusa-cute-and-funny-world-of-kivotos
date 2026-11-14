@@ -12,6 +12,7 @@ summary:
   rest of the year."
 renown: local
 backdrop: beachside
+map: { x: 1.9842, y: 1.5872 }
 ---
 
 # Outlaw Beach

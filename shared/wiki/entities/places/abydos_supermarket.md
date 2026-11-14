@@ -10,6 +10,7 @@ summary:
   "Supermarket with cheap bulk groceries; 08:00–22:00, timed sales at 19:00 draw
   a crowd of bargain hunters."
 renown: local
+map: { x: 2.5978, y: 2.666 }
 ---
 
 # Mirage Mart Supermarket

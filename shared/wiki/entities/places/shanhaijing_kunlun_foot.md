@@ -13,6 +13,7 @@ summary:
 renown: known
 community: shanhaijing_senior_secondary_school
 backdrop: shanhaijing-mountain
+map: { x: 0.3009, y: 1.1903 }
 ---
 
 # Kunlun Mountain Trailhead

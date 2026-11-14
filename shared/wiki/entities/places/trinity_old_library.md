@@ -13,6 +13,7 @@ summary:
 renown: local
 community: trinity_library_committee
 backdrop: trinity-old-library
+map: { x: 0.8977, y: 2.578 }
 ---
 
 # Old Library

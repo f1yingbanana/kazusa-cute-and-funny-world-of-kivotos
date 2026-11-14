@@ -14,6 +14,7 @@ summary:
 renown: known
 community: seminar
 backdrop: millennium-seminar-clubroom
+map: { x: 2.7352, y: 1.6434 }
 ---
 
 # Seminar Office

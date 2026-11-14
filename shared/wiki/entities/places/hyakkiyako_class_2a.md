@@ -11,6 +11,7 @@ summary:
   a sunny back row where people nap."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.7296, y: 0.9963 }
 ---
 
 # Hyakkiyako Class 2-A

@@ -10,6 +10,7 @@ summary:
   "A neat rented room of CD towers and good headphones; locked, up before dawn."
 renown: private
 community: problem_solver_68
+map: { x: 1.6049, y: 2.6575 }
 ---
 
 # Kayoko's Room

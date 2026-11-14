@@ -24,6 +24,7 @@ connections:
     note:
       "Up the avenue to the campus gate; the school bus is packed at rush hour."
 backdrop: shopping-district
+map: { x: 2.8438, y: 1.6761 }
 ---
 
 # Millennium Shopping District

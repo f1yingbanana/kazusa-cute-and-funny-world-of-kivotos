@@ -10,6 +10,7 @@ summary:
   "A fenced, weed-choked lot between warehouses; nobody comes here except to
   dump things; tended weeds in one corner."
 renown: local
+map: { x: 1.6419, y: 2.6469 }
 ---
 
 # Zone 32 Vacant Lot

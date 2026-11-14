@@ -10,6 +10,7 @@ summary:
   "A cute waitress café known for parfaits; open 10:00–21:00, student waitresses
   in aprons, busiest after 16:00 and on weekends."
 renown: local
+map: { x: 1.5591, y: 2.7232 }
 ---
 
 # Café Nightshade

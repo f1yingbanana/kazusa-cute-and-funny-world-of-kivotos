@@ -11,6 +11,7 @@ summary:
   roof; 10:00–24:00, a line for new cabinets on release mornings."
 renown: local
 backdrop: arcade
+map: { x: 2.8511, y: 1.6689 }
 ---
 
 # Game Center Quantum

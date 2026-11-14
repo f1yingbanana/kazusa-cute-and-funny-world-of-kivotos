@@ -9,6 +9,7 @@ entry_minutes: 5
 summary:
   "A maze of corporate towers beside Tri-Square: Kaiser Corporation offices,
   banks and the Kronos studios; deserted after 20:00."
+map: { x: 1.9324, y: 1.4909 }
 ---
 
 # Business District 3

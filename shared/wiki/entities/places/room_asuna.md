@@ -11,6 +11,7 @@ summary:
   trinkets, a dartboard full of holes; often left unlocked."
 renown: private
 backdrop: student-room
+map: { x: 2.7983, y: 1.7817 }
 ---
 
 # Asuna's Room

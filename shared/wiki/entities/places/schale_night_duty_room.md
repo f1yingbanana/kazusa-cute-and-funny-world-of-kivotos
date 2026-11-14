@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "A bunk, a desk and the night phone for the student on night duty; unlocked."
 backdrop: schale-overnight-room
+map: { x: 1.4194, y: 1.701 }
 ---
 
 # SCHALE Night-Duty Room

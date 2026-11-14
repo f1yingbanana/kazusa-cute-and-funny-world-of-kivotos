@@ -16,6 +16,7 @@ connections:
     ways:
       - { by: walk, minutes: 5 }
     note: "Along the river path."
+map: { x: 0.8182, y: 0.8704 }
 ---
 
 # Quacking Duck Park

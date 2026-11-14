@@ -11,6 +11,7 @@ summary:
   curfew, a favourite late-evening spot."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.799, y: 0.7057 }
 ---
 
 # Tsukimi-sou Moon-Viewing Veranda

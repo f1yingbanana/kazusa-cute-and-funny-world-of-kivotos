@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "Laundry room at the end of the East Wing: four machines, a drying line, an
   ironing board; open 06:00–22:30, the machines rattle the whole corridor."
+map: { x: 0.7365, y: 2.2438 }
 ---
 
 # Magnolia Hall East Laundry

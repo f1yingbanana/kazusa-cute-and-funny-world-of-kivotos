@@ -13,6 +13,7 @@ summary:
 renown: known
 community: highlander_control_center
 backdrop: train-control-room-front
+map: { x: 1.6728, y: 1.4351 }
 ---
 
 # Central Control Center Operations Floor

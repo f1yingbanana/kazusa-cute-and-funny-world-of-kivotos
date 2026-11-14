@@ -13,6 +13,7 @@ summary:
 renown: local
 community: paranormal_affairs_department
 backdrop: occult-room
+map: { x: 2.658, y: 1.5971 }
 ---
 
 # Super Phenomenon Task Force Room

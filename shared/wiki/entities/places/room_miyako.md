@@ -11,6 +11,7 @@ summary:
   door, a mess kit; flap zipped and tied at night, a whistle hung inside."
 renown: private
 backdrop: tent-inside
+map: { x: 1.5556, y: 1.5849 }
 ---
 
 # Miyako's Tent

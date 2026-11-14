@@ -11,6 +11,7 @@ summary:
   lights on at 04:00, the last off well after midnight."
 renown: local
 community: gehenna_academy
+map: { x: 1.4817, y: 2.5588 }
 ---
 
 # Dormitory No. 13 Third Floor

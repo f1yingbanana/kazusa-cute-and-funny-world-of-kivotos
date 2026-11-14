@@ -12,6 +12,7 @@ summary:
   for air."
 community: red_winter_special_class_183
 backdrop: red-winter-183-lab
+map: { x: 1.3131, y: 0.3905 }
 ---
 
 # No. 183 Laboratory

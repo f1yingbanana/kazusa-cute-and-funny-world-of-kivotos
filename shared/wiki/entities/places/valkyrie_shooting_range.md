@@ -12,6 +12,7 @@ summary:
   officer, qualification tests on Fridays; loud and booked after classes."
 renown: local
 community: valkyrie_police_academy
+map: { x: 1.8721, y: 1.4528 }
 ---
 
 # Valkyrie Police School Shooting Range

@@ -12,6 +12,7 @@ summary:
   samples and route maps; always locked, a towel along the door crack."
 renown: private
 community: free_trade_cartel
+map: { x: 0.6831, y: 1.7337 }
 ---
 
 # Dormitory No. 5, Room 402

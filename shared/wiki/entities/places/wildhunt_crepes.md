@@ -10,6 +10,7 @@ summary:
   "Crepe stand on the canal bridge; 11:00–20:00. Chocolate-banana sells out
   first on weekends."
 renown: local
+map: { x: 0.7703, y: 1.6174 }
 ---
 
 # Ponte Crepes

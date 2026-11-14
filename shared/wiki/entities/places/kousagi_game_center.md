@@ -10,6 +10,7 @@ summary:
   "Three floors of cranes, rhythm and fighting games; open 10:00–23:00, students
   crowd it after 16:00."
 backdrop: arcade
+map: { x: 1.5475, y: 1.6772 }
 ---
 
 # Kousagi Game Center

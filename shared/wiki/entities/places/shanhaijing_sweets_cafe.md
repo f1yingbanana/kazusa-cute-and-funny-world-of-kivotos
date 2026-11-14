@@ -11,6 +11,7 @@ summary:
   each month; 10:00–21:00, crowded after 15:00."
 renown: known
 community: xuanwu_merchant_association
+map: { x: 0.4509, y: 1.193 }
 ---
 
 # Promenade Sweets Café

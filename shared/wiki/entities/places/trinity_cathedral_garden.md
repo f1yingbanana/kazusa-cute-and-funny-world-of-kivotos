@@ -12,6 +12,7 @@ summary:
   training ground; Sisters and their guests only, gate locked at dusk."
 renown: local
 community: sisterhood
+map: { x: 0.9494, y: 2.4275 }
 ---
 
 # Trinity Cathedral Garden

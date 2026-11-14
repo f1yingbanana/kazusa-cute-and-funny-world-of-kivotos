@@ -19,6 +19,7 @@ connections:
     note:
       "Out past the last gardens and along the field lane to the outskirts
       annex."
+map: { x: 0.7934, y: 2.2941 }
 ---
 
 # Trinity Residential Quarter

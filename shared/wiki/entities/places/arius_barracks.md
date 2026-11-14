@@ -11,6 +11,7 @@ summary:
   out 22:00, roll call 06:30, a senior's room by the door."
 renown: local
 community: nicomedia_troop
+map: { x: 0.5211, y: 2.7713 }
 ---
 
 # Nicomedia Barracks

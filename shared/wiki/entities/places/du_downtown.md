@@ -10,7 +10,7 @@ summary:
   D.U. Central Station is the hub for every line."
 renown: famous
 community: general_student_council
-map: { x: 0.5, y: 0.44 }
+map: { x: 1.7, y: 1.5 }
 backdrop: city-downtown
 ---
 

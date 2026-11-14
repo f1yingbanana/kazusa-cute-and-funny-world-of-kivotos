@@ -12,6 +12,7 @@ summary:
   off limits, doors boarded, no lights. Visited at night on dares."
 renown: known
 community: wild_hunt_academy
+map: { x: 0.6448, y: 1.6991 }
 ---
 
 # East Bastion Old Schoolhouse

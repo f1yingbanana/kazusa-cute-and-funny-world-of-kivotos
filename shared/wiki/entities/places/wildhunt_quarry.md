@@ -11,6 +11,7 @@ summary:
   for the Sculpture Workshop. Open 08:00–17:00, off-cuts free to take."
 renown: local
 community: wild_hunt_academy
+map: { x: 0.7109, y: 1.6167 }
 ---
 
 # Wild Hunt Marble Quarry

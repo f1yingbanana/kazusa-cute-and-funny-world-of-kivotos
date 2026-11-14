@@ -14,6 +14,7 @@ summary:
 renown: local
 community: abydos_high_school
 backdrop: library
+map: { x: 2.7097, y: 2.6538 }
 ---
 
 # Abydos School Library

@@ -11,6 +11,7 @@ summary:
   a crate of flash grenades under the bed; always locked."
 renown: private
 backdrop: student-room
+map: { x: 0.8142, y: 2.3236 }
 ---
 
 # Suzumi's Room

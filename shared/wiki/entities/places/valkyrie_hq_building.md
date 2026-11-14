@@ -13,6 +13,7 @@ summary:
 renown: local
 community: valkyrie_police_academy
 backdrop: valkyrie-office
+map: { x: 1.8855, y: 1.4832 }
 ---
 
 # Valkyrie Headquarters Building

@@ -11,6 +11,7 @@ summary:
   roses, seedlings in tins under grow lamps. Watered every morning; open with
   the grounds."
 renown: local
+map: { x: 0.5125, y: 2.7949 }
 ---
 
 # Arius Cloister Garden

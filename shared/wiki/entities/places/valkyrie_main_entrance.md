@@ -18,6 +18,7 @@ connections:
     ways:
       - { by: walk, minutes: 7 }
     note: "Down the tree-lined avenue to the Metro under Tri-Square."
+map: { x: 1.8674, y: 1.4714 }
 ---
 
 # Valkyrie Main Entrance

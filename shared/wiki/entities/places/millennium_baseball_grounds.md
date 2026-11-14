@@ -13,6 +13,7 @@ summary:
 renown: local
 community: millennium_science_school
 backdrop: baseball-park
+map: { x: 2.6453, y: 1.6565 }
 ---
 
 # Millennium Baseball Grounds

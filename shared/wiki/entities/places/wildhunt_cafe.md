@@ -10,6 +10,7 @@ summary:
   "Quiet canal-side café with free Wi-Fi, long tables and window seats;
   08:00–21:00, students writing and sketching all afternoon."
 renown: local
+map: { x: 0.7643, y: 1.6276 }
 ---
 
 # Caffè Bastione

@@ -12,6 +12,7 @@ summary:
   of milk cartons; busy after 15:30, locked with the annex at 20:00."
 community: after_school_sweets_club
 backdrop: trinity-clubroom
+map: { x: 0.8899, y: 2.6205 }
 ---
 
 # Sweets Club Room

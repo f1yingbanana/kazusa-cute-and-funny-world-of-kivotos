@@ -14,6 +14,7 @@ summary:
 renown: local
 community: foreclosure_task_force
 backdrop: abydos-task-force-room
+map: { x: 2.7173, y: 2.6716 }
 ---
 
 # Abydos Foreclosure Task Force Room

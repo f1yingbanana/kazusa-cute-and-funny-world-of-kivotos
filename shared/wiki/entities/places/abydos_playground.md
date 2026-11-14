@@ -11,6 +11,7 @@ summary:
   "The school field, slowly being buried in sand: a faucet that runs some days,
   a rusty bench, dumbbells left by an old club. Open all hours; dawn runners."
 renown: local
+map: { x: 2.6986, y: 2.6471 }
 ---
 
 # Abydos Playground

@@ -10,6 +10,7 @@ summary:
   "Park of lime trees with a playground and a pond; always open, lamps until
   23:00; joggers and stretchers at dawn, a flea market Sundays 09:00–14:00."
 renown: local
+map: { x: 0.7868, y: 2.3013 }
 ---
 
 # Linden Park

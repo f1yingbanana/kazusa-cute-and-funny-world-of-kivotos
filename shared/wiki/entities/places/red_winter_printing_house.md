@@ -13,6 +13,7 @@ summary:
   nights."
 renown: known
 community: publishing_department
+map: { x: 1.431, y: 0.456 }
 ---
 
 # Red Bear Printing House

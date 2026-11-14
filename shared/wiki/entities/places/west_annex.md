@@ -10,6 +10,7 @@ summary:
   "Old two-storey club building at the campus's west edge: creaky stairs, club
   rooms, hand-lettered signs; open 07:00–20:00, then the caretaker locks it."
 renown: local
+map: { x: 0.8903, y: 2.6108 }
 ---
 
 # Trinity West Annex

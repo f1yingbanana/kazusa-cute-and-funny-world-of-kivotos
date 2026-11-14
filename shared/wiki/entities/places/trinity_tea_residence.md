@@ -18,6 +18,7 @@ connections:
       - { by: car, minutes: 6 }
     note:
       "The private road back to campus; a car is always waiting at the gate."
+map: { x: 0.8229, y: 2.4412 }
 ---
 
 # Tea Party Residence

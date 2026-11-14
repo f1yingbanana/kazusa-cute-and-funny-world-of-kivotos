@@ -12,6 +12,7 @@ summary:
 renown: known
 community: tea_party
 backdrop: trinity-terrace
+map: { x: 0.8268, y: 2.5692 }
 ---
 
 # Tea Party Terrace

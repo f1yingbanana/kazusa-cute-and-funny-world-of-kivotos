@@ -11,6 +11,7 @@ summary:
   parole terms taped to the wall. Breakfast around 07:00, after drill; weekday
   lunches packed here for the catacomb walk."
 renown: private
+map: { x: 0.4627, y: 2.7463 }
 ---
 
 # Arius Squad Shelter Kitchen

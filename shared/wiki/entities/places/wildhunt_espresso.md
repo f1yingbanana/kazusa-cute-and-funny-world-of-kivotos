@@ -10,6 +10,7 @@ summary:
   "Standing espresso bar under the piazza arcade; 07:00–18:00, queue before
   first class. It refuses to serve americanos."
 renown: local
+map: { x: 0.6326, y: 1.7056 }
 ---
 
 # Bastion Espresso Bar

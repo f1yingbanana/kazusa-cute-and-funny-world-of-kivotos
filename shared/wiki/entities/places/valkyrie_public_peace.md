@@ -14,6 +14,7 @@ summary:
 renown: known
 community: valkyrie_police_academy
 backdrop: valkyrie-office-desks
+map: { x: 1.8942, y: 1.4874 }
 ---
 
 # Valkyrie Public Peace Bureau

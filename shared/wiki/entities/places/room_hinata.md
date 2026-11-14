@@ -10,6 +10,7 @@ summary:
   "A scrubbed-clean cell: an inventory ledger on the desk, a rosary on the
   bedpost, an enormous suitcase by the door; she often forgets to lock it."
 renown: private
+map: { x: 0.9638, y: 2.4063 }
 ---
 
 # Hinata's Room

@@ -13,6 +13,7 @@ summary:
   after class and weekends."
 renown: local
 community: make_up_work_club
+map: { x: 0.804, y: 2.4164 }
 ---
 
 # Make-Up Work Club Annex

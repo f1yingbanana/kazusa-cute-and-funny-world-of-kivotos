@@ -10,7 +10,7 @@ summary:
   being repaired."
 renown: local
 community: arius_satellite_school
-map: { x: 0.27, y: 0.7 }
+map: { x: 0.48, y: 2.75 }
 backdrop: arius-street
 ---
 

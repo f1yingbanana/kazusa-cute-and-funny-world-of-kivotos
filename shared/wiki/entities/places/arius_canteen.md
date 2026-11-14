@@ -11,6 +11,7 @@ summary:
   06:30–08:00, 12:00–13:00, 18:00–19:30. Loud and crowded at supper."
 renown: local
 community: arius_reconstruction
+map: { x: 0.5001, y: 2.7387 }
 ---
 
 # Arius Reconstruction Canteen

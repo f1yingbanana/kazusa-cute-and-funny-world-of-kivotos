@@ -11,6 +11,7 @@ summary:
   ticket stubs, a locked treasure chest; locked."
 renown: private
 backdrop: student-room
+map: { x: 0.7746, y: 2.2551 }
 ---
 
 # Tsurugi's Room

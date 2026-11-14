@@ -12,6 +12,7 @@ summary:
   until 21:00."
 renown: local
 community: red_winter_federal_academy
+map: { x: 1.5329, y: 0.3354 }
 ---
 
 # Red Winter Parade Ground

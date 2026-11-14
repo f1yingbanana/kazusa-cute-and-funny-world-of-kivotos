@@ -7,7 +7,7 @@ name: "Hyakkiyako Station"
 summary:
   "Northwestern Line station with a temple-gate roof: D.U. and Shanhaijing every
   15 minutes, and the hourly tunnel train north; 05:30–23:30."
-map: { x: 0.31, y: 0.32 }
+map: { x: 1.1, y: 1.08 }
 connections:
   - to: hyakkiyako_district
     ways:

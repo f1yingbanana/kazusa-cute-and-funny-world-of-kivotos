@@ -11,6 +11,7 @@ summary:
   always down, a soft light on behind them."
 renown: private
 community: paranormal_affairs_department
+map: { x: 2.6706, y: 1.5811 }
 ---
 
 # Clubhouse Annex Room 13

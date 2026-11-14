@@ -12,6 +12,7 @@ summary:
 renown: known
 community: shanhaijing_senior_secondary_school
 backdrop: bamboo-forest
+map: { x: 0.292, y: 1.194 }
 ---
 
 # Shanhaijing Bamboo Forest

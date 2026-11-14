@@ -9,7 +9,7 @@ summary:
   "Hyakkiyako's snowy northern farmland around the Ebisu Satellite School; cold,
   quiet, hourly tunnel trains from town; the Great Snowfield beyond."
 community: hyakkiyako_alliance_academy
-map: { x: 0.28, y: 0.12 }
+map: { x: 0.88, y: 0.4 }
 backdrop: hyakkiyako-north-town-street
 ---
 

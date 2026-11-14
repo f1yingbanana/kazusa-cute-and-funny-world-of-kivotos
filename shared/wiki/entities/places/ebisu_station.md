@@ -7,7 +7,7 @@ name: "Ebisu Way Station"
 summary:
   "A wooden way station where the tunnel railway comes out into the snow; hourly
   trains back to Hyakkiyako, 06:00–22:00."
-map: { x: 0.28, y: 0.15 }
+map: { x: 0.92, y: 0.55 }
 connections:
   - to: ebisu_district
     ways:

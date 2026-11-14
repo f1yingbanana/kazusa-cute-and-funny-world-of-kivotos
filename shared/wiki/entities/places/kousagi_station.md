@@ -7,7 +7,7 @@ name: "Kousagi Station"
 summary:
   "D.U.'s southern rail gateway: Metro to downtown, Southern Line to Trinity and
   Gehenna, the Trans-Desert branch to Abydos; Metro 05:30–00:30."
-map: { x: 0.43, y: 0.53 }
+map: { x: 1.78, y: 2.08 }
 connections:
   - to: kousagi_station_street
     ways:

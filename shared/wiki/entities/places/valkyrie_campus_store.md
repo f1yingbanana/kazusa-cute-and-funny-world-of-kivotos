@@ -11,6 +11,7 @@ summary:
   "The academy shop by the parade ground: donuts, canned coffee, notebooks,
   crossword books and duty ammunition; 07:00–20:00, a queue at 08:30."
 renown: local
+map: { x: 1.8818, y: 1.4616 }
 ---
 
 # Valkyrie Campus Store

@@ -12,6 +12,7 @@ summary:
 renown: known
 community: millennium_science_school
 backdrop: library
+map: { x: 2.6823, y: 1.707 }
 ---
 
 # 42nd Millennium Library

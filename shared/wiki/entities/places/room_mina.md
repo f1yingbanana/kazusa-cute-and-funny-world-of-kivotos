@@ -11,6 +11,7 @@ summary:
   umbrella by the door, a recorder on the desk; never locked."
 renown: private
 backdrop: student-room
+map: { x: 0.2289, y: 1.1972 }
 ---
 
 # Mina's Room

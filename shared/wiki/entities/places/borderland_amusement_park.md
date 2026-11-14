@@ -17,6 +17,7 @@ connections:
     note:
       "Out the rear gate on the Gehenna side; half the rides are in Gehenna."
 backdrop: amusement-park
+map: { x: 0.8853, y: 2.4282 }
 ---
 
 # Borderland Amusement Park

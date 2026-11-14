@@ -10,6 +10,7 @@ summary:
   "Basement live house: shows from 19:00 on Fridays and Saturdays, a metal night
   once a month; loud, cheap tickets, last train to D.U. at 23:30."
 renown: local
+map: { x: 0.78, y: 1.6178 }
 ---
 
 # Live House Gargoyle

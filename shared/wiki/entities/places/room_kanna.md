@@ -11,6 +11,7 @@ summary:
   and films, a pressed spare uniform; locked, and she sleeps lightly."
 renown: private
 backdrop: valkyrie-student-room
+map: { x: 1.8889, y: 1.4511 }
 ---
 
 # Kanna Ogata's Room

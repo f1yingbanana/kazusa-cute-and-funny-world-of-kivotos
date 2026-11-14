@@ -10,6 +10,7 @@ summary:
   "The district's own bank: loans to anyone, at terrible rates; open 09:00–17:00
   behind armoured doors."
 backdrop: bank
+map: { x: 2.1207, y: 2.9297 }
 ---
 
 # Black Market Bank

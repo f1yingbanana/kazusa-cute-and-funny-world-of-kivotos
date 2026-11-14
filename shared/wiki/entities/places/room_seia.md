@@ -11,6 +11,7 @@ summary:
   puzzle on the blanket, a bird feeder at the window; a Knight checks in daily."
 renown: private
 backdrop: student-room
+map: { x: 0.8134, y: 2.4433 }
 ---
 
 # Seia's Room

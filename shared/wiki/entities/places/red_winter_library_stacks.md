@@ -10,6 +10,7 @@ summary:
   "Narrow aisles of rare books and back issues behind a staff-only rope; a
   blanket nest for naps in one bay; Front members only, open when they are."
 community: knowledge_liberation_front
+map: { x: 1.5641, y: 0.3376 }
 ---
 
 # Federal Library Closed Stacks

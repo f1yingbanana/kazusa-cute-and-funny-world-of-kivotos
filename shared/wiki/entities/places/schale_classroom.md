@@ -10,6 +10,7 @@ summary:
   "A classroom and small chemistry lab where Sensei holds lessons for any
   student who asks; open when Sensei is in."
 backdrop: classroom
+map: { x: 1.3885, y: 1.636 }
 ---
 
 # SCHALE Classroom

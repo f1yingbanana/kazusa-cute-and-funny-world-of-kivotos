@@ -12,6 +12,7 @@ summary:
 renown: private
 community: gehenna_academy
 backdrop: student-room
+map: { x: 1.4761, y: 2.5899 }
 ---
 
 # Kirara's Room

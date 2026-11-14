@@ -11,6 +11,7 @@ summary:
   stand; locked, booby-trapped for fun."
 renown: private
 community: problem_solver_68
+map: { x: 1.6238, y: 2.6614 }
 ---
 
 # Mutsuki's Room

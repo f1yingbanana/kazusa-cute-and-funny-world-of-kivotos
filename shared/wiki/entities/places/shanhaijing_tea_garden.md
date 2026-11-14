@@ -12,6 +12,7 @@ summary:
 renown: known
 community: shanhaijing_senior_secondary_school
 backdrop: shanhaijing-tea-house
+map: { x: 0.3041, y: 1.2088 }
 ---
 
 # Shanhaijing Tea Garden

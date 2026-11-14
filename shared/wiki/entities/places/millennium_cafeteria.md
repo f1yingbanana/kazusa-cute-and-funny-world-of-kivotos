@@ -12,6 +12,7 @@ summary:
 renown: known
 community: millennium_science_school
 backdrop: school-cafeteria
+map: { x: 2.7117, y: 1.6288 }
 ---
 
 # Millennium Central Cafeteria

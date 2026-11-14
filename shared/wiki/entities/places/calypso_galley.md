@@ -11,6 +11,7 @@ summary:
   "The berthing ship's small galley and mess table; residents cook their own
   breakfasts and late snacks; open until 22:00, smells of soup."
 renown: local
+map: { x: 1.9925, y: 1.6486 }
 ---
 
 # Calypso Galley

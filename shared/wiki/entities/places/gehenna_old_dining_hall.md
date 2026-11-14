@@ -11,6 +11,7 @@ summary:
   lab for gourmet experiments; used evenings and weekends, smells of something."
 renown: local
 community: gourmet_research_society
+map: { x: 1.5229, y: 2.8066 }
 ---
 
 # Gehenna Old Dining Hall

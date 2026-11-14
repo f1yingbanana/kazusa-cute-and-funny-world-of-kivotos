@@ -11,6 +11,7 @@ summary:
   timetable wall, a critic's corner; staffed 09:00–21:00, late on deadline
   nights."
 community: publishing_department
+map: { x: 1.4404, y: 0.4584 }
 ---
 
 # Red Bear Editorial Room

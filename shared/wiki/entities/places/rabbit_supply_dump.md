@@ -11,6 +11,7 @@ summary:
   "Stacked crates under camouflage netting: rations, ammunition, spare tarps and
   carefully labelled explosives; padlocked, inventory checked weekly."
 renown: local
+map: { x: 1.5735, y: 1.6257 }
 ---
 
 # RABBIT Supply Dump

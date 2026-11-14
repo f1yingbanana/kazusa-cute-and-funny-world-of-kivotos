@@ -12,6 +12,7 @@ summary:
 renown: local
 community: hyakkaryouran_resolution_council
 backdrop: hyakkaryouran-garden
+map: { x: 0.6742, y: 0.9292 }
 ---
 
 # Hyakkaryouran Courtyard Garden

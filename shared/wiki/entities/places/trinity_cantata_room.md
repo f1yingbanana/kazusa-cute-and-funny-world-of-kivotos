@@ -13,6 +13,7 @@ summary:
   16:00–20:00."
 renown: local
 backdrop: trinity-clubroom
+map: { x: 0.8977, y: 2.6046 }
 ---
 
 # Cantata Room

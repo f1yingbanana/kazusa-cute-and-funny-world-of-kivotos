@@ -16,6 +16,7 @@ connections:
     ways:
       - { by: walk, minutes: 2 }
     note: "Through the gate into the Central Special Zone."
+map: { x: 0.3861, y: 1.1838 }
 ---
 
 # Shanhaijing Inner Gate

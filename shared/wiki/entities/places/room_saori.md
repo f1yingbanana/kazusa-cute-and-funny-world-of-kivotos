@@ -10,6 +10,7 @@ summary:
   "Military-neat room: a cot, a cleaned rifle, a mended mask on a stand, a
   folder of signed contracts. Bolted at night; she sleeps lightly."
 renown: private
+map: { x: 0.4496, y: 2.7581 }
 ---
 
 # Saori's Room

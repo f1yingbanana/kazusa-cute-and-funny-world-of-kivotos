@@ -12,6 +12,7 @@ summary:
   lecture decks, the mess; gangway guarded, students aboard from 07:00 to 21:00."
 renown: known
 backdrop: odyssey-main-deck
+map: { x: 2.0081, y: 1.6269 }
 ---
 
 # Flagship Olympus

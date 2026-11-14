@@ -11,6 +11,7 @@ summary:
   "Vehicle hangar and rooftop heliport for SCHALE's cars, tanks and helicopters;
   staff and invited students only."
 backdrop: hangar
+map: { x: 1.3936, y: 1.6442 }
 ---
 
 # SCHALE Hangar

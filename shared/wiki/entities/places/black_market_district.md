@@ -9,7 +9,7 @@ summary:
   "An unauthorized district between Gehenna and Abydos: stalls, back alleys and
   a bank that asks no questions; no school's police."
 renown: known
-map: { x: 0.57, y: 0.81 }
+map: { x: 2.12, y: 2.92 }
 connections:
   - to: abydos_station
     ways:

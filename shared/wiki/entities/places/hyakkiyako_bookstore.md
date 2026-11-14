@@ -11,6 +11,7 @@ summary:
   manga; 11:00–20:00, quiet, browsers linger for hours."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.8876, y: 0.9168 }
 ---
 
 # Shiorido Used Books

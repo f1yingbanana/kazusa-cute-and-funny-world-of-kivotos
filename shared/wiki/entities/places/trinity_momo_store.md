@@ -11,6 +11,7 @@ summary:
   limited-edition corner; open 10:00–21:00; queues from early on release
   mornings."
 renown: local
+map: { x: 0.8938, y: 2.3708 }
 ---
 
 # Momo Friends Automated Store

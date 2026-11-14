@@ -15,6 +15,7 @@ connections:
     ways:
       - { by: walk, minutes: 5 }
     note: "Up the hill road to SCHALE."
+map: { x: 1.5395, y: 1.6829 }
 ---
 
 # Kousagi Station Street

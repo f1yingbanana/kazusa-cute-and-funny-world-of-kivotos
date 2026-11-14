@@ -13,6 +13,7 @@ summary:
 renown: local
 community: angel_24
 backdrop: convenience
+map: { x: 1.4337, y: 0.4345 }
 ---
 
 # Angel 24, Red Winter 3rd Street Branch

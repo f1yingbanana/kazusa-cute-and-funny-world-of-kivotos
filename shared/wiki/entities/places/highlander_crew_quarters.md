@@ -12,6 +12,7 @@ summary:
   keycard door, quiet hours 23:00–05:00 for early crews, trains rumble below."
 renown: local
 community: highlander_railroad_academy
+map: { x: 1.694, y: 1.4309 }
 ---
 
 # Highlander Crew Quarters

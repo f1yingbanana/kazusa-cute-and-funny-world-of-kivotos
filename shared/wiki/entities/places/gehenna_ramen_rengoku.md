@@ -11,6 +11,7 @@ summary:
   open 11:00–23:00, queues at lunch and after 21:00."
 renown: local
 backdrop: ramen-ya
+map: { x: 1.5671, y: 2.7147 }
 ---
 
 # Menya Rengoku

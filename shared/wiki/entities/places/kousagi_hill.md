@@ -9,6 +9,7 @@ entry_minutes: 10
 summary:
   "The wooded hill behind Kousagi Park: a hiking trail, foraging spots and an
   abandoned house; no lights after dark."
+map: { x: 1.5275, y: 1.6232 }
 ---
 
 # Kousagi Hill

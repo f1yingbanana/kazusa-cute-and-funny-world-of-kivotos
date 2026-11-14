@@ -10,6 +10,7 @@ summary:
   "Tiled shared washroom and showers on the ground floor; hot water usually gone
   by 06:30, laundry lines overhead, a queue every morning."
 community: red_winter_federal_academy
+map: { x: 1.3669, y: 0.3465 }
 ---
 
 # First Shared Dormitory Washroom

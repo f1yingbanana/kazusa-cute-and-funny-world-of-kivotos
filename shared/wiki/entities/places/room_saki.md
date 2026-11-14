@@ -11,6 +11,7 @@ summary:
   wild greens drying on a cord; zipped shut, helmet always on its peg."
 renown: private
 backdrop: tent-inside
+map: { x: 1.5703, y: 1.5836 }
 ---
 
 # Saki's Tent

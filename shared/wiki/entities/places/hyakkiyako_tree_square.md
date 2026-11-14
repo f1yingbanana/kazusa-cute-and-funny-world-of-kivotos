@@ -13,6 +13,7 @@ summary:
 renown: known
 community: hyakkiyako_alliance_academy
 backdrop: hyakkiyako-tree-square
+map: { x: 0.8143, y: 0.8974 }
 ---
 
 # Tree Square

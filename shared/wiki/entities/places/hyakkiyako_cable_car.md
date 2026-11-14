@@ -16,6 +16,7 @@ connections:
     ways:
       - { by: "cable car", minutes: 6 }
     note: "Up the hill to the observatory deck. Times include the wait."
+map: { x: 0.8183, y: 0.9112 }
 ---
 
 # Hyakkiyako Tourist Cable Car

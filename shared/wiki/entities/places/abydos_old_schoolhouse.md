@@ -11,6 +11,7 @@ summary:
   "A condemned wooden schoolhouse at the edge of campus, used for dares and
   night treasure hunts; boarded up, floors unsafe, no lights."
 renown: local
+map: { x: 2.6909, y: 2.6645 }
 ---
 
 # Abydos Old Schoolhouse 3

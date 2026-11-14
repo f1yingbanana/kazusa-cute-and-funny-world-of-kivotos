@@ -11,6 +11,7 @@ summary:
   map; locked when she's out, which is often."
 renown: private
 backdrop: tatami-room
+map: { x: 0.7884, y: 0.7927 }
 ---
 
 # Umika's Room

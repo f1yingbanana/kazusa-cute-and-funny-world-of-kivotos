@@ -12,6 +12,7 @@ summary:
   weekdays 09:00–18:00, upper floors by appointment only."
 renown: famous
 community: general_student_council
+map: { x: 1.6936, y: 1.5073 }
 ---
 
 # Sanctum Tower

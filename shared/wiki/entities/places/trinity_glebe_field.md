@@ -11,6 +11,7 @@ summary:
   07:00–17:00 under a Justice Task Force supervisor; nobody comes for fun."
 renown: local
 community: trinity_general_school
+map: { x: 0.801, y: 2.4423 }
 ---
 
 # Glebe Field

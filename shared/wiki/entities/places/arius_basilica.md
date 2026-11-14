@@ -12,6 +12,7 @@ summary:
 renown: known
 community: arius_satellite_school
 backdrop: arius-basilica
+map: { x: 0.4755, y: 2.7414 }
 ---
 
 # Arius Basilica Ruins

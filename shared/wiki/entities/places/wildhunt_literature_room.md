@@ -12,6 +12,7 @@ summary:
 renown: local
 community: wild_hunt_academy
 backdrop: wildhunt-classroom
+map: { x: 0.6331, y: 1.689 }
 ---
 
 # Wild Hunt Literature Seminar Room

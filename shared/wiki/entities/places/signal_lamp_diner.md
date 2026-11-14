@@ -12,6 +12,7 @@ summary:
   05:00–15:00 and 18:00–23:00, packed at shift change, counter seats only."
 renown: local
 backdrop: train-restaurant
+map: { x: 1.6461, y: 1.4228 }
 ---
 
 # Signal Lamp Diner

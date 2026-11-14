@@ -11,6 +11,7 @@ summary:
   08:00–20:00, contraband confiscated on the spot."
 renown: local
 community: wild_hunt_academy
+map: { x: 0.6672, y: 1.7316 }
 ---
 
 # Dormitory No. 5 Mailroom

@@ -11,6 +11,7 @@ summary:
   everywhere, a jar of seashells, fairy lights over the damp patches; locked."
 renown: private
 backdrop: student-room
+map: { x: 0.8206, y: 2.2785 }
 ---
 
 # Mika Misono's Room

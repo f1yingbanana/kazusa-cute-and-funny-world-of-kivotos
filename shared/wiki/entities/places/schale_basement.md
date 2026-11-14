@@ -9,6 +9,7 @@ entry_minutes: 3
 summary:
   "SCHALE's basement level: the Shittim Chest's room and FOX Squad's
   headquarters; keycard only."
+map: { x: 1.377, y: 1.6177 }
 ---
 
 # SCHALE Basement

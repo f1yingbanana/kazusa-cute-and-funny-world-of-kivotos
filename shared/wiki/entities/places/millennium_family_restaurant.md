@@ -12,6 +12,7 @@ summary:
   students camp at booths with homework after 21:00."
 renown: local
 backdrop: family-restaurant
+map: { x: 2.8398, y: 1.6854 }
 ---
 
 # Galileo Family Restaurant

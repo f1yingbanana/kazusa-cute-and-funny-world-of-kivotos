@@ -12,6 +12,7 @@ summary:
 renown: local
 community: kadenokouji_family
 backdrop: hyakkiyako-temple
+map: { x: 0.7921, y: 0.8723 }
 ---
 
 # Kadenokouji Family Shrine

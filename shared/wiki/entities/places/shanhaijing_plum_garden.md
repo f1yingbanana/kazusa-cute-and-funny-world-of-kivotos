@@ -13,6 +13,7 @@ summary:
 renown: known
 community: plum_blossom_garden
 backdrop: shanhaijing-plum-blossom-garden
+map: { x: 0.1755, y: 1.2823 }
 ---
 
 # Plum Blossom Garden Main Building

@@ -11,6 +11,7 @@ summary:
   thick curtains to hide behind; locked."
 renown: private
 backdrop: tatami-room
+map: { x: 0.7827, y: 0.7848 }
 ---
 
 # Tsukuyo's Room

@@ -11,6 +11,7 @@ summary:
   silver tray, a window box of herbs; locked, a guard down the hall."
 renown: private
 backdrop: student-room
+map: { x: 0.8286, y: 2.449 }
 ---
 
 # Nagisa's Room

@@ -10,6 +10,7 @@ summary:
   "Guardroom by the Office Building's entrance: rifle rack, samovar, duty
   roster; State Guard officers on watch 24 hours, shift change 06:00 and 18:00."
 community: red_winter_office
+map: { x: 1.4851, y: 0.2909 }
 ---
 
 # State Guard Duty Room

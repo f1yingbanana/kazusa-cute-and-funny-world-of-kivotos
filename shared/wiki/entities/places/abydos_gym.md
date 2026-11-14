@@ -13,6 +13,7 @@ summary:
 renown: local
 community: abydos_high_school
 backdrop: gym
+map: { x: 2.6946, y: 2.6735 }
 ---
 
 # Abydos Gymnasium

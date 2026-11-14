@@ -9,6 +9,7 @@ entry_minutes: 4
 summary:
   "A boarded-up house on Kousagi Hill; empty, unlocked, and quiet enough to
   practice shooting."
+map: { x: 1.5314, y: 1.6321 }
 ---
 
 # Abandoned Hillside House

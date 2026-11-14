@@ -11,6 +11,7 @@ summary:
   student government sits in front; class 08:30–15:30 on weekdays, often
   interrupted by announcements."
 community: red_winter_federal_academy
+map: { x: 1.515, y: 0.3537 }
 ---
 
 # Red Winter Class 3-1

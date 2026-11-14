@@ -11,6 +11,7 @@ summary:
   "The camp's tarp kitchen: an oil-drum stove, crates for seats, a mess table
   and a cooler; meals at dawn and dusk, the kettle on at all hours."
 renown: local
+map: { x: 1.5826, y: 1.6221 }
 ---
 
 # RABBIT Camp Cookfire

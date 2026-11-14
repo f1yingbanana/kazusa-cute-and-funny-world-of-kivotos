@@ -13,6 +13,7 @@ summary:
 renown: known
 community: red_winter_office
 backdrop: cherino-office
+map: { x: 1.4687, y: 0.2825 }
 ---
 
 # Red Winter Presidential Office

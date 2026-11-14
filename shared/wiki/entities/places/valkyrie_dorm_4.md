@@ -12,6 +12,7 @@ summary:
   23:00 with signed exemptions for night duty, roll call 06:30."
 renown: local
 community: valkyrie_police_academy
+map: { x: 1.8906, y: 1.4416 }
 ---
 
 # Valkyrie Assigned Dormitory 4

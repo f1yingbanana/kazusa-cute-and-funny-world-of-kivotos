@@ -13,6 +13,7 @@ summary:
   dinner."
 renown: famous
 community: xuanwu_merchant_association
+map: { x: 0.4412, y: 1.1938 }
 ---
 
 # Black Tortoise Promenade

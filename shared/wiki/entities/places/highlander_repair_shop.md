@@ -13,6 +13,7 @@ summary:
 renown: local
 community: highlander_freight_logistics
 backdrop: train-hangar
+map: { x: 1.6478, y: 1.4398 }
 ---
 
 # Highlander Repair Shop

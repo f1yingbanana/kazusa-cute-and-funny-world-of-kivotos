@@ -12,6 +12,7 @@ summary:
 renown: private
 community: red_winter_public_works
 backdrop: student-room
+map: { x: 1.8895, y: 1.5144 }
 ---
 
 # Minori's Room

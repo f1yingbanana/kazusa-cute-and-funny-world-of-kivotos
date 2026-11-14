@@ -13,6 +13,7 @@ summary:
   now and then. No trains, no water."
 renown: local
 backdrop: desert-railway
+map: { x: 2.6206, y: 2.6905 }
 ---
 
 # Old Desert Line Station

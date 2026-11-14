@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "A staff corridor of small bedrooms for whoever is on night duty, and for FOX
   Squad; quiet hours after 23:00."
+map: { x: 1.4291, y: 1.7013 }
 ---
 
 # SCHALE Night-Duty Corridor

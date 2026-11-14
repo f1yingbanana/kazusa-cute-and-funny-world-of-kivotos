@@ -12,6 +12,7 @@ summary:
 renown: known
 community: hyakkiyako_alliance_academy
 backdrop: hyakkiyako-lantern-road
+map: { x: 0.829, y: 0.9098 }
 ---
 
 # Lantern Road

@@ -11,6 +11,7 @@ summary:
   certificates on every wall, parts sorted in salvaged tins; seldom locked."
 renown: private
 community: red_winter_special_class_183
+map: { x: 1.3297, y: 0.3823 }
 ---
 
 # Anna's Room

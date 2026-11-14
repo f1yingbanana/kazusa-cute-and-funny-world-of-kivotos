@@ -10,6 +10,7 @@ summary:
   "The suspended class's study room: a register to sign at 09:00, outdated
   textbooks, a blackboard of self-study tasks; unheated, usually empty by 11:00."
 community: special_class_227
+map: { x: 1.357, y: 0.4683 }
 ---
 
 # No. 227 Classroom

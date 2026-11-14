@@ -12,6 +12,7 @@ summary:
   parked outside the back door; staffed day and night by whoever is on call."
 renown: local
 community: emergency_medicine_club
+map: { x: 1.4989, y: 2.8051 }
 ---
 
 # Emergency Medicine Club Room

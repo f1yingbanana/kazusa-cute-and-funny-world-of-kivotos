@@ -26,6 +26,7 @@ connections:
       - { by: walk, minutes: 4 }
     note: "Through the east gate to the festival plaza."
 backdrop: hyakkiyako-castle-square
+map: { x: 0.7341, y: 0.9779 }
 ---
 
 # Castle Square

@@ -11,6 +11,7 @@ summary:
   members and guests only, quiet at all hours."
 renown: local
 community: xuanlong_office
+map: { x: 0.2315, y: 1.2105 }
 ---
 
 # Genryumon Palace Garden

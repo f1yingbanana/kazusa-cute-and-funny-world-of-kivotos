@@ -11,6 +11,7 @@ summary:
   pebble collection, a thermos, a rifle wrapped in a blanket; always zipped."
 renown: private
 backdrop: tent-inside
+map: { x: 1.5576, y: 1.5982 }
 ---
 
 # Miyu's Tent

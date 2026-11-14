@@ -12,6 +12,7 @@ summary:
 renown: known
 community: trinity_general_school
 backdrop: cathedral-ruins
+map: { x: 0.7802, y: 2.4363 }
 ---
 
 # Old Cathedral of Communion

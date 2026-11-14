@@ -9,6 +9,7 @@ entry_minutes: 3
 summary:
   "SCHALE's lower floors for training: a gym, a shooting range and a training
   room; open 06:00–22:00."
+map: { x: 1.4106, y: 1.6088 }
 ---
 
 # SCHALE Training Wing

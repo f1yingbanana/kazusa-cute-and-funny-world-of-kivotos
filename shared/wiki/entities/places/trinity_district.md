@@ -9,7 +9,7 @@ summary:
   down toward the sea."
 renown: famous
 community: trinity_general_school
-map: { x: 0.33, y: 0.62 }
+map: { x: 0.88, y: 2.42 }
 connections:
   - to: gehenna_district
     ways:

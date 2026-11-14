@@ -10,6 +10,7 @@ summary:
   "SCHALE's residence wing: rooms to rest and study, a cafeteria, a retro arcade
   and an Angel 24; open to students 06:00–23:00."
 renown: known
+map: { x: 1.438, y: 1.6734 }
 ---
 
 # SCHALE Residence Hall

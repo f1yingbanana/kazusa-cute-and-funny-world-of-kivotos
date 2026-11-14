@@ -23,6 +23,7 @@ connections:
     ways:
       - { by: walk, minutes: 30 }
     note: "Up the mountain road into the forest."
+map: { x: 1.3527, y: 0.4771 }
 ---
 
 # Former Institute

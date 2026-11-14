@@ -12,6 +12,7 @@ summary:
   gate."
 renown: private
 backdrop: student-room
+map: { x: 2.6471, y: 2.631 }
 ---
 
 # Nonomi's Room

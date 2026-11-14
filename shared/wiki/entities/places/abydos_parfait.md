@@ -10,6 +10,7 @@ summary:
   "Bright parfait café with tall glasses and a shaded terrace; 11:00–20:00,
   queue on weekends, half-price parfaits on Wednesdays."
 renown: local
+map: { x: 2.61, y: 2.6783 }
 ---
 
 # Desert Rose Parlour

@@ -12,6 +12,7 @@ summary:
   of books, a game console and a snack crate; private."
 renown: private
 community: pandemonium_society
+map: { x: 1.4563, y: 2.9087 }
 ---
 
 # Iroha's Nest

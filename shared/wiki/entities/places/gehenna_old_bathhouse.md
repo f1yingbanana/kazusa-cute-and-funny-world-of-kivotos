@@ -10,6 +10,7 @@ summary:
   "A closed-down public bath with boarded windows and a dry tiled pool; nobody
   officially uses it; odd noises at night."
 renown: local
+map: { x: 1.6632, y: 2.6682 }
 ---
 
 # Former Matsu-no-yu Bathhouse

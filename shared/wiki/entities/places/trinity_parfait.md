@@ -12,6 +12,7 @@ summary:
   night owls, insomniacs and patrols after midnight."
 renown: local
 backdrop: dessert-cafe
+map: { x: 0.9329, y: 2.3588 }
 ---
 
 # Étoile Parfait Parlour

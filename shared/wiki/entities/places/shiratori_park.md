@@ -11,6 +11,7 @@ summary:
   "A large, quiet park of lawns, ponds and wooded paths; rarely crowded, open at
   all hours."
 backdrop: park
+map: { x: 1.9025, y: 1.5044 }
 ---
 
 # Shiratori Neighborhood Park

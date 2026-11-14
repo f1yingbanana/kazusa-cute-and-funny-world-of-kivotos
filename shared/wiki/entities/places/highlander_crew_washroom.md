@@ -11,6 +11,7 @@ summary:
   "Showers, sinks and a laundry for crew uniforms; hot water at all hours, a
   queue after the evening shift change."
 renown: local
+map: { x: 1.689, y: 1.4226 }
 ---
 
 # Highlander Crew Shower Room

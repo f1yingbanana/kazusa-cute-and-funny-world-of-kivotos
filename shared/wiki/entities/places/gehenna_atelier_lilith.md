@@ -10,6 +10,7 @@ summary:
   "A fashionable boutique of dresses and accessories; open 11:00–21:00, window
   shoppers all afternoon, fittings by appointment."
 renown: local
+map: { x: 1.5791, y: 2.7031 }
 ---
 
 # Atelier Lilith

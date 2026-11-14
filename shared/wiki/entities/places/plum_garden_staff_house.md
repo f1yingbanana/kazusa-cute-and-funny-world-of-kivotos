@@ -11,6 +11,7 @@ summary:
   shared kitchenette, children's drawings on the walls."
 renown: local
 community: plum_blossom_garden
+map: { x: 0.1971, y: 1.2828 }
 ---
 
 # Plum Blossom Garden Staff House

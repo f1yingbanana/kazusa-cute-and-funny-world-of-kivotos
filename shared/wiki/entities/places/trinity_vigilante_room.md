@@ -13,6 +13,7 @@ summary:
   patrols."
 community: vigilante_crew
 backdrop: trinity-clubroom
+map: { x: 0.8819, y: 2.6058 }
 ---
 
 # Vigilante Crew Room

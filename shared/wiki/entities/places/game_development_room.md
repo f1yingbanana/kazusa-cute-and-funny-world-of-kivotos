@@ -12,6 +12,7 @@ summary:
 renown: known
 community: game_development_department
 backdrop: game-dev-room
+map: { x: 2.6411, y: 1.5727 }
 ---
 
 # Game Development Department Club Room

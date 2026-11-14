@@ -10,6 +10,7 @@ summary:
   "Counter by the bathhouse exit serving cold fruit milk, kompot and mors after
   a soak; open 16:00–22:30, busiest after 20:00."
 community: red_winter_hot_springs
+map: { x: 1.3628, y: 0.5072 }
 ---
 
 # No. 227 Bathhouse Milk Bar

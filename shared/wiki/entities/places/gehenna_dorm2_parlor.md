@@ -11,6 +11,7 @@ summary:
   residents at all hours, busiest after dinner."
 renown: local
 community: gehenna_academy
+map: { x: 1.5243, y: 2.6304 }
 ---
 
 # Dormitory No. 2 Parlor

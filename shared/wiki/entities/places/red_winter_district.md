@@ -11,7 +11,7 @@ summary:
   year, a coup most weeks."
 renown: known
 community: red_winter_federal_academy
-map: { x: 0.55, y: 0.08 }
+map: { x: 1.4, y: 0.38 }
 backdrop: red-winter-street
 ---
 

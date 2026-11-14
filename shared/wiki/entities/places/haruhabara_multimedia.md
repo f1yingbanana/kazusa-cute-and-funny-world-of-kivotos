@@ -10,6 +10,7 @@ entry_minutes: 3
 summary:
   "Eight floors of electronics, games, toys and figures; open 10:00–21:00,
   queues on release days."
+map: { x: 2.3659, y: 2.0923 }
 ---
 
 # Haruhabara Multimedia Center

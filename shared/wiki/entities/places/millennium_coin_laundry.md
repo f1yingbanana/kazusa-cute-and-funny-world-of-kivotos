@@ -10,6 +10,7 @@ summary:
   "24-hour coin laundromat on Villa Lagrange's ground floor; bright and empty
   after midnight except for the odd night owl."
 renown: local
+map: { x: 2.8413, y: 1.6046 }
 ---
 
 # Coin Laundry Lagrange

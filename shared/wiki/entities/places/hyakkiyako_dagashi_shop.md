@@ -11,6 +11,7 @@ summary:
   10:00–18:30, children and students after 15:00."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.8704, y: 0.924 }
 ---
 
 # Komachi Dagashi Shop

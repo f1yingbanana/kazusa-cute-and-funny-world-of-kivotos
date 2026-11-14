@@ -11,6 +11,7 @@ summary:
   armchairs; open until 23:00, crowded every evening, roll call here at 22:30."
 community: red_winter_federal_academy
 backdrop: fireplace-dormitory
+map: { x: 1.3948, y: 0.3274 }
 ---
 
 # First Shared Dormitory Fireplace Lounge

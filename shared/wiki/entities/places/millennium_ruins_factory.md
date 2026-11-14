@@ -10,6 +10,7 @@ summary:
   "Deep, half-collapsed factory in the ruins with an underground chamber; no
   power, no light, guard machines in the halls."
 renown: local
+map: { x: 2.8267, y: 1.6979 }
 ---
 
 # Millennium Ruins Factory

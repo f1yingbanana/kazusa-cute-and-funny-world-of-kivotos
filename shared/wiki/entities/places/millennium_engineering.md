@@ -13,6 +13,7 @@ summary:
   yellow line."
 renown: known
 community: engineering_department
+map: { x: 2.6759, y: 1.6433 }
 ---
 
 # Millennium Engineering Hangar

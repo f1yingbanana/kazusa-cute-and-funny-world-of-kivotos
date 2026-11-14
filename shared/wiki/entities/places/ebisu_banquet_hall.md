@@ -11,6 +11,7 @@ summary:
   committee meetings; warm, loud at dinner."
 renown: local
 community: ebisu_satellite_school
+map: { x: 0.8553, y: 0.418 }
 ---
 
 # Ebisu Dormitory Banquet Hall

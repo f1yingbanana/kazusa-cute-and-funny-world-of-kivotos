@@ -11,6 +11,7 @@ summary:
   children, a map of every building she covers; locked."
 renown: private
 backdrop: student-room
+map: { x: 0.8112, y: 2.2808 }
 ---
 
 # Serina's Room

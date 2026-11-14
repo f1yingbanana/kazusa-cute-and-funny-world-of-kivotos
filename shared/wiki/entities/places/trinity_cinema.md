@@ -10,6 +10,7 @@ summary:
   "Six-screen cinema on the Galleria's top floor; first show 10:30, last 21:15
   via the side lift; student discount on weekdays, sold out on Saturday nights."
 renown: local
+map: { x: 0.8957, y: 2.3609 }
 ---
 
 # Galleria Cinema

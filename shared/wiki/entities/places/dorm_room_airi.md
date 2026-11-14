@@ -12,6 +12,7 @@ summary:
   everywhere; locked when she's out, but she opens to a friend's knock."
 renown: private
 backdrop: student-room
+map: { x: 0.8215, y: 2.3173 }
 ---
 
 # Airi's Room

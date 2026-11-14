@@ -11,6 +11,7 @@ summary:
   and potted herbs; unlocked while she runs at dawn."
 renown: private
 backdrop: student-room
+map: { x: 2.8138, y: 1.7445 }
 ---
 
 # Sumire's Room

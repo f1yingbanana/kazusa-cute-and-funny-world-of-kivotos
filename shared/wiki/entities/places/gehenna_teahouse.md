@@ -11,6 +11,7 @@ summary:
   "An elegant old teahouse at the quiet end of the river path; open 10:00–19:00,
   few customers, reservations for the tatami rooms."
 renown: local
+map: { x: 1.5941, y: 2.7505 }
 ---
 
 # Yūgure Teahouse

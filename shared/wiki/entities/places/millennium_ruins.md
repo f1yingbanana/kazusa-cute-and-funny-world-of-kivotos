@@ -11,6 +11,7 @@ summary:
   "Restricted wasteland of abandoned facilities and dormant machines beyond the
   outskirts; fenced by Seminar, entry by permit only, hostile drones."
 renown: known
+map: { x: 2.8177, y: 1.7015 }
 ---
 
 # Millennium Ruins

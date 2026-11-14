@@ -13,6 +13,7 @@ summary:
 renown: local
 community: yin_yang_club
 backdrop: hyakkiyako-meeting-room
+map: { x: 0.7449, y: 0.991 }
 ---
 
 # Yin-Yang Club Meeting Room

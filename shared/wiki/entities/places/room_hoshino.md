@@ -12,6 +12,7 @@ summary:
   losing the key."
 renown: private
 backdrop: student-room
+map: { x: 2.6596, y: 2.6922 }
 ---
 
 # Hoshino's Room

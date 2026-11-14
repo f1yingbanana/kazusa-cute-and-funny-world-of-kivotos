@@ -11,6 +11,7 @@ summary:
   lessons until 15:30, loud at lunch."
 renown: local
 community: shanhaijing_senior_secondary_school
+map: { x: 0.2541, y: 1.2609 }
 ---
 
 # Shanhaijing Class 1-A

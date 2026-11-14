@@ -11,6 +11,7 @@ summary:
   corner, flea-market finds in boxes; locked, the key under the mat."
 renown: private
 backdrop: student-room
+map: { x: 0.7579, y: 2.2537 }
 ---
 
 # Ichika's Room

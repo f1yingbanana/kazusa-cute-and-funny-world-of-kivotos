@@ -12,6 +12,7 @@ summary:
   dinner 17:00–19:00 sharp; packed at noon, shut by the time night shifts end."
 renown: local
 community: valkyrie_police_academy
+map: { x: 1.8623, y: 1.4632 }
 ---
 
 # Valkyrie Campus Cafeteria

@@ -9,6 +9,7 @@ entry_minutes: 2
 summary:
   "Quiet rose garden behind the Academic Hall: white roses, stone benches, a
   sundial; open in daylight; full of lunch boxes on fine days 12:00–13:00."
+map: { x: 0.9006, y: 2.5213 }
 ---
 
 # Rose Courtyard

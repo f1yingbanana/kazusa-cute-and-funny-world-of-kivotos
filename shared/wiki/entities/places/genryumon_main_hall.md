@@ -12,6 +12,7 @@ summary:
 renown: known
 community: xuanlong_office
 backdrop: shanhaijing-president
+map: { x: 0.2227, y: 1.2231 }
 ---
 
 # Genryumon Main Hall

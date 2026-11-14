@@ -13,6 +13,7 @@ summary:
 renown: local
 community: gehenna_academy
 backdrop: library
+map: { x: 1.5302, y: 2.8392 }
 ---
 
 # Gehenna Academy Library

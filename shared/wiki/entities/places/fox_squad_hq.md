@@ -11,6 +11,7 @@ summary:
   coffee machine; FOX's keycard only."
 community: fox_platoon
 backdrop: fox-hq-room
+map: { x: 1.3804, y: 1.6086 }
 ---
 
 # FOX Squad HQ

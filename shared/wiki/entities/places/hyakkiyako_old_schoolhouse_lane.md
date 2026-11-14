@@ -12,6 +12,7 @@ summary:
   squatted by small clubs; unlit after dark, few people pass."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.6964, y: 0.9412 }
 ---
 
 # Old Schoolhouse Lane

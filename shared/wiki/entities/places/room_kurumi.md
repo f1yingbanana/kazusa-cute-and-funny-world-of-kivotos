@@ -12,6 +12,7 @@ summary:
   twice."
 renown: private
 backdrop: student-room
+map: { x: 1.4387, y: 1.7028 }
 ---
 
 # Kurumi Takakura's Room

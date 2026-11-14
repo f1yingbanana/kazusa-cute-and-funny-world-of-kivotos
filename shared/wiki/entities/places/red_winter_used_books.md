@@ -10,6 +10,7 @@ summary:
   "Cramped used bookshop of floor-to-ceiling secondhand books, fanzines and back
   issues; 11:00–20:00, closed Mondays; a few regulars browsing for hours."
 renown: local
+map: { x: 1.4358, y: 0.425 }
 ---
 
 # Samovar Used Books

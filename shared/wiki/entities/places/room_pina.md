@@ -11,6 +11,7 @@ summary:
   flag and megaphone; door open, visitors welcome."
 renown: private
 backdrop: tatami-room
+map: { x: 0.7869, y: 0.8023 }
 ---
 
 # Pina's Room

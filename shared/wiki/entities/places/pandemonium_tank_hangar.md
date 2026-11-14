@@ -11,6 +11,7 @@ summary:
   echoing at night; the side door is never really locked."
 renown: local
 community: pandemonium_society
+map: { x: 1.4655, y: 2.9118 }
 ---
 
 # Pandemonium Tank Hangar

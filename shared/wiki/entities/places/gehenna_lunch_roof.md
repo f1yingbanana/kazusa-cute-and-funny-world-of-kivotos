@@ -11,6 +11,7 @@ summary:
   building is, usually empty, a place to breathe between services."
 renown: local
 community: school_lunch_club
+map: { x: 1.4923, y: 2.8448 }
 ---
 
 # School Lunch Club Rooftop

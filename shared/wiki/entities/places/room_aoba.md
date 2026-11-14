@@ -11,6 +11,7 @@ summary:
   half-mended appliances, earplugs, motion-sickness pills; always locked."
 renown: private
 backdrop: student-room
+map: { x: 1.6995, y: 1.423 }
 ---
 
 # Aoba's Room

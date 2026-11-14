@@ -12,6 +12,7 @@ summary:
   ladder into the water, compressors, a gear shed; used dawn to dusk, empty at
   night."
 renown: local
+map: { x: 1.9647, y: 1.6264 }
 ---
 
 # Terminal 3 Dive Pier

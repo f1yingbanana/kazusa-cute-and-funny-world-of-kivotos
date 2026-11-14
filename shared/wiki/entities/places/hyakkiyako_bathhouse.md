@@ -11,6 +11,7 @@ summary:
   after club, busiest 21:00–23:00, fruit milk at the counter."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.8142, y: 0.7593 }
 ---
 
 # Sakurayu Bathhouse

@@ -12,6 +12,7 @@ summary:
   Parcels are opened in the mailroom before residents get them."
 renown: local
 community: wild_hunt_academy
+map: { x: 0.6744, y: 1.7381 }
 ---
 
 # Dormitory No. 5

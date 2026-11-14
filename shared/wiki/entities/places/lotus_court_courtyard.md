@@ -11,6 +11,7 @@ summary:
   stove under the eaves; open until the 23:00 lock."
 renown: local
 community: shanhaijing_senior_secondary_school
+map: { x: 0.2918, y: 1.1639 }
 ---
 
 # Lotus Court Courtyard

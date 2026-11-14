@@ -11,6 +11,7 @@ summary:
   picture books; open all hours."
 renown: local
 community: plum_blossom_garden
+map: { x: 0.1888, y: 1.288 }
 ---
 
 # Plum Blossom Staff Kitchenette

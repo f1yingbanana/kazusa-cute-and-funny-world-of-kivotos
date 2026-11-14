@@ -12,6 +12,7 @@ summary:
   emblem; open whenever someone's in, clients by appointment."
 renown: local
 community: problem_solver_68
+map: { x: 1.6208, y: 2.6522 }
 ---
 
 # Problem Solver 68 Office

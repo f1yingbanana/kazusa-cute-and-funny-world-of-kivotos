@@ -13,6 +13,7 @@ summary:
   after 23:00."
 renown: known
 backdrop: convenience
+map: { x: 0.8754, y: 0.9323 }
 ---
 
 # Angel 24, Hyakkiyako Branch

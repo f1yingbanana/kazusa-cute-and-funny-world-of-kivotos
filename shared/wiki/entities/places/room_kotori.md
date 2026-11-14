@@ -11,6 +11,7 @@ summary:
   recorder; unlocked and open to anyone who wants an explanation."
 renown: private
 backdrop: student-room
+map: { x: 2.7985, y: 1.7326 }
 ---
 
 # Kotori's Room

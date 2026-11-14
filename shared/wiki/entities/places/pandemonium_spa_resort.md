@@ -12,6 +12,7 @@ summary:
 renown: local
 community: pandemonium_society
 backdrop: onsen
+map: { x: 1.63, y: 2.7616 }
 ---
 
 # Pandemonium Spa Resort

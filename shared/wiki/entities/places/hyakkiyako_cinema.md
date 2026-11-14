@@ -11,6 +11,7 @@ summary:
   shows 13:00–23:00, all-night marathons on Saturdays."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.8421, y: 0.8653 }
 ---
 
 # Kinema Hyakkiyako

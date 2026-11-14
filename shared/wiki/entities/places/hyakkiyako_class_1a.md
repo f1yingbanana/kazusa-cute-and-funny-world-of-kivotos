@@ -11,6 +11,7 @@ summary:
   window; homeroom 08:30, lessons until 15:00, noisy at every break."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.722, y: 0.9849 }
 ---
 
 # Hyakkiyako Class 1-A

@@ -11,6 +11,7 @@ summary:
   quarterly budget hearings; locked when not in use."
 renown: local
 community: seminar
+map: { x: 2.7263, y: 1.6303 }
 ---
 
 # Seminar Conference Room

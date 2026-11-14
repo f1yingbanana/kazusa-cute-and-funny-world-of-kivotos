@@ -10,6 +10,7 @@ summary:
   "Bread shop on Trinity Street: baguettes, sandwiches, cream buns; open
   07:00–19:00; sells out around 08:00, 12:00 and 18:00."
 renown: local
+map: { x: 0.9234, y: 2.3607 }
 ---
 
 # Boulangerie Lumière

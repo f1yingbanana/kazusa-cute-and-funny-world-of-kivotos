@@ -10,6 +10,7 @@ summary:
   "Cot room behind the lab: bubbling flasks by the bed, a cheese wheel under a
   glass dome, a tiny bed for her rat; locked with a chemical seal."
 renown: private
+map: { x: 0.222, y: 1.2979 }
 ---
 
 # Saya's Room

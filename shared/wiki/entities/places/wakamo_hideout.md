@@ -10,6 +10,7 @@ summary:
   "Loft of a forgotten shrine storehouse up an overgrown path, its window facing
   the SCHALE building; no lights, no lock but hers."
 renown: private
+map: { x: 1.5336, y: 1.6157 }
 ---
 
 # Storehouse Loft on Kousagi Hill

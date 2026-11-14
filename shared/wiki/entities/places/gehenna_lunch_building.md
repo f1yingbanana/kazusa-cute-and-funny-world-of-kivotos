@@ -12,6 +12,7 @@ summary:
   04:30."
 renown: local
 community: school_lunch_club
+map: { x: 1.502, y: 2.8438 }
 ---
 
 # School Lunch Club Building

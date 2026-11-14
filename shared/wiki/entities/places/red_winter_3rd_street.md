@@ -22,6 +22,7 @@ connections:
       - { by: walk, minutes: 6 }
       - { by: tram, minutes: 4 }
     note: "Up the avenue to the campus gate."
+map: { x: 1.4261, y: 0.4284 }
 ---
 
 # Red Winter 3rd Street Shopping District

@@ -12,6 +12,7 @@ summary:
   salvage in crates; club members only, busiest before morning dives."
 renown: local
 community: odyssey_diving_club
+map: { x: 1.9729, y: 1.6213 }
 ---
 
 # Terminal 3 Dive Shed

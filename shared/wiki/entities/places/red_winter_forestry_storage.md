@@ -12,6 +12,7 @@ summary:
   staffed."
 renown: local
 community: red_winter_federal_academy
+map: { x: 1.3532, y: 0.3976 }
 ---
 
 # Red Winter Forestry Storage

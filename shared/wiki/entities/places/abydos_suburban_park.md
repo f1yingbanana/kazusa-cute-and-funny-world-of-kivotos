@@ -10,6 +10,7 @@ summary:
   "Small park behind the market: a dry fountain, benches, flower beds kept by
   part-time weeders. Open all hours; empty and dark at night."
 renown: local
+map: { x: 2.6305, y: 2.6759 }
 ---
 
 # Abydos Suburban Park

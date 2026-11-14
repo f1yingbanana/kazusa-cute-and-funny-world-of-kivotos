@@ -12,6 +12,7 @@ summary:
   seasonal sweets; open 10:00–19:00, closed Wednesdays, queues at weekends."
 renown: famous
 community: festival_operations_department
+map: { x: 0.8718, y: 0.9021 }
 ---
 
 # Momoyodou

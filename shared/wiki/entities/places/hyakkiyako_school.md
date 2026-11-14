@@ -14,6 +14,7 @@ summary:
 renown: known
 community: hyakkiyako_alliance_academy
 backdrop: hyakkiyako-campus
+map: { x: 0.7351, y: 0.9683 }
 ---
 
 # Hyakkiyako Alliance Academy Grounds

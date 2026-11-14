@@ -12,6 +12,7 @@ summary:
   full in exam weeks."
 renown: known
 community: millennium_science_school
+map: { x: 2.6722, y: 1.7075 }
 ---
 
 # Millennium Study Area

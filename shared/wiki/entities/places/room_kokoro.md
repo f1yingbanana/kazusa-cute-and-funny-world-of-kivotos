@@ -10,6 +10,7 @@ summary:
   "A two-berth cabin she has to herself: diving gear hung in checklist order, a
   twice-laminated pre-dive checklist, a small pan; locked, and checked twice."
 renown: private
+map: { x: 2.0035, y: 1.6566 }
 ---
 
 # Kokoro's Cabin

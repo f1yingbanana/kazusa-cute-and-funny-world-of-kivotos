@@ -11,6 +11,7 @@ summary:
   staff rack, a notebook of rival menus; locked."
 renown: private
 backdrop: student-room
+map: { x: 0.2962, y: 1.178 }
 ---
 
 # Reijo's Room

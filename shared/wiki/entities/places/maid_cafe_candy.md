@@ -9,6 +9,7 @@ entry_minutes: 4
 summary:
   "A pink, frilly maid café on the Electric Street; open 11:00–21:00, cheki
   photos extra."
+map: { x: 2.3612, y: 2.1096 }
 ---
 
 # Maid Cafe Candy-candy

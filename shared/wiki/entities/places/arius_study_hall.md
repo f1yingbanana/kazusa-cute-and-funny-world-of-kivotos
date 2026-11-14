@@ -11,6 +11,7 @@ summary:
   lessons 09:00–15:00 weekdays, evening self-study 18:00–21:00."
 renown: local
 community: arius_satellite_school
+map: { x: 0.4781, y: 2.8002 }
 ---
 
 # Arius Junior Study Hall

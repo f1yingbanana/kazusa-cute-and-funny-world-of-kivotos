@@ -11,6 +11,7 @@ summary:
   "Classrooms below the bridge for navigation, seamanship and regular subjects,
   one per year; lessons 08:30–14:30, portholes for windows."
 renown: local
+map: { x: 1.9984, y: 1.6263 }
 ---
 
 # Olympus Lecture Deck

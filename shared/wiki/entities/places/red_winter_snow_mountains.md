@@ -14,6 +14,7 @@ summary:
 renown: known
 community: red_winter_federal_academy
 backdrop: winter-field
+map: { x: 1.3439, y: 0.395 }
 ---
 
 # Red Winter Snow Mountains

@@ -15,6 +15,7 @@ connections:
     ways:
       - { by: walk, minutes: 3 }
     note: "Out the back door and through the site fence."
+map: { x: 1.9004, y: 1.5179 }
 ---
 
 # Labor Party Bunkhouse Canteen

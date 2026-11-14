@@ -11,6 +11,7 @@ summary:
   rosters, a cold kettle; meetings 07:00 and 17:00, someone on watch all night."
 renown: local
 community: hyakkaryouran_resolution_council
+map: { x: 0.6754, y: 0.9485 }
 ---
 
 # Hyakkaryouran Council Hall

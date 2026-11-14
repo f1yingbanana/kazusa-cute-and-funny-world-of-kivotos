@@ -11,6 +11,7 @@ summary:
   music and accessories; open 10:00–21:00; packed on weekends."
 renown: known
 backdrop: shopping-mall
+map: { x: 0.9029, y: 2.3675 }
 ---
 
 # Trinity Galleria

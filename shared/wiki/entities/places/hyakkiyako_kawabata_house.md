@@ -16,6 +16,7 @@ connections:
     ways:
       - { by: walk, minutes: 9 }
     note: "Along the moat path to Castle Square and the academy gate."
+map: { x: 0.7915, y: 0.8142 }
 ---
 
 # Kawabata Boarding House

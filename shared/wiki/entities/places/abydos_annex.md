@@ -12,6 +12,7 @@ summary:
   sheets, sand blown into the corridors. Doors open by day; few go in."
 renown: local
 community: abydos_high_school
+map: { x: 2.6705, y: 2.6573 }
 ---
 
 # Abydos School Annex

@@ -11,6 +11,7 @@ summary:
   tended early mornings and after school, gate latched, not locked."
 renown: local
 community: school_lunch_club
+map: { x: 1.5112, y: 2.8409 }
 ---
 
 # School Lunch Club Vegetable Garden

@@ -11,6 +11,7 @@ summary:
   "Eight floors over D.U. Central Station's south exit: fashion, books, a Momo
   Friends flagship and a food hall; open 10:00–21:00."
 renown: known
+map: { x: 1.698, y: 1.4771 }
 ---
 
 # Kivotos Central Department Store

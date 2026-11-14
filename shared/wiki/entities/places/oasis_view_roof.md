@@ -10,6 +10,7 @@ summary:
   "Flat roof with the water tank, a washing line and a view over the dunes; door
   unlocked, good for stargazing and drying clothes."
 renown: local
+map: { x: 2.6507, y: 2.6961 }
 ---
 
 # Oasis View Rooftop

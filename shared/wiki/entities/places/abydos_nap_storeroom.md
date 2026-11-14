@@ -10,6 +10,7 @@ summary:
   "A storeroom nobody uses, where stacked desks hide a nest of cushions and a
   duck-down quilt. The door sticks; nobody checks it."
 renown: private
+map: { x: 2.7039, y: 2.6615 }
 ---
 
 # Third-Floor Storeroom, Abydos Main Building

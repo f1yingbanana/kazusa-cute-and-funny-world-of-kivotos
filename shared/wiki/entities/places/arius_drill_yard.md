@@ -11,6 +11,7 @@ summary:
   work lamps, football and patrol briefings in the evening. Open with the
   grounds."
 renown: local
+map: { x: 0.5007, y: 2.7795 }
 ---
 
 # Arius Drill Yard

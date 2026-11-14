@@ -11,6 +11,7 @@ summary:
   the hour 08:00–21:00. One booth's lock has been broken for years."
 renown: local
 community: wild_hunt_academy
+map: { x: 0.6362, y: 1.6798 }
 ---
 
 # Wild Hunt Sound Studios

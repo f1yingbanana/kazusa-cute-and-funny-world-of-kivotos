@@ -12,6 +12,7 @@ summary:
   students; lifeguards 09:00–18:00 in summer, empty and windy in winter."
 renown: known
 backdrop: private-beach
+map: { x: 0.8914, y: 2.4157 }
 ---
 
 # Tea Party Beach

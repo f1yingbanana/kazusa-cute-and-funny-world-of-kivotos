@@ -10,6 +10,7 @@ summary:
   "Maid café above a game shop; 11:00–22:00, student maids work evening shifts,
   photo packages extra."
 renown: local
+map: { x: 2.8427, y: 1.664 }
 ---
 
 # Cafe Maidramatic!

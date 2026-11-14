@@ -11,6 +11,7 @@ summary:
   a speech typewriter, a district map; staffed 08:00–18:00, later before
   rallies."
 community: red_winter_office
+map: { x: 1.4755, y: 0.2747 }
 ---
 
 # Secretariat Staff Room

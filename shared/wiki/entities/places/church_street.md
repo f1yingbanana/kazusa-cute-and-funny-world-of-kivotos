@@ -13,6 +13,7 @@ summary:
   weekends."
 renown: known
 backdrop: trinity-street
+map: { x: 0.9259, y: 2.3513 }
 ---
 
 # Trinity Street

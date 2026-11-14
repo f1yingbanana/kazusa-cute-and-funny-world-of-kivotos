@@ -17,6 +17,7 @@ connections:
     ways:
       - { by: walk, minutes: 2 }
     note: "Across the station forecourt."
+map: { x: 0.8971, y: 0.9191 }
 ---
 
 # Hyakkiyako Tour Bus Terminal

@@ -14,6 +14,7 @@ connections:
     ways:
       - { by: walk, minutes: 40 }
     note: "The marked route; everything off it shifts."
+map: { x: 0.7733, y: 2.4432 }
 ---
 
 # Trinity Catacombs

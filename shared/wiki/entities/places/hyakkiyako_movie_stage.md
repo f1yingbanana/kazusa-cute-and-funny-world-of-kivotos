@@ -12,6 +12,7 @@ summary:
 renown: known
 community: hyakkiyako_alliance_academy
 backdrop: hyakkiyako-square-stage
+map: { x: 0.8429, y: 0.8846 }
 ---
 
 # Movie Village Open-Air Stage

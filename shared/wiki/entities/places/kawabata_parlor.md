@@ -11,6 +11,7 @@ summary:
   cushions; open all hours, movie nights fought over at weekends."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.8012, y: 0.8144 }
 ---
 
 # Kawabata Parlor

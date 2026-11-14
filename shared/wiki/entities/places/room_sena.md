@@ -12,6 +12,7 @@ summary:
 renown: private
 community: gehenna_academy
 backdrop: student-room
+map: { x: 1.468, y: 2.5982 }
 ---
 
 # Sena's Room

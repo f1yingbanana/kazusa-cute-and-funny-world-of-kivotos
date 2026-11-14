@@ -13,6 +13,7 @@ summary:
 renown: local
 community: angel_24
 backdrop: convenience
+map: { x: 2.631, y: 2.657 }
 ---
 
 # Angel 24, Abydos Suburban Branch

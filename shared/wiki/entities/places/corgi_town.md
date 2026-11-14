@@ -9,6 +9,7 @@ entry_minutes: 6
 summary:
   "Shiratori's famous electronics street: phone shops, repair stalls and gadget
   stores; open 10:00–20:00."
+map: { x: 1.9195, y: 1.5082 }
 ---
 
 # Corgi Town

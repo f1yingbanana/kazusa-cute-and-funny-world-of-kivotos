@@ -11,6 +11,7 @@ summary:
   paperbacks, a fan and a cold-water jug; locked, quiet."
 renown: private
 backdrop: tatami-room
+map: { x: 0.7774, y: 0.8041 }
 ---
 
 # Nagusa's Room

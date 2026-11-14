@@ -11,6 +11,7 @@ summary:
   case of detonators labeled like spice jars; locked."
 renown: private
 backdrop: student-room
+map: { x: 2.8137, y: 1.7849 }
 ---
 
 # Akane Murokasa's Room

@@ -11,6 +11,7 @@ summary:
   shojo manga behind a curtain; locked, always neat."
 renown: private
 backdrop: tatami-room
+map: { x: 0.786, y: 0.6945 }
 ---
 
 # Mimori's Room

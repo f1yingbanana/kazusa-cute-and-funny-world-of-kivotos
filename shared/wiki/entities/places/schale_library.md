@@ -9,6 +9,7 @@ entry_minutes: 2
 summary:
   "Study books, manga and light novels on the office floor, with an audio-visual
   corner for films; open 08:00–22:00."
+map: { x: 1.3971, y: 1.6257 }
 ---
 
 # SCHALE Library

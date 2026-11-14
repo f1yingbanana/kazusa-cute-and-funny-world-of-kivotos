@@ -12,6 +12,7 @@ summary:
 renown: private
 community: pandemonium_society
 backdrop: student-room
+map: { x: 1.5091, y: 2.6375 }
 ---
 
 # Satsuki's Room

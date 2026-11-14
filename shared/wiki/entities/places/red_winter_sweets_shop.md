@@ -10,6 +10,7 @@ summary:
   "Small sweets shop with a frosted window: puddings, honey cake, pastila;
   10:00–19:00, closed Sundays; a queue after 15:30, pudding sold out by 17:00."
 renown: local
+map: { x: 1.4213, y: 0.4368 }
 ---
 
 # Zimushka Sweet Shop

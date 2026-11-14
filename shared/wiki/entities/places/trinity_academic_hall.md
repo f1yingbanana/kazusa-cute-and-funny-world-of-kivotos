@@ -12,6 +12,7 @@ summary:
   tower; open 07:30–19:00; corridors packed 08:20–08:30 and between periods."
 community: trinity_general_school
 backdrop: trinity-class-corridor
+map: { x: 0.9247, y: 2.53 }
 ---
 
 # Trinity Academic Hall

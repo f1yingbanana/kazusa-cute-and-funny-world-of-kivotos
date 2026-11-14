@@ -12,6 +12,7 @@ summary:
 renown: local
 community: trinity_general_school
 backdrop: gym
+map: { x: 0.8787, y: 2.524 }
 ---
 
 # Trinity Gymnasium

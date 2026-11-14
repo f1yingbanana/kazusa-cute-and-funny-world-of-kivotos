@@ -10,6 +10,7 @@ summary:
   "A dim back alley of bins and fire escapes where stray cats live; empty most
   hours, dangerous after dark."
 renown: local
+map: { x: 1.6454, y: 2.6559 }
 ---
 
 # Nekomata Alley

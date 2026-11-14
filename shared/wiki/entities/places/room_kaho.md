@@ -11,6 +11,7 @@ summary:
   festival posters, a PR whiteboard; locked when she's out."
 renown: private
 backdrop: tatami-room
+map: { x: 0.776, y: 0.7065 }
 ---
 
 # Kaho's Room

@@ -10,6 +10,7 @@ summary:
   "Flat roof with a water tank and a view over the walls; officially closed,
   door propped open most evenings."
 renown: local
+map: { x: 0.699, y: 1.7237 }
 ---
 
 # Dormitory No. 4 Rooftop

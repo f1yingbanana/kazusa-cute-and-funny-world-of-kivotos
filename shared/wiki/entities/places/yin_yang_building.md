@@ -12,6 +12,7 @@ summary:
   tatami lounge and auditorium; open 08:00–20:00, petitioners queue at lunch."
 renown: known
 community: yin_yang_club
+map: { x: 0.7545, y: 0.9922 }
 ---
 
 # Yin-Yang Club Building

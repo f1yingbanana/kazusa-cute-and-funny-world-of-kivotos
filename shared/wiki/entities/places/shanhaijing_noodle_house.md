@@ -11,6 +11,7 @@ summary:
   11:00–23:00, students at night, a regulars' counter."
 renown: local
 community: xuanwu_merchant_association
+map: { x: 0.4324, y: 1.1897 }
 ---
 
 # Old Kettle Noodle House

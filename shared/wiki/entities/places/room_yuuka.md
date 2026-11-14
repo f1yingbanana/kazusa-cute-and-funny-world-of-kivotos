@@ -11,6 +11,7 @@ summary:
   nightstand, a radio for sleepless nights; always locked."
 renown: private
 backdrop: student-room
+map: { x: 2.7883, y: 1.7856 }
 ---
 
 # Yuuka's Room

@@ -18,6 +18,7 @@ connections:
       - { by: walk, minutes: 8 }
     note: "Down Hospital Lane to the top of Trinity Street."
 backdrop: trinity-hospital
+map: { x: 0.7971, y: 2.2852 }
 ---
 
 # Saint Teresa General Hospital

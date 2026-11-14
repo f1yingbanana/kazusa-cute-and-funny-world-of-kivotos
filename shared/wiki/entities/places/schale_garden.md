@@ -9,6 +9,7 @@ entry_minutes: 4
 summary:
   "A rooftop vegetable garden over the residence wing; open while the residence
   is."
+map: { x: 1.4475, y: 1.676 }
 ---
 
 # SCHALE Rooftop Garden

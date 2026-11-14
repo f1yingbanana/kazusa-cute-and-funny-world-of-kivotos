@@ -11,6 +11,7 @@ summary:
   second floor, cheap rooms above; street door unlocked 06:00–24:00, a buzzer
   after."
 renown: local
+map: { x: 1.6143, y: 2.6594 }
 ---
 
 # Hotaru Building

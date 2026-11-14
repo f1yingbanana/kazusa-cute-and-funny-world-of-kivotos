@@ -12,6 +12,7 @@ summary:
 renown: local
 community: xuanlong_office
 backdrop: shanhaijing-vip-room
+map: { x: 0.2211, y: 1.1914 }
 ---
 
 # Old Palace VIP Quarters

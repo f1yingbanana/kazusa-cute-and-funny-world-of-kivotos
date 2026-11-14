@@ -9,6 +9,7 @@ entry_minutes: 2
 summary:
   "A small sweets shop and café with a blue-bird sign; cakes and parfaits, open
   10:00–20:00, part-time students behind the counter."
+map: { x: 1.5485, y: 1.6868 }
 ---
 
 # L'Oiseau Bleu

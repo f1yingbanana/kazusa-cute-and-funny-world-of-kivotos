@@ -11,6 +11,7 @@ summary:
   line at 08:15 and between classes."
 renown: local
 community: millennium_science_school
+map: { x: 2.6694, y: 1.6981 }
 ---
 
 # Millennium Study Area Kiosk

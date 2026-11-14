@@ -20,6 +20,7 @@ connections:
     ways:
       - { by: walk, minutes: 5 }
     note: "Through the alleys to the Inner Gate."
+map: { x: 0.288, y: 1.1728 }
 ---
 
 # Lotus Court Dormitory

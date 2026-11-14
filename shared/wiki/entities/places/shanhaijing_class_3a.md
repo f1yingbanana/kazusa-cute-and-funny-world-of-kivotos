@@ -11,6 +11,7 @@ summary:
   heads drift in late from their duties."
 renown: local
 community: shanhaijing_senior_secondary_school
+map: { x: 0.2471, y: 1.2758 }
 ---
 
 # Shanhaijing Class 3-A

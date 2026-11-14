@@ -11,6 +11,7 @@ summary:
   opened electronics, a pile of strangers' gifts; never locked."
 renown: private
 backdrop: student-room
+map: { x: 1.428, y: 1.711 }
 ---
 
 # Otogi's Room

@@ -10,6 +10,7 @@ summary:
   "Fourth-floor shared kitchen and washroom: kettle, hot plate, a fridge of
   labelled food; open until curfew."
 renown: local
+map: { x: 0.676, y: 1.7477 }
 ---
 
 # Dormitory No. 5 Common Kitchen

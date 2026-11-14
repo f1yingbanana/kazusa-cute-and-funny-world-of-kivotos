@@ -11,6 +11,7 @@ summary:
   08:00–19:00. What it doesn't stock arrives by other means."
 renown: known
 community: wild_hunt_academy
+map: { x: 0.6213, y: 1.7191 }
 ---
 
 # Wild Hunt Academy Store

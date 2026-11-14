@@ -11,6 +11,7 @@ summary:
   and lesson planner, a step stool; locked."
 renown: private
 backdrop: student-room
+map: { x: 0.2047, y: 1.2888 }
 ---
 
 # Kokona's Room

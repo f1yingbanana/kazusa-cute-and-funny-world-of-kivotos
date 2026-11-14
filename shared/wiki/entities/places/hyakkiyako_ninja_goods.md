@@ -11,6 +11,7 @@ summary:
   DVDs, made-to-order costumes; 10:00–19:00."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.8831, y: 0.9421 }
 ---
 
 # Kagerou Ninja Goods

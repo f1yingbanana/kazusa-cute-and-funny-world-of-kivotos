@@ -14,6 +14,7 @@ summary:
 renown: known
 community: wild_hunt_academy
 backdrop: wildhunt-campus
+map: { x: 0.6493, y: 1.6905 }
 ---
 
 # Wild Hunt Academy Fortress

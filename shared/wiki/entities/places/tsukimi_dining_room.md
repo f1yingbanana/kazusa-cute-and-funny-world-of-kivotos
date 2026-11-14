@@ -11,6 +11,7 @@ summary:
   residents may use the stove after 20:00."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.7817, y: 0.6858 }
 ---
 
 # Tsukimi-sou Dining Room

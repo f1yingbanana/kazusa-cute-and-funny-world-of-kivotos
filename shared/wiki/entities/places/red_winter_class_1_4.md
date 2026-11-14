@@ -10,6 +10,7 @@ summary:
   "First-year homeroom on the second floor: forty desks, a cast-iron radiator
   that works on alternate days; class 08:30–15:30 on weekdays."
 community: red_winter_federal_academy
+map: { x: 1.5275, y: 0.3649 }
 ---
 
 # Red Winter Class 1-4

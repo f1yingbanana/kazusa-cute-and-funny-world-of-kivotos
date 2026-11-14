@@ -10,6 +10,7 @@ summary:
   "A small room of retro arcade cabinets in the residence wing; free play, open
   until 23:00."
 backdrop: arcade
+map: { x: 1.4403, y: 1.6828 }
 ---
 
 # SCHALE Arcade

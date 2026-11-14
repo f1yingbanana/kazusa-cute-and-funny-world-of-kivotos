@@ -11,6 +11,7 @@ summary:
   desk with brush and poem strips; seldom locked."
 renown: private
 backdrop: tatami-room
+map: { x: 0.7667, y: 0.7038 }
 ---
 
 # Chise's Room

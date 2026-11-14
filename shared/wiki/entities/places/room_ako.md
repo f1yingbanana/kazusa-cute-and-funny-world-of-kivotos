@@ -12,6 +12,7 @@ summary:
 renown: private
 community: gehenna_academy
 backdrop: student-room
+map: { x: 1.4988, y: 2.5875 }
 ---
 
 # Ako Amau's Room

@@ -15,6 +15,7 @@ connections:
     ways:
       - { by: walk, minutes: 3 }
     note: "Through the west exit concourse."
+map: { x: 2.9023, y: 1.6888 }
 ---
 
 # Millennium Research Park

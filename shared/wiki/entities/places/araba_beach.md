@@ -18,6 +18,7 @@ connections:
     note:
       "The beach bus from the Central Square terminal, every 30 minutes in
       summer, hourly otherwise."
+map: { x: 1.5738, y: 2.7277 }
 ---
 
 # Araba Beach

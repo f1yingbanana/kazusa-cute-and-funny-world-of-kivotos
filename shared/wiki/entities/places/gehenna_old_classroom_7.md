@@ -13,6 +13,7 @@ summary:
 renown: local
 community: sparkle_club
 backdrop: ruined-classroom
+map: { x: 1.5313, y: 2.8167 }
 ---
 
 # Gehenna Old Classroom 7

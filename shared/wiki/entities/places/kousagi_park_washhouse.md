@@ -11,6 +11,7 @@ summary:
   "The park's concrete restroom block: sinks, an outdoor tap, a drinking
   fountain and a bench; open and lit all night, busiest at dawn."
 renown: local
+map: { x: 1.6176, y: 1.5716 }
 ---
 
 # Kousagi Park Washhouse

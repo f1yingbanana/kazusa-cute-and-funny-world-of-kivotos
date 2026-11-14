@@ -12,6 +12,7 @@ summary:
   GSC seal on the door."
 community: srt_special_academy
 backdrop: srt-base
+map: { x: 1.5149, y: 1.6442 }
 ---
 
 # SRT Special Academy Campus

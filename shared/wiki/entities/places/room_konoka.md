@@ -11,6 +11,7 @@ summary:
   mirror, charms on every handle; locked, key on a lucky-cat keyring."
 renown: private
 backdrop: valkyrie-student-room
+map: { x: 1.898, y: 1.4478 }
 ---
 
 # Konoka's Room

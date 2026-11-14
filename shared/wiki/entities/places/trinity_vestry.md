@@ -12,6 +12,7 @@ summary:
   cathedral's manager."
 renown: local
 community: sisterhood
+map: { x: 0.9655, y: 2.4368 }
 ---
 
 # Trinity Cathedral Vestry

@@ -12,6 +12,7 @@ summary:
   futon, a camp lamp; entrance hidden, occupied at odd hours."
 renown: private
 community: hot_spring_development_department
+map: { x: 1.6536, y: 2.6692 }
 ---
 
 # Hideout No. 86

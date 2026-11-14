@@ -13,6 +13,7 @@ summary:
   name."
 renown: local
 community: ninjutsu_research_department
+map: { x: 0.6944, y: 0.9316 }
 ---
 
 # Old Schoolhouse No. 38

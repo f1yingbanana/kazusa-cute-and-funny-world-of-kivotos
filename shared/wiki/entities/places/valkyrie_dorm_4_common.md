@@ -11,6 +11,7 @@ summary:
   "The dorm's ground-floor lounge: a kitchenette, a TV, a newspaper rack and a
   vending machine; open all night, liveliest after the 18:00 shift change."
 renown: local
+map: { x: 1.8922, y: 1.432 }
 ---
 
 # Valkyrie Dorm 4 Common Room

@@ -11,6 +11,7 @@ summary:
   and old records; key kept by the staff officer."
 renown: local
 community: hyakkaryouran_resolution_council
+map: { x: 0.6835, y: 0.937 }
 ---
 
 # Hyakkaryouran Storehouse

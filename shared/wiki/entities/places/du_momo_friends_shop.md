@@ -10,6 +10,7 @@ summary:
   "The biggest Momo Friends shop in Kivotos: plush walls, a ball pool, limited
   releases on Saturday mornings (queue from 07:00)."
 renown: known
+map: { x: 1.7009, y: 1.4678 }
 ---
 
 # Momo Friends Flagship Shop

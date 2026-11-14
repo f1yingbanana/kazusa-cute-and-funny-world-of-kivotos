@@ -10,6 +10,7 @@ summary:
   "Disused boathouse on the north moat: rotting jetty, padlocked doors, reeds
   all round. Nobody about after dark."
 renown: local
+map: { x: 0.7495, y: 1.6115 }
 ---
 
 # North Moat Boathouse

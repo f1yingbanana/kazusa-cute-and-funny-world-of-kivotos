@@ -7,7 +7,7 @@ name: "Abydos Central Station"
 summary:
   "Abydos's last working platform: Trans-Desert trains to Gehenna and to Kousagi
   in D.U., each every 90 minutes, 06:00–21:00."
-map: { x: 0.74, y: 0.78 }
+map: { x: 2.42, y: 2.5 }
 connections:
   - to: abydos_town
     ways:

@@ -9,6 +9,7 @@ entry_minutes: 5
 summary:
   "A secondhand chain of collectibles, manga and retro games in a maze of narrow
   floors; open 11:00–20:00."
+map: { x: 2.3512, y: 2.1041 }
 ---
 
 # Mandrake Complex

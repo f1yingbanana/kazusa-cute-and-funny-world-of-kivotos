@@ -11,6 +11,7 @@ summary:
   after school until 19:00, floodlit for festivals and the odd tank race."
 renown: local
 community: gehenna_academy
+map: { x: 1.4862, y: 2.8167 }
 ---
 
 # Gehenna Central Athletic Field

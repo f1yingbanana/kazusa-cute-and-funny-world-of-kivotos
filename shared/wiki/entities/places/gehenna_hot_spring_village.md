@@ -19,6 +19,7 @@ connections:
       "The hot-spring bus from the Central Square terminal, hourly 07:00–22:00;
       riders plan around it."
 backdrop: ryokan-front
+map: { x: 1.6306, y: 2.752 }
 ---
 
 # Hinnom Hot Spring Village

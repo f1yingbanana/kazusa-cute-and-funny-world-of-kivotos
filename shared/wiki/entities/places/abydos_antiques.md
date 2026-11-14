@@ -10,6 +10,7 @@ summary:
   "Cluttered antique and junk dealer that buys salvage, scrap and old books;
   10:00–18:00, closed Sundays. The owner appraises slowly and haggles slower."
 renown: local
+map: { x: 2.6412, y: 2.6612 }
 ---
 
 # Hourglass Antiques

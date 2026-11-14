@@ -10,6 +10,7 @@ summary:
   "Trinity's aquarium: a sea tunnel, jellyfish hall and a rare golden tuna; open
   09:30–18:00, closed Mondays; school trips on weekday mornings."
 renown: known
+map: { x: 0.9014, y: 2.4191 }
 ---
 
 # Trinity Aquarium

@@ -9,6 +9,7 @@ entry_minutes: 14
 summary:
   "A prefab bunkhouse beside the reconstruction site where Red Winter's Labor
   Party crews sleep on work weeks; lights out 22:30."
+map: { x: 1.8926, y: 1.5236 }
 ---
 
 # Labor Party Bunkhouse

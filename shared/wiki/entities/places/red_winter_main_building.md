@@ -13,6 +13,7 @@ summary:
   weeks."
 renown: known
 community: red_winter_federal_academy
+map: { x: 1.5245, y: 0.3556 }
 ---
 
 # Red Winter Main Building

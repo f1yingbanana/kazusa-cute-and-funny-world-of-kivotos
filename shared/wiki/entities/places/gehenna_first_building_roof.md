@@ -10,6 +10,7 @@ summary:
   "Flat roof behind a chained stairwell door, reached through a window ledge;
   empty most hours, a wide view of the sky and the city."
 renown: local
+map: { x: 1.4673, y: 2.8228 }
 ---
 
 # Gehenna First School Building Roof

@@ -13,6 +13,7 @@ summary:
 renown: known
 community: abydos_district
 backdrop: abydos-ruins
+map: { x: 2.6251, y: 2.699 }
 ---
 
 # Abydos Desert

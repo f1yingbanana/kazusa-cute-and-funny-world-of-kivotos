@@ -12,6 +12,7 @@ summary:
 renown: local
 community: millennium_science_school
 backdrop: millennium-data-center
+map: { x: 2.6684, y: 1.7171 }
 ---
 
 # Millennium Data Center

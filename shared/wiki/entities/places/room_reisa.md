@@ -11,6 +11,7 @@ summary:
   duel whiteboard on the door; locked, though the key gets left inside weekly."
 renown: private
 backdrop: student-room
+map: { x: 0.812, y: 2.3037 }
 ---
 
 # Reisa's Room

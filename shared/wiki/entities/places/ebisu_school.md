@@ -16,6 +16,7 @@ connections:
     ways:
       - { by: walk, minutes: 6 }
     note: "Down the snow-cleared road to the platform."
+map: { x: 0.8823, y: 0.4094 }
 ---
 
 # Ebisu Satellite School Grounds

@@ -19,6 +19,7 @@ connections:
       "Local bus from the market stop, every 30 minutes until 20:00; the time
       includes the wait."
 backdrop: abydos-sand-street
+map: { x: 2.6008, y: 2.6753 }
 ---
 
 # Abydos Border Town

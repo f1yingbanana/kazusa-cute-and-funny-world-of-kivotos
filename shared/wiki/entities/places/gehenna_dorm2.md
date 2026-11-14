@@ -18,6 +18,7 @@ connections:
       - { by: walk, minutes: 7 }
     note: "Along the tree-lined lane to the main gate."
 backdrop: dormitory
+map: { x: 1.5187, y: 2.6384 }
 ---
 
 # Gehenna Dormitory No. 2

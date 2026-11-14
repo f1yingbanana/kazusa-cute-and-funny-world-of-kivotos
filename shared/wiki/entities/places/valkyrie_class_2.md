@@ -10,6 +10,7 @@ summary:
   "The second-years' homeroom: a newspaper rack by the door, desks half empty
   during patrol weeks; homeroom 08:40, lessons until 15:00."
 renown: local
+map: { x: 1.8619, y: 1.4419 }
 ---
 
 # Valkyrie Class 2-A

@@ -11,6 +11,7 @@ summary:
   target, a rope ladder out the window; locked, she leaves by the window."
 renown: private
 backdrop: tatami-room
+map: { x: 0.7685, y: 0.7913 }
 ---
 
 # Izuna's Room

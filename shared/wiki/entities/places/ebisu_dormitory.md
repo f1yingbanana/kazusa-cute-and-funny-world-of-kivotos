@@ -16,6 +16,7 @@ connections:
     ways:
       - { by: walk, minutes: 4 }
     note: "Across the snow to the schoolhouse."
+map: { x: 0.8607, y: 0.41 }
 ---
 
 # Ebisu Dormitory

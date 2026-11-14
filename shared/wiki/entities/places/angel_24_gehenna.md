@@ -12,6 +12,7 @@ summary:
   08:00–08:30, night-shift medics and patrol officers after midnight."
 renown: local
 backdrop: convenience
+map: { x: 1.5203, y: 2.6106 }
 ---
 
 # Angel 24, Gehenna Main Gate Branch

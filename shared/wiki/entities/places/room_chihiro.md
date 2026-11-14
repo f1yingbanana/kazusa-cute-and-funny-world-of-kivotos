@@ -11,6 +11,7 @@ summary:
   ethics; a smart lock of her own design."
 renown: private
 backdrop: student-room
+map: { x: 2.823, y: 1.7795 }
 ---
 
 # Chihiro's Room

@@ -10,6 +10,7 @@ summary:
   "A cabin crowded with a ham radio, logbooks of call signs and large-print
   books; spare glasses in every drawer; locked, a bell on the door."
 renown: private
+map: { x: 1.9847, y: 1.6612 }
 ---
 
 # Kotone's Cabin

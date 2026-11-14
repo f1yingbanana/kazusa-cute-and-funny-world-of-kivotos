@@ -11,6 +11,7 @@ summary:
   shelves of labeled recordings; locked and soundproofed."
 renown: private
 backdrop: student-room
+map: { x: 2.8253, y: 1.7984 }
 ---
 
 # Kotama's Room

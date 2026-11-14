@@ -10,6 +10,7 @@ summary:
   "An austere cell: a narrow bed, a confession schedule on the wall, a trend
   magazine full of notes; locked when she's out, which is rarely far."
 renown: private
+map: { x: 0.9769, y: 2.4127 }
 ---
 
 # Sakurako's Room

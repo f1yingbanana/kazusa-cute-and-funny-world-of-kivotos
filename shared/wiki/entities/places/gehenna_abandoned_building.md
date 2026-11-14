@@ -12,6 +12,7 @@ summary:
 renown: local
 community: gehenna_academy
 backdrop: ruined-school-corridor
+map: { x: 1.5216, y: 2.8162 }
 ---
 
 # Gehenna Abandoned School Building

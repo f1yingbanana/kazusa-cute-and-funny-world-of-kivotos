@@ -11,6 +11,7 @@ summary:
   pins; scheming sessions most afternoons, bullet holes from past disputes."
 renown: local
 community: pandemonium_society
+map: { x: 1.4574, y: 2.8916 }
 ---
 
 # Pandemonium Executive Office

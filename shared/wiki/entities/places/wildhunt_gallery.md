@@ -10,6 +10,7 @@ summary:
   "Narrow rented gallery of looping video art on salvaged screens; open weekends
   11:00–19:00 or whenever the artist is in."
 renown: local
+map: { x: 0.7794, y: 1.6349 }
 ---
 
 # Gallery Kinescope

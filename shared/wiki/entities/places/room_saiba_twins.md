@@ -11,6 +11,7 @@ summary:
   sketchbooks and a drawing tablet on the other; usually unlocked."
 renown: private
 backdrop: student-room
+map: { x: 2.8463, y: 1.7473 }
 ---
 
 # Momoi and Midori's Room

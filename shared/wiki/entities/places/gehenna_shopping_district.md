@@ -21,6 +21,7 @@ connections:
       - { by: walk, minutes: 10 }
     note: "Up the hill road to the main gate."
 backdrop: gehenna-street
+map: { x: 1.5574, y: 2.7136 }
 ---
 
 # Gehenna Shopping District

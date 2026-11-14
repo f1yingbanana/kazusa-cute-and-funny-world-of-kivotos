@@ -12,6 +12,7 @@ summary:
 renown: private
 community: pandemonium_society
 backdrop: student-room
+map: { x: 1.5132, y: 2.6463 }
 ---
 
 # Ibuki's Room

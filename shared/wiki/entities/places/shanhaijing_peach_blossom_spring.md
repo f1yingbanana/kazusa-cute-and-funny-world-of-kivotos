@@ -12,6 +12,7 @@ summary:
   rooms upstairs; 09:00–21:00, quiet mornings, busy afternoons."
 renown: famous
 community: shanhaijing_senior_secondary_school
+map: { x: 0.3949, y: 1.1919 }
 ---
 
 # Peach Blossom Spring

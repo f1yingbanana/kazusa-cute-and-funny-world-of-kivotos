@@ -10,6 +10,7 @@ summary:
   "The boarding house's creaking upstairs corridor of tatami rooms and the
   shared kitchen; lights out 23:00"
 renown: local
+map: { x: 0.7782, y: 0.794 }
 ---
 
 # Kawabata Upstairs Corridor

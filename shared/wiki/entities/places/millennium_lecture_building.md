@@ -12,6 +12,7 @@ summary:
 renown: known
 community: millennium_science_school
 backdrop: millennium-corridor
+map: { x: 2.7033, y: 1.6239 }
 ---
 
 # Millennium Lecture Building

@@ -18,6 +18,7 @@ connections:
       - { by: walk, minutes: 15 }
       - { by: rickshaw, minutes: 8 }
     note: "Down the hill road; the family keeps a rickshaw."
+map: { x: 0.7974, y: 0.8805 }
 ---
 
 # Kadenokouji Estate

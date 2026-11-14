@@ -12,6 +12,7 @@ summary:
   dark after 22:00."
 renown: local
 community: arius_reconstruction
+map: { x: 0.5039, y: 2.7298 }
 ---
 
 # Arius Lantern Street

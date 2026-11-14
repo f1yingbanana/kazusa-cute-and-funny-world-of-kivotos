@@ -9,7 +9,7 @@ summary:
   "Kivotos's great rail hub: high-speed lines everywhere and the D.U. Metro
   below; open 05:00–01:00, bento and soft-serve on the concourse."
 renown: famous
-map: { x: 0.5, y: 0.46 }
+map: { x: 1.38, y: 1.98 }
 connections:
   - to: du_downtown
     ways:

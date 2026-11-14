@@ -10,6 +10,7 @@ summary:
   "The juniors' long bunk room: rows of beds, footlockers, a stove in the
   middle. Noisy until lights out at 22:00."
 renown: local
+map: { x: 0.5236, y: 2.762 }
 ---
 
 # Nicomedia Barracks Bunk Hall

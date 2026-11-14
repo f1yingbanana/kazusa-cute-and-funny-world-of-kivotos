@@ -11,6 +11,7 @@ summary:
   station street and the SCHALE building on its hill."
 renown: known
 community: general_student_council
+map: { x: 1.51, y: 1.6358 }
 ---
 
 # Kousagi Ward

@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "A full gym with spectator seating on SCHALE's lower floor; open 06:00–22:00."
 backdrop: gym
+map: { x: 1.4143, y: 1.6178 }
 ---
 
 # SCHALE Gym

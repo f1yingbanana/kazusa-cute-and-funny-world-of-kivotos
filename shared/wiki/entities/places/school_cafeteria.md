@@ -13,6 +13,7 @@ summary:
 renown: local
 community: trinity_general_school
 backdrop: school-cafeteria
+map: { x: 0.8959, y: 2.5098 }
 ---
 
 # Trinity Dining Hall

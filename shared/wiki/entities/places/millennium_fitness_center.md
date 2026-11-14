@@ -13,6 +13,7 @@ summary:
 renown: known
 community: gym_training_department
 backdrop: health-club
+map: { x: 2.6333, y: 1.6444 }
 ---
 
 # Millennium Fitness Center

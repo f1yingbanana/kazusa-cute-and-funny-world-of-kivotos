@@ -11,6 +11,7 @@ summary:
   08:30, lessons until 15:00, half-empty when club business runs late."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.7169, y: 1.0035 }
 ---
 
 # Hyakkiyako Class 3-A

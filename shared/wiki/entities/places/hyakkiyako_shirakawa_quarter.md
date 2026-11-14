@@ -17,6 +17,7 @@ connections:
     ways:
       - { by: walk, minutes: 5 }
     note: "Over the arched bridge to the shops."
+map: { x: 0.8056, y: 0.764 }
 ---
 
 # Shirakawa Quarter

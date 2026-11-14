@@ -10,6 +10,7 @@ entry_minutes: 25
 summary:
   "A rusting, fenced-off amusement park on Shiratori's edge; officially closed,
   unofficially a dare, a hangout and a hideout."
+map: { x: 1.8568, y: 1.5695 }
 ---
 
 # Abandoned Theme Park

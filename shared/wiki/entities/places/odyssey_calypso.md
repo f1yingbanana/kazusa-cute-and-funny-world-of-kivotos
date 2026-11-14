@@ -12,6 +12,7 @@ summary:
   watch at night, lights out 22:30, deck roll call 06:30."
 renown: local
 backdrop: odyssey-patrol-vessel
+map: { x: 1.994, y: 1.6582 }
 ---
 
 # Berthing Ship Calypso

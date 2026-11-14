@@ -18,6 +18,7 @@ connections:
     ways:
       - { by: walk, minutes: 8 }
     note: "Down the long avenue past the shuttered shops."
+map: { x: 2.6928, y: 2.655 }
 ---
 
 # Abydos High School Campus

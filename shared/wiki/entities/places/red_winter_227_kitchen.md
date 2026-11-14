@@ -10,6 +10,7 @@ summary:
   "Old school kitchen with one working range, a pantry of foraged berries and
   cheap groceries; used morning and evening by the special class."
 community: special_class_227
+map: { x: 1.3437, y: 0.4731 }
 ---
 
 # Former Institute Kitchen

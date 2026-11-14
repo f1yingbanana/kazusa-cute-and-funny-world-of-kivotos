@@ -12,6 +12,7 @@ summary:
   hours, the camp is theirs."
 community: srt_special_academy
 backdrop: park
+map: { x: 1.6238, y: 1.5791 }
 ---
 
 # Usagi Park

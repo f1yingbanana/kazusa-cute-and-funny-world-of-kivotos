@@ -12,6 +12,7 @@ summary:
 renown: local
 community: gehenna_academy
 backdrop: gehenna-classroom
+map: { x: 1.4804, y: 2.8312 }
 ---
 
 # Gehenna Class 1-B

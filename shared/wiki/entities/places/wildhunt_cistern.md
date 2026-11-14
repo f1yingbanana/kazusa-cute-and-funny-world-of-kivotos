@@ -11,6 +11,7 @@ summary:
   water, vaulted stone, chisel marks on the pillars. Nobody else seems to know
   it."
 renown: private
+map: { x: 0.6656, y: 1.6758 }
 ---
 
 # Wild Hunt Cistern Ruins

@@ -11,6 +11,7 @@ summary:
   console always on; unlocked."
 renown: private
 backdrop: student-room
+map: { x: 2.8446, y: 1.7592 }
 ---
 
 # Maki's Room

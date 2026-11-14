@@ -12,6 +12,7 @@ summary:
 renown: local
 community: millennium_science_school
 backdrop: classroom
+map: { x: 2.7089, y: 1.616 }
 ---
 
 # Millennium Class 2-A

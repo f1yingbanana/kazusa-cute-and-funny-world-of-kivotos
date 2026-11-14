@@ -10,6 +10,7 @@ summary:
   "A food street of stalls and restaurants lining both banks of a river; open
   late, crowded with students from every school after 18:00."
 renown: known
+map: { x: 1.9123, y: 1.5009 }
 ---
 
 # Ramini Town

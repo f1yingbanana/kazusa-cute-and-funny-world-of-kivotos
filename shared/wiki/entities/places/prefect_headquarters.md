@@ -13,6 +13,7 @@ summary:
 renown: known
 community: prefect_team
 backdrop: committee-room
+map: { x: 1.4607, y: 2.7999 }
 ---
 
 # Prefect Team Headquarters

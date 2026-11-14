@@ -11,6 +11,7 @@ summary:
   "A windowless workroom at the very back of the closed stacks: drawing desk,
   tablet charger, screentone scraps; door usually shut, nobody else invited."
 community: knowledge_liberation_front
+map: { x: 1.5496, y: 0.3449 }
 ---
 
 # Meru's Workroom

@@ -16,6 +16,7 @@ connections:
     ways:
       - { by: walk, minutes: 2 }
     note: "Down the arcade steps onto the piazza."
+map: { x: 0.626, y: 1.6791 }
 ---
 
 # Wild Hunt Art Center

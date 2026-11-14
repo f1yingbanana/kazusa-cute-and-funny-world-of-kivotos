@@ -19,6 +19,7 @@ connections:
       - { by: walk, minutes: 6 }
     note: "Across the road and in through the main gate."
 backdrop: dormitory
+map: { x: 1.4863, y: 2.5799 }
 ---
 
 # Gehenna Dormitory No. 13

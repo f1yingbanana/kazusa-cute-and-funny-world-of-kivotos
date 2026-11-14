@@ -10,6 +10,7 @@ summary:
   "Basement coin laundry with three machines (one works properly), a folding
   table and a vending machine; open all hours, warm in winter."
 renown: local
+map: { x: 2.6664, y: 2.7076 }
 ---
 
 # Oasis View Coin Laundry

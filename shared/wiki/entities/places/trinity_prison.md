@@ -13,6 +13,7 @@ summary:
 renown: known
 community: justice_task_force
 backdrop: trinity-prison
+map: { x: 0.8582, y: 2.6069 }
 ---
 
 # Trinity Academy Prison

@@ -12,6 +12,7 @@ summary:
 renown: private
 community: red_winter_federal_academy
 backdrop: student-room
+map: { x: 1.3589, y: 0.3411 }
 ---
 
 # Meru's Room

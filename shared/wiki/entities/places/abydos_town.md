@@ -11,7 +11,7 @@ summary:
   Suburban Town by the station."
 renown: known
 community: abydos_high_school
-map: { x: 0.76, y: 0.8 }
+map: { x: 2.65, y: 2.68 }
 backdrop: abydos-street
 ---
 

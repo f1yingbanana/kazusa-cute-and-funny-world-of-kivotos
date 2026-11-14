@@ -12,6 +12,7 @@ summary:
   glasses by the bed."
 renown: private
 backdrop: student-room
+map: { x: 2.6674, y: 2.698 }
 ---
 
 # Ayane's Room

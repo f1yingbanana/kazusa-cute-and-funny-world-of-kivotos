@@ -11,6 +11,7 @@ summary:
   perfect-score exam papers used as coasters; usually left unlocked, on purpose."
 renown: private
 backdrop: student-room
+map: { x: 0.7374, y: 2.2618 }
 ---
 
 # Hanako's Room

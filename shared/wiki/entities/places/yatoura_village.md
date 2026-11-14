@@ -12,6 +12,7 @@ summary:
   fish market at dawn, one bus an hour; quiet by 20:00."
 renown: local
 backdrop: fishing-village
+map: { x: 2.0029, y: 1.5904 }
 ---
 
 # Yatoura Fishing Village

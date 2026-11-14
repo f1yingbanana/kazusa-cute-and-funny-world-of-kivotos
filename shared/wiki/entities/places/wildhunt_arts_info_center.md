@@ -12,6 +12,7 @@ summary:
 renown: known
 community: wild_hunt_academy
 backdrop: wildhunt-library
+map: { x: 0.65, y: 1.6805 }
 ---
 
 # Wild Hunt Arts Information Center

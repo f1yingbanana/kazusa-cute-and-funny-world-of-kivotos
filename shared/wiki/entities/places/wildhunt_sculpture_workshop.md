@@ -11,6 +11,7 @@ summary:
   and dusty, classes 09:00–15:00, open until 20:00."
 renown: local
 community: wild_hunt_academy
+map: { x: 0.6322, y: 1.671 }
 ---
 
 # Wild Hunt Sculpture Workshop

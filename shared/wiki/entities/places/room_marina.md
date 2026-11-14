@@ -12,6 +12,7 @@ summary:
 renown: private
 community: red_winter_federal_academy
 backdrop: student-room
+map: { x: 1.3738, y: 0.3254 }
 ---
 
 # Marina's Room

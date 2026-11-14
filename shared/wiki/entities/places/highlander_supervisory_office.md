@@ -12,6 +12,7 @@ summary:
   academy's board; 09:00–18:00, appointments only, reports due Fridays."
 renown: local
 community: highlander_railroad_academy
+map: { x: 1.668, y: 1.4167 }
 ---
 
 # Highlander Supervisory Office

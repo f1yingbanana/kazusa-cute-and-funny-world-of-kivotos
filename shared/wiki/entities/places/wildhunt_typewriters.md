@@ -10,6 +10,7 @@ summary:
   "Vintage typewriters, fountain pens and old books, mostly overpriced;
   10:00–18:00, closed Wednesdays. The owner knows exactly what's rare."
 renown: local
+map: { x: 0.7842, y: 1.6265 }
 ---
 
 # Typebar Antiques

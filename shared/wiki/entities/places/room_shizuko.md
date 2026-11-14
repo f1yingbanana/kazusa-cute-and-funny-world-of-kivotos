@@ -10,6 +10,7 @@ summary:
   "Room above the tea house: a futon squeezed between ledgers and festival
   schedules, spare kimono aprons; locked, lights out late."
 renown: private
+map: { x: 0.8762, y: 0.8935 }
 ---
 
 # Shizuko's Room

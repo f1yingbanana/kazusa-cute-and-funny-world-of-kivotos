@@ -13,6 +13,7 @@ summary:
 renown: known
 community: hyakkaryouran_resolution_council
 backdrop: hyakkaryouran-tatami-room
+map: { x: 0.674, y: 0.9389 }
 ---
 
 # Hyakkaryouran Clubhouse

@@ -19,6 +19,7 @@ connections:
       - { by: walk, minutes: 4 }
     note: "Over the drawbridge and along the moat to town."
 backdrop: wildhunt-front-gate
+map: { x: 0.658, y: 1.686 }
 ---
 
 # Wild Hunt Fortress Gate

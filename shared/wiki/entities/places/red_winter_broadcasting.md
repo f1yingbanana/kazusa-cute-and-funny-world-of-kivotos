@@ -12,6 +12,7 @@ summary:
   presidential addresses; on air 06:00–24:00, first building seized in any coup."
 renown: known
 community: red_winter_federal_academy
+map: { x: 1.4969, y: 0.3043 }
 ---
 
 # Red Bear Broadcasting Station

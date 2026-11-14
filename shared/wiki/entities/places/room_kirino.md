@@ -11,6 +11,7 @@ summary:
   handcuffs on a hook; alarm set for 05:30, door locked."
 renown: private
 backdrop: valkyrie-student-room
+map: { x: 1.8831, y: 1.4354 }
 ---
 
 # Kirino's Room

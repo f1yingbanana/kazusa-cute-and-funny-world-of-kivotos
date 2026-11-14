@@ -10,6 +10,7 @@ summary:
   "A neighbourhood bathhouse fed by real hot-spring water; open 15:00–01:00,
   crowded after club hours, massage chairs and a milk fridge by the door."
 renown: local
+map: { x: 1.5046, y: 2.6215 }
 ---
 
 # Kamado-yu Bathhouse

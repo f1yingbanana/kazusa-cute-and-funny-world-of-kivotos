@@ -9,6 +9,7 @@ entry_minutes: 1
 summary:
   "Glasshouse off the residence's sitting room: herbs, tea bushes, a table set
   for two; warm all year; residents and their guests only."
+map: { x: 0.8283, y: 2.4332 }
 ---
 
 # Tea Party Residence Conservatory

@@ -12,6 +12,7 @@ summary:
   window; the door is usually ajar."
 renown: private
 backdrop: student-room
+map: { x: 0.8209, y: 2.3076 }
 ---
 
 # Natsu Yutori's Room

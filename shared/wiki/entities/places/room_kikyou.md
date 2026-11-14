@@ -11,6 +11,7 @@ summary:
   military histories, cat's-cradle string; unlocked."
 renown: private
 backdrop: student-room
+map: { x: 0.6644, y: 0.938 }
 ---
 
 # Kikyou's Room

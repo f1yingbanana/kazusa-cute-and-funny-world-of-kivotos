@@ -12,6 +12,7 @@ summary:
   light."
 renown: local
 community: xuanwu_merchant_association
+map: { x: 0.4395, y: 1.2034 }
 ---
 
 # Promenade Dawn Market

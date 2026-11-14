@@ -12,6 +12,7 @@ summary:
 renown: local
 community: millennium_science_school
 backdrop: classroom
+map: { x: 2.6939, y: 1.6264 }
 ---
 
 # Millennium Class 1-C

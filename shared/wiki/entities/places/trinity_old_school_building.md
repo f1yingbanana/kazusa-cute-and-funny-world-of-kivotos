@@ -16,6 +16,7 @@ connections:
     ways:
       - { by: walk, minutes: 4 }
     note: "A footpath across the cathedral grounds."
+map: { x: 0.7979, y: 2.4239 }
 ---
 
 # Trinity Old School Building

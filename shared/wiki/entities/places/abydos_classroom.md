@@ -14,6 +14,7 @@ summary:
 renown: local
 community: abydos_high_school
 backdrop: abydos-meeting-room
+map: { x: 2.7231, y: 2.6638 }
 ---
 
 # Abydos Combined Classroom

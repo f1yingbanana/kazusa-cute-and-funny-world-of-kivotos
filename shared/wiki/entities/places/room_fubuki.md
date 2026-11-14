@@ -11,6 +11,7 @@ summary:
   the floor, curtains closed until noon; rarely locked."
 renown: private
 backdrop: valkyrie-student-room
+map: { x: 1.8815, y: 1.4449 }
 ---
 
 # Fubuki's Room

@@ -18,6 +18,7 @@ connections:
     note:
       "A gate in the residence's east wall opens straight onto the park;
       residents may use it after dusk."
+map: { x: 0.8084, y: 2.4251 }
 ---
 
 # Songbird Park

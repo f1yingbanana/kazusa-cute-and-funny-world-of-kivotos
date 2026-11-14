@@ -11,6 +11,7 @@ summary:
   often empty because she sleeps on the office sofa."
 renown: private
 community: problem_solver_68
+map: { x: 1.6174, y: 2.6687 }
 ---
 
 # Aru Rikuhachima's Room

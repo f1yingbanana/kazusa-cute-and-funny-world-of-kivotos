@@ -10,6 +10,7 @@ summary:
   "Second-year homeroom on the third floor, half its desks empty after
   suspensions; class 08:30–15:30 on weekdays, lively at lunch break."
 community: red_winter_federal_academy
+map: { x: 1.5306, y: 0.3481 }
 ---
 
 # Red Winter Class 2-7

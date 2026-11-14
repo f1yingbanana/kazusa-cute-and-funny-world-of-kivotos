@@ -12,6 +12,7 @@ summary:
 renown: local
 community: yin_yang_club
 backdrop: tatami-room
+map: { x: 0.7575, y: 1.0015 }
 ---
 
 # Yin-Yang Club Tatami Lounge

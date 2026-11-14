@@ -16,6 +16,7 @@ connections:
     ways:
       - { by: walk, minutes: 6 }
     note: "Through the campus back gate."
+map: { x: 1.5904, y: 2.7415 }
 ---
 
 # Gehenna Riverside Cherry Path

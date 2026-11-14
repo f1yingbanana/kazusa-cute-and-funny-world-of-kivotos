@@ -14,6 +14,7 @@ summary:
 renown: famous
 community: gehenna_academy
 backdrop: gehenna-campus
+map: { x: 1.4915, y: 2.8249 }
 ---
 
 # Gehenna Academy Campus

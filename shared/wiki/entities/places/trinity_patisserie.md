@@ -13,6 +13,7 @@ summary:
   15:30."
 renown: known
 backdrop: dessert-cafe
+map: { x: 0.9299, y: 2.342 }
 ---
 
 # Cafe Mille-Feuille

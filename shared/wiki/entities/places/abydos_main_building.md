@@ -13,6 +13,7 @@ summary:
   quiet except after class."
 renown: local
 community: abydos_high_school
+map: { x: 2.7135, y: 2.6627 }
 ---
 
 # Abydos Main Building

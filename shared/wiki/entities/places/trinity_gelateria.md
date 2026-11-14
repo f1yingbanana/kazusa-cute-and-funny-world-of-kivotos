@@ -10,6 +10,7 @@ summary:
   "Gelato stand on the riverside: twelve flavours, mint-chocolate always among
   them; open 11:00–20:00 in fine weather, shut when it rains."
 renown: local
+map: { x: 0.8702, y: 2.4088 }
 ---
 
 # Gelateria Fiume

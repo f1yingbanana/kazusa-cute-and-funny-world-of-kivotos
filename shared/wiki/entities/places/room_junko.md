@@ -12,6 +12,7 @@ summary:
 renown: private
 community: gehenna_academy
 backdrop: student-room
+map: { x: 1.4885, y: 2.5657 }
 ---
 
 # Junko's Room

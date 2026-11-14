@@ -11,6 +11,7 @@ summary:
   "Sensei's café lounge beside the office: two furnished rooms students drop
   into, busiest mid-morning and after 16:00; open while Sensei is in."
 renown: known
+map: { x: 1.4066, y: 1.6303 }
 ---
 
 # SCHALE Café

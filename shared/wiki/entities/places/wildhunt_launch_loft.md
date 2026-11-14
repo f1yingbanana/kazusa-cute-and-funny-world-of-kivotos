@@ -11,6 +11,7 @@ summary:
   marked with drop points. Padlocked."
 renown: private
 community: free_trade_cartel
+map: { x: 0.7563, y: 1.6046 }
 ---
 
 # North Moat Boathouse Loft

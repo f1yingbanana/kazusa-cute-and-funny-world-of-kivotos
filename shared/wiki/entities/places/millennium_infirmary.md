@@ -12,6 +12,7 @@ summary:
 renown: known
 community: millennium_science_school
 backdrop: infirmary
+map: { x: 2.6493, y: 1.6402 }
 ---
 
 # Millennium Infirmary

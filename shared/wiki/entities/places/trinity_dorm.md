@@ -28,6 +28,7 @@ connections:
       "Through the side gate and down the lane to the top of Trinity Street; the
       late-night snack route."
 backdrop: dormitory
+map: { x: 0.8261, y: 2.332 }
 ---
 
 # Willow Hall

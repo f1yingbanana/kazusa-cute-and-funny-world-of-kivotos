@@ -11,6 +11,7 @@ summary:
   stash, a locked notebook; the lamp is often on late."
 renown: private
 backdrop: student-room
+map: { x: 0.7658, y: 2.2593 }
 ---
 
 # Hasumi's Room

@@ -11,6 +11,7 @@ summary:
   09:00–20:00, closed Mondays; a card is needed to borrow."
 renown: known
 backdrop: library
+map: { x: 1.7088, y: 1.4958 }
 ---
 
 # D.U. City Library

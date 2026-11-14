@@ -12,6 +12,7 @@ summary:
   appointment on weekdays 10:00–16:00. Cold, dusty, lamplit."
 renown: local
 backdrop: arius-porta
+map: { x: 0.4827, y: 2.7349 }
 ---
 
 # Porta Pasis Archives

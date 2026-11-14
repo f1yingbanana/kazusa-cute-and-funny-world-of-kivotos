@@ -11,6 +11,7 @@ summary:
   goes on day and night until the Prefect Team raids it."
 renown: local
 community: hot_spring_development_department
+map: { x: 1.6476, y: 2.7763 }
 ---
 
 # Gehenna Hot Springs Worksite

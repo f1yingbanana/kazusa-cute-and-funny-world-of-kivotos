@@ -10,6 +10,7 @@ summary:
   "Cycle shop for desert riders: sand-proof chains, tyres, repairs while you
   wait; 09:00–19:00, closed Mondays."
 renown: local
+map: { x: 2.5936, y: 2.6818 }
 ---
 
 # Sandwind Cycles

@@ -17,6 +17,7 @@ connections:
       - { by: walk, minutes: 2 }
     note: "Straight out of the station's north exit."
 backdrop: gehenna-central
+map: { x: 1.6154, y: 2.7192 }
 ---
 
 # Gehenna Central Square

@@ -10,6 +10,7 @@ summary:
   "Stone steps down to the old aqueduct channel; a shaft of daylight falls
   through a broken vault in the late afternoon. Quiet, echoing, open all hours."
 renown: local
+map: { x: 0.4872, y: 2.7435 }
 ---
 
 # Arius Aqueduct Steps

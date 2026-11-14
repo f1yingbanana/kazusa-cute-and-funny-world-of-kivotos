@@ -18,6 +18,7 @@ connections:
     ways:
       - { by: walk, minutes: 3 }
     note: "Out under the lantern gate to the station."
+map: { x: 0.8806, y: 0.9238 }
 ---
 
 # Hyakkiyako Shopping District

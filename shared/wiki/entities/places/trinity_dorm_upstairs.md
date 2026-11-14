@@ -10,6 +10,7 @@ summary:
   "Willow Hall's carpeted upstairs corridor: residents' rooms and the
   kitchenette; quiet hours after 22:00"
 renown: local
+map: { x: 0.8108, y: 2.3138 }
 ---
 
 # Willow Hall Upper Corridor

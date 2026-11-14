@@ -10,6 +10,7 @@ summary:
   "Bare ridge above the Northern Trunk line with a view across the taiga; aurora
   on clear winter nights, deep cold, no shelter."
 renown: local
+map: { x: 1.3389, y: 0.4034 }
 ---
 
 # Bear Ridge Lookout

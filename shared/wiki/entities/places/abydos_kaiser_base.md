@@ -11,6 +11,7 @@ summary:
   searchlights day and night. Trespassers get shot at."
 renown: known
 community: kaiser_corporation
+map: { x: 2.6155, y: 2.7004 }
 ---
 
 # Kaiser PMC Desert Base

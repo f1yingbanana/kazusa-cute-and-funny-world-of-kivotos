@@ -17,6 +17,7 @@ connections:
     ways:
       - { by: walk, minutes: 8 }
     note: "Along the moat path to Castle Square and the academy gate."
+map: { x: 0.7931, y: 0.7134 }
 ---
 
 # Tsukimi-sou Dormitory

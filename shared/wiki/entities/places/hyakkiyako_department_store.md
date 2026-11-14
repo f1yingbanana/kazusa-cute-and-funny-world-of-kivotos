@@ -12,6 +12,7 @@ summary:
   food hall in the basement; 10:00–20:00, card counter mobbed on release days."
 renown: known
 community: hyakkiyako_alliance_academy
+map: { x: 0.8982, y: 0.9542 }
 ---
 
 # Hyakkiyako Department Store

@@ -12,6 +12,7 @@ summary:
   regulars at lunch, a corner table the food critics claim."
 renown: local
 backdrop: family-restaurant
+map: { x: 1.5491, y: 2.7187 }
 ---
 
 # Diner Sparrow

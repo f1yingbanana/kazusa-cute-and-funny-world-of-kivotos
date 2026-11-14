@@ -10,6 +10,7 @@ summary:
   "Accessory boutique: hair clips, ribbons, charms and jewellery under glass;
   open 10:00–21:00; tempting, and not cheap."
 renown: local
+map: { x: 0.9058, y: 2.3583 }
 ---
 
 # Bijouterie Rosier

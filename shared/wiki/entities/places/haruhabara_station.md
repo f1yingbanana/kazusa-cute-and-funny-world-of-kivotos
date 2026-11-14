@@ -7,7 +7,7 @@ name: "Haruhabara Station"
 summary:
   "Eastern Line station whose exit is guarded by the town's mascots; trains to
   D.U. Central and Millennium every 10 minutes, 05:00–00:30."
-map: { x: 0.62, y: 0.43 }
+map: { x: 2.32, y: 1.98 }
 connections:
   - to: haruhabara
     ways:

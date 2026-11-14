@@ -9,6 +9,7 @@ entry_minutes: 6
 summary:
   "A downtown restaurant where every dish is carrot; lunch 11:00–15:00, dinner
   17:00–21:00."
+map: { x: 1.6905, y: 1.4977 }
 ---
 
 # Carrotopia

@@ -12,6 +12,7 @@ summary:
 renown: local
 community: school_lunch_club
 backdrop: kitchen
+map: { x: 1.5044, y: 2.8532 }
 ---
 
 # Gehenna Dining Hall Kitchen

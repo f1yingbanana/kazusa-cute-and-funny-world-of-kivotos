@@ -13,6 +13,7 @@ summary:
 renown: famous
 community: millennium_science_school
 backdrop: millennium-campus
+map: { x: 2.6974, y: 1.6456 }
 ---
 
 # Millennium Science School Campus

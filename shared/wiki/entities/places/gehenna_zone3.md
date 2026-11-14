@@ -18,6 +18,7 @@ connections:
     ways:
       - { by: walk, minutes: 5 }
     note: "Down the hill road to the top end of the arcades."
+map: { x: 1.5134, y: 2.6174 }
 ---
 
 # Gehenna Zone 3 Residential Area

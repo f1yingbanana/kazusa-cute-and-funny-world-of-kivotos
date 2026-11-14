@@ -17,6 +17,7 @@ connections:
     ways:
       - { by: walk, minutes: 3 }
     note: "Along the quay to the station."
+map: { x: 0.7741, y: 1.6263 }
 ---
 
 # Wild Hunt Canal Town

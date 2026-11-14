@@ -11,6 +11,7 @@ summary:
   open all hours, busiest 07:00–08:00."
 renown: local
 community: hyakkiyako_alliance_academy
+map: { x: 0.7682, y: 0.801 }
 ---
 
 # Kawabata Shared Kitchen

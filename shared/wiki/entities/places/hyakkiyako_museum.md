@@ -11,6 +11,7 @@ summary:
   closed Mondays, quiet on weekdays."
 renown: known
 community: hyakkiyako_alliance_academy
+map: { x: 0.8519, y: 0.8742 }
 ---
 
 # Hyakkiyako Museum of Traditions

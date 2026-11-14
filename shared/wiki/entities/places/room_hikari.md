@@ -11,6 +11,7 @@ summary:
   model railway, candy hidden from the dentist; often unlocked."
 renown: private
 backdrop: student-room
+map: { x: 1.6847, y: 1.4338 }
 ---
 
 # Hikari's Room

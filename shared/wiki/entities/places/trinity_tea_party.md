@@ -14,6 +14,7 @@ summary:
 renown: famous
 community: tea_party
 backdrop: trinity-terrace
+map: { x: 0.834, y: 2.5756 }
 ---
 
 # Tea Party Chamber

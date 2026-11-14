@@ -11,6 +11,7 @@ summary:
   cards, hero-show posters; locked when she remembers."
 renown: private
 backdrop: tatami-room
+map: { x: 0.7854, y: 0.7042 }
 ---
 
 # Kaede's Room

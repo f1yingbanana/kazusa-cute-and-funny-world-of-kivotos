@@ -12,6 +12,7 @@ summary:
   readers, one working heater; open 09:00–20:00, closed Mondays, quiet as snow."
 renown: known
 community: knowledge_liberation_front
+map: { x: 1.5544, y: 0.3365 }
 ---
 
 # Red Winter Federal Library
