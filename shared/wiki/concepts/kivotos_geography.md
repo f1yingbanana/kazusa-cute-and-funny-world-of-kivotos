@@ -34,14 +34,3 @@ of its own, joined by Highlander's railways.
 
 Valkyrie polices D.U. and the shared zones from its Shiratori branch; Highlander
 governs its rail lines rather than a district.
-
-## Beneath Trinity
-
-Known by: saori-joumae, atsuko-hakari, misaki-imashino, hiyori-tsuchinaga,
-subaru-kakehashi, azusa-shirasu, mika-misono, nagisa-kirifuji, seia-yurizono,
-hanako-urawa
-
-The Arius district lies under Kivotos, reached only through the catacombs
-beneath Trinity's Old Cathedral of Communion. The old paths shift; since the
-district was reopened, one route from the cathedral's crypt has been marked and
-kept stable.

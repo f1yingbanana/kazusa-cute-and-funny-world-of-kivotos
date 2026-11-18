@@ -1,0 +1,11 @@
+---
+place_id: arius_district
+name: "Arius District"
+---
+
+## The way in
+
+The Arius district lies under Kivotos, reached only through the catacombs
+beneath Trinity's Old Cathedral of Communion. The old paths shift; since the
+district was reopened, one route from the cathedral's crypt has been marked and
+kept stable.
