@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.seminar
-title: Seminar
-community: millennium_science_school
+name: Seminar
+groups:
+  - millennium_science_school
 ---
 
 # Seminar

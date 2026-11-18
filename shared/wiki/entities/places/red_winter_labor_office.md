@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_labor_office
-place_id: red_winter_labor_office
-name: "Labor Party Workforce Office"
-aliases: ["Red Winter Public Works Office"]
-parent: red_winter_school
-entry_minutes: 3
-summary:
-  "Labor Party headquarters in a converted boiler house: crew job board,
-  placards, megaphones, organisers' cots in back; open 07:00–19:00, strike
-  meetings Thursday nights."
+name: Labor Party Workforce Office
+aliases:
+  - Red Winter Public Works Office
+summary: "Labor Party headquarters in a converted boiler house: crew job board, placards, megaphones, organisers' cots in back; open 07:00–19:00, strike meetings Thursday nights."
+groups:
+  - red_winter_public_works
 renown: known
-community: red_winter_public_works
-map: { x: 1.5305, y: 0.3259 }
+parent: red_winter_school
+place_id: red_winter_labor_office
+entry_minutes: 3
+map:
+  x: 1.5305
+  y: 0.3259
 ---
 
 # Labor Party Workforce Office

@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_saori
-place_id: room_saori
-name: "Saori's Room"
-parent: arius_shelter
-entry_minutes: 1
-summary:
-  "Military-neat room: a cot, a cleaned rifle, a mended mask on a stand, a
-  folder of signed contracts. Bolted at night; she sleeps lightly."
+name: Saori's Room
+summary: "Military-neat room: a cot, a cleaned rifle, a mended mask on a stand, a folder of signed contracts. Bolted at night; she sleeps lightly."
 renown: private
-map: { x: 0.4496, y: 2.7581 }
+parent: arius_shelter
+place_id: room_saori
+entry_minutes: 1
+map:
+  x: 0.4496
+  y: 2.7581
 ---
 
 # Saori's Room

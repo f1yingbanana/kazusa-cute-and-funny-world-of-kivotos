@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.hyakkiyako_alliance_academy
-title: "Hyakkiyako Alliance Academy"
-community: kivotos_overview
+name: Hyakkiyako Alliance Academy
+groups:
+  - kivotos_overview
 renown: known
 ---
 

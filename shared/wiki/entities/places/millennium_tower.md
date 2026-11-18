@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_tower
-place_id: millennium_tower
-name: "Millennium Tower"
-parent: millennium_school
-entry_minutes: 3
-summary:
-  "Seminar's glass tower at the heart of campus: offices, records and a guarded
-  disciplinary floor; lobby 07:00–21:00, upper floors by ID only."
+name: Millennium Tower
+summary: "Seminar's glass tower at the heart of campus: offices, records and a guarded disciplinary floor; lobby 07:00–21:00, upper floors by ID only."
+groups:
+  - seminar
 renown: famous
-community: seminar
+parent: millennium_school
 backdrop: millennium-center
-map: { x: 2.7354, y: 1.6337 }
+place_id: millennium_tower
+entry_minutes: 3
+map:
+  x: 2.7354
+  y: 1.6337
 ---
 
 # Millennium Tower

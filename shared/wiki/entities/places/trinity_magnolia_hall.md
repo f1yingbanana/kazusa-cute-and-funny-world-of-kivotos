@@ -1,30 +1,31 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_magnolia_hall
-place_id: trinity_magnolia_hall
-name: "Magnolia Hall"
-parent: trinity_residential
-entry_minutes: 6
-summary:
-  "Trinity's biggest dorm: four storeys around a garden, a dining room
-  downstairs; door locked 22:30–06:00, roll call 22:30; hallways loud
-  07:30–08:10."
+name: Magnolia Hall
+summary: "Trinity's biggest dorm: four storeys around a garden, a dining room downstairs; door locked 22:30–06:00, roll call 22:30; hallways loud 07:30–08:10."
+groups:
+  - trinity_general_school
 renown: local
-community: trinity_general_school
+parent: trinity_residential
+backdrop: dormitory
+place_id: trinity_magnolia_hall
+entry_minutes: 6
 connections:
   - to: school_gate
     ways:
-      - { by: walk, minutes: 4 }
-      - { by: bike, minutes: 2 }
-    note: "Across the road and up the magnolia avenue to the main gate."
+      - by: walk
+        minutes: 4
+      - by: bike
+        minutes: 2
+    note: Across the road and up the magnolia avenue to the main gate.
   - to: church_street
     ways:
-      - { by: walk, minutes: 9 }
-      - { by: bike, minutes: 4 }
-    note: "Down through the quarter to the top of Trinity Street."
-backdrop: dormitory
-map: { x: 0.7514, y: 2.2653 }
+      - by: walk
+        minutes: 9
+      - by: bike
+        minutes: 4
+    note: Down through the quarter to the top of Trinity Street.
+map:
+  x: 0.7514
+  y: 2.2653
 ---
 
 # Magnolia Hall

@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_sumire
-place_id: room_sumire
-name: "Sumire's Room"
-parent: millennium_dorm_3e
-entry_minutes: 1
-summary:
-  "Room with kettlebells under the bed, protein tubs, a training-plan whiteboard
-  and potted herbs; unlocked while she runs at dawn."
+name: Sumire's Room
+summary: Room with kettlebells under the bed, protein tubs, a training-plan whiteboard and potted herbs; unlocked while she runs at dawn.
 renown: private
+parent: millennium_dorm_3e
 backdrop: student-room
-map: { x: 2.8138, y: 1.7445 }
+place_id: room_sumire
+entry_minutes: 1
+map:
+  x: 2.8138
+  y: 1.7445
 ---
 
 # Sumire's Room

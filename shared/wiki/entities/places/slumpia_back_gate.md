@@ -1,24 +1,23 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.slumpia_back_gate
-place_id: slumpia_back_gate
-name: "Slumpia Back Gate"
-aliases: ["Slumpia Back Entrance"]
-parent: du_abandoned_park
-entry_minutes: 3
-summary:
-  "A cut in the fence behind the old parking lot, with three vending machines
-  that somehow still work; open at all hours, the way everyone gets in."
+name: Slumpia Back Gate
+aliases:
+  - Slumpia Back Entrance
+summary: A cut in the fence behind the old parking lot, with three vending machines that somehow still work; open at all hours, the way everyone gets in.
 renown: local
+parent: du_abandoned_park
+place_id: slumpia_back_gate
+entry_minutes: 3
 connections:
   - to: shiratori_station
     ways:
-      - { by: bus, minutes: 14 }
-      - { by: walk, minutes: 28 }
-    note:
-      "The ward bus stops at the old parking lot every 20 minutes until 23:00."
-map: { x: 1.8513, y: 1.5775 }
+      - by: bus
+        minutes: 14
+      - by: walk
+        minutes: 28
+    note: The ward bus stops at the old parking lot every 20 minutes until 23:00.
+map:
+  x: 1.8513
+  y: 1.5775
 ---
 
 # Slumpia Back Gate

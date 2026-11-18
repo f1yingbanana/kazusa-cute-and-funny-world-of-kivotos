@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.genryumon_palace_garden
-place_id: genryumon_palace_garden
-name: "Genryumon Palace Garden"
-parent: shanhaijing_rikkagaku
-entry_minutes: 2
-summary:
-  "The palace's inner garden: a moon gate, rockery, a tea pavilion; council
-  members and guests only, quiet at all hours."
+name: Genryumon Palace Garden
+summary: "The palace's inner garden: a moon gate, rockery, a tea pavilion; council members and guests only, quiet at all hours."
+groups:
+  - xuanlong_office
 renown: local
-community: xuanlong_office
-map: { x: 0.2315, y: 1.2105 }
+parent: shanhaijing_rikkagaku
+place_id: genryumon_palace_garden
+entry_minutes: 2
+map:
+  x: 0.2315
+  y: 1.2105
 ---
 
 # Genryumon Palace Garden

@@ -1,30 +1,29 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_shopping_district
-place_id: millennium_shopping_district
-name: "Millennium Shopping District"
-aliases: ["Millennium shopping streets"]
-parent: millennium_district
-entry_minutes: 4
-summary:
-  "Shopping streets between Millennium Station and the dormitory: a mall, family
-  restaurant, karaoke, game center and cafés; most shops 10:00–22:00, busy after
-  school."
+name: Millennium Shopping District
+aliases:
+  - Millennium shopping streets
+summary: "Shopping streets between Millennium Station and the dormitory: a mall, family restaurant, karaoke, game center and cafés; most shops 10:00–22:00, busy after school."
 renown: known
+parent: millennium_district
+backdrop: shopping-district
+place_id: millennium_shopping_district
+entry_minutes: 4
 connections:
   - to: millennium_station
     ways:
-      - { by: walk, minutes: 2 }
-    note: "The shopping street starts at the station's east exit."
+      - by: walk
+        minutes: 2
+    note: The shopping street starts at the station's east exit.
   - to: millennium_school
     ways:
-      - { by: walk, minutes: 7 }
-      - { by: bus, minutes: 5 }
-    note:
-      "Up the avenue to the campus gate; the school bus is packed at rush hour."
-backdrop: shopping-district
-map: { x: 2.8438, y: 1.6761 }
+      - by: walk
+        minutes: 7
+      - by: bus
+        minutes: 5
+    note: Up the avenue to the campus gate; the school bus is packed at rush hour.
+map:
+  x: 2.8438
+  y: 1.6761
 ---
 
 # Millennium Shopping District

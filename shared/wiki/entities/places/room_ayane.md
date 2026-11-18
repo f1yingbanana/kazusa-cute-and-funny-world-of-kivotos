@@ -1,18 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_ayane
-place_id: room_ayane
-name: "Ayane's Room"
-parent: abydos_oasis_view
-entry_minutes: 1
-summary:
-  "Neat second-floor flat: a desk stacked with ledgers, laptop and drone
-  charger, shelves of chipped antiques with price tags. Always locked; spare
-  glasses by the bed."
+name: Ayane's Room
+summary: "Neat second-floor flat: a desk stacked with ledgers, laptop and drone charger, shelves of chipped antiques with price tags. Always locked; spare glasses by the bed."
 renown: private
+parent: abydos_oasis_view
 backdrop: student-room
-map: { x: 2.6674, y: 2.698 }
+place_id: room_ayane
+entry_minutes: 1
+map:
+  x: 2.6674
+  y: 2.698
 ---
 
 # Ayane's Room

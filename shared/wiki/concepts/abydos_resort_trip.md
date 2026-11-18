@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.abydos_resort_trip
-title: "Abydos Resort Trip"
-community: abydos_high_school
+name: Abydos Resort Trip
+groups:
+  - abydos_high_school
 ---
 
 # Abydos Resort Trip

@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.odyssey_dive_shed
-place_id: odyssey_dive_shed
-name: "Terminal 3 Dive Shed"
-aliases: ["Diving Club Gear Shed"]
-parent: odyssey_harbor
-entry_minutes: 1
-summary:
-  "The Diving Club's padlocked gear shed: wetsuits, tanks, a fill station,
-  salvage in crates; club members only, busiest before morning dives."
+name: Terminal 3 Dive Shed
+aliases:
+  - Diving Club Gear Shed
+summary: "The Diving Club's padlocked gear shed: wetsuits, tanks, a fill station, salvage in crates; club members only, busiest before morning dives."
+groups:
+  - odyssey_diving_club
 renown: local
-community: odyssey_diving_club
-map: { x: 1.9729, y: 1.6213 }
+parent: odyssey_harbor
+place_id: odyssey_dive_shed
+entry_minutes: 1
+map:
+  x: 1.9729
+  y: 1.6213
 ---
 
 # Terminal 3 Dive Shed

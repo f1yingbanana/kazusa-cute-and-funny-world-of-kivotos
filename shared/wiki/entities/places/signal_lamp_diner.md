@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.signal_lamp_diner
-place_id: signal_lamp_diner
-name: "Signal Lamp Diner"
-aliases: ["Signal Lamp Set Meals"]
-parent: highlander_rail_yard
-entry_minutes: 2
-summary:
-  "A cheap counter diner at the yard gate serving set meals to crews;
-  05:00–15:00 and 18:00–23:00, packed at shift change, counter seats only."
+name: Signal Lamp Diner
+aliases:
+  - Signal Lamp Set Meals
+summary: A cheap counter diner at the yard gate serving set meals to crews; 05:00–15:00 and 18:00–23:00, packed at shift change, counter seats only.
 renown: local
+parent: highlander_rail_yard
 backdrop: train-restaurant
-map: { x: 1.6461, y: 1.4228 }
+place_id: signal_lamp_diner
+entry_minutes: 2
+map:
+  x: 1.6461
+  y: 1.4228
 ---
 
 # Signal Lamp Diner

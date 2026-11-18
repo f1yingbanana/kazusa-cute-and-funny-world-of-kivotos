@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_supermarket
-place_id: millennium_supermarket
-name: "Fresh Mart Ohm"
-parent: millennium_shopping_district
-entry_minutes: 2
-summary:
-  "Neighbourhood supermarket; 09:00–23:00, bento discount stickers go on after
-  20:00 and the half-price ones vanish fast."
+name: Fresh Mart Ohm
+summary: Neighbourhood supermarket; 09:00–23:00, bento discount stickers go on after 20:00 and the half-price ones vanish fast.
 renown: local
-map: { x: 2.8494, y: 1.6868 }
+parent: millennium_shopping_district
+place_id: millennium_supermarket
+entry_minutes: 2
+map:
+  x: 2.8494
+  y: 1.6868
 ---
 
 # Fresh Mart Ohm

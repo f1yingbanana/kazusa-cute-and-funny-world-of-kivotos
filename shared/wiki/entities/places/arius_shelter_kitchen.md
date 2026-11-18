@@ -1,17 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_shelter_kitchen
-place_id: arius_shelter_kitchen
-name: "Arius Squad Shelter Kitchen"
-parent: arius_shelter
-entry_minutes: 1
-summary:
-  "Shared kitchen and table: two-burner stove, ration crates from Trinity,
-  parole terms taped to the wall. Breakfast around 07:00, after drill; weekday
-  lunches packed here for the catacomb walk."
+name: Arius Squad Shelter Kitchen
+summary: "Shared kitchen and table: two-burner stove, ration crates from Trinity, parole terms taped to the wall. Breakfast around 07:00, after drill; weekday lunches packed here for the catacomb walk."
 renown: private
-map: { x: 0.4627, y: 2.7463 }
+parent: arius_shelter
+place_id: arius_shelter_kitchen
+entry_minutes: 1
+map:
+  x: 0.4627
+  y: 2.7463
 ---
 
 # Arius Squad Shelter Kitchen

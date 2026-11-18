@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_dorm4_kitchen
-place_id: wildhunt_dorm4_kitchen
-name: "Dormitory No. 4 Common Kitchen"
-parent: wildhunt_dorm4
-entry_minutes: 1
-summary:
-  "Fourth-floor shared kitchen and washroom: kettle, two burners, a fridge of
-  labelled food. Open until curfew; said to have a ghost at 02:00."
+name: Dormitory No. 4 Common Kitchen
+summary: "Fourth-floor shared kitchen and washroom: kettle, two burners, a fridge of labelled food. Open until curfew; said to have a ghost at 02:00."
 renown: local
-map: { x: 0.7157, y: 1.7234 }
+parent: wildhunt_dorm4
+place_id: wildhunt_dorm4_kitchen
+entry_minutes: 1
+map:
+  x: 0.7157
+  y: 1.7234
 ---
 
 # Dormitory No. 4 Common Kitchen

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_first_building
-place_id: gehenna_first_building
-name: "Gehenna First School Building"
-parent: gehenna_school
-entry_minutes: 2
-summary:
-  "The main classroom block for first- and second-years; corridors loud between
-  periods, doors unlocked 07:00–19:00, the roof stairwell officially closed."
+name: Gehenna First School Building
+summary: The main classroom block for first- and second-years; corridors loud between periods, doors unlocked 07:00–19:00, the roof stairwell officially closed.
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
+parent: gehenna_school
 backdrop: gehenna-corridor
-map: { x: 1.4707, y: 2.8319 }
+place_id: gehenna_first_building
+entry_minutes: 2
+map:
+  x: 1.4707
+  y: 2.8319
 ---
 
 # Gehenna First School Building

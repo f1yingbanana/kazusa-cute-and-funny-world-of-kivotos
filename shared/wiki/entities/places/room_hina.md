@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_hina
-place_id: room_hina
-name: "Hina's Room"
-parent: gehenna_dorm13_2f
-entry_minutes: 1
-summary:
-  "A neat, nearly unused room: a made bed, storage boxes, a dust sheet over a
-  keyboard; locked and usually dark."
+name: Hina's Room
+summary: "A neat, nearly unused room: a made bed, storage boxes, a dust sheet over a keyboard; locked and usually dark."
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_2f
 backdrop: student-room
-map: { x: 1.5074, y: 2.592 }
+place_id: room_hina
+entry_minutes: 1
+map:
+  x: 1.5074
+  y: 2.592
 ---
 
 # Hina's Room

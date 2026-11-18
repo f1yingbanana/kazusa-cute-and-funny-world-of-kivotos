@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.hina_summer_break
-title: "Hina’s Summer Break"
-community: gehenna_academy
+name: Hina’s Summer Break
+groups:
+  - gehenna_academy
 ---
 
 # Hina’s Summer Break

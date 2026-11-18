@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_hanako
-place_id: room_hanako
-name: "Hanako's Room"
-parent: trinity_magnolia_east
-entry_minutes: 1
-summary:
-  "East Wing room: elegant and tidy, a swimsuit hung like a trophy,
-  perfect-score exam papers used as coasters; usually left unlocked, on purpose."
+name: Hanako's Room
+summary: "East Wing room: elegant and tidy, a swimsuit hung like a trophy, perfect-score exam papers used as coasters; usually left unlocked, on purpose."
 renown: private
+parent: trinity_magnolia_east
 backdrop: student-room
-map: { x: 0.7374, y: 2.2618 }
+place_id: room_hanako
+entry_minutes: 1
+map:
+  x: 0.7374
+  y: 2.2618
 ---
 
 # Hanako's Room

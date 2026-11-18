@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_cafeteria
-place_id: valkyrie_cafeteria
-name: "Valkyrie Campus Cafeteria"
-aliases: ["Valkyrie Police Cafeteria"]
-parent: valkyrie_school
-entry_minutes: 2
-summary:
-  "Cheap set meals for officers: breakfast 07:00–08:30, lunch 11:30–13:30,
-  dinner 17:00–19:00 sharp; packed at noon, shut by the time night shifts end."
+name: Valkyrie Campus Cafeteria
+aliases:
+  - Valkyrie Police Cafeteria
+summary: "Cheap set meals for officers: breakfast 07:00–08:30, lunch 11:30–13:30, dinner 17:00–19:00 sharp; packed at noon, shut by the time night shifts end."
+groups:
+  - valkyrie_police_academy
 renown: local
-community: valkyrie_police_academy
-map: { x: 1.8623, y: 1.4632 }
+parent: valkyrie_school
+place_id: valkyrie_cafeteria
+entry_minutes: 2
+map:
+  x: 1.8623
+  y: 1.4632
 ---
 
 # Valkyrie Campus Cafeteria

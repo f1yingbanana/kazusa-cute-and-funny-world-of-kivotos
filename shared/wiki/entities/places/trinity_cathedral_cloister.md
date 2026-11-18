@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_cathedral_cloister
-place_id: trinity_cathedral_cloister
-name: "Trinity Cathedral Cloister"
-parent: trinity_sisterhood
-entry_minutes: 2
-summary:
-  "Covered walk behind the cathedral lined with the Sisters' cells; gate shut
-  21:00–05:30, bells at 05:30; Sisters only beyond the gate."
+name: Trinity Cathedral Cloister
+summary: Covered walk behind the cathedral lined with the Sisters' cells; gate shut 21:00–05:30, bells at 05:30; Sisters only beyond the gate.
+groups:
+  - sisterhood
 renown: local
-community: sisterhood
-map: { x: 0.9676, y: 2.4153 }
+parent: trinity_sisterhood
+place_id: trinity_cathedral_cloister
+entry_minutes: 2
+map:
+  x: 0.9676
+  y: 2.4153
 ---
 
 # Trinity Cathedral Cloister

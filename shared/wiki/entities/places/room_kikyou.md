@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kikyou
-place_id: room_kikyou
-name: "Kikyou's Room"
-parent: hyakkaryouran_clubhouse
-entry_minutes: 1
-summary:
-  "Tatami side room off the council hall, slept in most nights: a sunny cushion,
-  military histories, cat's-cradle string; unlocked."
+name: Kikyou's Room
+summary: "Tatami side room off the council hall, slept in most nights: a sunny cushion, military histories, cat's-cradle string; unlocked."
 renown: private
+parent: hyakkaryouran_clubhouse
 backdrop: student-room
-map: { x: 0.6644, y: 0.938 }
+place_id: room_kikyou
+entry_minutes: 1
+map:
+  x: 0.6644
+  y: 0.938
 ---
 
 # Kikyou's Room

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_makoto
-place_id: room_makoto
-name: "Makoto's Room"
-parent: gehenna_dorm2
-entry_minutes: 1
-summary:
-  "A grand room with a throne-like chair, a war map of Kivotos and a cat tree;
-  locked, a cat inside."
+name: Makoto's Room
+summary: A grand room with a throne-like chair, a war map of Kivotos and a cat tree; locked, a cat inside.
+groups:
+  - pandemonium_society
 renown: private
-community: pandemonium_society
+parent: gehenna_dorm2
 backdrop: student-room
-map: { x: 1.5147, y: 2.6296 }
+place_id: room_makoto
+entry_minutes: 1
+map:
+  x: 1.5147
+  y: 2.6296
 ---
 
 # Makoto's Room

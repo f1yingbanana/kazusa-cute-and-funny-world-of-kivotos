@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_alchemy_lab
-place_id: shanhaijing_alchemy_lab
-name: "Eastern Alchemy Society Laboratory"
-aliases: ["Chinese Alchemy Study Club Laboratory"]
-parent: shanhaijing_school
-entry_minutes: 4
-summary:
-  "Cluttered alchemy laboratory on Alchemy Street: flasks, furnaces, herb
-  drawers, live samples; lights on at all hours, knock first, touch nothing."
+name: Eastern Alchemy Society Laboratory
+aliases:
+  - Chinese Alchemy Study Club Laboratory
+summary: "Cluttered alchemy laboratory on Alchemy Street: flasks, furnaces, herb drawers, live samples; lights on at all hours, knock first, touch nothing."
+groups:
+  - chinese_alchemy_study_club
 renown: known
-community: chinese_alchemy_study_club
-map: { x: 0.2316, y: 1.2964 }
+parent: shanhaijing_school
+place_id: shanhaijing_alchemy_lab
+entry_minutes: 4
+map:
+  x: 0.2316
+  y: 1.2964
 ---
 
 # Eastern Alchemy Society Laboratory

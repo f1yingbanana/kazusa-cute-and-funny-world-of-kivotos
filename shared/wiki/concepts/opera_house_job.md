@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.opera_house_job
-title: "The Opera House Job"
+name: The Opera House Job
 renown: known
 ---
 

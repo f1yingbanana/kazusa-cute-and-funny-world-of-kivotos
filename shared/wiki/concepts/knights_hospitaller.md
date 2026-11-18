@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.knights_hospitaller
-title: Knights Hospitaller
-community: trinity_general_school
+name: Knights Hospitaller
+groups:
+  - trinity_general_school
 ---
 
 # Knights Hospitaller

@@ -1,17 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_class_1c
-place_id: trinity_class_1c
-name: "Trinity Class 1-C"
+name: Trinity Class 1-C
+summary: First-year homeroom at the end of the Academic Hall's ground floor, beside the stairs; homeroom 08:30, lessons until 15:20; left unlocked at lunch, locked at 19:00.
 parent: trinity_academic_hall
-entry_minutes: 1
-summary:
-  "First-year homeroom at the end of the Academic Hall's ground floor, beside
-  the stairs; homeroom 08:30, lessons until 15:20; left unlocked at lunch,
-  locked at 19:00."
 backdrop: trinity-classroom
-map: { x: 0.9369, y: 2.5318 }
+place_id: trinity_class_1c
+entry_minutes: 1
+map:
+  x: 0.9369
+  y: 2.5318
 ---
 
 # Trinity Class 1-C

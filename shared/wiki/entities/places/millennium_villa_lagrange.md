@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_villa_lagrange
-place_id: millennium_villa_lagrange
-name: "Villa Lagrange"
-parent: millennium_euler_heights
-entry_minutes: 2
-summary:
-  "Three-storey villa complex with an auto-lock entrance and a 24-hour
-  laundromat on the ground floor; tenants mostly Millennium students."
+name: Villa Lagrange
+summary: Three-storey villa complex with an auto-lock entrance and a 24-hour laundromat on the ground floor; tenants mostly Millennium students.
 renown: local
-map: { x: 2.8481, y: 1.5977 }
+parent: millennium_euler_heights
+place_id: millennium_villa_lagrange
+entry_minutes: 2
+map:
+  x: 2.8481
+  y: 1.5977
 ---
 
 # Villa Lagrange

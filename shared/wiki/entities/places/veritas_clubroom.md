@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.veritas_clubroom
-place_id: veritas_clubroom
-name: "Hackers' Lounge"
-aliases: ["Veritas Clubroom"]
-parent: millennium_clubhouse
-entry_minutes: 1
-summary:
-  "Veritas' server-cooled den: racks, screens and an air conditioner set to
-  arctic; door code only, lights on at all hours."
+name: Hackers' Lounge
+aliases:
+  - Veritas Clubroom
+summary: "Veritas' server-cooled den: racks, screens and an air conditioner set to arctic; door code only, lights on at all hours."
+groups:
+  - veritas
 renown: known
-community: veritas
-map: { x: 2.6494, y: 1.5927 }
+parent: millennium_clubhouse
+place_id: veritas_clubroom
+entry_minutes: 1
+map:
+  x: 2.6494
+  y: 1.5927
 ---
 
 # Hackers' Lounge

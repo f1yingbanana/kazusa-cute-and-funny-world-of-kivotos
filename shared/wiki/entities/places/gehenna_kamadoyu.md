@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_kamadoyu
-place_id: gehenna_kamadoyu
-name: "Kamado-yu Bathhouse"
-parent: gehenna_zone3
-entry_minutes: 2
-summary:
-  "A neighbourhood bathhouse fed by real hot-spring water; open 15:00–01:00,
-  crowded after club hours, massage chairs and a milk fridge by the door."
+name: Kamado-yu Bathhouse
+summary: A neighbourhood bathhouse fed by real hot-spring water; open 15:00–01:00, crowded after club hours, massage chairs and a milk fridge by the door.
 renown: local
-map: { x: 1.5046, y: 2.6215 }
+parent: gehenna_zone3
+place_id: gehenna_kamadoyu
+entry_minutes: 2
+map:
+  x: 1.5046
+  y: 2.6215
 ---
 
 # Kamado-yu Bathhouse

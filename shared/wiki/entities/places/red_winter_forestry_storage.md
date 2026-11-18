@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_forestry_storage
-place_id: red_winter_forestry_storage
-name: "Red Winter Forestry Storage"
-parent: red_winter_snow_mountains
-entry_minutes: 15
-summary:
-  "Log-walled depot on the mountain road: forest-clearing saws and splitters,
-  timber, a stove; safety gear required inside; unlocked storm shelter, rarely
-  staffed."
+name: Red Winter Forestry Storage
+summary: "Log-walled depot on the mountain road: forest-clearing saws and splitters, timber, a stove; safety gear required inside; unlocked storm shelter, rarely staffed."
+groups:
+  - red_winter_federal_academy
 renown: local
-community: red_winter_federal_academy
-map: { x: 1.3532, y: 0.3976 }
+parent: red_winter_snow_mountains
+place_id: red_winter_forestry_storage
+entry_minutes: 15
+map:
+  x: 1.3532
+  y: 0.3976
 ---
 
 # Red Winter Forestry Storage

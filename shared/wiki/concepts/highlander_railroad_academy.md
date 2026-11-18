@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.highlander_railroad_academy
-title: "Highlander Railroad Academy"
-community: kivotos_overview
+name: Highlander Railroad Academy
+groups:
+  - kivotos_overview
 renown: known
 ---
 

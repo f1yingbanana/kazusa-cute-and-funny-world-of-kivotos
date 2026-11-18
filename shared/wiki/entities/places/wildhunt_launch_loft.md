@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_launch_loft
-place_id: wildhunt_launch_loft
-name: "North Moat Boathouse Loft"
-parent: wildhunt_boathouse
-entry_minutes: 1
-summary:
-  "Loft above the boathouse: a folded catapult, crates of goods, a moat map
-  marked with drop points. Padlocked."
+name: North Moat Boathouse Loft
+summary: "Loft above the boathouse: a folded catapult, crates of goods, a moat map marked with drop points. Padlocked."
+groups:
+  - free_trade_cartel
 renown: private
-community: free_trade_cartel
-map: { x: 0.7563, y: 1.6046 }
+parent: wildhunt_boathouse
+place_id: wildhunt_launch_loft
+entry_minutes: 1
+map:
+  x: 0.7563
+  y: 1.6046
 ---
 
 # North Moat Boathouse Loft

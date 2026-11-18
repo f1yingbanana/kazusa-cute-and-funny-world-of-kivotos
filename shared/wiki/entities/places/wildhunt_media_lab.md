@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_media_lab
-place_id: wildhunt_media_lab
-name: "Wild Hunt Media Arts Lab"
-parent: wildhunt_art_center
-entry_minutes: 1
-summary:
-  "Dim lab of projectors, monitors and cable bins for video and light art; open
-  09:00–21:00, equipment signed out at the desk."
+name: Wild Hunt Media Arts Lab
+summary: Dim lab of projectors, monitors and cable bins for video and light art; open 09:00–21:00, equipment signed out at the desk.
+groups:
+  - wild_hunt_academy
 renown: local
-community: wild_hunt_academy
-map: { x: 0.6232, y: 1.6674 }
+parent: wildhunt_art_center
+place_id: wildhunt_media_lab
+entry_minutes: 1
+map:
+  x: 0.6232
+  y: 1.6674
 ---
 
 # Wild Hunt Media Arts Lab

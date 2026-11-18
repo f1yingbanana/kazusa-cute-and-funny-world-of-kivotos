@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_crafts_workshop
-place_id: hyakkiyako_crafts_workshop
-name: "Hyakkiyako Traditional Crafts Workshop"
-parent: hyakkiyako_movie_village
-entry_minutes: 1
-summary:
-  "Workshop where visitors try dyeing, lacquer and doll-making; classes
-  10:00–16:00, school tour groups on weekdays."
+name: Hyakkiyako Traditional Crafts Workshop
+summary: Workshop where visitors try dyeing, lacquer and doll-making; classes 10:00–16:00, school tour groups on weekdays.
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
-map: { x: 0.8325, y: 0.8751 }
+parent: hyakkiyako_movie_village
+place_id: hyakkiyako_crafts_workshop
+entry_minutes: 1
+map:
+  x: 0.8325
+  y: 0.8751
 ---
 
 # Hyakkiyako Traditional Crafts Workshop

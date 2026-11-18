@@ -1,20 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.school_library
-place_id: school_library
-name: "Trinity Central Library"
-aliases: ["Trinity Great Library"]
-parent: trinity_plaza
-entry_minutes: 2
-summary:
-  "Domed library run by the Library Committee; open 08:00–20:00; silent reading
-  rooms, busiest at lunch and in exam weeks; a committee member often stays on
-  after closing."
+name: Trinity Central Library
+aliases:
+  - Trinity Great Library
+summary: Domed library run by the Library Committee; open 08:00–20:00; silent reading rooms, busiest at lunch and in exam weeks; a committee member often stays on after closing.
+groups:
+  - trinity_library_committee
 renown: known
-community: trinity_library_committee
+parent: trinity_plaza
 backdrop: library
-map: { x: 0.9135, y: 2.5076 }
+place_id: school_library
+entry_minutes: 2
+map:
+  x: 0.9135
+  y: 2.5076
 ---
 
 # Trinity Central Library

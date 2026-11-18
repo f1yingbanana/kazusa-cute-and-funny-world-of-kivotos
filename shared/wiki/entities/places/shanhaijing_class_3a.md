@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_class_3a
-place_id: shanhaijing_class_3a
-name: "Shanhaijing Class 3-A"
-parent: shanhaijing_lecture_hall
-entry_minutes: 1
-summary:
-  "Third-year classroom upstairs; homeroom 08:30, lessons until 15:30; club
-  heads drift in late from their duties."
+name: Shanhaijing Class 3-A
+summary: Third-year classroom upstairs; homeroom 08:30, lessons until 15:30; club heads drift in late from their duties.
+groups:
+  - shanhaijing_senior_secondary_school
 renown: local
-community: shanhaijing_senior_secondary_school
-map: { x: 0.2471, y: 1.2758 }
+parent: shanhaijing_lecture_hall
+place_id: shanhaijing_class_3a
+entry_minutes: 1
+map:
+  x: 0.2471
+  y: 1.2758
 ---
 
 # Shanhaijing Class 3-A

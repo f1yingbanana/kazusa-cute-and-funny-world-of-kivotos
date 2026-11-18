@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_neru
-place_id: room_neru
-name: "Neru's Room"
-parent: millennium_kepler_house
-entry_minutes: 1
-summary:
-  "Small, spartan room: a punching bag, a bomber jacket on a hook, trophies and
-  a mission log; locked; plushies hidden in the closet."
+name: Neru's Room
+summary: "Small, spartan room: a punching bag, a bomber jacket on a hook, trophies and a mission log; locked; plushies hidden in the closet."
 renown: private
+parent: millennium_kepler_house
 backdrop: student-room
-map: { x: 2.8703, y: 1.6261 }
+place_id: room_neru
+entry_minutes: 1
+map:
+  x: 2.8703
+  y: 1.6261
 ---
 
 # Neru's Room

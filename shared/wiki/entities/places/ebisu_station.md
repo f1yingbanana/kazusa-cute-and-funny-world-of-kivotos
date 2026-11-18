@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.ebisu_station
+name: Ebisu Way Station
+summary: A wooden way station where the tunnel railway comes out into the snow; hourly trains back to Hyakkiyako, 06:00–22:00.
+backdrop: train-station
 place_id: ebisu_station
-name: "Ebisu Way Station"
-summary:
-  "A wooden way station where the tunnel railway comes out into the snow; hourly
-  trains back to Hyakkiyako, 06:00–22:00."
-map: { x: 0.92, y: 0.55 }
 connections:
   - to: ebisu_district
     ways:
-      - { by: walk, minutes: 5 }
-    note: "Into the snow."
-backdrop: train-station
+      - by: walk
+        minutes: 5
+    note: Into the snow.
+map:
+  x: 0.92
+  y: 0.55
 ---
 
 # Ebisu Way Station

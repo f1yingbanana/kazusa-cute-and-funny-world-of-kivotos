@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_boathouse
-place_id: wildhunt_boathouse
-name: "North Moat Boathouse"
-parent: wildhunt_canal_town
-entry_minutes: 3
-summary:
-  "Disused boathouse on the north moat: rotting jetty, padlocked doors, reeds
-  all round. Nobody about after dark."
+name: North Moat Boathouse
+summary: "Disused boathouse on the north moat: rotting jetty, padlocked doors, reeds all round. Nobody about after dark."
 renown: local
-map: { x: 0.7495, y: 1.6115 }
+parent: wildhunt_canal_town
+place_id: wildhunt_boathouse
+entry_minutes: 3
+map:
+  x: 0.7495
+  y: 1.6115
 ---
 
 # North Moat Boathouse

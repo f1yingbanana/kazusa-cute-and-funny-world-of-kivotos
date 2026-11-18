@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_aru
-place_id: room_aru
-name: "Aru Rikuhachima's Room"
-parent: gehenna_hotaru_building
-entry_minutes: 1
-summary:
-  "A cramped rented room with a desk too big for it and business books; locked,
-  often empty because she sleeps on the office sofa."
+name: Aru Rikuhachima's Room
+summary: A cramped rented room with a desk too big for it and business books; locked, often empty because she sleeps on the office sofa.
+groups:
+  - problem_solver_68
 renown: private
-community: problem_solver_68
-map: { x: 1.6174, y: 2.6687 }
+parent: gehenna_hotaru_building
+place_id: room_aru
+entry_minutes: 1
+map:
+  x: 1.6174
+  y: 2.6687
 ---
 
 # Aru Rikuhachima's Room

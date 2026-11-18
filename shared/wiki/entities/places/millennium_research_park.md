@@ -1,21 +1,19 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_research_park
-place_id: millennium_research_park
-name: "Millennium Research Park"
-parent: millennium_district
-entry_minutes: 6
-summary:
-  "Business quarter of glass towers, startups and data centers beside Millennium
-  Station; offices 08:00–20:00, deserted at night except security."
+name: Millennium Research Park
+summary: Business quarter of glass towers, startups and data centers beside Millennium Station; offices 08:00–20:00, deserted at night except security.
 renown: known
+parent: millennium_district
+place_id: millennium_research_park
+entry_minutes: 6
 connections:
   - to: millennium_station
     ways:
-      - { by: walk, minutes: 3 }
-    note: "Through the west exit concourse."
-map: { x: 2.9023, y: 1.6888 }
+      - by: walk
+        minutes: 3
+    note: Through the west exit concourse.
+map:
+  x: 2.9023
+  y: 1.6888
 ---
 
 # Millennium Research Park

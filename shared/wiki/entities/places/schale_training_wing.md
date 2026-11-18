@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_training_wing
-place_id: schale_training_wing
-name: "SCHALE Training Wing"
+name: SCHALE Training Wing
+summary: "SCHALE's lower floors for training: a gym, a shooting range and a training room; open 06:00–22:00."
 parent: schale_office
+place_id: schale_training_wing
 entry_minutes: 3
-summary:
-  "SCHALE's lower floors for training: a gym, a shooting range and a training
-  room; open 06:00–22:00."
-map: { x: 1.4106, y: 1.6088 }
+map:
+  x: 1.4106
+  y: 1.6088
 ---
 
 # SCHALE Training Wing

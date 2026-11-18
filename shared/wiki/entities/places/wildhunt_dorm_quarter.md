@@ -1,30 +1,31 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_dorm_quarter
-place_id: wildhunt_dorm_quarter
-name: "Wild Hunt Dormitory Quarter"
-parent: wildhunt_school
-entry_minutes: 3
-summary:
-  "Walled residential bastion of numbered dormitories assigned by the Arts
-  Council; supervisory post at the arch. Curfew 22:00, room checks at 22:30."
+name: Wild Hunt Dormitory Quarter
+summary: Walled residential bastion of numbered dormitories assigned by the Arts Council; supervisory post at the arch. Curfew 22:00, room checks at 22:30.
+groups:
+  - wild_hunt_academy
 renown: known
-community: wild_hunt_academy
+parent: wildhunt_school
+place_id: wildhunt_dorm_quarter
+entry_minutes: 3
 connections:
   - to: wildhunt_gate
     ways:
-      - { by: walk, minutes: 4 }
-    note: "Along the inner wall to the gatehouse."
+      - by: walk
+        minutes: 4
+    note: Along the inner wall to the gatehouse.
   - to: wildhunt_art_center
     ways:
-      - { by: walk, minutes: 4 }
-    note: "Through the arch and across to the studios."
+      - by: walk
+        minutes: 4
+    note: Through the arch and across to the studios.
   - to: wildhunt_piazza
     ways:
-      - { by: walk, minutes: 2 }
-    note: "Out of the arch onto the piazza."
-map: { x: 0.6873, y: 1.7207 }
+      - by: walk
+        minutes: 2
+    note: Out of the arch onto the piazza.
+map:
+  x: 0.6873
+  y: 1.7207
 ---
 
 # Wild Hunt Dormitory Quarter

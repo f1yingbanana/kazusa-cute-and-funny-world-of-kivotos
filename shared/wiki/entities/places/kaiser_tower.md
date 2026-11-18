@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kaiser_tower
-place_id: kaiser_tower
-name: "Kaiser Corporation Tower"
-aliases: ["Kaiser Tower"]
-parent: business_district_3
-entry_minutes: 3
-summary:
-  "Kaiser's black-glass headquarters: loans, construction and security
-  divisions; the lobby is public, everything above needs a pass."
+name: Kaiser Corporation Tower
+aliases:
+  - Kaiser Tower
+summary: "Kaiser's black-glass headquarters: loans, construction and security divisions; the lobby is public, everything above needs a pass."
 renown: known
-map: { x: 1.9236, y: 1.4949 }
+parent: business_district_3
+place_id: kaiser_tower
+entry_minutes: 3
+map:
+  x: 1.9236
+  y: 1.4949
 ---
 
 # Kaiser Corporation Tower

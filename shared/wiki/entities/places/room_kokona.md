@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kokona
-place_id: room_kokona
-name: "Kokona's Room"
-parent: plum_garden_staff_house
-entry_minutes: 1
-summary:
-  "Small, very orderly room: a picture-book bookcase, an instructor's whistle
-  and lesson planner, a step stool; locked."
+name: Kokona's Room
+summary: "Small, very orderly room: a picture-book bookcase, an instructor's whistle and lesson planner, a step stool; locked."
 renown: private
+parent: plum_garden_staff_house
 backdrop: student-room
-map: { x: 0.2047, y: 1.2888 }
+place_id: room_kokona
+entry_minutes: 1
+map:
+  x: 0.2047
+  y: 1.2888
 ---
 
 # Kokona's Room

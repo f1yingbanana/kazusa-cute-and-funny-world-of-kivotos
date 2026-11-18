@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_district
-place_id: wildhunt_district
-name: "Wild Hunt Integrated Arts District"
-aliases: ["Wild Hunt town"]
-summary:
-  "A star-shaped art academy fortress ringed by canals, with a canal town of
-  galleries, cafés and shops outside its walls; leaving the fortress needs an
-  outing pass."
+name: Wild Hunt Integrated Arts District
+aliases:
+  - Wild Hunt town
+summary: A star-shaped art academy fortress ringed by canals, with a canal town of galleries, cafés and shops outside its walls; leaving the fortress needs an outing pass.
+groups:
+  - wild_hunt_academy
 renown: known
-community: wild_hunt_academy
-map: { x: 0.72, y: 1.62 }
 backdrop: wildhunt-street
+place_id: wildhunt_district
+map:
+  x: 0.72
+  y: 1.62
 ---
 
 # Wild Hunt Integrated Arts District

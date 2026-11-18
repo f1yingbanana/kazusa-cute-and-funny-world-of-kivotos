@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.gehenna_academy
-title: "Gehenna Academy"
-community: kivotos_overview
+name: Gehenna Academy
+groups:
+  - kivotos_overview
 renown: known
 ---
 

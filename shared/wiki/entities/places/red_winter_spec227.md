@@ -1,29 +1,31 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_spec227
-place_id: red_winter_spec227
-name: "Former Institute"
-aliases: ["No. 227 Special Class Dormitory", "Old Red Winter Institute"]
-parent: red_winter_district
-entry_minutes: 85
-summary:
-  "Half-abandoned old school on the outskirts where No. 227 Special Class is
-  kept: drafty, one working stove; shuttle train from Central Station, always
-  late, last back 22:40."
+name: Former Institute
+aliases:
+  - No. 227 Special Class Dormitory
+  - Old Red Winter Institute
+summary: "Half-abandoned old school on the outskirts where No. 227 Special Class is kept: drafty, one working stove; shuttle train from Central Station, always late, last back 22:40."
+groups:
+  - special_class_227
 renown: local
-community: special_class_227
+parent: red_winter_district
+place_id: red_winter_spec227
+entry_minutes: 85
 connections:
   - to: red_winter_station
     ways:
-      - { by: "shuttle train", minutes: 35 }
-      - { by: walk, minutes: 90 }
-    note: "The campus shuttle, always late; or the long mountain road on foot."
+      - by: shuttle train
+        minutes: 35
+      - by: walk
+        minutes: 90
+    note: The campus shuttle, always late; or the long mountain road on foot.
   - to: red_winter_snow_mountains
     ways:
-      - { by: walk, minutes: 30 }
-    note: "Up the mountain road into the forest."
-map: { x: 1.3527, y: 0.4771 }
+      - by: walk
+        minutes: 30
+    note: Up the mountain road into the forest.
+map:
+  x: 1.3527
+  y: 0.4771
 ---
 
 # Former Institute

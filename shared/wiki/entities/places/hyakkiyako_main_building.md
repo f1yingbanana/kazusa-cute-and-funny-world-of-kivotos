@@ -1,18 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_main_building
-place_id: hyakkiyako_main_building
-name: "Hyakkiyako Main Academy Building"
-aliases: ["Tenshukaku Keep", "Hyakkiyako Castle Keep"]
-parent: hyakkiyako_school
-entry_minutes: 2
-summary:
-  "The main school building with the castle keep on top; homerooms for every
-  year, wooden corridors that creak; open 07:00–19:00, locked at night."
+name: Hyakkiyako Main Academy Building
+aliases:
+  - Tenshukaku Keep
+  - Hyakkiyako Castle Keep
+summary: The main school building with the castle keep on top; homerooms for every year, wooden corridors that creak; open 07:00–19:00, locked at night.
+groups:
+  - hyakkiyako_alliance_academy
 renown: famous
-community: hyakkiyako_alliance_academy
-map: { x: 0.7201, y: 0.9944 }
+parent: hyakkiyako_school
+place_id: hyakkiyako_main_building
+entry_minutes: 2
+map:
+  x: 0.7201
+  y: 0.9944
 ---
 
 # Hyakkiyako Main Academy Building

@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_riverside_road
-place_id: millennium_riverside_road
-name: "Millennium Riverside Road"
-parent: millennium_district_park
-entry_minutes: 3
-summary:
-  "Embankment road along the river at the park's edge: streetlights, benches, a
-  few food carts; joggers at dawn, dark and empty after 23:00."
+name: Millennium Riverside Road
+summary: "Embankment road along the river at the park's edge: streetlights, benches, a few food carts; joggers at dawn, dark and empty after 23:00."
 renown: local
+parent: millennium_district_park
 backdrop: riverside-road
-map: { x: 2.8558, y: 1.7046 }
+place_id: millennium_riverside_road
+entry_minutes: 3
+map:
+  x: 2.8558
+  y: 1.7046
 ---
 
 # Millennium Riverside Road

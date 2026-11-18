@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_hibiki
-place_id: room_hibiki
-name: "Hibiki's Room"
-parent: millennium_dorm_3e
-entry_minutes: 1
-summary:
-  "Room of a sewing machine beside a soldering station, dress forms in half-made
-  costumes, a labeled drawer of spare buttons; locked."
+name: Hibiki's Room
+summary: Room of a sewing machine beside a soldering station, dress forms in half-made costumes, a labeled drawer of spare buttons; locked.
 renown: private
+parent: millennium_dorm_3e
 backdrop: student-room
-map: { x: 2.8048, y: 1.7482 }
+place_id: room_hibiki
+entry_minutes: 1
+map:
+  x: 2.8048
+  y: 1.7482
 ---
 
 # Hibiki's Room

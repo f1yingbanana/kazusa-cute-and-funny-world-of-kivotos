@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.summer_sky_promise
-title: "Summer Sky’s Promise"
+name: Summer Sky’s Promise
 renown: known
 ---
 

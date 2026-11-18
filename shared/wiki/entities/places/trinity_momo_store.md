@@ -1,17 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_momo_store
-place_id: trinity_momo_store
-name: "Momo Friends Automated Store"
-parent: trinity_galleria
-entry_minutes: 1
-summary:
-  "Unstaffed Momo Friends shop run by vending robots, with a second-hand
-  limited-edition corner; open 10:00–21:00; queues from early on release
-  mornings."
+name: Momo Friends Automated Store
+summary: Unstaffed Momo Friends shop run by vending robots, with a second-hand limited-edition corner; open 10:00–21:00; queues from early on release mornings.
 renown: local
-map: { x: 0.8938, y: 2.3708 }
+parent: trinity_galleria
+place_id: trinity_momo_store
+entry_minutes: 1
+map:
+  x: 0.8938
+  y: 2.3708
 ---
 
 # Momo Friends Automated Store

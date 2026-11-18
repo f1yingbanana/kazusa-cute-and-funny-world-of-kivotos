@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.red_winter_public_works
-title: Public Works Department
-community: red_winter_federal_academy
+name: Public Works Department
+groups:
+  - red_winter_federal_academy
 ---
 
 # Public Works Department

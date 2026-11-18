@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_school_prison
-place_id: shanhaijing_school_prison
-name: "Shanhaijing School Prison"
-parent: shanhaijing_rikkagaku
-entry_minutes: 3
-summary:
-  "Genryumon's stone detention block for disgraced students; guarded around the
-  clock, visits only with council permission."
+name: Shanhaijing School Prison
+summary: Genryumon's stone detention block for disgraced students; guarded around the clock, visits only with council permission.
+groups:
+  - xuanlong_office
 renown: known
-community: xuanlong_office
-map: { x: 0.2127, y: 1.2113 }
+parent: shanhaijing_rikkagaku
+place_id: shanhaijing_school_prison
+entry_minutes: 3
+map:
+  x: 0.2127
+  y: 1.2113
 ---
 
 # Shanhaijing School Prison

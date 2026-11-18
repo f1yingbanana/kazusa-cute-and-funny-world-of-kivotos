@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.valkyrie_waterpark
-title: "Valkyrie at the Water Park"
-community: valkyrie_police_academy
+name: Valkyrie at the Water Park
+groups:
+  - valkyrie_police_academy
 ---
 
 # Valkyrie at the Water Park

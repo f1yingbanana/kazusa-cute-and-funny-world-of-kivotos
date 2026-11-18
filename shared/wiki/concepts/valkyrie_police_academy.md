@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.valkyrie_police_academy
-title: Valkyrie Police Academy
-community: kivotos_overview
+name: Valkyrie Police Academy
+groups:
+  - kivotos_overview
 renown: known
 ---
 

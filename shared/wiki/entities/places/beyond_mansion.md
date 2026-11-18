@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.beyond_mansion
-place_id: beyond_mansion
-name: "Mansion of the Beyond"
-parent: great_snowfield
-entry_minutes: 25
-summary:
-  "Derelict mansion at the snowfield's edge used as a base by the Nature's
-  Beauty gang; unlit, unwelcoming, lookouts on the roof."
+name: Mansion of the Beyond
+summary: Derelict mansion at the snowfield's edge used as a base by the Nature's Beauty gang; unlit, unwelcoming, lookouts on the roof.
+groups:
+  - natures_beauty
 renown: local
-community: natures_beauty
-map: { x: 0.8878, y: 0.3844 }
+parent: great_snowfield
+place_id: beyond_mansion
+entry_minutes: 25
+map:
+  x: 0.8878
+  y: 0.3844
 ---
 
 # Mansion of the Beyond

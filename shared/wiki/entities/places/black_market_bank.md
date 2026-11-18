@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.black_market_bank
-place_id: black_market_bank
-name: "Black Market Bank"
+name: Black Market Bank
+summary: "The district's own bank: loans to anyone, at terrible rates; open 09:00–17:00 behind armoured doors."
 parent: black_market_district
-entry_minutes: 4
-summary:
-  "The district's own bank: loans to anyone, at terrible rates; open 09:00–17:00
-  behind armoured doors."
 backdrop: bank
-map: { x: 2.1207, y: 2.9297 }
+place_id: black_market_bank
+entry_minutes: 4
+map:
+  x: 2.1207
+  y: 2.9297
 ---
 
 # Black Market Bank

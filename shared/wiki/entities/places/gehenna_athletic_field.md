@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_athletic_field
-place_id: gehenna_athletic_field
-name: "Gehenna Central Athletic Field"
-parent: gehenna_school
-entry_minutes: 3
-summary:
-  "The main sports ground with a track and stands; PE in the mornings, clubs
-  after school until 19:00, floodlit for festivals and the odd tank race."
+name: Gehenna Central Athletic Field
+summary: The main sports ground with a track and stands; PE in the mornings, clubs after school until 19:00, floodlit for festivals and the odd tank race.
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
-map: { x: 1.4862, y: 2.8167 }
+parent: gehenna_school
+place_id: gehenna_athletic_field
+entry_minutes: 3
+map:
+  x: 1.4862
+  y: 2.8167
 ---
 
 # Gehenna Central Athletic Field

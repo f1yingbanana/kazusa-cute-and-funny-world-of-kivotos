@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_clubhouse_annex
-place_id: millennium_clubhouse_annex
-name: "Millennium Clubhouse Annex"
-parent: millennium_clubhouse
-entry_minutes: 2
-summary:
-  "The clubhouse's older back wing of rooms booked to clubs that no longer meet;
-  dim corridors, rarely cleaned, mostly empty at any hour."
+name: Millennium Clubhouse Annex
+summary: The clubhouse's older back wing of rooms booked to clubs that no longer meet; dim corridors, rarely cleaned, mostly empty at any hour.
+groups:
+  - millennium_science_school
 renown: local
-community: millennium_science_school
-map: { x: 2.6748, y: 1.5724 }
+parent: millennium_clubhouse
+place_id: millennium_clubhouse_annex
+entry_minutes: 2
+map:
+  x: 2.6748
+  y: 1.5724
 ---
 
 # Millennium Clubhouse Annex

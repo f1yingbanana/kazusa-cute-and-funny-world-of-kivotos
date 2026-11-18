@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_patisserie
-place_id: trinity_patisserie
-name: "Cafe Mille-Feuille"
-aliases: ["Pâtisserie de Trinity", "Patisserie de Trinity"]
-parent: church_street
-entry_minutes: 2
-summary:
-  "Trinity Street's favourite dessert café: mille-feuille, seasonal menus, a
-  terrace; open 10:00–20:00; queues on new-menu days, students crowd it after
-  15:30."
+name: Cafe Mille-Feuille
+aliases:
+  - Pâtisserie de Trinity
+  - Patisserie de Trinity
+summary: "Trinity Street's favourite dessert café: mille-feuille, seasonal menus, a terrace; open 10:00–20:00; queues on new-menu days, students crowd it after 15:30."
 renown: known
+parent: church_street
 backdrop: dessert-cafe
-map: { x: 0.9299, y: 2.342 }
+place_id: trinity_patisserie
+entry_minutes: 2
+map:
+  x: 0.9299
+  y: 2.342
 ---
 
 # Cafe Mille-Feuille

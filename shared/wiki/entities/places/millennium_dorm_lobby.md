@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_dorm_lobby
-place_id: millennium_dorm_lobby
-name: "Millennium Dormitory Lobby"
-parent: millennium_dormitory
-entry_minutes: 1
-summary:
-  "Entrance hall with the ID gate, mailboxes, a parcel locker and notice board;
-  always lit, busiest 07:45–08:15 and late-night delivery runs."
+name: Millennium Dormitory Lobby
+summary: Entrance hall with the ID gate, mailboxes, a parcel locker and notice board; always lit, busiest 07:45–08:15 and late-night delivery runs.
+groups:
+  - millennium_science_school
 renown: local
-community: millennium_science_school
-map: { x: 2.8049, y: 1.7601 }
+parent: millennium_dormitory
+place_id: millennium_dorm_lobby
+entry_minutes: 1
+map:
+  x: 2.8049
+  y: 1.7601
 ---
 
 # Millennium Dormitory Lobby

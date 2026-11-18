@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.class_2b
-place_id: class_2b
-name: "Trinity Class 2-B"
+name: Trinity Class 2-B
+summary: Second-year homeroom at the quiet end of the Academic Hall's first floor; homeroom 08:30, lessons until 15:20; left unlocked at lunch, locked at 19:00.
 parent: trinity_academic_hall
-entry_minutes: 1
-summary:
-  "Second-year homeroom at the quiet end of the Academic Hall's first floor;
-  homeroom 08:30, lessons until 15:20; left unlocked at lunch, locked at 19:00."
 backdrop: trinity-classroom
-map: { x: 0.9151, y: 2.5249 }
+place_id: class_2b
+entry_minutes: 1
+map:
+  x: 0.9151
+  y: 2.5249
 ---
 
 # Trinity Class 2-B

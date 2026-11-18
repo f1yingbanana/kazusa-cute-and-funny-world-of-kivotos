@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_magnolia_dining
-place_id: trinity_magnolia_dining
-name: "Magnolia Hall Dining Room"
-parent: trinity_magnolia_hall
-entry_minutes: 1
-summary:
-  "Magnolia Hall's dining room: breakfast 06:30–08:00, dinner 18:00–20:00, tea
-  urn always on; jammed 07:30–07:50 as everyone eats at once."
+name: Magnolia Hall Dining Room
+summary: "Magnolia Hall's dining room: breakfast 06:30–08:00, dinner 18:00–20:00, tea urn always on; jammed 07:30–07:50 as everyone eats at once."
 renown: local
-map: { x: 0.7523, y: 2.275 }
+parent: trinity_magnolia_hall
+place_id: trinity_magnolia_dining
+entry_minutes: 1
+map:
+  x: 0.7523
+  y: 2.275
 ---
 
 # Magnolia Hall Dining Room

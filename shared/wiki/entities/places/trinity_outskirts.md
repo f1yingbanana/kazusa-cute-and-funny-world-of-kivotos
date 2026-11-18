@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_outskirts
-place_id: trinity_outskirts
-name: "Trinity Outskirts"
+name: Trinity Outskirts
+summary: "The quiet edge of Trinity: old buildings, fields, a bird-filled park and the road to the ruined cathedral; few buses."
 parent: trinity_district
+place_id: trinity_outskirts
 entry_minutes: 15
-summary:
-  "The quiet edge of Trinity: old buildings, fields, a bird-filled park and the
-  road to the ruined cathedral; few buses."
-map: { x: 0.8022, y: 2.4326 }
+map:
+  x: 0.8022
+  y: 2.4326
 ---
 
 # Trinity Outskirts

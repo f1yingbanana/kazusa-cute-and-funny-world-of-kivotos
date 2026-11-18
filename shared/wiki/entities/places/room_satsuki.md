@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_satsuki
-place_id: room_satsuki
-name: "Satsuki's Room"
-parent: gehenna_dorm2
-entry_minutes: 1
-summary:
-  "A plush room with unopened shopping bags and a spiral poster; locked, a
-  nightlight and a bug zapper always on."
+name: Satsuki's Room
+summary: A plush room with unopened shopping bags and a spiral poster; locked, a nightlight and a bug zapper always on.
+groups:
+  - pandemonium_society
 renown: private
-community: pandemonium_society
+parent: gehenna_dorm2
 backdrop: student-room
-map: { x: 1.5091, y: 2.6375 }
+place_id: room_satsuki
+entry_minutes: 1
+map:
+  x: 1.5091
+  y: 2.6375
 ---
 
 # Satsuki's Room

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.odyssey_olympus
-place_id: odyssey_olympus
-name: "Flagship Olympus"
-aliases: ["Odyssey Flagship"]
-parent: odyssey_school
-entry_minutes: 3
-summary:
-  "Odyssey's flagship and school building: the Island leadership's bridge,
-  lecture decks, the mess; gangway guarded, students aboard from 07:00 to 21:00."
+name: Flagship Olympus
+aliases:
+  - Odyssey Flagship
+summary: "Odyssey's flagship and school building: the Island leadership's bridge, lecture decks, the mess; gangway guarded, students aboard from 07:00 to 21:00."
 renown: known
+parent: odyssey_school
 backdrop: odyssey-main-deck
-map: { x: 2.0081, y: 1.6269 }
+place_id: odyssey_olympus
+entry_minutes: 3
+map:
+  x: 2.0081
+  y: 1.6269
 ---
 
 # Flagship Olympus

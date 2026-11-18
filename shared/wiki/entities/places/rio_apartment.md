@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.rio_apartment
-place_id: rio_apartment
-name: "Apartment 3108, Lumen Court"
-parent: millennium_lumen_court
-entry_minutes: 1
-summary:
-  "High-floor apartment behind extra locks of its owner's design: server racks,
-  a 3D printer, stacks of frozen-meal boxes and unopened parcels."
+name: Apartment 3108, Lumen Court
+summary: "High-floor apartment behind extra locks of its owner's design: server racks, a 3D printer, stacks of frozen-meal boxes and unopened parcels."
 renown: private
-map: { x: 2.9149, y: 1.688 }
+parent: millennium_lumen_court
+place_id: rio_apartment
+entry_minutes: 1
+map:
+  x: 2.9149
+  y: 1.688
 ---
 
 # Apartment 3108, Lumen Court

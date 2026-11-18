@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_dorm13_4f
-place_id: gehenna_dorm13_4f
-name: "Dormitory No. 13 Fourth Floor"
-parent: gehenna_dorm13
-entry_minutes: 1
-summary:
-  "The top-floor corridor: four rooms, a washroom and laundry; chatter late into
-  the night and a radio scanner crackling behind one door."
+name: Dormitory No. 13 Fourth Floor
+summary: "The top-floor corridor: four rooms, a washroom and laundry; chatter late into the night and a radio scanner crackling behind one door."
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
-map: { x: 1.4665, y: 2.5886 }
+parent: gehenna_dorm13
+place_id: gehenna_dorm13_4f
+entry_minutes: 1
+map:
+  x: 1.4665
+  y: 2.5886
 ---
 
 # Dormitory No. 13 Fourth Floor

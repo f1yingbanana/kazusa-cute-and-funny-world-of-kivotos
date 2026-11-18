@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_misaki
-place_id: room_misaki
-name: "Misaki's Room"
-parent: arius_shelter
-entry_minutes: 1
-summary:
-  "The emptiest room, chosen for its big window and high ceiling: a mattress,
-  one plush bear, a carved wooden miniature, masks and tissues. Door kept ajar."
+name: Misaki's Room
+summary: "The emptiest room, chosen for its big window and high ceiling: a mattress, one plush bear, a carved wooden miniature, masks and tissues. Door kept ajar."
 renown: private
-map: { x: 0.4596, y: 2.7649 }
+parent: arius_shelter
+place_id: room_misaki
+entry_minutes: 1
+map:
+  x: 0.4596
+  y: 2.7649
 ---
 
 # Misaki's Room

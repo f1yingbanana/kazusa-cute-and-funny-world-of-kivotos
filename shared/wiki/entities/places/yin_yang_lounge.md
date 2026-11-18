@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.yin_yang_lounge
-place_id: yin_yang_lounge
-name: "Yin-Yang Club Tatami Lounge"
-parent: yin_yang_building
-entry_minutes: 1
-summary:
-  "A small break room with a kotatsu, a tea kettle and boxes of tourism
-  merchandise; members drift in all day, someone is usually napping."
+name: Yin-Yang Club Tatami Lounge
+summary: A small break room with a kotatsu, a tea kettle and boxes of tourism merchandise; members drift in all day, someone is usually napping.
+groups:
+  - yin_yang_club
 renown: local
-community: yin_yang_club
+parent: yin_yang_building
 backdrop: tatami-room
-map: { x: 0.7575, y: 1.0015 }
+place_id: yin_yang_lounge
+entry_minutes: 1
+map:
+  x: 0.7575
+  y: 1.0015
 ---
 
 # Yin-Yang Club Tatami Lounge

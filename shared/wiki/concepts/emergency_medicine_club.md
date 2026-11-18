@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.emergency_medicine_club
-title: Emergency Medicine Club
-community: gehenna_academy
+name: Emergency Medicine Club
+groups:
+  - gehenna_academy
 ---
 
 # Emergency Medicine Club

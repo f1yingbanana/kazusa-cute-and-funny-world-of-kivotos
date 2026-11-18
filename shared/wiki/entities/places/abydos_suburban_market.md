@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_suburban_market
-place_id: abydos_suburban_market
-name: "Abydos Suburban Market"
-parent: abydos_suburban_town
-entry_minutes: 1
-summary:
-  "Covered market of produce, egg, bread and hardware stalls; 06:00–13:00,
-  busiest before school. Flyers are handed out at the entrance most mornings."
+name: Abydos Suburban Market
+summary: Covered market of produce, egg, bread and hardware stalls; 06:00–13:00, busiest before school. Flyers are handed out at the entrance most mornings.
 renown: local
-map: { x: 2.6234, y: 2.666 }
+parent: abydos_suburban_town
+place_id: abydos_suburban_market
+entry_minutes: 1
+map:
+  x: 2.6234
+  y: 2.666
 ---
 
 # Abydos Suburban Market

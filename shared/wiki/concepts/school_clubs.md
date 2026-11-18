@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.school_clubs
-title: "School Clubs in Kivotos"
+name: School Clubs in Kivotos
 renown: famous
 ---
 

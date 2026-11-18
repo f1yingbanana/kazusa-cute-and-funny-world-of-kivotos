@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_teahouse
-place_id: gehenna_teahouse
-name: "Yūgure Teahouse"
-aliases: ["Yugure Teahouse"]
-parent: gehenna_riverside
-entry_minutes: 15
-summary:
-  "An elegant old teahouse at the quiet end of the river path; open 10:00–19:00,
-  few customers, reservations for the tatami rooms."
+name: Yūgure Teahouse
+aliases:
+  - Yugure Teahouse
+summary: An elegant old teahouse at the quiet end of the river path; open 10:00–19:00, few customers, reservations for the tatami rooms.
 renown: local
-map: { x: 1.5941, y: 2.7505 }
+parent: gehenna_riverside
+place_id: gehenna_teahouse
+entry_minutes: 15
+map:
+  x: 1.5941
+  y: 2.7505
 ---
 
 # Yūgure Teahouse

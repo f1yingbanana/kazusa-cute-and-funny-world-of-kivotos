@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_first_building_roof
-place_id: gehenna_first_building_roof
-name: "Gehenna First School Building Roof"
-parent: gehenna_first_building
-entry_minutes: 2
-summary:
-  "Flat roof behind a chained stairwell door, reached through a window ledge;
-  empty most hours, a wide view of the sky and the city."
+name: Gehenna First School Building Roof
+summary: Flat roof behind a chained stairwell door, reached through a window ledge; empty most hours, a wide view of the sky and the city.
 renown: local
-map: { x: 1.4673, y: 2.8228 }
+parent: gehenna_first_building
+place_id: gehenna_first_building_roof
+entry_minutes: 2
+map:
+  x: 1.4673
+  y: 2.8228
 ---
 
 # Gehenna First School Building Roof

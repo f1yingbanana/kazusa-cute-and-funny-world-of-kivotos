@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.abydos_debt
-title: "Abydos Debt"
-community: abydos_high_school
+name: Abydos Debt
+groups:
+  - abydos_high_school
 ---
 
 # Abydos Debt

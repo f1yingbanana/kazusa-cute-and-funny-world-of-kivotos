@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_bookstore
-place_id: hyakkiyako_bookstore
-name: "Shiorido Used Books"
-parent: hyakkiyako_shopping_district
-entry_minutes: 1
-summary:
-  "Cramped used bookshop: poetry anthologies, military histories, light novels,
-  manga; 11:00–20:00, quiet, browsers linger for hours."
+name: Shiorido Used Books
+summary: "Cramped used bookshop: poetry anthologies, military histories, light novels, manga; 11:00–20:00, quiet, browsers linger for hours."
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
-map: { x: 0.8876, y: 0.9168 }
+parent: hyakkiyako_shopping_district
+place_id: hyakkiyako_bookstore
+entry_minutes: 1
+map:
+  x: 0.8876
+  y: 0.9168
 ---
 
 # Shiorido Used Books

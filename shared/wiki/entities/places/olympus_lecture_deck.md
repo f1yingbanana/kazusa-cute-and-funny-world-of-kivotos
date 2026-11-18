@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.olympus_lecture_deck
-place_id: olympus_lecture_deck
-name: "Olympus Lecture Deck"
-aliases: ["Odyssey Lecture Deck"]
-parent: odyssey_olympus
-entry_minutes: 1
-summary:
-  "Classrooms below the bridge for navigation, seamanship and regular subjects,
-  one per year; lessons 08:30–14:30, portholes for windows."
+name: Olympus Lecture Deck
+aliases:
+  - Odyssey Lecture Deck
+summary: Classrooms below the bridge for navigation, seamanship and regular subjects, one per year; lessons 08:30–14:30, portholes for windows.
 renown: local
-map: { x: 1.9984, y: 1.6263 }
+parent: odyssey_olympus
+place_id: olympus_lecture_deck
+entry_minutes: 1
+map:
+  x: 1.9984
+  y: 1.6263
 ---
 
 # Olympus Lecture Deck

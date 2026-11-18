@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.hundred_lotus
-title: "Hundred Lotus"
-community: hyakkiyako_alliance_academy
+name: Hundred Lotus
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Hundred Lotus

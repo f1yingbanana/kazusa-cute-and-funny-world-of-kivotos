@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.haruhabara_video_hall
-place_id: haruhabara_video_hall
-name: "Haruhabara Video Hall"
+name: Haruhabara Video Hall
+summary: A rebuilt landmark arcade and game hall south-west of the station; open 10:00–23:00.
 parent: haruhabara
+place_id: haruhabara_video_hall
 entry_minutes: 4
-summary:
-  "A rebuilt landmark arcade and game hall south-west of the station; open
-  10:00–23:00."
-map: { x: 2.3541, y: 2.0923 }
+map:
+  x: 2.3541
+  y: 2.0923
 ---
 
 # Haruhabara Video Hall

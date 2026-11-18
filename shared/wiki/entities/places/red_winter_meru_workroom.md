@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_meru_workroom
-place_id: red_winter_meru_workroom
-name: "Meru's Workroom"
-parent: red_winter_library
-entry_minutes: 3
+name: Meru's Workroom
+summary: "A windowless workroom at the very back of the closed stacks: drawing desk, tablet charger, screentone scraps; door usually shut, nobody else invited."
+groups:
+  - knowledge_liberation_front
 renown: private
-summary:
-  "A windowless workroom at the very back of the closed stacks: drawing desk,
-  tablet charger, screentone scraps; door usually shut, nobody else invited."
-community: knowledge_liberation_front
-map: { x: 1.5496, y: 0.3449 }
+parent: red_winter_library
+place_id: red_winter_meru_workroom
+entry_minutes: 3
+map:
+  x: 1.5496
+  y: 0.3449
 ---
 
 # Meru's Workroom

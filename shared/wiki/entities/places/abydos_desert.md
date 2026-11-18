@@ -1,19 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_desert
-place_id: abydos_desert
-name: "Abydos Desert"
-parent: abydos_town
-entry_minutes: 15
-summary:
-  "Dunes, half-buried buildings and Kaiser-fenced land beyond the town; no
-  shade, no water, sandstorms most afternoons. The dunes begin a 15-min walk
-  out."
+name: Abydos Desert
+summary: Dunes, half-buried buildings and Kaiser-fenced land beyond the town; no shade, no water, sandstorms most afternoons. The dunes begin a 15-min walk out.
+groups:
+  - abydos_district
 renown: known
-community: abydos_district
+parent: abydos_town
 backdrop: abydos-ruins
-map: { x: 2.6251, y: 2.699 }
+place_id: abydos_desert
+entry_minutes: 15
+map:
+  x: 2.6251
+  y: 2.699
 ---
 
 # Abydos Desert

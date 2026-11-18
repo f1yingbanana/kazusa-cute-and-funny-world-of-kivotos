@@ -1,28 +1,28 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_shelter
-place_id: arius_shelter
-name: "Arius Squad Shelter"
-aliases: ["Arius Temporary Shelter"]
-parent: arius_district
-entry_minutes: 8
-summary:
-  "Repaired stone house near the school where four paroled students live, a
-  small room each round a shared kitchen; door barred at night, Valkyrie
-  check-in weekly."
+name: Arius Squad Shelter
+aliases:
+  - Arius Temporary Shelter
+summary: Repaired stone house near the school where four paroled students live, a small room each round a shared kitchen; door barred at night, Valkyrie check-in weekly.
+groups:
+  - arius_squad
 renown: local
-community: arius_squad
+parent: arius_district
+place_id: arius_shelter
+entry_minutes: 8
 connections:
   - to: arius_school
     ways:
-      - { by: walk, minutes: 6 }
-    note: "Across the square to the school gate."
+      - by: walk
+        minutes: 6
+    note: Across the square to the school gate.
   - to: arius_lantern_street
     ways:
-      - { by: walk, minutes: 4 }
-    note: "Round the corner to the lamps."
-map: { x: 0.4589, y: 2.7552 }
+      - by: walk
+        minutes: 4
+    note: Round the corner to the lamps.
+map:
+  x: 0.4589
+  y: 2.7552
 ---
 
 # Arius Squad Shelter

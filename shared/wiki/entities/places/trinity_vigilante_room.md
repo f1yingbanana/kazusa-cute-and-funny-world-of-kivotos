@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_vigilante_room
-place_id: trinity_vigilante_room
-name: "Vigilante Crew Room"
-aliases: ["Vigilante Crew storeroom"]
+name: Vigilante Crew Room
+aliases:
+  - Vigilante Crew storeroom
+summary: "Ground-floor storeroom borrowed by the Vigilante Crew: a pinned patrol map, a kettle, spare armbands; used 15:30–20:00 and as a meeting point before night patrols."
+groups:
+  - vigilante_crew
 parent: west_annex
-entry_minutes: 1
-summary:
-  "Ground-floor storeroom borrowed by the Vigilante Crew: a pinned patrol map, a
-  kettle, spare armbands; used 15:30–20:00 and as a meeting point before night
-  patrols."
-community: vigilante_crew
 backdrop: trinity-clubroom
-map: { x: 0.8819, y: 2.6058 }
+place_id: trinity_vigilante_room
+entry_minutes: 1
+map:
+  x: 0.8819
+  y: 2.6058
 ---
 
 # Vigilante Crew Room

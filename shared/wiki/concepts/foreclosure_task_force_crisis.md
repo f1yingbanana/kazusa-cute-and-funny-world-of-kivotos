@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.foreclosure_task_force_crisis
-title: "The Foreclosure Task Force Crisis"
-community: abydos_high_school
+name: The Foreclosure Task Force Crisis
+groups:
+  - abydos_high_school
 ---
 
 # The Foreclosure Task Force Crisis

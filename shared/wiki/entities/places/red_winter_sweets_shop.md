@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_sweets_shop
-place_id: red_winter_sweets_shop
-name: "Zimushka Sweet Shop"
-parent: red_winter_3rd_street
-entry_minutes: 1
-summary:
-  "Small sweets shop with a frosted window: puddings, honey cake, pastila;
-  10:00–19:00, closed Sundays; a queue after 15:30, pudding sold out by 17:00."
+name: Zimushka Sweet Shop
+summary: "Small sweets shop with a frosted window: puddings, honey cake, pastila; 10:00–19:00, closed Sundays; a queue after 15:30, pudding sold out by 17:00."
 renown: local
-map: { x: 1.4213, y: 0.4368 }
+parent: red_winter_3rd_street
+place_id: red_winter_sweets_shop
+entry_minutes: 1
+map:
+  x: 1.4213
+  y: 0.4368
 ---
 
 # Zimushka Sweet Shop

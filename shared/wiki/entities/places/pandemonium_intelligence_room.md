@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.pandemonium_intelligence_room
-place_id: pandemonium_intelligence_room
-name: "Pandemonium Intelligence Room"
-parent: pandemonium_headquarters
-entry_minutes: 1
-summary:
-  "The council's intelligence office: monitors, files and a spiral poster;
-  occupied irregularly, door locked when the head of intelligence is out
-  shopping."
+name: Pandemonium Intelligence Room
+summary: "The council's intelligence office: monitors, files and a spiral poster; occupied irregularly, door locked when the head of intelligence is out shopping."
+groups:
+  - pandemonium_society
 renown: local
-community: pandemonium_society
-map: { x: 1.4762, y: 2.893 }
+parent: pandemonium_headquarters
+place_id: pandemonium_intelligence_room
+entry_minutes: 1
+map:
+  x: 1.4762
+  y: 2.893
 ---
 
 # Pandemonium Intelligence Room

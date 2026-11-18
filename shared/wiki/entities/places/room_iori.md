@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_iori
-place_id: room_iori
-name: "Iori's Room"
-parent: gehenna_dorm13_2f
-entry_minutes: 1
-summary:
-  "A tidy room with a rifle rack and a pinned patrol map of Zone 3; locked when
-  she's out, which is most evenings."
+name: Iori's Room
+summary: A tidy room with a rifle rack and a pinned patrol map of Zone 3; locked when she's out, which is most evenings.
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_2f
 backdrop: student-room
-map: { x: 1.491, y: 2.6024 }
+place_id: room_iori
+entry_minutes: 1
+map:
+  x: 1.491
+  y: 2.6024
 ---
 
 # Iori's Room

@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_dorm_2w_kitchen
-place_id: millennium_dorm_2w_kitchen
-name: "Millennium Dormitory 2F West Kitchenette"
-parent: millennium_dorm_2w
-entry_minutes: 1
-summary:
-  "Shared corridor kitchenette: two hobs, a microwave, a kettle, a fridge with
-  labeled shelves; open all hours."
+name: Millennium Dormitory 2F West Kitchenette
+summary: "Shared corridor kitchenette: two hobs, a microwave, a kettle, a fridge with labeled shelves; open all hours."
+groups:
+  - millennium_science_school
 renown: local
-community: millennium_science_school
-map: { x: 2.8339, y: 1.761 }
+parent: millennium_dorm_2w
+place_id: millennium_dorm_2w_kitchen
+entry_minutes: 1
+map:
+  x: 2.8339
+  y: 1.761
 ---
 
 # Millennium Dormitory 2F West Kitchenette

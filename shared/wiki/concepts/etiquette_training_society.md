@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.etiquette_training_society
-title: Etiquette Training Society
-community: hyakkiyako_alliance_academy
+name: Etiquette Training Society
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Etiquette Training Society

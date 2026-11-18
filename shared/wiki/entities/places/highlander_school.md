@@ -1,23 +1,23 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.highlander_school
-place_id: highlander_school
-name: "Highlander Station Campus"
-aliases: ["Highlander campus"]
+name: Highlander Station Campus
+aliases:
+  - Highlander campus
+summary: Highlander Railroad Academy's offices, classrooms and crew quarters in the east wing of D.U. Central Station; staff badges past the lobby.
+groups:
+  - highlander_railroad_academy
 parent: du_downtown
+backdrop: highlander-central
+place_id: highlander_school
 entry_minutes: 4
-summary:
-  "Highlander Railroad Academy's offices, classrooms and crew quarters in the
-  east wing of D.U. Central Station; staff badges past the lobby."
-community: highlander_railroad_academy
 connections:
   - to: du_central_station
     ways:
-      - { by: walk, minutes: 2 }
-    note: "A staff corridor straight onto the concourse."
-backdrop: highlander-central
-map: { x: 1.6728, y: 1.4253 }
+      - by: walk
+        minutes: 2
+    note: A staff corridor straight onto the concourse.
+map:
+  x: 1.6728
+  y: 1.4253
 ---
 
 # Highlander Station Campus

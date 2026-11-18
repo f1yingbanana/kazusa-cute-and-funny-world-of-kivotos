@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.golden_fleece_ship
-title: "The Golden Fleece"
+name: The Golden Fleece
 renown: known
 ---
 

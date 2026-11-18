@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.gym_training_department
-title: Gym Training Department
-community: millennium_science_school
+name: Gym Training Department
+groups:
+  - millennium_science_school
 ---
 
 # Gym Training Department

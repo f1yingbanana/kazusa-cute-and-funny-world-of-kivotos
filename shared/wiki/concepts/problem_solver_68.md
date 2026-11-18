@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.problem_solver_68
-title: "Problem Solver 68"
-community: gehenna_academy
+name: Problem Solver 68
+groups:
+  - gehenna_academy
 ---
 
 # Problem Solver 68

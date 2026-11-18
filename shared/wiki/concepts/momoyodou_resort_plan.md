@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.momoyodou_resort_plan
-title: "Momoyodou Resort Plan"
+name: Momoyodou Resort Plan
 renown: known
 ---
 

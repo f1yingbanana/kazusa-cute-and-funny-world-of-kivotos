@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_camera_shop
-place_id: hyakkiyako_camera_shop
-name: "Tamaya Camera and Tape Repair"
-parent: hyakkiyako_shopping_23
-entry_minutes: 1
-summary:
-  "Old electronics shop: secondhand cameras, microphones, and repairs of old
-  video tapes; 10:00–18:00, closed Sundays."
+name: Tamaya Camera and Tape Repair
+summary: "Old electronics shop: secondhand cameras, microphones, and repairs of old video tapes; 10:00–18:00, closed Sundays."
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
-map: { x: 0.8976, y: 0.9407 }
+parent: hyakkiyako_shopping_23
+place_id: hyakkiyako_camera_shop
+entry_minutes: 1
+map:
+  x: 0.8976
+  y: 0.9407
 ---
 
 # Tamaya Camera and Tape Repair

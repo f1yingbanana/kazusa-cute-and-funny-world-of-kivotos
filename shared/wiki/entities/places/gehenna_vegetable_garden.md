@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_vegetable_garden
-place_id: gehenna_vegetable_garden
-name: "School Lunch Club Vegetable Garden"
-parent: gehenna_lunch_building
-entry_minutes: 2
-summary:
-  "Fenced vegetable beds behind the dining hall: tomatoes, cabbages, herbs;
-  tended early mornings and after school, gate latched, not locked."
+name: School Lunch Club Vegetable Garden
+summary: "Fenced vegetable beds behind the dining hall: tomatoes, cabbages, herbs; tended early mornings and after school, gate latched, not locked."
+groups:
+  - school_lunch_club
 renown: local
-community: school_lunch_club
-map: { x: 1.5112, y: 2.8409 }
+parent: gehenna_lunch_building
+place_id: gehenna_vegetable_garden
+entry_minutes: 2
+map:
+  x: 1.5112
+  y: 2.8409
 ---
 
 # School Lunch Club Vegetable Garden

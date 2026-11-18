@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.engineering_department
-title: Engineering Department
-community: millennium_science_school
+name: Engineering Department
+groups:
+  - millennium_science_school
 ---
 
 # Engineering Department

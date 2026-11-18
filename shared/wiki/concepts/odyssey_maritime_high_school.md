@@ -1,12 +1,8 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.odyssey_maritime_high_school
-title: Odyssey Maritime High School
-summary:
-  "A seafaring academy that is a flotilla rather than a campus, moored at
-  Kanesaki Port's Terminal 3 around its flagship Olympus."
-community: kivotos_overview
+name: Odyssey Maritime High School
+summary: A seafaring academy that is a flotilla rather than a campus, moored at Kanesaki Port's Terminal 3 around its flagship Olympus.
+groups:
+  - kivotos_overview
 renown: known
 ---
 

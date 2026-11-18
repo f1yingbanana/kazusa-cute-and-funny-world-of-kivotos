@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_aoba
-place_id: room_aoba
-name: "Aoba's Room"
-parent: highlander_crew_quarters
-entry_minutes: 1
-summary:
-  "A crew bedroom at the far end from the twins: a workbench corner of
-  half-mended appliances, earplugs, motion-sickness pills; always locked."
+name: Aoba's Room
+summary: "A crew bedroom at the far end from the twins: a workbench corner of half-mended appliances, earplugs, motion-sickness pills; always locked."
 renown: private
+parent: highlander_crew_quarters
 backdrop: student-room
-map: { x: 1.6995, y: 1.423 }
+place_id: room_aoba
+entry_minutes: 1
+map:
+  x: 1.6995
+  y: 1.423
 ---
 
 # Aoba's Room

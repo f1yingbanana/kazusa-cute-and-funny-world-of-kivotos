@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_residence
-place_id: schale_residence
-name: "SCHALE Residence Hall"
-parent: schale_office
-entry_minutes: 2
-summary:
-  "SCHALE's residence wing: rooms to rest and study, a cafeteria, a retro arcade
-  and an Angel 24; open to students 06:00–23:00."
+name: SCHALE Residence Hall
+summary: "SCHALE's residence wing: rooms to rest and study, a cafeteria, a retro arcade and an Angel 24; open to students 06:00–23:00."
 renown: known
-map: { x: 1.438, y: 1.6734 }
+parent: schale_office
+place_id: schale_residence
+entry_minutes: 2
+map:
+  x: 1.438
+  y: 1.6734
 ---
 
 # SCHALE Residence Hall

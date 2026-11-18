@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_clubhouse
-place_id: millennium_clubhouse
-name: "Millennium Clubhouse"
-parent: millennium_school
-entry_minutes: 3
-summary:
-  "Long club building of corridors and club rooms; open 07:00–22:00, after that
-  registered members tap in by ID; some clubs never seem to leave."
+name: Millennium Clubhouse
+summary: Long club building of corridors and club rooms; open 07:00–22:00, after that registered members tap in by ID; some clubs never seem to leave.
+groups:
+  - millennium_science_school
 renown: known
-community: millennium_science_school
+parent: millennium_school
 backdrop: millennium-club
-map: { x: 2.658, y: 1.5873 }
+place_id: millennium_clubhouse
+entry_minutes: 3
+map:
+  x: 2.658
+  y: 1.5873
 ---
 
 # Millennium Clubhouse

@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.gehenna_trinity_rivalry
-title: "Gehenna and Trinity Rivalry"
+name: Gehenna and Trinity Rivalry
 renown: known
 ---
 

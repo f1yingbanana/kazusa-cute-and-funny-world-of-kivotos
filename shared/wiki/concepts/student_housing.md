@@ -1,12 +1,8 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.student_housing
-title: "Where Kivotos Students Live"
-summary:
-  "Dormitories, curfews and roll calls, and the students who live somewhere
-  else."
-community: kivotos_overview
+name: Where Kivotos Students Live
+summary: Dormitories, curfews and roll calls, and the students who live somewhere else.
+groups:
+  - kivotos_overview
 renown: famous
 ---
 

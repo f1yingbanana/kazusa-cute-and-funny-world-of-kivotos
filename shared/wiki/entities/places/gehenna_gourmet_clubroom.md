@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_gourmet_clubroom
-place_id: gehenna_gourmet_clubroom
-name: "Gourmet Research Society Clubroom"
-parent: gehenna_clubroom_building
-entry_minutes: 1
-summary:
-  "A club room with a dining table, a gas burner and a wall of restaurant
-  reviews; used after classes and before raids on bad restaurants; locked when
-  empty."
+name: Gourmet Research Society Clubroom
+summary: A club room with a dining table, a gas burner and a wall of restaurant reviews; used after classes and before raids on bad restaurants; locked when empty.
+groups:
+  - gourmet_research_society
 renown: local
-community: gourmet_research_society
-map: { x: 1.5008, y: 2.7896 }
+parent: gehenna_clubroom_building
+place_id: gehenna_gourmet_clubroom
+entry_minutes: 1
+map:
+  x: 1.5008
+  y: 2.7896
 ---
 
 # Gourmet Research Society Clubroom

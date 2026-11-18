@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.ebisu_market
-place_id: ebisu_market
-name: "Ebisu Farmers' Market"
-parent: ebisu_district
-entry_minutes: 5
-summary:
-  "Covered market of the North District farms: snow vegetables, rice, pickles;
-  06:00–12:00, restaurant buyers from town on the first train."
+name: Ebisu Farmers' Market
+summary: "Covered market of the North District farms: snow vegetables, rice, pickles; 06:00–12:00, restaurant buyers from town on the first train."
+groups:
+  - ebisu_satellite_school
 renown: local
-community: ebisu_satellite_school
-map: { x: 0.8737, y: 0.3926 }
+parent: ebisu_district
+place_id: ebisu_market
+entry_minutes: 5
+map:
+  x: 0.8737
+  y: 0.3926
 ---
 
 # Ebisu Farmers' Market

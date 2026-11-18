@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.schale
-title: "SCHALE, the Federal Investigation Club"
+name: SCHALE, the Federal Investigation Club
 renown: famous
 ---
 

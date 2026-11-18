@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_tea_library
-place_id: trinity_tea_library
-name: "Tea Party Library"
-aliases: ["Tea Party reading room"]
-parent: trinity_tea_party
-entry_minutes: 1
-summary:
-  "The Tea Party's private library: rare volumes, deep armchairs, a puzzle
-  table; members and their guests only, key kept at the chamber desk."
+name: Tea Party Library
+aliases:
+  - Tea Party reading room
+summary: "The Tea Party's private library: rare volumes, deep armchairs, a puzzle table; members and their guests only, key kept at the chamber desk."
+groups:
+  - tea_party
 renown: local
-community: tea_party
-map: { x: 0.8381, y: 2.5668 }
+parent: trinity_tea_party
+place_id: trinity_tea_library
+entry_minutes: 1
+map:
+  x: 0.8381
+  y: 2.5668
 ---
 
 # Tea Party Library

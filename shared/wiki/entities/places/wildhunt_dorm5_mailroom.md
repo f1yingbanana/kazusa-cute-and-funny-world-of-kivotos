@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_dorm5_mailroom
-place_id: wildhunt_dorm5_mailroom
-name: "Dormitory No. 5 Mailroom"
-parent: wildhunt_dorm5
-entry_minutes: 1
-summary:
-  "Ground-floor mailroom where the Dorm Supervisory Unit opens parcels;
-  08:00–20:00, contraband confiscated on the spot."
+name: Dormitory No. 5 Mailroom
+summary: Ground-floor mailroom where the Dorm Supervisory Unit opens parcels; 08:00–20:00, contraband confiscated on the spot.
+groups:
+  - wild_hunt_academy
 renown: local
-community: wild_hunt_academy
-map: { x: 0.6672, y: 1.7316 }
+parent: wildhunt_dorm5
+place_id: wildhunt_dorm5_mailroom
+entry_minutes: 1
+map:
+  x: 0.6672
+  y: 1.7316
 ---
 
 # Dormitory No. 5 Mailroom

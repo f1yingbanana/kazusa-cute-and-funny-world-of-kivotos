@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_old_schoolhouse
-place_id: wildhunt_old_schoolhouse
-name: "East Bastion Old Schoolhouse"
-aliases: ["Seven Mysteries Schoolhouse"]
-parent: wildhunt_school
-entry_minutes: 6
-summary:
-  "Abandoned school building in the east bastion, said to hold seven mysteries;
-  off limits, doors boarded, no lights. Visited at night on dares."
+name: East Bastion Old Schoolhouse
+aliases:
+  - Seven Mysteries Schoolhouse
+summary: Abandoned school building in the east bastion, said to hold seven mysteries; off limits, doors boarded, no lights. Visited at night on dares.
+groups:
+  - wild_hunt_academy
 renown: known
-community: wild_hunt_academy
-map: { x: 0.6448, y: 1.6991 }
+parent: wildhunt_school
+place_id: wildhunt_old_schoolhouse
+entry_minutes: 6
+map:
+  x: 0.6448
+  y: 1.6991
 ---
 
 # East Bastion Old Schoolhouse

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_yakumo
-place_id: room_yakumo
-name: "Yakumo's Room"
-parent: red_winter_first_dorm_upstairs
-entry_minutes: 1
-summary:
-  "A third-floor room papered with rail maps and timetables; empty station bento
-  boxes washed and shelved; proposal binders; locked."
+name: Yakumo's Room
+summary: A third-floor room papered with rail maps and timetables; empty station bento boxes washed and shelved; proposal binders; locked.
+groups:
+  - red_winter_federal_academy
 renown: private
-community: red_winter_federal_academy
+parent: red_winter_first_dorm_upstairs
 backdrop: student-room
-map: { x: 1.3797, y: 0.3331 }
+place_id: room_yakumo
+entry_minutes: 1
+map:
+  x: 1.3797
+  y: 0.3331
 ---
 
 # Yakumo's Room

@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.millennium_expo_incident
-title: "Millennium Expo Incident"
-community: millennium_science_school
+name: Millennium Expo Incident
+groups:
+  - millennium_science_school
 ---
 
 # Millennium Expo Incident

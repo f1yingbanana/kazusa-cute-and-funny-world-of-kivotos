@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_lawn_square
-place_id: gehenna_lawn_square
-name: "Gehenna Lawn Square"
-parent: gehenna_school
-entry_minutes: 1
-summary:
-  "The great lawn at the heart of campus with a fountain and vending machines;
-  crowded at lunch and after 16:00, sunbathers and duels in good weather."
+name: Gehenna Lawn Square
+summary: The great lawn at the heart of campus with a fountain and vending machines; crowded at lunch and after 16:00, sunbathers and duels in good weather.
+groups:
+  - gehenna_academy
 renown: known
-community: gehenna_academy
-map: { x: 1.5008, y: 2.8222 }
+parent: gehenna_school
+place_id: gehenna_lawn_square
+entry_minutes: 1
+map:
+  x: 1.5008
+  y: 2.8222
 ---
 
 # Gehenna Lawn Square

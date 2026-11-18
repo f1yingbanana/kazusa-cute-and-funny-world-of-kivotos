@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_fuuka
-place_id: room_fuuka
-name: "Fuuka's Room"
-parent: gehenna_dorm13_3f
-entry_minutes: 1
-summary:
-  "A small, tidy room with a knife roll and an alarm clock set for 04:00; locked
-  at night, empty before dawn."
+name: Fuuka's Room
+summary: A small, tidy room with a knife roll and an alarm clock set for 04:00; locked at night, empty before dawn.
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_3f
 backdrop: student-room
-map: { x: 1.4911, y: 2.5564 }
+place_id: room_fuuka
+entry_minutes: 1
+map:
+  x: 1.4911
+  y: 2.5564
 ---
 
 # Fuuka's Room

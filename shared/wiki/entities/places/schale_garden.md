@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_garden
-place_id: schale_garden
-name: "SCHALE Rooftop Garden"
+name: SCHALE Rooftop Garden
+summary: A rooftop vegetable garden over the residence wing; open while the residence is.
 parent: schale_residence
+place_id: schale_garden
 entry_minutes: 4
-summary:
-  "A rooftop vegetable garden over the residence wing; open while the residence
-  is."
-map: { x: 1.4475, y: 1.676 }
+map:
+  x: 1.4475
+  y: 1.676
 ---
 
 # SCHALE Rooftop Garden

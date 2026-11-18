@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_annex
-place_id: abydos_annex
-name: "Abydos School Annex"
-aliases: ["Abydos Annex"]
-parent: abydos_school
-entry_minutes: 3
-summary:
-  "Two-storey annex, mostly closed: unused chemistry and music rooms under dust
-  sheets, sand blown into the corridors. Doors open by day; few go in."
+name: Abydos School Annex
+aliases:
+  - Abydos Annex
+summary: "Two-storey annex, mostly closed: unused chemistry and music rooms under dust sheets, sand blown into the corridors. Doors open by day; few go in."
+groups:
+  - abydos_high_school
 renown: local
-community: abydos_high_school
-map: { x: 2.6705, y: 2.6573 }
+parent: abydos_school
+place_id: abydos_annex
+entry_minutes: 3
+map:
+  x: 2.6705
+  y: 2.6573
 ---
 
 # Abydos School Annex

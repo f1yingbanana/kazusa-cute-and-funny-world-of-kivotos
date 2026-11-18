@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.rabbit_platoon
-title: RABBIT Platoon
-community: srt_special_academy
+name: RABBIT Platoon
+groups:
+  - srt_special_academy
 ---
 
 # RABBIT Platoon

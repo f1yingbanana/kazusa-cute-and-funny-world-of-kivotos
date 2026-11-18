@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_marina
-place_id: room_marina
-name: "Marina's Room"
-parent: red_winter_first_dorm_upstairs
-entry_minutes: 1
-summary:
-  "A spartan room on the second floor: a pinned district map, a crate of
-  cleaning supplies, cat spray by the door; locked, the key often lost."
+name: Marina's Room
+summary: "A spartan room on the second floor: a pinned district map, a crate of cleaning supplies, cat spray by the door; locked, the key often lost."
+groups:
+  - red_winter_federal_academy
 renown: private
-community: red_winter_federal_academy
+parent: red_winter_first_dorm_upstairs
 backdrop: student-room
-map: { x: 1.3738, y: 0.3254 }
+place_id: room_marina
+entry_minutes: 1
+map:
+  x: 1.3738
+  y: 0.3254
 ---
 
 # Marina's Room

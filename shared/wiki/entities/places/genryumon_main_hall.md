@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.genryumon_main_hall
-place_id: genryumon_main_hall
-name: "Genryumon Main Hall"
-parent: shanhaijing_rikkagaku
-entry_minutes: 1
-summary:
-  "The council's throne hall and offices: petitions, inspections, audiences;
-  09:00–17:00, officials working late on bad days."
+name: Genryumon Main Hall
+summary: "The council's throne hall and offices: petitions, inspections, audiences; 09:00–17:00, officials working late on bad days."
+groups:
+  - xuanlong_office
 renown: known
-community: xuanlong_office
+parent: shanhaijing_rikkagaku
 backdrop: shanhaijing-president
-map: { x: 0.2227, y: 1.2231 }
+place_id: genryumon_main_hall
+entry_minutes: 1
+map:
+  x: 0.2227
+  y: 1.2231
 ---
 
 # Genryumon Main Hall

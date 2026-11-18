@@ -1,19 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.church_street
-place_id: church_street
-name: "Trinity Street"
-aliases: ["Church Street"]
-parent: trinity_district
-entry_minutes: 2
-summary:
-  "Cobbled shopping street from the station up toward campus: cafés, a bakery,
-  mall and market; shops 10:00–20:00, some 24 hours; packed after 15:30 and
-  weekends."
+name: Trinity Street
+aliases:
+  - Church Street
+summary: "Cobbled shopping street from the station up toward campus: cafés, a bakery, mall and market; shops 10:00–20:00, some 24 hours; packed after 15:30 and weekends."
 renown: known
+parent: trinity_district
 backdrop: trinity-street
-map: { x: 0.9259, y: 2.3513 }
+place_id: church_street
+entry_minutes: 2
+map:
+  x: 0.9259
+  y: 2.3513
 ---
 
 # Trinity Street

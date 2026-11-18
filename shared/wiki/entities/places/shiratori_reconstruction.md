@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shiratori_reconstruction
-place_id: shiratori_reconstruction
-name: "Shiratori Reconstruction Area 5"
+name: Shiratori Reconstruction Area 5
+summary: A fenced rebuilding site of cranes and scaffolding; Labor Party work crews on shift 08:00–17:00 on weekdays.
 parent: shiratori_ward
-entry_minutes: 12
-summary:
-  "A fenced rebuilding site of cranes and scaffolding; Labor Party work crews on
-  shift 08:00–17:00 on weekdays."
 backdrop: construction-site
-map: { x: 1.91, y: 1.5104 }
+place_id: shiratori_reconstruction
+entry_minutes: 12
+map:
+  x: 1.91
+  y: 1.5104
 ---
 
 # Shiratori Reconstruction Area 5

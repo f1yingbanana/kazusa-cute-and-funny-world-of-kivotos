@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.tri_square
-place_id: tri_square
-name: "Tri-Square"
-parent: shiratori_ward
-entry_minutes: 1
-summary:
-  "Shiratori's paved meeting square of benches, fountains and food trucks;
-  busiest at noon and in the evening."
+name: Tri-Square
+summary: Shiratori's paved meeting square of benches, fountains and food trucks; busiest at noon and in the evening.
 renown: known
-map: { x: 1.9135, y: 1.529 }
+parent: shiratori_ward
+place_id: tri_square
+entry_minutes: 1
+map:
+  x: 1.9135
+  y: 1.529
 ---
 
 # Tri-Square

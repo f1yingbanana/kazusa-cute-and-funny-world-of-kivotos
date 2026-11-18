@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_atelier_lilith
-place_id: gehenna_atelier_lilith
-name: "Atelier Lilith"
-parent: gehenna_underground_mall
-entry_minutes: 1
-summary:
-  "A fashionable boutique of dresses and accessories; open 11:00–21:00, window
-  shoppers all afternoon, fittings by appointment."
+name: Atelier Lilith
+summary: A fashionable boutique of dresses and accessories; open 11:00–21:00, window shoppers all afternoon, fittings by appointment.
 renown: local
-map: { x: 1.5791, y: 2.7031 }
+parent: gehenna_underground_mall
+place_id: gehenna_atelier_lilith
+entry_minutes: 1
+map:
+  x: 1.5791
+  y: 2.7031
 ---
 
 # Atelier Lilith

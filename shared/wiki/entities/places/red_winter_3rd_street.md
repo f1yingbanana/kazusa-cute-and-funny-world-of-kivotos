@@ -1,28 +1,30 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_3rd_street
-place_id: red_winter_3rd_street
-name: "Red Winter 3rd Street Shopping District"
-aliases: ["3rd Street Shopping District"]
-parent: red_winter_district
-entry_minutes: 4
-summary:
-  "Arcaded shopping street between Central Station and the campus: sweets, used
-  books, Beluga Market, a café, Angel 24; shops 09:00–21:00, busy after 16:00."
+name: Red Winter 3rd Street Shopping District
+aliases:
+  - 3rd Street Shopping District
+summary: "Arcaded shopping street between Central Station and the campus: sweets, used books, Beluga Market, a café, Angel 24; shops 09:00–21:00, busy after 16:00."
+groups:
+  - red_winter_federal_academy
 renown: known
-community: red_winter_federal_academy
+parent: red_winter_district
+place_id: red_winter_3rd_street
+entry_minutes: 4
 connections:
   - to: red_winter_station
     ways:
-      - { by: walk, minutes: 4 }
-    note: "Out of the arcade onto the station square."
+      - by: walk
+        minutes: 4
+    note: Out of the arcade onto the station square.
   - to: red_winter_school
     ways:
-      - { by: walk, minutes: 6 }
-      - { by: tram, minutes: 4 }
-    note: "Up the avenue to the campus gate."
-map: { x: 1.4261, y: 0.4284 }
+      - by: walk
+        minutes: 6
+      - by: tram
+        minutes: 4
+    note: Up the avenue to the campus gate.
+map:
+  x: 1.4261
+  y: 0.4284
 ---
 
 # Red Winter 3rd Street Shopping District

@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.pandemonium_headquarters
-place_id: pandemonium_headquarters
-name: "Pandemonium Society Headquarters"
-aliases: ["Pandemonium HQ"]
-parent: gehenna_school
-entry_minutes: 4
-summary:
-  "The student council's ornate hall with a tank hangar behind; open
-  08:00–20:00, guards at the door, members drifting in and out all day."
+name: Pandemonium Society Headquarters
+aliases:
+  - Pandemonium HQ
+summary: The student council's ornate hall with a tank hangar behind; open 08:00–20:00, guards at the door, members drifting in and out all day.
+groups:
+  - pandemonium_society
 renown: known
-community: pandemonium_society
+parent: gehenna_school
 backdrop: gehenna-council-hall
-map: { x: 1.467, y: 2.8898 }
+place_id: pandemonium_headquarters
+entry_minutes: 4
+map:
+  x: 1.467
+  y: 2.8898
 ---
 
 # Pandemonium Society Headquarters

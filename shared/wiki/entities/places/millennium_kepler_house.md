@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_kepler_house
-place_id: millennium_kepler_house
-name: "Kepler House"
-parent: millennium_euler_heights
-entry_minutes: 3
-summary:
-  "Plain four-storey walk-up at the edge of Euler Heights near the old
-  outskirts; cheap rent, a shared bike rack, quiet."
+name: Kepler House
+summary: Plain four-storey walk-up at the edge of Euler Heights near the old outskirts; cheap rent, a shared bike rack, quiet.
 renown: local
-map: { x: 2.8684, y: 1.6356 }
+parent: millennium_euler_heights
+place_id: millennium_kepler_house
+entry_minutes: 3
+map:
+  x: 2.8684
+  y: 1.6356
 ---
 
 # Kepler House

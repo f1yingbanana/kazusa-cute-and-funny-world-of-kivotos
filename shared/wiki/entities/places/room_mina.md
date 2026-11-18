@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_mina
-place_id: room_mina
-name: "Mina's Room"
-parent: genryumon_vip_quarters
-entry_minutes: 1
-summary:
-  "Guard room by the VIP quarters' gate: noir film posters, a trench coat and
-  umbrella by the door, a recorder on the desk; never locked."
+name: Mina's Room
+summary: "Guard room by the VIP quarters' gate: noir film posters, a trench coat and umbrella by the door, a recorder on the desk; never locked."
 renown: private
+parent: genryumon_vip_quarters
 backdrop: student-room
-map: { x: 0.2289, y: 1.1972 }
+place_id: room_mina
+entry_minutes: 1
+map:
+  x: 0.2289
+  y: 1.1972
 ---
 
 # Mina's Room

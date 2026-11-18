@@ -1,16 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_district
-place_id: millennium_district
-name: "Millennium District"
-aliases: ["Millennium city"]
-summary:
-  "Glass towers, research parks and tidy residential streets around Millennium
-  Science School; Millennium runs its own trains."
+name: Millennium District
+aliases:
+  - Millennium city
+summary: Glass towers, research parks and tidy residential streets around Millennium Science School; Millennium runs its own trains.
+groups:
+  - millennium_science_school
 renown: famous
-community: millennium_science_school
-map: { x: 2.82, y: 1.68 }
+place_id: millennium_district
+map:
+  x: 2.82
+  y: 1.68
 ---
 
 # Millennium District

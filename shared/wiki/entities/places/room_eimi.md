@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_eimi
-place_id: room_eimi
-name: "Eimi's Room"
-parent: millennium_dorm_2w
-entry_minutes: 1
-summary:
-  "Room kept freezing: air conditioner on maximum, a fan aimed at the bed, a
-  mini-freezer of ice cream; door propped open for airflow."
+name: Eimi's Room
+summary: "Room kept freezing: air conditioner on maximum, a fan aimed at the bed, a mini-freezer of ice cream; door propped open for airflow."
 renown: private
+parent: millennium_dorm_2w
 backdrop: student-room
-map: { x: 2.8345, y: 1.7431 }
+place_id: room_eimi
+entry_minutes: 1
+map:
+  x: 2.8345
+  y: 1.7431
 ---
 
 # Eimi's Room

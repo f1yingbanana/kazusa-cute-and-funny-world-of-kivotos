@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.special_class_227
-title: No. 227 Special Class
-community: red_winter_federal_academy
+name: No. 227 Special Class
+groups:
+  - red_winter_federal_academy
 ---
 
 # No. 227 Special Class

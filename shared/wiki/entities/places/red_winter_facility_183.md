@@ -1,20 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_facility_183
-place_id: red_winter_facility_183
-name: "Facility No. 183"
-aliases: ["No. 183 Special Class Facility"]
-parent: red_winter_snow_mountains
-entry_minutes: 45
-summary:
-  "Remote research facility high in the mountains where No. 183 Special Class
-  lives and works: tank workshop, lab, kitchen; leaving needs Office permission,
-  supply truck twice a week."
+name: Facility No. 183
+aliases:
+  - No. 183 Special Class Facility
+summary: "Remote research facility high in the mountains where No. 183 Special Class lives and works: tank workshop, lab, kitchen; leaving needs Office permission, supply truck twice a week."
+groups:
+  - red_winter_special_class_183
 renown: local
-community: red_winter_special_class_183
+parent: red_winter_snow_mountains
 backdrop: red-winter-183-hangar
-map: { x: 1.3226, y: 0.3889 }
+place_id: red_winter_facility_183
+entry_minutes: 45
+map:
+  x: 1.3226
+  y: 0.3889
 ---
 
 # Facility No. 183

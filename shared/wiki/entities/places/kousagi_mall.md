@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kousagi_mall
-place_id: kousagi_mall
-name: "Kousagi Station Mall"
+name: Kousagi Station Mall
+summary: "A small mall on the station's south side: boutiques, a hardware shop, a bookshop, a karaoke box and a food court; open 10:00–21:00."
 parent: kousagi_station_street
-entry_minutes: 2
-summary:
-  "A small mall on the station's south side: boutiques, a hardware shop, a
-  bookshop, a karaoke box and a food court; open 10:00–21:00."
 backdrop: shopping-mall
-map: { x: 1.5321, y: 1.6621 }
+place_id: kousagi_mall
+entry_minutes: 2
+map:
+  x: 1.5321
+  y: 1.6621
 ---
 
 # Kousagi Station Mall

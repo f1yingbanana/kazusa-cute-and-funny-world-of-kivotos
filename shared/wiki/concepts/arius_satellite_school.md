@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.arius_satellite_school
-title: Arius Satellite School
-community: kivotos_overview
+name: Arius Satellite School
+groups:
+  - kivotos_overview
 renown: known
 ---
 

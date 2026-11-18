@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.ebisu_banquet_hall
-place_id: ebisu_banquet_hall
-name: "Ebisu Dormitory Banquet Hall"
-parent: ebisu_dormitory
-entry_minutes: 1
-summary:
-  "Tatami banquet hall of the dorm: hot-pot dinners at 18:30, harvest feasts and
-  committee meetings; warm, loud at dinner."
+name: Ebisu Dormitory Banquet Hall
+summary: "Tatami banquet hall of the dorm: hot-pot dinners at 18:30, harvest feasts and committee meetings; warm, loud at dinner."
+groups:
+  - ebisu_satellite_school
 renown: local
-community: ebisu_satellite_school
-map: { x: 0.8553, y: 0.418 }
+parent: ebisu_dormitory
+place_id: ebisu_banquet_hall
+entry_minutes: 1
+map:
+  x: 0.8553
+  y: 0.418
 ---
 
 # Ebisu Dormitory Banquet Hall

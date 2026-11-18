@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.pseudoscience_department
-title: "Pseudoscience Department"
-community: millennium_science_school
+name: Pseudoscience Department
+groups:
+  - millennium_science_school
 ---
 
 # Pseudoscience Department

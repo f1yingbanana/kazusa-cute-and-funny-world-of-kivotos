@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_district
-place_id: arius_district
-name: "Arius District"
-summary:
-  "A hidden district beneath Kivotos, reached only by the marked route through
-  Trinity's catacombs (50 min on foot). Half-ruined, lit by work lamps, slowly
-  being repaired."
+name: Arius District
+summary: A hidden district beneath Kivotos, reached only by the marked route through Trinity's catacombs (50 min on foot). Half-ruined, lit by work lamps, slowly being repaired.
+groups:
+  - arius_satellite_school
 renown: local
-community: arius_satellite_school
-map: { x: 0.48, y: 2.75 }
 backdrop: arius-street
+place_id: arius_district
+map:
+  x: 0.48
+  y: 2.75
 ---
 
 # Arius District

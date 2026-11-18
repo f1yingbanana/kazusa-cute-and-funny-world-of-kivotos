@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_dorm_4_common
-place_id: valkyrie_dorm_4_common
-name: "Valkyrie Dorm 4 Common Room"
-aliases: ["Valkyrie Dorm Four Lounge"]
-parent: valkyrie_dorm_4
-entry_minutes: 1
-summary:
-  "The dorm's ground-floor lounge: a kitchenette, a TV, a newspaper rack and a
-  vending machine; open all night, liveliest after the 18:00 shift change."
+name: Valkyrie Dorm 4 Common Room
+aliases:
+  - Valkyrie Dorm Four Lounge
+summary: "The dorm's ground-floor lounge: a kitchenette, a TV, a newspaper rack and a vending machine; open all night, liveliest after the 18:00 shift change."
 renown: local
-map: { x: 1.8922, y: 1.432 }
+parent: valkyrie_dorm_4
+place_id: valkyrie_dorm_4_common
+entry_minutes: 1
+map:
+  x: 1.8922
+  y: 1.432
 ---
 
 # Valkyrie Dorm 4 Common Room

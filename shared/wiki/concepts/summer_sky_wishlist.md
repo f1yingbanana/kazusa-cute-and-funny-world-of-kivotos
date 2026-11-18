@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.summer_sky_wishlist
-title: "Summer Sky’s Wishlist"
+name: Summer Sky’s Wishlist
 renown: known
 ---
 

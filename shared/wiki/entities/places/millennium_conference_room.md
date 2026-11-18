@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_conference_room
-place_id: millennium_conference_room
-name: "Seminar Conference Room"
-parent: millennium_tower
-entry_minutes: 2
-summary:
-  "Long table and tall windows near the Tower's top: Seminar meetings and
-  quarterly budget hearings; locked when not in use."
+name: Seminar Conference Room
+summary: "Long table and tall windows near the Tower's top: Seminar meetings and quarterly budget hearings; locked when not in use."
+groups:
+  - seminar
 renown: local
-community: seminar
-map: { x: 2.7263, y: 1.6303 }
+parent: millennium_tower
+place_id: millennium_conference_room
+entry_minutes: 2
+map:
+  x: 2.7263
+  y: 1.6303
 ---
 
 # Seminar Conference Room

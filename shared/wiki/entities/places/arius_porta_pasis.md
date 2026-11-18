@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_porta_pasis
-place_id: arius_porta_pasis
-name: "Porta Pasis Archives"
-aliases: ["Porta Pacis"]
-parent: arius_district
-entry_minutes: 12
-summary:
-  "Old Arius archive halls, partly sealed since the civil war; opened by
-  appointment on weekdays 10:00–16:00. Cold, dusty, lamplit."
+name: Porta Pasis Archives
+aliases:
+  - Porta Pacis
+summary: Old Arius archive halls, partly sealed since the civil war; opened by appointment on weekdays 10:00–16:00. Cold, dusty, lamplit.
 renown: local
+parent: arius_district
 backdrop: arius-porta
-map: { x: 0.4827, y: 2.7349 }
+place_id: arius_porta_pasis
+entry_minutes: 12
+map:
+  x: 0.4827
+  y: 2.7349
 ---
 
 # Porta Pasis Archives

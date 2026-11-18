@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.odyssey_calypso
-place_id: odyssey_calypso
-name: "Berthing Ship Calypso"
-aliases: ["Odyssey Berthing Ship"]
-parent: odyssey_school
-entry_minutes: 3
-summary:
-  "An old accommodation ship of the flotilla, cabins on three decks; gangway
-  watch at night, lights out 22:30, deck roll call 06:30."
+name: Berthing Ship Calypso
+aliases:
+  - Odyssey Berthing Ship
+summary: An old accommodation ship of the flotilla, cabins on three decks; gangway watch at night, lights out 22:30, deck roll call 06:30.
 renown: local
+parent: odyssey_school
 backdrop: odyssey-patrol-vessel
-map: { x: 1.994, y: 1.6582 }
+place_id: odyssey_calypso
+entry_minutes: 3
+map:
+  x: 1.994
+  y: 1.6582
 ---
 
 # Berthing Ship Calypso

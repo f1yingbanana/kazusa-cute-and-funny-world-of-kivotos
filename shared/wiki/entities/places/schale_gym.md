@@ -1,15 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_gym
-place_id: schale_gym
-name: "SCHALE Gym"
+name: SCHALE Gym
+summary: A full gym with spectator seating on SCHALE's lower floor; open 06:00–22:00.
 parent: schale_training_wing
-entry_minutes: 1
-summary:
-  "A full gym with spectator seating on SCHALE's lower floor; open 06:00–22:00."
 backdrop: gym
-map: { x: 1.4143, y: 1.6178 }
+place_id: schale_gym
+entry_minutes: 1
+map:
+  x: 1.4143
+  y: 1.6178
 ---
 
 # SCHALE Gym

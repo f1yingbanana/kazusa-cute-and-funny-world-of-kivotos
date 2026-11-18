@@ -1,26 +1,25 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_riverside
-place_id: trinity_riverside
-name: "Trinity Riverside Path"
-parent: trinity_district
-entry_minutes: 5
-summary:
-  "Paved path along the river below the town: benches, lamps until 23:00;
-  runners at dawn, picnics at weekends, quiet strollers at dusk."
+name: Trinity Riverside Path
+summary: "Paved path along the river below the town: benches, lamps until 23:00; runners at dawn, picnics at weekends, quiet strollers at dusk."
 renown: local
+parent: trinity_district
+backdrop: trinity-waterside-street
+place_id: trinity_riverside
+entry_minutes: 5
 connections:
   - to: church_street
     ways:
-      - { by: walk, minutes: 4 }
-    note: "Down the steps at the bottom of Trinity Street."
+      - by: walk
+        minutes: 4
+    note: Down the steps at the bottom of Trinity Street.
   - to: trinity_residential
     ways:
-      - { by: walk, minutes: 4 }
-    note: "Up the lane from the river into the Residential Quarter."
-backdrop: trinity-waterside-street
-map: { x: 0.8605, y: 2.4099 }
+      - by: walk
+        minutes: 4
+    note: Up the lane from the river into the Residential Quarter.
+map:
+  x: 0.8605
+  y: 2.4099
 ---
 
 # Trinity Riverside Path

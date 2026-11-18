@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.srt_special_academy
-title: "SRT Special Academy"
-community: kivotos_overview
+name: SRT Special Academy
+groups:
+  - kivotos_overview
 renown: known
 ---
 

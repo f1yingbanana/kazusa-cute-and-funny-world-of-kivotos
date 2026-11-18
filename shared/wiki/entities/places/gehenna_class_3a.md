@@ -1,19 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_class_3a
-place_id: gehenna_class_3a
-name: "Gehenna Class 3-A"
-parent: gehenna_second_building
-entry_minutes: 1
-summary:
-  "A third-year homeroom on the fourth floor: homeroom 08:40, classes until
-  15:50; council leaders and Prefect officers share it, so the air is rarely
-  calm."
+name: Gehenna Class 3-A
+summary: "A third-year homeroom on the fourth floor: homeroom 08:40, classes until 15:50; council leaders and Prefect officers share it, so the air is rarely calm."
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
+parent: gehenna_second_building
 backdrop: gehenna-classroom
-map: { x: 1.5393, y: 2.8563 }
+place_id: gehenna_class_3a
+entry_minutes: 1
+map:
+  x: 1.5393
+  y: 2.8563
 ---
 
 # Gehenna Class 3-A

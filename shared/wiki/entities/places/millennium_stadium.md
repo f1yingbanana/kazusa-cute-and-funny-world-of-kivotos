@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_stadium
-place_id: millennium_stadium
-name: "12th Millennium Stadium"
-parent: millennium_school
-entry_minutes: 4
-summary:
-  "Campus sports complex: stadium, ball fields, gym and infirmary; open
-  06:00–21:00, crowds and drink sellers in the stands on game days."
+name: 12th Millennium Stadium
+summary: "Campus sports complex: stadium, ball fields, gym and infirmary; open 06:00–21:00, crowds and drink sellers in the stands on game days."
+groups:
+  - millennium_science_school
 renown: known
-community: millennium_science_school
-map: { x: 2.6426, y: 1.6472 }
+parent: millennium_school
+place_id: millennium_stadium
+entry_minutes: 4
+map:
+  x: 2.6426
+  y: 1.6472
 ---
 
 # 12th Millennium Stadium

@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_ichika
-place_id: room_ichika
-name: "Ichika's Room"
-parent: trinity_magnolia_west
-entry_minutes: 1
-summary:
-  "West Wing room: half-started hobbies everywhere, an unused guitar in the
-  corner, flea-market finds in boxes; locked, the key under the mat."
+name: Ichika's Room
+summary: "West Wing room: half-started hobbies everywhere, an unused guitar in the corner, flea-market finds in boxes; locked, the key under the mat."
 renown: private
+parent: trinity_magnolia_west
 backdrop: student-room
-map: { x: 0.7579, y: 2.2537 }
+place_id: room_ichika
+entry_minutes: 1
+map:
+  x: 0.7579
+  y: 2.2537
 ---
 
 # Ichika's Room

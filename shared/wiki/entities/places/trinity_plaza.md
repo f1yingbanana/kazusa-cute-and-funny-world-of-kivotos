@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_plaza
-place_id: trinity_plaza
-name: "Trinity Square"
-aliases: ["Trinity Plaza"]
-parent: trinity_school
-entry_minutes: 2
-summary:
-  "The campus's central square: a tiered fountain, notice boards, paths to every
-  hall; packed 08:15–08:30, 12:00–12:20 and 15:30, nearly empty after dark."
+name: Trinity Square
+aliases:
+  - Trinity Plaza
+summary: "The campus's central square: a tiered fountain, notice boards, paths to every hall; packed 08:15–08:30, 12:00–12:20 and 15:30, nearly empty after dark."
+groups:
+  - trinity_general_school
 renown: known
-community: trinity_general_school
+parent: trinity_school
 backdrop: trinity-campus-plaza
-map: { x: 0.9053, y: 2.5128 }
+place_id: trinity_plaza
+entry_minutes: 2
+map:
+  x: 0.9053
+  y: 2.5128
 ---
 
 # Trinity Square

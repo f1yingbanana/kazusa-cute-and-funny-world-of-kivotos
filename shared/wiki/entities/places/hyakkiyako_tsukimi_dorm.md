@@ -1,23 +1,21 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_tsukimi_dorm
-place_id: hyakkiyako_tsukimi_dorm
-name: "Tsukimi-sou Dormitory"
-parent: hyakkiyako_shirakawa_quarter
-entry_minutes: 3
-summary:
-  "Old wooden student dorm by the river with tatami rooms; front door
-  06:00–22:30, curfew 22:30 with roll call by the landlady; meals in the dining
-  room."
+name: Tsukimi-sou Dormitory
+summary: Old wooden student dorm by the river with tatami rooms; front door 06:00–22:30, curfew 22:30 with roll call by the landlady; meals in the dining room.
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
+parent: hyakkiyako_shirakawa_quarter
+place_id: hyakkiyako_tsukimi_dorm
+entry_minutes: 3
 connections:
   - to: hyakkiyako_castle_square
     ways:
-      - { by: walk, minutes: 8 }
-    note: "Along the moat path to Castle Square and the academy gate."
-map: { x: 0.7931, y: 0.7134 }
+      - by: walk
+        minutes: 8
+    note: Along the moat path to Castle Square and the academy gate.
+map:
+  x: 0.7931
+  y: 0.7134
 ---
 
 # Tsukimi-sou Dormitory

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_tenshukaku_lookout
-place_id: hyakkiyako_tenshukaku_lookout
-name: "Tenshukaku Lookout"
-parent: hyakkiyako_main_building
-entry_minutes: 3
-summary:
-  "The top floor of the castle keep, open on all sides; tourists 10:00–16:00,
-  roped off after, though students slip up the stairs at night."
+name: Tenshukaku Lookout
+summary: The top floor of the castle keep, open on all sides; tourists 10:00–16:00, roped off after, though students slip up the stairs at night.
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
+parent: hyakkiyako_main_building
 backdrop: hyakkiyako-lookout
-map: { x: 0.711, y: 0.9912 }
+place_id: hyakkiyako_tenshukaku_lookout
+entry_minutes: 3
+map:
+  x: 0.711
+  y: 0.9912
 ---
 
 # Tenshukaku Lookout

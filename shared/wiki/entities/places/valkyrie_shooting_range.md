@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_shooting_range
-place_id: valkyrie_shooting_range
-name: "Valkyrie Police School Shooting Range"
-aliases: ["Valkyrie Firing Range"]
-parent: valkyrie_school
-entry_minutes: 3
-summary:
-  "An indoor range of twelve lanes and a target store; 09:00–21:00 with a range
-  officer, qualification tests on Fridays; loud and booked after classes."
+name: Valkyrie Police School Shooting Range
+aliases:
+  - Valkyrie Firing Range
+summary: An indoor range of twelve lanes and a target store; 09:00–21:00 with a range officer, qualification tests on Fridays; loud and booked after classes.
+groups:
+  - valkyrie_police_academy
 renown: local
-community: valkyrie_police_academy
-map: { x: 1.8721, y: 1.4528 }
+parent: valkyrie_school
+place_id: valkyrie_shooting_range
+entry_minutes: 3
+map:
+  x: 1.8721
+  y: 1.4528
 ---
 
 # Valkyrie Police School Shooting Range

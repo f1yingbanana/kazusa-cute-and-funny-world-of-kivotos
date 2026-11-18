@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_cafeteria
-place_id: millennium_cafeteria
-name: "Millennium Central Cafeteria"
-parent: millennium_lecture_building
-entry_minutes: 1
-summary:
-  "Ground-floor cafeteria with a bakery counter and a student kitchen;
-  07:00–20:00, packed 12:00–13:00, the bread counter sells out by 12:20."
+name: Millennium Central Cafeteria
+summary: Ground-floor cafeteria with a bakery counter and a student kitchen; 07:00–20:00, packed 12:00–13:00, the bread counter sells out by 12:20.
+groups:
+  - millennium_science_school
 renown: known
-community: millennium_science_school
+parent: millennium_lecture_building
 backdrop: school-cafeteria
-map: { x: 2.7117, y: 1.6288 }
+place_id: millennium_cafeteria
+entry_minutes: 1
+map:
+  x: 2.7117
+  y: 1.6288
 ---
 
 # Millennium Central Cafeteria

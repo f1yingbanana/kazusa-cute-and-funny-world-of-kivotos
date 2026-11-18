@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.highlander_yard_office
-place_id: highlander_yard_office
-name: "Highlander Freight Yard Office"
-aliases: ["Highlander Yard Signal Office"]
-parent: highlander_rail_yard
-entry_minutes: 1
-summary:
-  "The yard's two-storey office over the throat of the tracks: consists,
-  waybills, a kettle; staffed around the clock, short-tempered at shift change."
+name: Highlander Freight Yard Office
+aliases:
+  - Highlander Yard Signal Office
+summary: "The yard's two-storey office over the throat of the tracks: consists, waybills, a kettle; staffed around the clock, short-tempered at shift change."
 renown: local
-map: { x: 1.661, y: 1.4286 }
+parent: highlander_rail_yard
+place_id: highlander_yard_office
+entry_minutes: 1
+map:
+  x: 1.661
+  y: 1.4286
 ---
 
 # Highlander Freight Yard Office

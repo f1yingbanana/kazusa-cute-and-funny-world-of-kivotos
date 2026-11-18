@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_library
-place_id: gehenna_library
-name: "Gehenna Academy Library"
-aliases: ["Gehenna reading room"]
-parent: gehenna_second_building
-entry_minutes: 1
-summary:
-  "Two floors of stacks and long reading tables; open 08:00–20:00, quiet rule
-  enforced by a fierce librarian club, nearly empty before exams."
+name: Gehenna Academy Library
+aliases:
+  - Gehenna reading room
+summary: Two floors of stacks and long reading tables; open 08:00–20:00, quiet rule enforced by a fierce librarian club, nearly empty before exams.
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
+parent: gehenna_second_building
 backdrop: library
-map: { x: 1.5302, y: 2.8392 }
+place_id: gehenna_library
+entry_minutes: 1
+map:
+  x: 1.5302
+  y: 2.8392
 ---
 
 # Gehenna Academy Library

@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_hikari
-place_id: room_hikari
-name: "Hikari's Room"
-parent: highlander_crew_quarters
-entry_minutes: 1
-summary:
-  "A crew bedroom sharing a wall with her sister's: an ant farm on the sill, a
-  model railway, candy hidden from the dentist; often unlocked."
+name: Hikari's Room
+summary: "A crew bedroom sharing a wall with her sister's: an ant farm on the sill, a model railway, candy hidden from the dentist; often unlocked."
 renown: private
+parent: highlander_crew_quarters
 backdrop: student-room
-map: { x: 1.6847, y: 1.4338 }
+place_id: room_hikari
+entry_minutes: 1
+map:
+  x: 1.6847
+  y: 1.4338
 ---
 
 # Hikari's Room

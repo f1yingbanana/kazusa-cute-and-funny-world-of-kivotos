@@ -1,10 +1,9 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.game_development_department
-title: Game Development Department
-aliases: [Game Development Club]
-community: millennium_science_school
+name: Game Development Department
+aliases:
+  - Game Development Club
+groups:
+  - millennium_science_school
 ---
 
 # Game Development Department

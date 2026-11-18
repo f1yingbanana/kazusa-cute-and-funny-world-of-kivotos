@@ -1,18 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gsc_headquarters
-place_id: gsc_headquarters
-name: "Sanctum Tower"
-aliases: ["General Student Council Headquarters", "GSC Headquarters"]
-parent: du_downtown
-entry_minutes: 6
-summary:
-  "The General Student Council's tower at the heart of D.U.; public offices open
-  weekdays 09:00–18:00, upper floors by appointment only."
+name: Sanctum Tower
+aliases:
+  - General Student Council Headquarters
+  - GSC Headquarters
+summary: The General Student Council's tower at the heart of D.U.; public offices open weekdays 09:00–18:00, upper floors by appointment only.
+groups:
+  - general_student_council
 renown: famous
-community: general_student_council
-map: { x: 1.6936, y: 1.5073 }
+parent: du_downtown
+place_id: gsc_headquarters
+entry_minutes: 6
+map:
+  x: 1.6936
+  y: 1.5073
 ---
 
 # Sanctum Tower

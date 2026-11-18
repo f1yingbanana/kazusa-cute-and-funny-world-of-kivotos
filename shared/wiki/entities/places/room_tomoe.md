@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_tomoe
-place_id: room_tomoe
-name: "Tomoe's Room"
-parent: red_winter_first_dorm_upstairs
-entry_minutes: 1
-summary:
-  "A neat second-floor room: portraits of the president, speech drafts, a
-  megaphone and a lullaby songbook; locked, empty until late most nights."
+name: Tomoe's Room
+summary: "A neat second-floor room: portraits of the president, speech drafts, a megaphone and a lullaby songbook; locked, empty until late most nights."
+groups:
+  - red_winter_federal_academy
 renown: private
-community: red_winter_federal_academy
+parent: red_winter_first_dorm_upstairs
 backdrop: student-room
-map: { x: 1.3584, y: 0.3314 }
+place_id: room_tomoe
+entry_minutes: 1
+map:
+  x: 1.3584
+  y: 0.3314
 ---
 
 # Tomoe's Room

@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.school_lunch_club
-title: School Lunch Club
-community: gehenna_academy
+name: School Lunch Club
+groups:
+  - gehenna_academy
 ---
 
 # School Lunch Club

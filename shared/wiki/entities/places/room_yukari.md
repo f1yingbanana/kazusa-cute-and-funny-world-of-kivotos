@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_yukari
-place_id: room_yukari
-name: "Yukari's Room"
-parent: kadenokouji_estate
-entry_minutes: 1
-summary:
-  "Elegant chamber in the estate's main house: a small altar, silk cushions, a
-  hidden drawer of snacks; servants check on her at night."
+name: Yukari's Room
+summary: "Elegant chamber in the estate's main house: a small altar, silk cushions, a hidden drawer of snacks; servants check on her at night."
 renown: private
-map: { x: 0.7877, y: 0.8817 }
+parent: kadenokouji_estate
+place_id: room_yukari
+entry_minutes: 1
+map:
+  x: 0.7877
+  y: 0.8817
 ---
 
 # Yukari's Room

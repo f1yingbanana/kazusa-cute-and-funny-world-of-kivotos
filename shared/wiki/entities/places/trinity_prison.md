@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_prison
-place_id: trinity_prison
-name: "Trinity Academy Prison"
-aliases: ["Trinity academy cells"]
-parent: trinity_justice_hq
-entry_minutes: 2
-summary:
-  "Barred cells under Justice Task Force Headquarters for students awaiting
-  trial; guarded around the clock; visitors 13:00–16:00 with a pass."
+name: Trinity Academy Prison
+aliases:
+  - Trinity academy cells
+summary: Barred cells under Justice Task Force Headquarters for students awaiting trial; guarded around the clock; visitors 13:00–16:00 with a pass.
+groups:
+  - justice_task_force
 renown: known
-community: justice_task_force
+parent: trinity_justice_hq
 backdrop: trinity-prison
-map: { x: 0.8582, y: 2.6069 }
+place_id: trinity_prison
+entry_minutes: 2
+map:
+  x: 0.8582
+  y: 2.6069
 ---
 
 # Trinity Academy Prison

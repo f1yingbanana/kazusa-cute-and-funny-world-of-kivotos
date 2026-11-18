@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_printing_house
-place_id: red_winter_printing_house
-name: "Red Bear Printing House"
-aliases: ["Red Bear press"]
-parent: red_winter_3rd_street
-entry_minutes: 2
-summary:
-  "The Publishing Department's printing works: presses, paper rolls and a
-  newsstand at the front; presses run 06:00–22:00, deadline panic Thursday
-  nights."
+name: Red Bear Printing House
+aliases:
+  - Red Bear press
+summary: "The Publishing Department's printing works: presses, paper rolls and a newsstand at the front; presses run 06:00–22:00, deadline panic Thursday nights."
+groups:
+  - publishing_department
 renown: known
-community: publishing_department
-map: { x: 1.431, y: 0.456 }
+parent: red_winter_3rd_street
+place_id: red_winter_printing_house
+entry_minutes: 2
+map:
+  x: 1.431
+  y: 0.456
 ---
 
 # Red Bear Printing House

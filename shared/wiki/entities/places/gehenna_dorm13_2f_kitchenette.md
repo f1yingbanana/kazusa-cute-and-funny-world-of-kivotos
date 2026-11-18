@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_dorm13_2f_kitchenette
-place_id: gehenna_dorm13_2f_kitchenette
-name: "Dormitory No. 13 Second-Floor Kitchenette"
-parent: gehenna_dorm13_2f
-entry_minutes: 1
-summary:
-  "A two-burner kitchenette with a fridge and a sink, plus the floor's washroom;
-  in use mornings and late nights, the fridge labelled in angry marker."
+name: Dormitory No. 13 Second-Floor Kitchenette
+summary: A two-burner kitchenette with a fridge and a sink, plus the floor's washroom; in use mornings and late nights, the fridge labelled in angry marker.
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
-map: { x: 1.4996, y: 2.6069 }
+parent: gehenna_dorm13_2f
+place_id: gehenna_dorm13_2f_kitchenette
+entry_minutes: 1
+map:
+  x: 1.4996
+  y: 2.6069
 ---
 
 # Dormitory No. 13 Second-Floor Kitchenette

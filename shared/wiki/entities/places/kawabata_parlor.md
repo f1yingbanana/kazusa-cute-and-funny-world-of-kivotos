@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kawabata_parlor
-place_id: kawabata_parlor
-name: "Kawabata Parlor"
-parent: hyakkiyako_kawabata_house
-entry_minutes: 1
-summary:
-  "The boarding house's shared TV room: a big old television, a DVD shelf, floor
-  cushions; open all hours, movie nights fought over at weekends."
+name: Kawabata Parlor
+summary: "The boarding house's shared TV room: a big old television, a DVD shelf, floor cushions; open all hours, movie nights fought over at weekends."
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
-map: { x: 0.8012, y: 0.8144 }
+parent: hyakkiyako_kawabata_house
+place_id: kawabata_parlor
+entry_minutes: 1
+map:
+  x: 0.8012
+  y: 0.8144
 ---
 
 # Kawabata Parlor

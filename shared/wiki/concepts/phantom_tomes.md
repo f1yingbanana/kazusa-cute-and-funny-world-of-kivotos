@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.phantom_tomes
-title: "Phantom Story Tomes"
-community: hyakkiyako_alliance_academy
+name: Phantom Story Tomes
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Phantom Story Tomes

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkaryouran_courtyard
-place_id: hyakkaryouran_courtyard
-name: "Hyakkaryouran Courtyard Garden"
-parent: hyakkaryouran_clubhouse
-entry_minutes: 1
-summary:
-  "Walled courtyard used as training yard: target posts, a sunny engawa, an
-  inflatable pool in summer; drills 06:00–07:00, quiet afternoons."
+name: Hyakkaryouran Courtyard Garden
+summary: "Walled courtyard used as training yard: target posts, a sunny engawa, an inflatable pool in summer; drills 06:00–07:00, quiet afternoons."
+groups:
+  - hyakkaryouran_resolution_council
 renown: local
-community: hyakkaryouran_resolution_council
+parent: hyakkaryouran_clubhouse
 backdrop: hyakkaryouran-garden
-map: { x: 0.6742, y: 0.9292 }
+place_id: hyakkaryouran_courtyard
+entry_minutes: 1
+map:
+  x: 0.6742
+  y: 0.9292
 ---
 
 # Hyakkaryouran Courtyard Garden

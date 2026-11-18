@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_akari
-place_id: room_akari
-name: "Akari's Room"
-parent: gehenna_dorm13_3f
-entry_minutes: 1
-summary:
-  "A room with a huge rice cooker and a shelf of eating-contest trophies;
-  locked, a freezer of mochi."
+name: Akari's Room
+summary: A room with a huge rice cooker and a shelf of eating-contest trophies; locked, a freezer of mochi.
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_3f
 backdrop: student-room
-map: { x: 1.4791, y: 2.5681 }
+place_id: room_akari
+entry_minutes: 1
+map:
+  x: 1.4791
+  y: 2.5681
 ---
 
 # Akari's Room

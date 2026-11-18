@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_toki_workshop
-place_id: millennium_toki_workshop
-name: "C&C Equipment Bay"
-aliases: ["Toki's Equipment Workshop"]
-parent: millennium_engineering
-entry_minutes: 1
-summary:
-  "Small locked bay at the hangar's far end for maintaining powered combat gear:
-  neat racks, a charging rig; owner's key only."
+name: C&C Equipment Bay
+aliases:
+  - Toki's Equipment Workshop
+summary: "Small locked bay at the hangar's far end for maintaining powered combat gear: neat racks, a charging rig; owner's key only."
+groups:
+  - cleaning_and_clearing
 renown: local
-community: cleaning_and_clearing
-map: { x: 2.6663, y: 1.6445 }
+parent: millennium_engineering
+place_id: millennium_toki_workshop
+entry_minutes: 1
+map:
+  x: 2.6663
+  y: 1.6445
 ---
 
 # Toki's Equipment Workshop

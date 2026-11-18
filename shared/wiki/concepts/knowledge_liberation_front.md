@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.knowledge_liberation_front
-title: Knowledge Liberation Front
-community: red_winter_federal_academy
+name: Knowledge Liberation Front
+groups:
+  - red_winter_federal_academy
 ---
 
 # Knowledge Liberation Front

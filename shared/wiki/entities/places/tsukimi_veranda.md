@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.tsukimi_veranda
-place_id: tsukimi_veranda
-name: "Tsukimi-sou Moon-Viewing Veranda"
-parent: hyakkiyako_tsukimi_dorm
-entry_minutes: 1
-summary:
-  "The dorm's river-side engawa with wind chimes and cushions; open until
-  curfew, a favourite late-evening spot."
+name: Tsukimi-sou Moon-Viewing Veranda
+summary: The dorm's river-side engawa with wind chimes and cushions; open until curfew, a favourite late-evening spot.
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
-map: { x: 0.799, y: 0.7057 }
+parent: hyakkiyako_tsukimi_dorm
+place_id: tsukimi_veranda
+entry_minutes: 1
+map:
+  x: 0.799
+  y: 0.7057
 ---
 
 # Tsukimi-sou Moon-Viewing Veranda

@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.millennium_science_school
-title: "Millennium Science School"
-community: kivotos_overview
+name: Millennium Science School
+groups:
+  - kivotos_overview
 renown: known
 ---
 

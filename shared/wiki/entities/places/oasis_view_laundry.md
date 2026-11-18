@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.oasis_view_laundry
-place_id: oasis_view_laundry
-name: "Oasis View Coin Laundry"
-parent: abydos_oasis_view
-entry_minutes: 1
-summary:
-  "Basement coin laundry with three machines (one works properly), a folding
-  table and a vending machine; open all hours, warm in winter."
+name: Oasis View Coin Laundry
+summary: Basement coin laundry with three machines (one works properly), a folding table and a vending machine; open all hours, warm in winter.
 renown: local
-map: { x: 2.6664, y: 2.7076 }
+parent: abydos_oasis_view
+place_id: oasis_view_laundry
+entry_minutes: 1
+map:
+  x: 2.6664
+  y: 2.7076
 ---
 
 # Oasis View Coin Laundry

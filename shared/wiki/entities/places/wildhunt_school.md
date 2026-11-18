@@ -1,20 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_school
-place_id: wildhunt_school
-name: "Wild Hunt Academy Fortress"
-aliases: ["Wild Hunt campus"]
-parent: wildhunt_district
-entry_minutes: 6
-summary:
-  "Star-fort campus inside canal moats: studios, dorms, a statue piazza, bastion
-  walls. One gate, inspected 06:00–22:00; outing pass needed to leave; dorm
-  curfew 22:00."
+name: Wild Hunt Academy Fortress
+aliases:
+  - Wild Hunt campus
+summary: "Star-fort campus inside canal moats: studios, dorms, a statue piazza, bastion walls. One gate, inspected 06:00–22:00; outing pass needed to leave; dorm curfew 22:00."
+groups:
+  - wild_hunt_academy
 renown: known
-community: wild_hunt_academy
+parent: wildhunt_district
 backdrop: wildhunt-campus
-map: { x: 0.6493, y: 1.6905 }
+place_id: wildhunt_school
+entry_minutes: 6
+map:
+  x: 0.6493
+  y: 1.6905
 ---
 
 # Wild Hunt Academy Fortress

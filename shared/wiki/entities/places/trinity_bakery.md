@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_bakery
-place_id: trinity_bakery
-name: "Boulangerie Lumière"
-parent: church_street
-entry_minutes: 1
-summary:
-  "Bread shop on Trinity Street: baguettes, sandwiches, cream buns; open
-  07:00–19:00; sells out around 08:00, 12:00 and 18:00."
+name: Boulangerie Lumière
+summary: "Bread shop on Trinity Street: baguettes, sandwiches, cream buns; open 07:00–19:00; sells out around 08:00, 12:00 and 18:00."
 renown: local
-map: { x: 0.9234, y: 2.3607 }
+parent: church_street
+place_id: trinity_bakery
+entry_minutes: 1
+map:
+  x: 0.9234
+  y: 2.3607
 ---
 
 # Boulangerie Lumière

@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.yin_yang_building
-place_id: yin_yang_building
-name: "Yin-Yang Club Building"
-aliases: ["Yin-Yang Clubhouse"]
-parent: hyakkiyako_school
-entry_minutes: 3
-summary:
-  "Hall of the Yin-Yang Club, Hyakkiyako's de facto council: meeting room,
-  tatami lounge and auditorium; open 08:00–20:00, petitioners queue at lunch."
+name: Yin-Yang Club Building
+aliases:
+  - Yin-Yang Clubhouse
+summary: "Hall of the Yin-Yang Club, Hyakkiyako's de facto council: meeting room, tatami lounge and auditorium; open 08:00–20:00, petitioners queue at lunch."
+groups:
+  - yin_yang_club
 renown: known
-community: yin_yang_club
-map: { x: 0.7545, y: 0.9922 }
+parent: hyakkiyako_school
+place_id: yin_yang_building
+entry_minutes: 3
+map:
+  x: 0.7545
+  y: 0.9922
 ---
 
 # Yin-Yang Club Building

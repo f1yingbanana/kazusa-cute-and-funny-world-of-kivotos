@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_banquet_hall
-place_id: gehenna_banquet_hall
-name: "Gehenna Banquet Hall"
-parent: gehenna_central_square
-entry_minutes: 1
-summary:
-  "A grand hall for parties and ceremonies with a stage and a grand piano; open
-  for events only; otherwise locked, though the Prefect Team holds a key."
+name: Gehenna Banquet Hall
+summary: A grand hall for parties and ceremonies with a stage and a grand piano; open for events only; otherwise locked, though the Prefect Team holds a key.
+groups:
+  - pandemonium_society
 renown: local
-community: pandemonium_society
+parent: gehenna_central_square
 backdrop: gehenna-party-room
-map: { x: 1.6091, y: 2.7266 }
+place_id: gehenna_banquet_hall
+entry_minutes: 1
+map:
+  x: 1.6091
+  y: 2.7266
 ---
 
 # Gehenna Banquet Hall

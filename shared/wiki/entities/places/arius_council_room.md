@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_council_room
-place_id: arius_council_room
-name: "Arius Interim Council Room"
-parent: arius_schoolhouse
-entry_minutes: 1
-summary:
-  "The interim student council's room: a long scarred table, parole paperwork,
-  repair schedules, a hot plate. Used most evenings and Saturdays."
+name: Arius Interim Council Room
+summary: "The interim student council's room: a long scarred table, parole paperwork, repair schedules, a hot plate. Used most evenings and Saturdays."
+groups:
+  - arius_reconstruction
 renown: local
-community: arius_reconstruction
-map: { x: 0.4859, y: 2.7874 }
+parent: arius_schoolhouse
+place_id: arius_council_room
+entry_minutes: 1
+map:
+  x: 0.4859
+  y: 2.7874
 ---
 
 # Arius Interim Council Room

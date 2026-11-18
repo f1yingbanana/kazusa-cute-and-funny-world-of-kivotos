@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_nozomi
-place_id: room_nozomi
-name: "Nozomi's Room"
-parent: highlander_crew_quarters
-entry_minutes: 1
-summary:
-  "A crew bedroom next to her sister's: glass cases of train and mascot merch, a
-  speed-record chart, a bed she falls into dressed; usually unlocked."
+name: Nozomi's Room
+summary: "A crew bedroom next to her sister's: glass cases of train and mascot merch, a speed-record chart, a bed she falls into dressed; usually unlocked."
 renown: private
+parent: highlander_crew_quarters
 backdrop: student-room
-map: { x: 1.7036, y: 1.4323 }
+place_id: room_nozomi
+entry_minutes: 1
+map:
+  x: 1.7036
+  y: 1.4323
 ---
 
 # Nozomi's Room

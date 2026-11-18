@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_costume_workshop
-place_id: wildhunt_costume_workshop
-name: "Wild Hunt Costume Workshop"
-parent: wildhunt_art_center
-entry_minutes: 1
-summary:
-  "Sewing machines, dress forms and fabric shelves for costume and fashion
-  classes; open 09:00–20:00, pins everywhere."
+name: Wild Hunt Costume Workshop
+summary: Sewing machines, dress forms and fabric shelves for costume and fashion classes; open 09:00–20:00, pins everywhere.
+groups:
+  - wild_hunt_academy
 renown: local
-community: wild_hunt_academy
-map: { x: 0.6169, y: 1.6747 }
+parent: wildhunt_art_center
+place_id: wildhunt_costume_workshop
+entry_minutes: 1
+map:
+  x: 0.6169
+  y: 1.6747
 ---
 
 # Wild Hunt Costume Workshop

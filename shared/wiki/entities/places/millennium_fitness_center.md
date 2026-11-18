@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_fitness_center
-place_id: millennium_fitness_center
-name: "Millennium Fitness Center"
-aliases: ["Millennium Gym"]
-parent: millennium_stadium
-entry_minutes: 1
-summary:
-  "Weights room, mats and an indoor track, home of the Gym Training Department;
-  06:00–22:00, busiest at dawn and after class."
+name: Millennium Fitness Center
+aliases:
+  - Millennium Gym
+summary: Weights room, mats and an indoor track, home of the Gym Training Department; 06:00–22:00, busiest at dawn and after class.
+groups:
+  - gym_training_department
 renown: known
-community: gym_training_department
+parent: millennium_stadium
 backdrop: health-club
-map: { x: 2.6333, y: 1.6444 }
+place_id: millennium_fitness_center
+entry_minutes: 1
+map:
+  x: 2.6333
+  y: 1.6444
 ---
 
 # Millennium Fitness Center

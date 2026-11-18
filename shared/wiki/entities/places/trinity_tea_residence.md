@@ -1,24 +1,23 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_tea_residence
-place_id: trinity_tea_residence
-name: "Tea Party Residence"
-parent: trinity_outskirts
-entry_minutes: 8
-summary:
-  "Walled manor where Tea Party members live, looking over Songbird Park; gate
-  guarded 24 hours; residents, Knights on call and invited guests only."
+name: Tea Party Residence
+summary: Walled manor where Tea Party members live, looking over Songbird Park; gate guarded 24 hours; residents, Knights on call and invited guests only.
+groups:
+  - tea_party
 renown: known
-community: tea_party
+parent: trinity_outskirts
+place_id: trinity_tea_residence
+entry_minutes: 8
 connections:
   - to: trinity_tea_party
     ways:
-      - { by: walk, minutes: 15 }
-      - { by: car, minutes: 6 }
-    note:
-      "The private road back to campus; a car is always waiting at the gate."
-map: { x: 0.8229, y: 2.4412 }
+      - by: walk
+        minutes: 15
+      - by: car
+        minutes: 6
+    note: The private road back to campus; a car is always waiting at the gate.
+map:
+  x: 0.8229
+  y: 2.4412
 ---
 
 # Tea Party Residence

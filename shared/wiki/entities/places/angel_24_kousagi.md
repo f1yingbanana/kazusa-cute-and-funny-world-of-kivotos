@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.angel_24_kousagi
-place_id: angel_24_kousagi
-name: "Angel 24, Kousagi Station Branch"
-aliases: ["Kousagi Angel 24"]
+name: Angel 24, Kousagi Station Branch
+aliases:
+  - Kousagi Angel 24
+summary: "24-hour convenience store on the station corner: bento, milk, ammo; near-expiry bento discounted after 22:00."
 parent: kousagi_station_street
-entry_minutes: 1
-summary:
-  "24-hour convenience store on the station corner: bento, milk, ammo;
-  near-expiry bento discounted after 22:00."
 backdrop: convenience
-map: { x: 1.5297, y: 1.6836 }
+place_id: angel_24_kousagi
+entry_minutes: 1
+map:
+  x: 1.5297
+  y: 1.6836
 ---
 
 # Angel 24, Kousagi Station Branch

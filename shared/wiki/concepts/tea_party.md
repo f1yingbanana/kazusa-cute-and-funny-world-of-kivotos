@@ -1,10 +1,9 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.tea_party
-title: Tea Party
-aliases: [Trinity Student Council]
-community: trinity_general_school
+name: Tea Party
+aliases:
+  - Trinity Student Council
+groups:
+  - trinity_general_school
 ---
 
 # Tea Party

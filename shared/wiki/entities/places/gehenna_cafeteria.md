@@ -1,20 +1,19 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_cafeteria
-place_id: gehenna_cafeteria
-name: "Gehenna Dining Hall"
-aliases: ["Gehenna cafeteria", "Gehenna student dining hall"]
-parent: gehenna_lunch_building
-entry_minutes: 1
-summary:
-  "Gehenna's one student dining hall: breakfast 07:00–08:30, lunch 12:00–13:30,
-  dinner 18:00–20:00; packed 12:00–13:00, queues spill outside and fights break
-  out."
+name: Gehenna Dining Hall
+aliases:
+  - Gehenna cafeteria
+  - Gehenna student dining hall
+summary: "Gehenna's one student dining hall: breakfast 07:00–08:30, lunch 12:00–13:30, dinner 18:00–20:00; packed 12:00–13:00, queues spill outside and fights break out."
+groups:
+  - school_lunch_club
 renown: local
-community: school_lunch_club
+parent: gehenna_lunch_building
 backdrop: school-cafeteria
-map: { x: 1.5004, y: 2.8342 }
+place_id: gehenna_cafeteria
+entry_minutes: 1
+map:
+  x: 1.5004
+  y: 2.8342
 ---
 
 # Gehenna Dining Hall

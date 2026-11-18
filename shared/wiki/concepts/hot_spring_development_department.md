@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.hot_spring_development_department
-title: Hot Spring Development Department
-community: gehenna_academy
+name: Hot Spring Development Department
+groups:
+  - gehenna_academy
 ---
 
 # Hot Spring Development Department

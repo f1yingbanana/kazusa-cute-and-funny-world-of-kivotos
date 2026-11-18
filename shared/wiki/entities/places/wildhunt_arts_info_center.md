@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_arts_info_center
-place_id: wildhunt_arts_info_center
-name: "Wild Hunt Arts Information Center"
-parent: wildhunt_school
-entry_minutes: 3
-summary:
-  "The academy's library and archive of art books, catalogues and student
-  portfolios, with an information desk; 08:00–21:00, quiet, busy before exams."
+name: Wild Hunt Arts Information Center
+summary: The academy's library and archive of art books, catalogues and student portfolios, with an information desk; 08:00–21:00, quiet, busy before exams.
+groups:
+  - wild_hunt_academy
 renown: known
-community: wild_hunt_academy
+parent: wildhunt_school
 backdrop: wildhunt-library
-map: { x: 0.65, y: 1.6805 }
+place_id: wildhunt_arts_info_center
+entry_minutes: 3
+map:
+  x: 0.65
+  y: 1.6805
 ---
 
 # Wild Hunt Arts Information Center

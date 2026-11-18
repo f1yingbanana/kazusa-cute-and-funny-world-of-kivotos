@@ -1,16 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_library_reading_hall
-place_id: red_winter_library_reading_hall
-name: "Federal Library Reading Hall"
+name: Federal Library Reading Hall
+summary: Long tables under green lamps and the circulation desk; open 09:00–20:00 except Mondays, a few readers, warmest seats beside the single heater.
+groups:
+  - knowledge_liberation_front
 parent: red_winter_library
+place_id: red_winter_library_reading_hall
 entry_minutes: 1
-summary:
-  "Long tables under green lamps and the circulation desk; open 09:00–20:00
-  except Mondays, a few readers, warmest seats beside the single heater."
-community: knowledge_liberation_front
-map: { x: 1.5485, y: 0.3289 }
+map:
+  x: 1.5485
+  y: 0.3289
 ---
 
 # Federal Library Reading Hall

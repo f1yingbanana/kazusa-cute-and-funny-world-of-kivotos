@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_nodoka_shigure
-place_id: room_nodoka_shigure
-name: "Nodoka and Shigure's Room"
-parent: red_winter_spec227
-entry_minutes: 1
-summary:
-  "The one warm former classroom the two suspended students share: a stove, two
-  cots, a big telescope at the window, jars of fruit kompot; door barred at
-  night."
+name: Nodoka and Shigure's Room
+summary: "The one warm former classroom the two suspended students share: a stove, two cots, a big telescope at the window, jars of fruit kompot; door barred at night."
+groups:
+  - special_class_227
 renown: private
-community: special_class_227
-map: { x: 1.3447, y: 0.4828 }
+parent: red_winter_spec227
+place_id: room_nodoka_shigure
+entry_minutes: 1
+map:
+  x: 1.3447
+  y: 0.4828
 ---
 
 # Nodoka and Shigure's Room

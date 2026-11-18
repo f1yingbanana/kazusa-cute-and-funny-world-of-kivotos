@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_shopping_23
-place_id: hyakkiyako_shopping_23
-name: "Shopping District No. 23"
-aliases: ["Hyakkiyako Merch Street"]
-parent: hyakkiyako_shopping_district
-entry_minutes: 2
-summary:
-  "Merchandise street branching off the main street: department store, ninja
-  goods, camera repair, karaoke; 10:00–21:00, karaoke until 01:00."
+name: Shopping District No. 23
+aliases:
+  - Hyakkiyako Merch Street
+summary: "Merchandise street branching off the main street: department store, ninja goods, camera repair, karaoke; 10:00–21:00, karaoke until 01:00."
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
-map: { x: 0.891, y: 0.9478 }
+parent: hyakkiyako_shopping_district
+place_id: hyakkiyako_shopping_23
+entry_minutes: 2
+map:
+  x: 0.891
+  y: 0.9478
 ---
 
 # Shopping District No. 23

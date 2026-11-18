@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_shiroko
-place_id: room_shiroko
-name: "Shiroko's Room"
-parent: abydos_oasis_view
-entry_minutes: 1
-summary:
-  "Fourth-floor flat: a road bike hung on the wall, a pull-up bar in the
-  doorway, a whiteboard of planning maps. Locked; a spare key hangs next door."
+name: Shiroko's Room
+summary: "Fourth-floor flat: a road bike hung on the wall, a pull-up bar in the doorway, a whiteboard of planning maps. Locked; a spare key hangs next door."
 renown: private
+parent: abydos_oasis_view
 backdrop: student-room
-map: { x: 2.6497, y: 2.7058 }
+place_id: room_shiroko
+entry_minutes: 1
+map:
+  x: 2.6497
+  y: 2.7058
 ---
 
 # Shiroko's Room

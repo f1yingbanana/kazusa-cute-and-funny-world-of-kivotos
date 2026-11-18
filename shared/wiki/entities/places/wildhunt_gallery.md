@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_gallery
-place_id: wildhunt_gallery
-name: "Gallery Kinescope"
-parent: wildhunt_canal_town
-entry_minutes: 1
-summary:
-  "Narrow rented gallery of looping video art on salvaged screens; open weekends
-  11:00–19:00 or whenever the artist is in."
+name: Gallery Kinescope
+summary: Narrow rented gallery of looping video art on salvaged screens; open weekends 11:00–19:00 or whenever the artist is in.
 renown: local
-map: { x: 0.7794, y: 1.6349 }
+parent: wildhunt_canal_town
+place_id: wildhunt_gallery
+entry_minutes: 1
+map:
+  x: 0.7794
+  y: 1.6349
 ---
 
 # Gallery Kinescope

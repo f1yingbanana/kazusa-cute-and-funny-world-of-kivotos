@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.gourmet_research_society
-title: Gourmet Research Society
-community: gehenna_academy
+name: Gourmet Research Society
+groups:
+  - gehenna_academy
 ---
 
 # Gourmet Research Society

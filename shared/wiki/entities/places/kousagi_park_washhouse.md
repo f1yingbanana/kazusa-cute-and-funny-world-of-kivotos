@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kousagi_park_washhouse
-place_id: kousagi_park_washhouse
-name: "Kousagi Park Washhouse"
-aliases: ["Kousagi Park Restrooms"]
-parent: usagi_park
-entry_minutes: 2
-summary:
-  "The park's concrete restroom block: sinks, an outdoor tap, a drinking
-  fountain and a bench; open and lit all night, busiest at dawn."
+name: Kousagi Park Washhouse
+aliases:
+  - Kousagi Park Restrooms
+summary: "The park's concrete restroom block: sinks, an outdoor tap, a drinking fountain and a bench; open and lit all night, busiest at dawn."
 renown: local
-map: { x: 1.6176, y: 1.5716 }
+parent: usagi_park
+place_id: kousagi_park_washhouse
+entry_minutes: 2
+map:
+  x: 1.6176
+  y: 1.5716
 ---
 
 # Kousagi Park Washhouse

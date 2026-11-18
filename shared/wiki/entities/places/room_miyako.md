@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_miyako
-place_id: room_miyako
-name: "Miyako's Tent"
-parent: rabbit_tent_row
-entry_minutes: 1
-summary:
-  "A squad tent kept regulation-tidy: folded bedroll, a rabbit hutch by the
-  door, a mess kit; flap zipped and tied at night, a whistle hung inside."
+name: Miyako's Tent
+summary: "A squad tent kept regulation-tidy: folded bedroll, a rabbit hutch by the door, a mess kit; flap zipped and tied at night, a whistle hung inside."
 renown: private
+parent: rabbit_tent_row
 backdrop: tent-inside
-map: { x: 1.5556, y: 1.5849 }
+place_id: room_miyako
+entry_minutes: 1
+map:
+  x: 1.5556
+  y: 1.5849
 ---
 
 # Miyako's Tent

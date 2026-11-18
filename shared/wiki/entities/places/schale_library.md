@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_library
-place_id: schale_library
-name: "SCHALE Library"
+name: SCHALE Library
+summary: Study books, manga and light novels on the office floor, with an audio-visual corner for films; open 08:00–22:00.
 parent: schale_office
+place_id: schale_library
 entry_minutes: 2
-summary:
-  "Study books, manga and light novels on the office floor, with an audio-visual
-  corner for films; open 08:00–22:00."
-map: { x: 1.3971, y: 1.6257 }
+map:
+  x: 1.3971
+  y: 1.6257
 ---
 
 # SCHALE Library

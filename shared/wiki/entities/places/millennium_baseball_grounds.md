@@ -1,19 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_baseball_grounds
-place_id: millennium_baseball_grounds
-name: "Millennium Baseball Grounds"
-parent: millennium_stadium
-entry_minutes: 2
-summary:
-  "Baseball Club field and batting cages behind the stadium; practice
-  16:00–19:00 on weekdays, where the theory meeting often runs longer than the
-  batting."
+name: Millennium Baseball Grounds
+summary: Baseball Club field and batting cages behind the stadium; practice 16:00–19:00 on weekdays, where the theory meeting often runs longer than the batting.
+groups:
+  - millennium_science_school
 renown: local
-community: millennium_science_school
+parent: millennium_stadium
 backdrop: baseball-park
-map: { x: 2.6453, y: 1.6565 }
+place_id: millennium_baseball_grounds
+entry_minutes: 2
+map:
+  x: 2.6453
+  y: 1.6565
 ---
 
 # Millennium Baseball Grounds

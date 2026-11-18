@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.pudding_in_kivotos
-title: "Pudding in Kivotos"
+name: Pudding in Kivotos
 renown: famous
 ---
 

@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.kuzunoha
-title: "Kuzunoha"
-community: hyakkiyako_alliance_academy
+name: Kuzunoha
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Kuzunoha

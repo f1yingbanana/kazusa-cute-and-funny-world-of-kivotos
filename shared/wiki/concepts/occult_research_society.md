@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.occult_research_society
-title: Occult Research Society
-community: wild_hunt_academy
+name: Occult Research Society
+groups:
+  - wild_hunt_academy
 ---
 
 # Occult Research Society

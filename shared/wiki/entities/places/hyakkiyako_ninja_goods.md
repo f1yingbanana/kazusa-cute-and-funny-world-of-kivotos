@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_ninja_goods
-place_id: hyakkiyako_ninja_goods
-name: "Kagerou Ninja Goods"
-parent: hyakkiyako_shopping_23
-entry_minutes: 1
-summary:
-  "Ninja-themed souvenir shop and tailor: toy shuriken, figures, period-drama
-  DVDs, made-to-order costumes; 10:00–19:00."
+name: Kagerou Ninja Goods
+summary: "Ninja-themed souvenir shop and tailor: toy shuriken, figures, period-drama DVDs, made-to-order costumes; 10:00–19:00."
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
-map: { x: 0.8831, y: 0.9421 }
+parent: hyakkiyako_shopping_23
+place_id: hyakkiyako_ninja_goods
+entry_minutes: 1
+map:
+  x: 0.8831
+  y: 0.9421
 ---
 
 # Kagerou Ninja Goods

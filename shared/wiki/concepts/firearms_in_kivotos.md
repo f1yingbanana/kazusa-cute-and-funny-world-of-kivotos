@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.firearms_in_kivotos
-title: Firearms in Kivotos
+name: Firearms in Kivotos
 renown: famous
 ---
 

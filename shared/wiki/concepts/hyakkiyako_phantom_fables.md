@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.hyakkiyako_phantom_fables
-title: "Phantom Fables and Artifact Spirits"
-community: hyakkiyako_alliance_academy
+name: Phantom Fables and Artifact Spirits
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Phantom Fables and Artifact Spirits

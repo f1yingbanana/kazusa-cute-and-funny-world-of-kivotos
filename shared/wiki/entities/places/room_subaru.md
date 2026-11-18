@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_subaru
-place_id: room_subaru
-name: "Subaru's Room"
-parent: arius_barracks
-entry_minutes: 1
-summary:
-  "Narrow room by the barracks door: a bed under pinned sheet music, a harmonica
-  case, a snack tin marked for the juniors. Never locked, so juniors can knock."
+name: Subaru's Room
+summary: "Narrow room by the barracks door: a bed under pinned sheet music, a harmonica case, a snack tin marked for the juniors. Never locked, so juniors can knock."
 renown: private
-map: { x: 0.5116, y: 2.7736 }
+parent: arius_barracks
+place_id: room_subaru
+entry_minutes: 1
+map:
+  x: 0.5116
+  y: 2.7736
 ---
 
 # Subaru's Room

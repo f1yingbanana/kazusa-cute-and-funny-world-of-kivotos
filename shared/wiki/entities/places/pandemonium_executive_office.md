@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.pandemonium_executive_office
-place_id: pandemonium_executive_office
-name: "Pandemonium Executive Office"
-parent: pandemonium_headquarters
-entry_minutes: 1
-summary:
-  "The president's grand office: a throne-like chair, a map of Kivotos full of
-  pins; scheming sessions most afternoons, bullet holes from past disputes."
+name: Pandemonium Executive Office
+summary: "The president's grand office: a throne-like chair, a map of Kivotos full of pins; scheming sessions most afternoons, bullet holes from past disputes."
+groups:
+  - pandemonium_society
 renown: local
-community: pandemonium_society
-map: { x: 1.4574, y: 2.8916 }
+parent: pandemonium_headquarters
+place_id: pandemonium_executive_office
+entry_minutes: 1
+map:
+  x: 1.4574
+  y: 2.8916
 ---
 
 # Pandemonium Executive Office

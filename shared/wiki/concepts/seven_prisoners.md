@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.seven_prisoners
-title: "Seven Prisoners"
-community: hyakkiyako_alliance_academy
+name: Seven Prisoners
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Seven Prisoners

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_gymnasium
-place_id: trinity_gymnasium
-name: "Trinity Gymnasium"
-parent: trinity_plaza
-entry_minutes: 4
-summary:
-  "Sports hall with a weights room and an outdoor pool; open 06:00–20:00, pool
-  June–September and locked at night; sports clubs crowd it 16:00–18:30."
+name: Trinity Gymnasium
+summary: Sports hall with a weights room and an outdoor pool; open 06:00–20:00, pool June–September and locked at night; sports clubs crowd it 16:00–18:30.
+groups:
+  - trinity_general_school
 renown: local
-community: trinity_general_school
+parent: trinity_plaza
 backdrop: gym
-map: { x: 0.8787, y: 2.524 }
+place_id: trinity_gymnasium
+entry_minutes: 4
+map:
+  x: 0.8787
+  y: 2.524
 ---
 
 # Trinity Gymnasium

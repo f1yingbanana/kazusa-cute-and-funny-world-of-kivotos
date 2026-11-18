@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_sakurako
-place_id: room_sakurako
-name: "Sakurako's Room"
-parent: trinity_cathedral_cloister
-entry_minutes: 1
-summary:
-  "An austere cell: a narrow bed, a confession schedule on the wall, a trend
-  magazine full of notes; locked when she's out, which is rarely far."
+name: Sakurako's Room
+summary: "An austere cell: a narrow bed, a confession schedule on the wall, a trend magazine full of notes; locked when she's out, which is rarely far."
 renown: private
-map: { x: 0.9769, y: 2.4127 }
+parent: trinity_cathedral_cloister
+place_id: room_sakurako
+entry_minutes: 1
+map:
+  x: 0.9769
+  y: 2.4127
 ---
 
 # Sakurako's Room

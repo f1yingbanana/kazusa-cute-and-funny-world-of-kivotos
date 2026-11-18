@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.highlander_supervisory_office
-place_id: highlander_supervisory_office
-name: "Highlander Supervisory Office"
-aliases: ["Highlander Supervisors' Office"]
-parent: highlander_school
-entry_minutes: 2
-summary:
-  "The quiet glass-walled office that audits the Control Center for the
-  academy's board; 09:00–18:00, appointments only, reports due Fridays."
+name: Highlander Supervisory Office
+aliases:
+  - Highlander Supervisors' Office
+summary: The quiet glass-walled office that audits the Control Center for the academy's board; 09:00–18:00, appointments only, reports due Fridays.
+groups:
+  - highlander_railroad_academy
 renown: local
-community: highlander_railroad_academy
-map: { x: 1.668, y: 1.4167 }
+parent: highlander_school
+place_id: highlander_supervisory_office
+entry_minutes: 2
+map:
+  x: 1.668
+  y: 1.4167
 ---
 
 # Highlander Supervisory Office

@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.fox_platoon
-title: FOX Platoon
-community: srt_special_academy
+name: FOX Platoon
+groups:
+  - srt_special_academy
 ---
 
 # FOX Platoon

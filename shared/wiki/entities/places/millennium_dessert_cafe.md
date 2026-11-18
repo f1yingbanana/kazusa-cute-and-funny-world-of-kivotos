@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_dessert_cafe
-place_id: millennium_dessert_cafe
-name: "Café Parabola"
-parent: millennium_shopping_district
-entry_minutes: 1
-summary:
-  "Dessert café: parfaits, afternoon tea sets, ice cream; 11:00–21:00, a waiting
-  line around 15:00 on weekends."
+name: Café Parabola
+summary: "Dessert café: parfaits, afternoon tea sets, ice cream; 11:00–21:00, a waiting line around 15:00 on weekends."
 renown: local
+parent: millennium_shopping_district
 backdrop: dessert-cafe
-map: { x: 2.8321, y: 1.6795 }
+place_id: millennium_dessert_cafe
+entry_minutes: 1
+map:
+  x: 2.8321
+  y: 1.6795
 ---
 
 # Café Parabola

@@ -1,20 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_school
-place_id: gehenna_school
-name: "Gehenna Academy Campus"
-aliases: ["Gehenna campus"]
-parent: gehenna_district
-entry_minutes: 8
-summary:
-  "Palatial old campus: classroom blocks, club halls, council and Prefect
-  headquarters; gates 06:00–22:00, after hours via the Prefect checkpoint;
-  packed at 08:30 and 15:50."
+name: Gehenna Academy Campus
+aliases:
+  - Gehenna campus
+summary: "Palatial old campus: classroom blocks, club halls, council and Prefect headquarters; gates 06:00–22:00, after hours via the Prefect checkpoint; packed at 08:30 and 15:50."
+groups:
+  - gehenna_academy
 renown: famous
-community: gehenna_academy
+parent: gehenna_district
 backdrop: gehenna-campus
-map: { x: 1.4915, y: 2.8249 }
+place_id: gehenna_school
+entry_minutes: 8
+map:
+  x: 1.4915
+  y: 2.8249
 ---
 
 # Gehenna Academy Campus

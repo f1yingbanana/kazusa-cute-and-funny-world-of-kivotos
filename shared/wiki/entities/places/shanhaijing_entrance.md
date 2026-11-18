@@ -1,24 +1,23 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_entrance
-place_id: shanhaijing_entrance
-name: "Shanhaijing Entrance Compounds"
-aliases: ["Shanhaijing Outer Compounds"]
-parent: shanhaijing_district
-entry_minutes: 3
-summary:
-  "The walled outer strip by the station, the only part open to outsiders:
-  restaurants, tea houses, a park; 07:00–22:00, crowded with visitors at meal
-  times."
+name: Shanhaijing Entrance Compounds
+aliases:
+  - Shanhaijing Outer Compounds
+summary: "The walled outer strip by the station, the only part open to outsiders: restaurants, tea houses, a park; 07:00–22:00, crowded with visitors at meal times."
+groups:
+  - shanhaijing_senior_secondary_school
 renown: famous
-community: shanhaijing_senior_secondary_school
+parent: shanhaijing_district
+place_id: shanhaijing_entrance
+entry_minutes: 3
 connections:
   - to: shanhaijing_station
     ways:
-      - { by: walk, minutes: 3 }
-    note: "Out through the red arch to the station."
-map: { x: 0.3956, y: 1.1822 }
+      - by: walk
+        minutes: 3
+    note: Out through the red arch to the station.
+map:
+  x: 0.3956
+  y: 1.1822
 ---
 
 # Shanhaijing Entrance Compounds

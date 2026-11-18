@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_tea_terrace
-place_id: trinity_tea_terrace
-name: "Tea Party Terrace"
-parent: trinity_tea_party
-entry_minutes: 1
-summary:
-  "Rose-hedged terrace beside the Tea Party Chamber where the council takes tea
-  and receives guests; afternoon tea at 15:00, invitation only."
+name: Tea Party Terrace
+summary: Rose-hedged terrace beside the Tea Party Chamber where the council takes tea and receives guests; afternoon tea at 15:00, invitation only.
+groups:
+  - tea_party
 renown: known
-community: tea_party
+parent: trinity_tea_party
 backdrop: trinity-terrace
-map: { x: 0.8268, y: 2.5692 }
+place_id: trinity_tea_terrace
+entry_minutes: 1
+map:
+  x: 0.8268
+  y: 2.5692
 ---
 
 # Tea Party Terrace

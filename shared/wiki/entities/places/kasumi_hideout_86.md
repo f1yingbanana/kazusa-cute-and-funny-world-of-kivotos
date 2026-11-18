@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kasumi_hideout_86
-place_id: kasumi_hideout_86
-name: "Matsu-no-yu Boiler Room"
-aliases: ["Hideout No. 86"]
-parent: gehenna_old_bathhouse
-entry_minutes: 1
-summary:
-  "Disused boiler room behind a door newer than the building: survey maps, a
-  futon, a camp lamp; entrance hidden, occupied at odd hours."
+name: Matsu-no-yu Boiler Room
+aliases:
+  - Hideout No. 86
+summary: "Disused boiler room behind a door newer than the building: survey maps, a futon, a camp lamp; entrance hidden, occupied at odd hours."
+groups:
+  - hot_spring_development_department
 renown: private
-community: hot_spring_development_department
-map: { x: 1.6536, y: 2.6692 }
+parent: gehenna_old_bathhouse
+place_id: kasumi_hideout_86
+entry_minutes: 1
+map:
+  x: 1.6536
+  y: 2.6692
 ---
 
 # Hideout No. 86

@@ -1,20 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_rooftop
-place_id: millennium_rooftop
-name: "Millennium Lecture Building Rooftop"
-aliases: ["Millennium rooftop"]
-parent: millennium_lecture_building
-entry_minutes: 1
-summary:
-  "Fenced roof above the lecture block with a few benches; officially open
-  08:00–18:00, but the door lock is easy and students come up at night for the
-  stars."
+name: Millennium Lecture Building Rooftop
+aliases:
+  - Millennium rooftop
+summary: Fenced roof above the lecture block with a few benches; officially open 08:00–18:00, but the door lock is easy and students come up at night for the stars.
+groups:
+  - millennium_science_school
 renown: local
-community: millennium_science_school
+parent: millennium_lecture_building
 backdrop: school-rooftop
-map: { x: 2.7011, y: 1.6333 }
+place_id: millennium_rooftop
+entry_minutes: 1
+map:
+  x: 2.7011
+  y: 1.6333
 ---
 
 # Millennium Lecture Building Rooftop

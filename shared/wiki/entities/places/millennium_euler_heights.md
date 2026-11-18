@@ -1,22 +1,19 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_euler_heights
-place_id: millennium_euler_heights
-name: "Euler Heights"
+name: Euler Heights
+summary: "Quiet residential streets south of campus: low apartment houses, a villa complex, a boxing gym, a railway crossing on the way to school; streets empty after 22:00."
+renown: local
 parent: millennium_district
+place_id: millennium_euler_heights
 entry_minutes: 6
 connections:
   - to: millennium_shopping_district
     ways:
-      - { by: walk, minutes: 9 }
-    note: "Along the railway fence to the station end of the shops."
-summary:
-  "Quiet residential streets south of campus: low apartment houses, a villa
-  complex, a boxing gym, a railway crossing on the way to school; streets empty
-  after 22:00."
-renown: local
-map: { x: 2.8564, y: 1.6176 }
+      - by: walk
+        minutes: 9
+    note: Along the railway fence to the station end of the shops.
+map:
+  x: 2.8564
+  y: 1.6176
 ---
 
 # Euler Heights

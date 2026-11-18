@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_dagashi_shop
-place_id: hyakkiyako_dagashi_shop
-name: "Komachi Dagashi Shop"
-parent: hyakkiyako_shopping_district
-entry_minutes: 1
-summary:
-  "Tiny old candy store: penny sweets, ramune, capsule toys, a lottery card box;
-  10:00–18:30, children and students after 15:00."
+name: Komachi Dagashi Shop
+summary: "Tiny old candy store: penny sweets, ramune, capsule toys, a lottery card box; 10:00–18:30, children and students after 15:00."
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
-map: { x: 0.8704, y: 0.924 }
+parent: hyakkiyako_shopping_district
+place_id: hyakkiyako_dagashi_shop
+entry_minutes: 1
+map:
+  x: 0.8704
+  y: 0.924
 ---
 
 # Komachi Dagashi Shop

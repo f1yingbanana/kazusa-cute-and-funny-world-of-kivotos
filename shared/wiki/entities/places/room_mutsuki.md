@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_mutsuki
-place_id: room_mutsuki
-name: "Mutsuki's Room"
-parent: gehenna_hotaru_building
-entry_minutes: 1
-summary:
-  "A rented room with explosives displayed like figurines and a red dress on a
-  stand; locked, booby-trapped for fun."
+name: Mutsuki's Room
+summary: A rented room with explosives displayed like figurines and a red dress on a stand; locked, booby-trapped for fun.
+groups:
+  - problem_solver_68
 renown: private
-community: problem_solver_68
-map: { x: 1.6238, y: 2.6614 }
+parent: gehenna_hotaru_building
+place_id: room_mutsuki
+entry_minutes: 1
+map:
+  x: 1.6238
+  y: 2.6614
 ---
 
 # Mutsuki's Room

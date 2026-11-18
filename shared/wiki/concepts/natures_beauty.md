@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.natures_beauty
-title: "Nature’s Beauty"
-community: hyakkiyako_alliance_academy
+name: Nature’s Beauty
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Nature’s Beauty

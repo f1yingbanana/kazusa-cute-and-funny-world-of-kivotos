@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_suzumi
-place_id: room_suzumi
-name: "Suzumi's Room"
-parent: trinity_dorm_upstairs
-entry_minutes: 1
-summary:
-  "Ground-floor room by the back stairs: glow-in-the-dark stars on the ceiling,
-  a crate of flash grenades under the bed; always locked."
+name: Suzumi's Room
+summary: "Ground-floor room by the back stairs: glow-in-the-dark stars on the ceiling, a crate of flash grenades under the bed; always locked."
 renown: private
+parent: trinity_dorm_upstairs
 backdrop: student-room
-map: { x: 0.8142, y: 2.3236 }
+place_id: room_suzumi
+entry_minutes: 1
+map:
+  x: 0.8142
+  y: 2.3236
 ---
 
 # Suzumi's Room

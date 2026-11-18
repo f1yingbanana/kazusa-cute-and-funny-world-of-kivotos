@@ -1,16 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_milk_bar
-place_id: red_winter_milk_bar
-name: "No. 227 Bathhouse Milk Bar"
+name: No. 227 Bathhouse Milk Bar
+summary: Counter by the bathhouse exit serving cold fruit milk, kompot and mors after a soak; open 16:00–22:30, busiest after 20:00.
+groups:
+  - red_winter_hot_springs
 parent: red_winter_227_bathhouse
+place_id: red_winter_milk_bar
 entry_minutes: 1
-summary:
-  "Counter by the bathhouse exit serving cold fruit milk, kompot and mors after
-  a soak; open 16:00–22:30, busiest after 20:00."
-community: red_winter_hot_springs
-map: { x: 1.3628, y: 0.5072 }
+map:
+  x: 1.3628
+  y: 0.5072
 ---
 
 # No. 227 Bathhouse Milk Bar

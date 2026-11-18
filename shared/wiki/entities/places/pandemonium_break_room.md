@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.pandemonium_break_room
-place_id: pandemonium_break_room
-name: "Pandemonium Break Room"
-parent: pandemonium_headquarters
-entry_minutes: 1
-summary:
-  "A cosy lounge with sofas, a fridge of pudding and a small chalkboard; busy
-  after classes, homework and snacks until 19:00."
+name: Pandemonium Break Room
+summary: A cosy lounge with sofas, a fridge of pudding and a small chalkboard; busy after classes, homework and snacks until 19:00.
+groups:
+  - pandemonium_society
 renown: local
-community: pandemonium_society
-map: { x: 1.4678, y: 2.8801 }
+parent: pandemonium_headquarters
+place_id: pandemonium_break_room
+entry_minutes: 1
+map:
+  x: 1.4678
+  y: 2.8801
 ---
 
 # Pandemonium Break Room

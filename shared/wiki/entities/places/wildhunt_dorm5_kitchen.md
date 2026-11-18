@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_dorm5_kitchen
-place_id: wildhunt_dorm5_kitchen
-name: "Dormitory No. 5 Common Kitchen"
-parent: wildhunt_dorm5
-entry_minutes: 1
-summary:
-  "Fourth-floor shared kitchen and washroom: kettle, hot plate, a fridge of
-  labelled food; open until curfew."
+name: Dormitory No. 5 Common Kitchen
+summary: "Fourth-floor shared kitchen and washroom: kettle, hot plate, a fridge of labelled food; open until curfew."
 renown: local
-map: { x: 0.676, y: 1.7477 }
+parent: wildhunt_dorm5
+place_id: wildhunt_dorm5_kitchen
+entry_minutes: 1
+map:
+  x: 0.676
+  y: 1.7477
 ---
 
 # Dormitory No. 5 Common Kitchen

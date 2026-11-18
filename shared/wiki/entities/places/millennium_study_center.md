@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_study_center
-place_id: millennium_study_center
-name: "Millennium Study Center"
-parent: millennium_study_area
-entry_minutes: 2
-summary:
-  "Glass study hall with group rooms bookable by ID and a terrace café upstairs;
-  07:00–23:00, full of crammers and club meetings."
+name: Millennium Study Center
+summary: Glass study hall with group rooms bookable by ID and a terrace café upstairs; 07:00–23:00, full of crammers and club meetings.
+groups:
+  - millennium_science_school
 renown: known
-community: millennium_science_school
-map: { x: 2.6481, y: 1.6933 }
+parent: millennium_study_area
+place_id: millennium_study_center
+entry_minutes: 2
+map:
+  x: 2.6481
+  y: 1.6933
 ---
 
 # Millennium Study Center

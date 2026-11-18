@@ -1,20 +1,19 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_remedial_clinic
-place_id: trinity_remedial_clinic
-name: "Remedial Knights Central Ward"
-aliases: ["Remedial Knights Clinic", "Trinity Infirmary"]
-parent: trinity_school
-entry_minutes: 3
-summary:
-  "Campus infirmary and Remedial Knights club room: beds, a treatment room, tea
-  upstairs at 15:30; open 24 hours with a Knight on night duty; busiest after
-  drills."
+name: Remedial Knights Central Ward
+aliases:
+  - Remedial Knights Clinic
+  - Trinity Infirmary
+summary: "Campus infirmary and Remedial Knights club room: beds, a treatment room, tea upstairs at 15:30; open 24 hours with a Knight on night duty; busiest after drills."
+groups:
+  - knights_hospitaller
 renown: known
-community: knights_hospitaller
+parent: trinity_school
 backdrop: hospital-ward
-map: { x: 0.8656, y: 2.5643 }
+place_id: trinity_remedial_clinic
+entry_minutes: 3
+map:
+  x: 0.8656
+  y: 2.5643
 ---
 
 # Remedial Knights Central Ward

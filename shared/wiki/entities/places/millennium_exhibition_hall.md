@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_exhibition_hall
-place_id: millennium_exhibition_hall
-name: "Millennium Exhibition Hall"
-parent: millennium_research_park
-entry_minutes: 2
-summary:
-  "Big exhibition hall by the station for the EXPO, game shows and club
-  showcases; open on event days 09:00–20:00, otherwise locked."
+name: Millennium Exhibition Hall
+summary: Big exhibition hall by the station for the EXPO, game shows and club showcases; open on event days 09:00–20:00, otherwise locked.
+groups:
+  - millennium_science_school
 renown: known
-community: millennium_science_school
+parent: millennium_research_park
 backdrop: millennium-expo
-map: { x: 2.9034, y: 1.6791 }
+place_id: millennium_exhibition_hall
+entry_minutes: 2
+map:
+  x: 2.9034
+  y: 1.6791
 ---
 
 # Millennium Exhibition Hall

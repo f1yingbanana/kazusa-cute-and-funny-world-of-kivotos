@@ -1,18 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kurumi
-place_id: room_kurumi
-name: "Kurumi Takakura's Room"
-parent: schale_night_duty_corridor
-entry_minutes: 1
-summary:
-  "A small spotless bedroom: a bunk with hospital corners, a mini-fridge of
-  fruit milk, a cleaning caddy; locked with a keycard and a habit of checking
-  twice."
+name: Kurumi Takakura's Room
+summary: "A small spotless bedroom: a bunk with hospital corners, a mini-fridge of fruit milk, a cleaning caddy; locked with a keycard and a habit of checking twice."
 renown: private
+parent: schale_night_duty_corridor
 backdrop: student-room
-map: { x: 1.4387, y: 1.7028 }
+place_id: room_kurumi
+entry_minutes: 1
+map:
+  x: 1.4387
+  y: 1.7028
 ---
 
 # Kurumi Takakura's Room

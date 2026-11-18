@@ -1,24 +1,24 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_plaza
-place_id: hyakkiyako_plaza
-name: "Hyakkiyako Central Plaza"
-aliases: ["Central Plaza Outdoor Stage"]
-parent: hyakkiyako_district
-entry_minutes: 6
-summary:
-  "Open festival plaza with an outdoor stage; announcements, hero shows on
-  weekends, stalls on festival nights; crowded 10:00–21:00."
+name: Hyakkiyako Central Plaza
+aliases:
+  - Central Plaza Outdoor Stage
+summary: Open festival plaza with an outdoor stage; announcements, hero shows on weekends, stalls on festival nights; crowded 10:00–21:00.
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
+parent: hyakkiyako_district
+backdrop: hyakkiyako-lantern-square
+place_id: hyakkiyako_plaza
+entry_minutes: 6
 connections:
   - to: hyakkiyako_shopping_district
     ways:
-      - { by: walk, minutes: 4 }
-    note: "Under the lantern arch into the shops."
-backdrop: hyakkiyako-lantern-square
-map: { x: 0.8226, y: 0.9025 }
+      - by: walk
+        minutes: 4
+    note: Under the lantern arch into the shops.
+map:
+  x: 0.8226
+  y: 0.9025
 ---
 
 # Hyakkiyako Central Plaza

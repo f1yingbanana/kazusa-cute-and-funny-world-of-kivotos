@@ -1,24 +1,23 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_school
-place_id: abydos_school
-name: "Abydos High School Campus"
-aliases: ["Abydos campus"]
-parent: abydos_town
-entry_minutes: 8
-summary:
-  "The surviving campus: one building kept in use, a closed annex, a field
-  filling with sand, a dry pool. Gate open 07:00–19:00; only a handful of
-  students, raided by gangs some nights."
+name: Abydos High School Campus
+aliases:
+  - Abydos campus
+summary: "The surviving campus: one building kept in use, a closed annex, a field filling with sand, a dry pool. Gate open 07:00–19:00; only a handful of students, raided by gangs some nights."
+groups:
+  - abydos_high_school
 renown: known
-community: abydos_high_school
+parent: abydos_town
+place_id: abydos_school
+entry_minutes: 8
 connections:
   - to: abydos_suburban_town
     ways:
-      - { by: walk, minutes: 8 }
-    note: "Down the long avenue past the shuttered shops."
-map: { x: 2.6928, y: 2.655 }
+      - by: walk
+        minutes: 8
+    note: Down the long avenue past the shuttered shops.
+map:
+  x: 2.6928
+  y: 2.655
 ---
 
 # Abydos High School Campus

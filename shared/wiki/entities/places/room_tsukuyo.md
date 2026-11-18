@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_tsukuyo
-place_id: room_tsukuyo
-name: "Tsukuyo's Room"
-parent: kawabata_upstairs
-entry_minutes: 1
-summary:
-  "High-ceilinged room under the eaves: a tree-costume rack, ninja manuals,
-  thick curtains to hide behind; locked."
+name: Tsukuyo's Room
+summary: "High-ceilinged room under the eaves: a tree-costume rack, ninja manuals, thick curtains to hide behind; locked."
 renown: private
+parent: kawabata_upstairs
 backdrop: tatami-room
-map: { x: 0.7827, y: 0.7848 }
+place_id: room_tsukuyo
+entry_minutes: 1
+map:
+  x: 0.7827
+  y: 0.7848
 ---
 
 # Tsukuyo's Room

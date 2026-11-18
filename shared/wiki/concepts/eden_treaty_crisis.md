@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.eden_treaty_crisis
-title: Eden Treaty Crisis
+name: Eden Treaty Crisis
 renown: known
 ---
 

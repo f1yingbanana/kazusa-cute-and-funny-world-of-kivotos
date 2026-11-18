@@ -1,10 +1,9 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.cleaning_and_clearing
-title: Cleaning & Clearing
-aliases: [C&C]
-community: millennium_science_school
+name: Cleaning & Clearing
+aliases:
+  - C&C
+groups:
+  - millennium_science_school
 ---
 
 # Cleaning & Clearing

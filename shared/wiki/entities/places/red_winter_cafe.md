@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_cafe
-place_id: red_winter_cafe
-name: "Café Matryoshka"
-parent: red_winter_3rd_street
-entry_minutes: 1
-summary:
-  "Warm café with nesting-doll shelves and a big front window over 3rd Street:
-  tea, blini, cocoa; 08:00–21:00, busy after classes and on weekends."
+name: Café Matryoshka
+summary: "Warm café with nesting-doll shelves and a big front window over 3rd Street: tea, blini, cocoa; 08:00–21:00, busy after classes and on weekends."
 renown: local
-map: { x: 1.4286, y: 0.4186 }
+parent: red_winter_3rd_street
+place_id: red_winter_cafe
+entry_minutes: 1
+map:
+  x: 1.4286
+  y: 0.4186
 ---
 
 # Café Matryoshka

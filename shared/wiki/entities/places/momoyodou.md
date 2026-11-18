@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.momoyodou
-place_id: momoyodou
-name: "Momoyodou"
-aliases: ["Momoyodou Tea House"]
-parent: hyakkiyako_shopping_district
-entry_minutes: 1
-summary:
-  "Classic tea house run by the Festival Operations Department: matcha, dango,
-  seasonal sweets; open 10:00–19:00, closed Wednesdays, queues at weekends."
+name: Momoyodou
+aliases:
+  - Momoyodou Tea House
+summary: "Classic tea house run by the Festival Operations Department: matcha, dango, seasonal sweets; open 10:00–19:00, closed Wednesdays, queues at weekends."
+groups:
+  - festival_operations_department
 renown: famous
-community: festival_operations_department
-map: { x: 0.8718, y: 0.9021 }
+parent: hyakkiyako_shopping_district
+place_id: momoyodou
+entry_minutes: 1
+map:
+  x: 0.8718
+  y: 0.9021
 ---
 
 # Momoyodou

@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kei
-place_id: room_kei
-name: "Kei's Room"
-parent: millennium_dorm_2w
-entry_minutes: 1
-summary:
-  "Orderly room: a hair-ribbon collection, fashion magazines, a framed photo of
-  her and her sister; locked."
+name: Kei's Room
+summary: "Orderly room: a hair-ribbon collection, fashion magazines, a framed photo of her and her sister; locked."
 renown: private
+parent: millennium_dorm_2w
 backdrop: student-room
-map: { x: 2.8282, y: 1.7522 }
+place_id: room_kei
+entry_minutes: 1
+map:
+  x: 2.8282
+  y: 1.7522
 ---
 
 # Kei's Room

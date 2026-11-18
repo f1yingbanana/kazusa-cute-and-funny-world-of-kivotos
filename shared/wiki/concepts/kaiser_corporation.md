@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.kaiser_corporation
-title: "Kaiser Corporation"
-community: abydos_high_school
+name: Kaiser Corporation
+groups:
+  - abydos_high_school
 ---
 
 # Kaiser Corporation

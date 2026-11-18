@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_school_store
-place_id: abydos_school_store
-name: "Abydos School Store"
-aliases: ["Abydos Store"]
-parent: abydos_main_building
-entry_minutes: 1
-summary:
-  "Tiny ground-floor store selling bread, sweets and drinks; staffed 08:00–09:00
-  and 12:00–13:00 on weekdays, an honesty box the rest of the day."
+name: Abydos School Store
+aliases:
+  - Abydos Store
+summary: Tiny ground-floor store selling bread, sweets and drinks; staffed 08:00–09:00 and 12:00–13:00 on weekdays, an honesty box the rest of the day.
+groups:
+  - abydos_high_school
 renown: local
-community: abydos_high_school
-map: { x: 2.7077, y: 2.6704 }
+parent: abydos_main_building
+place_id: abydos_school_store
+entry_minutes: 1
+map:
+  x: 2.7077
+  y: 2.6704
 ---
 
 # Abydos School Store

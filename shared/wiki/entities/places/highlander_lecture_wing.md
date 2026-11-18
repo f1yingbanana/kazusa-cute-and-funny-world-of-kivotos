@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.highlander_lecture_wing
-place_id: highlander_lecture_wing
-name: "Highlander Lecture Wing"
-aliases: ["Highlander Classrooms"]
-parent: highlander_school
-entry_minutes: 2
-summary:
-  "Classrooms for signalling, timetabling and rail law, one per year; lessons
-  09:00–14:00 fitted around shifts, crews nodding off after night runs."
+name: Highlander Lecture Wing
+aliases:
+  - Highlander Classrooms
+summary: Classrooms for signalling, timetabling and rail law, one per year; lessons 09:00–14:00 fitted around shifts, crews nodding off after night runs.
+groups:
+  - highlander_railroad_academy
 renown: local
-community: highlander_railroad_academy
-map: { x: 1.6777, y: 1.4168 }
+parent: highlander_school
+place_id: highlander_lecture_wing
+entry_minutes: 2
+map:
+  x: 1.6777
+  y: 1.4168
 ---
 
 # Highlander Lecture Wing

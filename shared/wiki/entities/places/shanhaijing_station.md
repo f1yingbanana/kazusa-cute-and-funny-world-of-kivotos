@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_station
+name: Shanhaijing Station
+summary: Northwestern Line terminus outside Shanhaijing's entrance compounds; trains to Hyakkiyako and D.U. every 15 minutes, 05:30–23:30.
+backdrop: train-station
 place_id: shanhaijing_station
-name: "Shanhaijing Station"
-summary:
-  "Northwestern Line terminus outside Shanhaijing's entrance compounds; trains
-  to Hyakkiyako and D.U. every 15 minutes, 05:30–23:30."
-map: { x: 0.58, y: 1.14 }
 connections:
   - to: shanhaijing_district
     ways:
-      - { by: walk, minutes: 5 }
-    note: "To the entrance compounds."
-backdrop: train-station
+      - by: walk
+        minutes: 5
+    note: To the entrance compounds.
+map:
+  x: 0.58
+  y: 1.14
 ---
 
 # Shanhaijing Station

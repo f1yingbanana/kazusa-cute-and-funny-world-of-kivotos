@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_library
-place_id: red_winter_library
-name: "Red Winter Federal Library"
-aliases: ["Liberation Front Library"]
-parent: red_winter_school
-entry_minutes: 4
-summary:
-  "Cavernous academy library kept by the Knowledge Liberation Front: few
-  readers, one working heater; open 09:00–20:00, closed Mondays, quiet as snow."
+name: Red Winter Federal Library
+aliases:
+  - Liberation Front Library
+summary: "Cavernous academy library kept by the Knowledge Liberation Front: few readers, one working heater; open 09:00–20:00, closed Mondays, quiet as snow."
+groups:
+  - knowledge_liberation_front
 renown: known
-community: knowledge_liberation_front
-map: { x: 1.5544, y: 0.3365 }
+parent: red_winter_school
+place_id: red_winter_library
+entry_minutes: 4
+map:
+  x: 1.5544
+  y: 0.3365
 ---
 
 # Red Winter Federal Library

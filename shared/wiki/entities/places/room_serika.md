@@ -1,18 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_serika
-place_id: room_serika
-name: "Serika's Room"
-parent: abydos_oasis_view
-entry_minutes: 1
-summary:
-  "Small second-floor flat: a shift calendar full edge to edge, work uniforms on
-  hooks, a coin jar labelled for the debt, and a proper bathtub. Locked; she
-  checks twice."
+name: Serika's Room
+summary: "Small second-floor flat: a shift calendar full edge to edge, work uniforms on hooks, a coin jar labelled for the debt, and a proper bathtub. Locked; she checks twice."
 renown: private
+parent: abydos_oasis_view
 backdrop: student-room
-map: { x: 2.6575, y: 2.7115 }
+place_id: room_serika
+entry_minutes: 1
+map:
+  x: 2.6575
+  y: 2.7115
 ---
 
 # Serika's Room

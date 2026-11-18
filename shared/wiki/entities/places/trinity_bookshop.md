@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_bookshop
-place_id: trinity_bookshop
-name: "Vellum Books"
-parent: trinity_galleria
-entry_minutes: 1
-summary:
-  "Bookshop on the Galleria's first floor: new books, a big magazine rack, a
-  romance aisle and a second-hand basement; open 10:00–21:00."
+name: Vellum Books
+summary: "Bookshop on the Galleria's first floor: new books, a big magazine rack, a romance aisle and a second-hand basement; open 10:00–21:00."
 renown: local
-map: { x: 0.9034, y: 2.3772 }
+parent: trinity_galleria
+place_id: trinity_bookshop
+entry_minutes: 1
+map:
+  x: 0.9034
+  y: 2.3772
 ---
 
 # Vellum Books

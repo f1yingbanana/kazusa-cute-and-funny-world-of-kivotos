@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkaryouran_storehouse
-place_id: hyakkaryouran_storehouse
-name: "Hyakkaryouran Storehouse"
-parent: hyakkaryouran_clubhouse
-entry_minutes: 1
-summary:
-  "The council's locked earthen storehouse: ammunition, festival-security gear
-  and old records; key kept by the staff officer."
+name: Hyakkaryouran Storehouse
+summary: "The council's locked earthen storehouse: ammunition, festival-security gear and old records; key kept by the staff officer."
+groups:
+  - hyakkaryouran_resolution_council
 renown: local
-community: hyakkaryouran_resolution_council
-map: { x: 0.6835, y: 0.937 }
+parent: hyakkaryouran_clubhouse
+place_id: hyakkaryouran_storehouse
+entry_minutes: 1
+map:
+  x: 0.6835
+  y: 0.937
 ---
 
 # Hyakkaryouran Storehouse

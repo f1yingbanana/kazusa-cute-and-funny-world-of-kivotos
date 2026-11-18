@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.amas
-title: "AMAS"
-community: millennium_science_school
+name: AMAS
+groups:
+  - millennium_science_school
 ---
 
 # AMAS

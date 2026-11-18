@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_cafe
-place_id: schale_cafe
-name: "SCHALE Café"
-aliases: ["Sensei's café"]
-parent: schale_office
-entry_minutes: 1
-summary:
-  "Sensei's café lounge beside the office: two furnished rooms students drop
-  into, busiest mid-morning and after 16:00; open while Sensei is in."
+name: SCHALE Café
+aliases:
+  - Sensei's café
+summary: "Sensei's café lounge beside the office: two furnished rooms students drop into, busiest mid-morning and after 16:00; open while Sensei is in."
 renown: known
-map: { x: 1.4066, y: 1.6303 }
+parent: schale_office
+place_id: schale_cafe
+entry_minutes: 1
+map:
+  x: 1.4066
+  y: 1.6303
 ---
 
 # SCHALE Café

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.pandemonium_spa_resort
-place_id: pandemonium_spa_resort
-name: "Pandemonium Spa Resort"
-parent: gehenna_hot_spring_village
-entry_minutes: 2
-summary:
-  "A luxury ryokan with open-air baths and a massage-chair lounge, run by the
-  council; check-in 15:00, baths 06:00–24:00, expensive."
+name: Pandemonium Spa Resort
+summary: A luxury ryokan with open-air baths and a massage-chair lounge, run by the council; check-in 15:00, baths 06:00–24:00, expensive.
+groups:
+  - pandemonium_society
 renown: local
-community: pandemonium_society
+parent: gehenna_hot_spring_village
 backdrop: onsen
-map: { x: 1.63, y: 2.7616 }
+place_id: pandemonium_spa_resort
+entry_minutes: 2
+map:
+  x: 1.63
+  y: 2.7616
 ---
 
 # Pandemonium Spa Resort

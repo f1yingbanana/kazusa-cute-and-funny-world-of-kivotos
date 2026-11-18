@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_arcade
-place_id: schale_arcade
-name: "SCHALE Arcade"
+name: SCHALE Arcade
+summary: A small room of retro arcade cabinets in the residence wing; free play, open until 23:00.
 parent: schale_residence
-entry_minutes: 1
-summary:
-  "A small room of retro arcade cabinets in the residence wing; free play, open
-  until 23:00."
 backdrop: arcade
-map: { x: 1.4403, y: 1.6828 }
+place_id: schale_arcade
+entry_minutes: 1
+map:
+  x: 1.4403
+  y: 1.6828
 ---
 
 # SCHALE Arcade

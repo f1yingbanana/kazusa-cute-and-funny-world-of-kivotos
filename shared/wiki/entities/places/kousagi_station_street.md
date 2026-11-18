@@ -1,21 +1,19 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kousagi_station_street
-place_id: kousagi_station_street
-name: "Kousagi Station Street"
-parent: kousagi_ward
-entry_minutes: 3
-summary:
-  "The shopping street outside Kousagi Station: a convenience store, game
-  center, karaoke, a sweets shop and a small mall; busy until late."
+name: Kousagi Station Street
+summary: "The shopping street outside Kousagi Station: a convenience store, game center, karaoke, a sweets shop and a small mall; busy until late."
 renown: known
+parent: kousagi_ward
+place_id: kousagi_station_street
+entry_minutes: 3
 connections:
   - to: schale_office
     ways:
-      - { by: walk, minutes: 5 }
-    note: "Up the hill road to SCHALE."
-map: { x: 1.5395, y: 1.6829 }
+      - by: walk
+        minutes: 5
+    note: Up the hill road to SCHALE.
+map:
+  x: 1.5395
+  y: 1.6829
 ---
 
 # Kousagi Station Street

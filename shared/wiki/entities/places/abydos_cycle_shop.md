@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_cycle_shop
-place_id: abydos_cycle_shop
-name: "Sandwind Cycles"
-parent: abydos_border_town
-entry_minutes: 2
-summary:
-  "Cycle shop for desert riders: sand-proof chains, tyres, repairs while you
-  wait; 09:00–19:00, closed Mondays."
+name: Sandwind Cycles
+summary: "Cycle shop for desert riders: sand-proof chains, tyres, repairs while you wait; 09:00–19:00, closed Mondays."
 renown: local
-map: { x: 2.5936, y: 2.6818 }
+parent: abydos_border_town
+place_id: abydos_cycle_shop
+entry_minutes: 2
+map:
+  x: 2.5936
+  y: 2.6818
 ---
 
 # Sandwind Cycles

@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.chinese_alchemy_study_club
-title: Chinese Alchemy Study Club
-community: shanhaijing_senior_secondary_school
+name: Chinese Alchemy Study Club
+groups:
+  - shanhaijing_senior_secondary_school
 ---
 
 # Chinese Alchemy Study Club

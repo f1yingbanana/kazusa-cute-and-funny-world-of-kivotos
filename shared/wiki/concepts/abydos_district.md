@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.abydos_district
-title: "Abydos District"
-community: abydos_high_school
+name: Abydos District
+groups:
+  - abydos_high_school
 ---
 
 # Abydos District

@@ -1,23 +1,20 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.black_market_district
-place_id: black_market_district
-name: "Black Market District"
-aliases: ["the black market"]
-summary:
-  "An unauthorized district between Gehenna and Abydos: stalls, back alleys and
-  a bank that asks no questions; no school's police."
+name: Black Market District
+aliases:
+  - the black market
+summary: "An unauthorized district between Gehenna and Abydos: stalls, back alleys and a bank that asks no questions; no school's police."
 renown: known
-map: { x: 2.12, y: 2.92 }
+backdrop: black-market
+place_id: black_market_district
 connections:
   - to: abydos_station
     ways:
-      - { by: bus, minutes: 60 }
-    note:
-      "The desert bus from the station forecourt, four a day; riders plan around
-      it."
-backdrop: black-market
+      - by: bus
+        minutes: 60
+    note: The desert bus from the station forecourt, four a day; riders plan around it.
+map:
+  x: 2.12
+  y: 2.92
 ---
 
 # Black Market District

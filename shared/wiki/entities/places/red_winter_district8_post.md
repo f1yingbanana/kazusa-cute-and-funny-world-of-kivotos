@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_district8_post
-place_id: red_winter_district8_post
-name: "District 8 Security Post"
-parent: red_winter_snow_mountains
-entry_minutes: 20
-summary:
-  "Lonely Security Committee checkpoint on the outskirts road: a barrier, a hut,
-  a field telephone; manned by day, often by someone who got lost on the way."
+name: District 8 Security Post
+summary: "Lonely Security Committee checkpoint on the outskirts road: a barrier, a hut, a field telephone; manned by day, often by someone who got lost on the way."
+groups:
+  - red_winter_office
 renown: local
-community: red_winter_office
-map: { x: 1.3439, y: 0.3852 }
+parent: red_winter_snow_mountains
+place_id: red_winter_district8_post
+entry_minutes: 20
+map:
+  x: 1.3439
+  y: 0.3852
 ---
 
 # District 8 Security Post

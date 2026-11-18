@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.education_in_kivotos
-title: Education in Kivotos
+name: Education in Kivotos
 renown: famous
 ---
 

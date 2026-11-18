@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.yin_yang_auditorium
-place_id: yin_yang_auditorium
-name: "Yin-Yang Club Auditorium"
-parent: yin_yang_building
-entry_minutes: 2
-summary:
-  "Hall for assemblies, festival briefings and club arbitration; locked unless
-  booked, packed on festival planning days."
+name: Yin-Yang Club Auditorium
+summary: Hall for assemblies, festival briefings and club arbitration; locked unless booked, packed on festival planning days.
+groups:
+  - yin_yang_club
 renown: known
-community: yin_yang_club
-map: { x: 0.7606, y: 0.9847 }
+parent: yin_yang_building
+place_id: yin_yang_auditorium
+entry_minutes: 2
+map:
+  x: 0.7606
+  y: 0.9847
 ---
 
 # Yin-Yang Club Auditorium

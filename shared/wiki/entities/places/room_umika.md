@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_umika
-place_id: room_umika
-name: "Umika's Room"
-parent: kawabata_upstairs
-entry_minutes: 1
-summary:
-  "Room papered with festival pamphlets sorted by region, a festival calendar
-  map; locked when she's out, which is often."
+name: Umika's Room
+summary: Room papered with festival pamphlets sorted by region, a festival calendar map; locked when she's out, which is often.
 renown: private
+parent: kawabata_upstairs
 backdrop: tatami-room
-map: { x: 0.7884, y: 0.7927 }
+place_id: room_umika
+entry_minutes: 1
+map:
+  x: 0.7884
+  y: 0.7927
 ---
 
 # Umika's Room

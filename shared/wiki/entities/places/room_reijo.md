@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_reijo
-place_id: room_reijo
-name: "Reijo's Room"
-parent: shanhaijing_lotus_court
-entry_minutes: 1
-summary:
-  "Room off the courtyard: a wooden training dummy, kung fu film posters, a
-  staff rack, a notebook of rival menus; locked."
+name: Reijo's Room
+summary: "Room off the courtyard: a wooden training dummy, kung fu film posters, a staff rack, a notebook of rival menus; locked."
 renown: private
+parent: shanhaijing_lotus_court
 backdrop: student-room
-map: { x: 0.2962, y: 1.178 }
+place_id: room_reijo
+entry_minutes: 1
+map:
+  x: 0.2962
+  y: 1.178
 ---
 
 # Reijo's Room

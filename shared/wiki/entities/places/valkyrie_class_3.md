@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_class_3
-place_id: valkyrie_class_3
-name: "Valkyrie Class 3-A"
-parent: valkyrie_lecture_building
-entry_minutes: 1
-summary:
-  "The third-years' homeroom: exam timetables and bureau rosters on the board;
-  homeroom 08:40, often more duty sheets than students."
+name: Valkyrie Class 3-A
+summary: "The third-years' homeroom: exam timetables and bureau rosters on the board; homeroom 08:40, often more duty sheets than students."
 renown: local
-map: { x: 1.8446, y: 1.4382 }
+parent: valkyrie_lecture_building
+place_id: valkyrie_class_3
+entry_minutes: 1
+map:
+  x: 1.8446
+  y: 1.4382
 ---
 
 # Valkyrie Class 3-A

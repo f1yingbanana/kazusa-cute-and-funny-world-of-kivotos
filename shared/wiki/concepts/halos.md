@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.halos
-title: Student Halos
+name: Student Halos
 renown: famous
 ---
 

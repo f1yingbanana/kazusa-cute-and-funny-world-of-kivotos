@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.du_momo_friends_shop
-place_id: du_momo_friends_shop
-name: "Momo Friends Flagship Shop"
-parent: du_department_store
-entry_minutes: 2
-summary:
-  "The biggest Momo Friends shop in Kivotos: plush walls, a ball pool, limited
-  releases on Saturday mornings (queue from 07:00)."
+name: Momo Friends Flagship Shop
+summary: "The biggest Momo Friends shop in Kivotos: plush walls, a ball pool, limited releases on Saturday mornings (queue from 07:00)."
 renown: known
-map: { x: 1.7009, y: 1.4678 }
+parent: du_department_store
+place_id: du_momo_friends_shop
+entry_minutes: 2
+map:
+  x: 1.7009
+  y: 1.4678
 ---
 
 # Momo Friends Flagship Shop

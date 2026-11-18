@@ -1,25 +1,24 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_gate
-place_id: wildhunt_gate
-name: "Wild Hunt Fortress Gate"
-aliases: ["Drawbridge Gatehouse"]
-parent: wildhunt_school
-entry_minutes: 2
-summary:
-  "The only gate through the walls: bag searches, confiscated pigments and mugs,
-  outing passes stamped. Open 06:00–22:00; queues at 08:00 and just before
-  curfew."
+name: Wild Hunt Fortress Gate
+aliases:
+  - Drawbridge Gatehouse
+summary: "The only gate through the walls: bag searches, confiscated pigments and mugs, outing passes stamped. Open 06:00–22:00; queues at 08:00 and just before curfew."
+groups:
+  - wild_hunt_academy
 renown: known
-community: wild_hunt_academy
+parent: wildhunt_school
+backdrop: wildhunt-front-gate
+place_id: wildhunt_gate
+entry_minutes: 2
 connections:
   - to: wildhunt_canal_town
     ways:
-      - { by: walk, minutes: 4 }
-    note: "Over the drawbridge and along the moat to town."
-backdrop: wildhunt-front-gate
-map: { x: 0.658, y: 1.686 }
+      - by: walk
+        minutes: 4
+    note: Over the drawbridge and along the moat to town.
+map:
+  x: 0.658
+  y: 1.686
 ---
 
 # Wild Hunt Fortress Gate

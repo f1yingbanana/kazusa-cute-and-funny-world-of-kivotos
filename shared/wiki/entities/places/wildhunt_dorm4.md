@@ -1,18 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_dorm4
-place_id: wildhunt_dorm4
-name: "Dormitory No. 4"
-aliases: ["Wild Hunt Dormitory 4", "Wild Hunt Dorm 4"]
-parent: wildhunt_dorm_quarter
-entry_minutes: 2
-summary:
-  "Five-storey dormitory of shared rooms; front door 06:00–22:00, curfew 22:00,
-  room check 22:30. Rumoured to be haunted on the fourth floor."
+name: Dormitory No. 4
+aliases:
+  - Wild Hunt Dormitory 4
+  - Wild Hunt Dorm 4
+summary: Five-storey dormitory of shared rooms; front door 06:00–22:00, curfew 22:00, room check 22:30. Rumoured to be haunted on the fourth floor.
+groups:
+  - wild_hunt_academy
 renown: local
-community: wild_hunt_academy
-map: { x: 0.7074, y: 1.7285 }
+parent: wildhunt_dorm_quarter
+place_id: wildhunt_dorm4
+entry_minutes: 2
+map:
+  x: 0.7074
+  y: 1.7285
 ---
 
 # Dormitory No. 4

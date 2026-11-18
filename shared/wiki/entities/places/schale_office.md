@@ -1,18 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_office
-place_id: schale_office
-name: "SCHALE Office"
-aliases: ["SCHALE", "SCHALE headquarters", "Sensei's office"]
-parent: kousagi_ward
-entry_minutes: 4
-summary:
-  "Sensei's top-floor office in the SCHALE building; student duty 17:00–20:00
-  weekdays, 10:00–15:00 Saturdays; locked at night unless Sensei works late."
+name: SCHALE Office
+aliases:
+  - SCHALE
+  - SCHALE headquarters
+  - Sensei's office
+summary: Sensei's top-floor office in the SCHALE building; student duty 17:00–20:00 weekdays, 10:00–15:00 Saturdays; locked at night unless Sensei works late.
 renown: known
+parent: kousagi_ward
 backdrop: main-office
-map: { x: 1.3983, y: 1.6353 }
+place_id: schale_office
+entry_minutes: 4
+map:
+  x: 1.3983
+  y: 1.6353
 ---
 
 # SCHALE Office

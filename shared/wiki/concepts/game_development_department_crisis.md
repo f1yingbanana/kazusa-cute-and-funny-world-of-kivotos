@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.game_development_department_crisis
-title: "The Game Development Department Crisis"
-community: millennium_science_school
+name: The Game Development Department Crisis
+groups:
+  - millennium_science_school
 ---
 
 # The Game Development Department Crisis

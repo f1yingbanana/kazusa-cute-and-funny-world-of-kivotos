@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.maestro_mimesis
-title: "Maestro and Mimesis"
+name: Maestro and Mimesis
 renown: known
 ---
 

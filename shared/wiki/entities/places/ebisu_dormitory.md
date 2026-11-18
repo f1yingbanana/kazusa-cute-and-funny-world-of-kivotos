@@ -1,22 +1,21 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.ebisu_dormitory
-place_id: ebisu_dormitory
-name: "Ebisu Dormitory"
-parent: ebisu_district
-entry_minutes: 6
-summary:
-  "Large old dorm for satellite students and visitors, with a banquet hall; door
-  locked 21:00, stoves lit all night, guests by arrangement."
+name: Ebisu Dormitory
+summary: Large old dorm for satellite students and visitors, with a banquet hall; door locked 21:00, stoves lit all night, guests by arrangement.
+groups:
+  - ebisu_satellite_school
 renown: local
-community: ebisu_satellite_school
+parent: ebisu_district
+place_id: ebisu_dormitory
+entry_minutes: 6
 connections:
   - to: ebisu_school
     ways:
-      - { by: walk, minutes: 4 }
-    note: "Across the snow to the schoolhouse."
-map: { x: 0.8607, y: 0.41 }
+      - by: walk
+        minutes: 4
+    note: Across the snow to the schoolhouse.
+map:
+  x: 0.8607
+  y: 0.41
 ---
 
 # Ebisu Dormitory

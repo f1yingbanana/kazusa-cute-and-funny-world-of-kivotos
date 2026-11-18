@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.helmet_gang
-title: "Helmet Gang"
+name: Helmet Gang
 renown: known
 ---
 

@@ -1,11 +1,8 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.wild_hunt_academy
-title: "Wild Hunt Academy of Arts"
-community: kivotos_overview
+name: Wild Hunt Academy of Arts
+groups:
+  - kivotos_overview
 renown: known
-aliases: ["Wild Hunt Academy of Arts"]
 ---
 
 # Wild Hunt Academy of Arts

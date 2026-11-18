@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_mimori
-place_id: room_mimori
-name: "Mimori's Room"
-parent: tsukimi_upstairs
-entry_minutes: 1
-summary:
-  "Spotless tatami room: embroidery hoop, a prized apron on its hook, a shelf of
-  shojo manga behind a curtain; locked, always neat."
+name: Mimori's Room
+summary: "Spotless tatami room: embroidery hoop, a prized apron on its hook, a shelf of shojo manga behind a curtain; locked, always neat."
 renown: private
+parent: tsukimi_upstairs
 backdrop: tatami-room
-map: { x: 0.786, y: 0.6945 }
+place_id: room_mimori
+entry_minutes: 1
+map:
+  x: 0.786
+  y: 0.6945
 ---
 
 # Mimori's Room

@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.plum_garden_playground
-place_id: plum_garden_playground
-name: "Plum Blossom Playground"
-parent: shanhaijing_plum_garden
-entry_minutes: 2
-summary:
-  "Playground park behind the Garden: slides, a sandpit, an old climbing frame;
-  children 10:00–17:00, empty and quiet after dark."
+name: Plum Blossom Playground
+summary: "Playground park behind the Garden: slides, a sandpit, an old climbing frame; children 10:00–17:00, empty and quiet after dark."
+groups:
+  - plum_blossom_garden
 renown: local
-community: plum_blossom_garden
-map: { x: 0.1755, y: 1.292 }
+parent: shanhaijing_plum_garden
+place_id: plum_garden_playground
+entry_minutes: 2
+map:
+  x: 0.1755
+  y: 1.292
 ---
 
 # Plum Blossom Playground

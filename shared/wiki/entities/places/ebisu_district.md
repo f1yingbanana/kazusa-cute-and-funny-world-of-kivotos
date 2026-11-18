@@ -1,16 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.ebisu_district
-place_id: ebisu_district
-name: "Hyakkiyako North District"
-aliases: ["Ebisu North District"]
-summary:
-  "Hyakkiyako's snowy northern farmland around the Ebisu Satellite School; cold,
-  quiet, hourly tunnel trains from town; the Great Snowfield beyond."
-community: hyakkiyako_alliance_academy
-map: { x: 0.88, y: 0.4 }
+name: Hyakkiyako North District
+aliases:
+  - Ebisu North District
+summary: Hyakkiyako's snowy northern farmland around the Ebisu Satellite School; cold, quiet, hourly tunnel trains from town; the Great Snowfield beyond.
+groups:
+  - hyakkiyako_alliance_academy
 backdrop: hyakkiyako-north-town-street
+place_id: ebisu_district
+map:
+  x: 0.88
+  y: 0.4
 ---
 
 # Hyakkiyako North District

@@ -1,15 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_cafeteria
-place_id: schale_cafeteria
-name: "SCHALE Cafeteria"
+name: SCHALE Cafeteria
+summary: Dining hall with practice kitchens anyone may cook in; open 07:00–21:00.
 parent: schale_residence
-entry_minutes: 1
-summary:
-  "Dining hall with practice kitchens anyone may cook in; open 07:00–21:00."
 backdrop: schale-cafeteria
-map: { x: 1.4358, y: 1.6639 }
+place_id: schale_cafeteria
+entry_minutes: 1
+map:
+  x: 1.4358
+  y: 1.6639
 ---
 
 # SCHALE Cafeteria

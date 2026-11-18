@@ -1,19 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shiba_seki
-place_id: shiba_seki
-name: "Shiba Seki Ramen"
-parent: abydos_suburban_town
-entry_minutes: 2
-summary:
-  "Master Shiba's ramen stall: a counter, six stools and an awning. 11:00–21:00,
-  closed Tuesdays; extra-large bowls for students, a part-timer on most
-  evenings."
+name: Shiba Seki Ramen
+summary: "Master Shiba's ramen stall: a counter, six stools and an awning. 11:00–21:00, closed Tuesdays; extra-large bowls for students, a part-timer on most evenings."
+groups:
+  - abydos_high_school
 renown: known
-community: abydos_high_school
+parent: abydos_suburban_town
 backdrop: ramen-ya
-map: { x: 2.6412, y: 2.6719 }
+place_id: shiba_seki
+entry_minutes: 2
+map:
+  x: 2.6412
+  y: 2.6719
 ---
 
 # Shiba Seki Ramen

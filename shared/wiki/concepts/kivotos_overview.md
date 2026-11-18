@@ -1,8 +1,5 @@
 ---
-wiki_id: kivotos_overview
-title: Kivotos Overview & General Mechanics
-category: world_lore
-tags: [setting, kivotos, halos, firearms, schale, general_student_council]
+name: Kivotos Overview & General Mechanics
 renown: famous
 ---
 
@@ -46,3 +43,8 @@ high-rises of Millennium and the sprawling desert ruins of Abydos.
   established by the vanished General Student Council President. Led by the
   adult "Sensei", SCHALE possesses authority across all academy boundaries to
   resolve crises, provide mentorship, and support students across Kivotos.
+
+## Details
+
+- Category: world_lore
+- Tags: setting, kivotos, halos, firearms, schale, general_student_council

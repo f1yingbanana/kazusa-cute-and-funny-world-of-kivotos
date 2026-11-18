@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.pandemonium_tank_hangar
-place_id: pandemonium_tank_hangar
-name: "Pandemonium Tank Hangar"
-parent: pandemonium_headquarters
-entry_minutes: 2
-summary:
-  "A cavernous garage of tanks and a staff car; mechanics by day, empty and
-  echoing at night; the side door is never really locked."
+name: Pandemonium Tank Hangar
+summary: A cavernous garage of tanks and a staff car; mechanics by day, empty and echoing at night; the side door is never really locked.
+groups:
+  - pandemonium_society
 renown: local
-community: pandemonium_society
-map: { x: 1.4655, y: 2.9118 }
+parent: pandemonium_headquarters
+place_id: pandemonium_tank_hangar
+entry_minutes: 2
+map:
+  x: 1.4655
+  y: 2.9118
 ---
 
 # Pandemonium Tank Hangar

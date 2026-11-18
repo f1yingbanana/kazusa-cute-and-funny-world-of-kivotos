@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_cc_prep_room
-place_id: millennium_cc_prep_room
-name: "Cleaning & Clearing Prep Room"
-aliases: ["C&C Prep Room"]
-parent: millennium_clubhouse
-entry_minutes: 1
-summary:
-  "Ground-floor room behind a door marked for cleaning supplies: maid uniforms,
-  mops and explosives on separate shelves, a tea table; C&C agents only."
+name: Cleaning & Clearing Prep Room
+aliases:
+  - C&C Prep Room
+summary: "Ground-floor room behind a door marked for cleaning supplies: maid uniforms, mops and explosives on separate shelves, a tea table; C&C agents only."
+groups:
+  - cleaning_and_clearing
 renown: local
-community: cleaning_and_clearing
-map: { x: 2.6664, y: 1.5922 }
+parent: millennium_clubhouse
+place_id: millennium_cc_prep_room
+entry_minutes: 1
+map:
+  x: 2.6664
+  y: 1.5922
 ---
 
 # Cleaning & Clearing Prep Room

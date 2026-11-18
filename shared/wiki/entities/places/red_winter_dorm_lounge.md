@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_dorm_lounge
-place_id: red_winter_dorm_lounge
-name: "First Shared Dormitory Fireplace Lounge"
+name: First Shared Dormitory Fireplace Lounge
+summary: Ground-floor lounge with the dorm's one real fire, a samovar and worn armchairs; open until 23:00, crowded every evening, roll call here at 22:30.
+groups:
+  - red_winter_federal_academy
 parent: red_winter_first_dormitory
-entry_minutes: 1
-summary:
-  "Ground-floor lounge with the dorm's one real fire, a samovar and worn
-  armchairs; open until 23:00, crowded every evening, roll call here at 22:30."
-community: red_winter_federal_academy
 backdrop: fireplace-dormitory
-map: { x: 1.3948, y: 0.3274 }
+place_id: red_winter_dorm_lounge
+entry_minutes: 1
+map:
+  x: 1.3948
+  y: 0.3274
 ---
 
 # First Shared Dormitory Fireplace Lounge

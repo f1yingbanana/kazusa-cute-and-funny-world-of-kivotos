@@ -1,19 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_old_classroom_7
-place_id: gehenna_old_classroom_7
-name: "Gehenna Old Classroom 7"
-parent: gehenna_abandoned_building
-entry_minutes: 1
-summary:
-  "An empty old classroom turned hangout: desks pushed together, fairy lights,
-  sticker-covered blackboard; used after school and for cramming before make-up
-  tests."
+name: Gehenna Old Classroom 7
+summary: "An empty old classroom turned hangout: desks pushed together, fairy lights, sticker-covered blackboard; used after school and for cramming before make-up tests."
+groups:
+  - sparkle_club
 renown: local
-community: sparkle_club
+parent: gehenna_abandoned_building
 backdrop: ruined-classroom
-map: { x: 1.5313, y: 2.8167 }
+place_id: gehenna_old_classroom_7
+entry_minutes: 1
+map:
+  x: 1.5313
+  y: 2.8167
 ---
 
 # Gehenna Old Classroom 7

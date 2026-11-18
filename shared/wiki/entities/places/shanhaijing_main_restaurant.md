@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_main_restaurant
-place_id: shanhaijing_main_restaurant
-name: "Black Tortoise Main Restaurant"
-aliases: ["Genbu Main Restaurant"]
-parent: shanhaijing_promenade
-entry_minutes: 1
-summary:
-  "The merchant association's flagship restaurant and headquarters: banquet
-  floor, dumplings, a test kitchen; 11:00–22:00, queues at 12:00 and 18:00."
+name: Black Tortoise Main Restaurant
+aliases:
+  - Genbu Main Restaurant
+summary: "The merchant association's flagship restaurant and headquarters: banquet floor, dumplings, a test kitchen; 11:00–22:00, queues at 12:00 and 18:00."
+groups:
+  - xuanwu_merchant_association
 renown: famous
-community: xuanwu_merchant_association
-map: { x: 0.4453, y: 1.1722 }
+parent: shanhaijing_promenade
+place_id: shanhaijing_main_restaurant
+entry_minutes: 1
+map:
+  x: 0.4453
+  y: 1.1722
 ---
 
 # Black Tortoise Main Restaurant

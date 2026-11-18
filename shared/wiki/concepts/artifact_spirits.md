@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.artifact_spirits
-title: "Artifact Spirits"
-community: hyakkiyako_alliance_academy
+name: Artifact Spirits
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Artifact Spirits

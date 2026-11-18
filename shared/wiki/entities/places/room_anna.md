@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_anna
-place_id: room_anna
-name: "Anna's Room"
-parent: red_winter_facility_183
-entry_minutes: 1
-summary:
-  "A cold room off the workshop corridor: drafting table by the bed, framed
-  certificates on every wall, parts sorted in salvaged tins; seldom locked."
+name: Anna's Room
+summary: "A cold room off the workshop corridor: drafting table by the bed, framed certificates on every wall, parts sorted in salvaged tins; seldom locked."
+groups:
+  - red_winter_special_class_183
 renown: private
-community: red_winter_special_class_183
-map: { x: 1.3297, y: 0.3823 }
+parent: red_winter_facility_183
+place_id: room_anna
+entry_minutes: 1
+map:
+  x: 1.3297
+  y: 0.3823
 ---
 
 # Anna's Room

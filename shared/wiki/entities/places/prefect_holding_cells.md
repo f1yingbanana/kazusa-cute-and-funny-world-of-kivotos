@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.prefect_holding_cells
-place_id: prefect_holding_cells
-name: "Prefect Team Holding Cells"
-parent: prefect_headquarters
-entry_minutes: 1
-summary:
-  "Barred cells in the basement for arrested delinquents; guarded day and night,
-  visits by permission, escapes about once a week."
+name: Prefect Team Holding Cells
+summary: Barred cells in the basement for arrested delinquents; guarded day and night, visits by permission, escapes about once a week.
+groups:
+  - prefect_team
 renown: local
-community: prefect_team
-map: { x: 1.4684, y: 2.8058 }
+parent: prefect_headquarters
+place_id: prefect_holding_cells
+entry_minutes: 1
+map:
+  x: 1.4684
+  y: 2.8058
 ---
 
 # Prefect Team Holding Cells

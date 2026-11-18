@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_hot_springs_worksite
-place_id: gehenna_hot_springs_worksite
-name: "Gehenna Hot Springs Worksite"
-parent: hinnom_volcano
-entry_minutes: 20
-summary:
-  "An unauthorised dig in a steaming valley: drills, explosives and tents; work
-  goes on day and night until the Prefect Team raids it."
+name: Gehenna Hot Springs Worksite
+summary: "An unauthorised dig in a steaming valley: drills, explosives and tents; work goes on day and night until the Prefect Team raids it."
+groups:
+  - hot_spring_development_department
 renown: local
-community: hot_spring_development_department
-map: { x: 1.6476, y: 2.7763 }
+parent: hinnom_volcano
+place_id: gehenna_hot_springs_worksite
+entry_minutes: 20
+map:
+  x: 1.6476
+  y: 2.7763
 ---
 
 # Gehenna Hot Springs Worksite

@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_town
-place_id: abydos_town
-name: "Abydos Residential Area"
-aliases: ["downtown Abydos", "Abydos town"]
-summary:
-  "Downtown Abydos: half-empty blocks, sand in the streets and no open food shop
-  in the centre. The school, a few tenanted apartment blocks, and shops out in
-  Suburban Town by the station."
+name: Abydos Residential Area
+aliases:
+  - downtown Abydos
+  - Abydos town
+summary: "Downtown Abydos: half-empty blocks, sand in the streets and no open food shop in the centre. The school, a few tenanted apartment blocks, and shops out in Suburban Town by the station."
+groups:
+  - abydos_high_school
 renown: known
-community: abydos_high_school
-map: { x: 2.65, y: 2.68 }
 backdrop: abydos-street
+place_id: abydos_town
+map:
+  x: 2.65
+  y: 2.68
 ---
 
 # Abydos Residential Area

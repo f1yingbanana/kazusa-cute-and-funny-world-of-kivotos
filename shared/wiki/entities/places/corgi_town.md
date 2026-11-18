@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.corgi_town
-place_id: corgi_town
-name: "Corgi Town"
+name: Corgi Town
+summary: "Shiratori's famous electronics street: phone shops, repair stalls and gadget stores; open 10:00–20:00."
 parent: shiratori_ward
+place_id: corgi_town
 entry_minutes: 6
-summary:
-  "Shiratori's famous electronics street: phone shops, repair stalls and gadget
-  stores; open 10:00–20:00."
-map: { x: 1.9195, y: 1.5082 }
+map:
+  x: 1.9195
+  y: 1.5082
 ---
 
 # Corgi Town

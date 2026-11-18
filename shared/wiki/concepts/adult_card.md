@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.adult_card
-title: The Adult Card
+name: The Adult Card
 renown: known
 ---
 

@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_dorm_3e
-place_id: millennium_dorm_3e
-name: "Millennium Dormitory 3F East"
-parent: millennium_dormitory
-entry_minutes: 1
-summary:
-  "Third-floor east corridor of single rooms and a shared kitchenette; doors
-  lock by ID card, quiet hours 23:00–07:00."
+name: Millennium Dormitory 3F East
+summary: Third-floor east corridor of single rooms and a shared kitchenette; doors lock by ID card, quiet hours 23:00–07:00.
+groups:
+  - millennium_science_school
 renown: local
-community: millennium_science_school
-map: { x: 2.8061, y: 1.7385 }
+parent: millennium_dormitory
+place_id: millennium_dorm_3e
+entry_minutes: 1
+map:
+  x: 2.8061
+  y: 1.7385
 ---
 
 # Millennium Dormitory 3F East

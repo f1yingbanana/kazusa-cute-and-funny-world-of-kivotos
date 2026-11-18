@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_literature_room
-place_id: wildhunt_literature_room
-name: "Wild Hunt Literature Seminar Room"
-parent: wildhunt_art_center
-entry_minutes: 1
-summary:
-  "Small seminar room with a long table and an old typewriter on the sill;
-  creative-writing classes, quiet study after 15:00."
+name: Wild Hunt Literature Seminar Room
+summary: Small seminar room with a long table and an old typewriter on the sill; creative-writing classes, quiet study after 15:00.
+groups:
+  - wild_hunt_academy
 renown: local
-community: wild_hunt_academy
+parent: wildhunt_art_center
 backdrop: wildhunt-classroom
-map: { x: 0.6331, y: 1.689 }
+place_id: wildhunt_literature_room
+entry_minutes: 1
+map:
+  x: 0.6331
+  y: 1.689
 ---
 
 # Wild Hunt Literature Seminar Room

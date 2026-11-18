@@ -1,28 +1,29 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_sisterhood
-place_id: trinity_sisterhood
-name: "Trinity Cathedral"
-aliases: ["Trinity Sisterhood"]
-parent: trinity_district
-entry_minutes: 6
-summary:
-  "Trinity's great cathedral and the Sisterhood's headquarters; nave open to all
-  06:00–20:00, services 07:00 and 18:00; quiet but never empty."
+name: Trinity Cathedral
+aliases:
+  - Trinity Sisterhood
+summary: Trinity's great cathedral and the Sisterhood's headquarters; nave open to all 06:00–20:00, services 07:00 and 18:00; quiet but never empty.
+groups:
+  - sisterhood
 renown: famous
-community: sisterhood
+parent: trinity_district
+backdrop: cathedral
+place_id: trinity_sisterhood
+entry_minutes: 6
 connections:
   - to: trinity_plaza
     ways:
-      - { by: walk, minutes: 5 }
-    note: "Up the cathedral steps and along the avenue to the campus square."
+      - by: walk
+        minutes: 5
+    note: Up the cathedral steps and along the avenue to the campus square.
   - to: church_street
     ways:
-      - { by: walk, minutes: 5 }
-    note: "Down the cathedral close onto Trinity Street."
-backdrop: cathedral
-map: { x: 0.956, y: 2.4346 }
+      - by: walk
+        minutes: 5
+    note: Down the cathedral close onto Trinity Street.
+map:
+  x: 0.956
+  y: 2.4346
 ---
 
 # Trinity Cathedral

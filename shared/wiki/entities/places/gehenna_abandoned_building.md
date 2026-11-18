@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_abandoned_building
-place_id: gehenna_abandoned_building
-name: "Gehenna Abandoned School Building"
-parent: gehenna_school
-entry_minutes: 4
-summary:
-  "A shuttered old block at the campus edge with the closed old dining hall and
-  empty classrooms; officially off-limits, unofficially used at all hours."
+name: Gehenna Abandoned School Building
+summary: A shuttered old block at the campus edge with the closed old dining hall and empty classrooms; officially off-limits, unofficially used at all hours.
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
+parent: gehenna_school
 backdrop: ruined-school-corridor
-map: { x: 1.5216, y: 2.8162 }
+place_id: gehenna_abandoned_building
+entry_minutes: 4
+map:
+  x: 1.5216
+  y: 2.8162
 ---
 
 # Gehenna Abandoned School Building

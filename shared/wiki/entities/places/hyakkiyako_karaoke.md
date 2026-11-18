@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_karaoke
-place_id: hyakkiyako_karaoke
-name: "Utage Karaoke Box"
-parent: hyakkiyako_shopping_23
-entry_minutes: 1
-summary:
-  "Karaoke box with tatami-floored rooms and a drink bar; 12:00–01:00, students
-  after school, groups on festival nights."
+name: Utage Karaoke Box
+summary: Karaoke box with tatami-floored rooms and a drink bar; 12:00–01:00, students after school, groups on festival nights.
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
+parent: hyakkiyako_shopping_23
 backdrop: karaoke
-map: { x: 0.8854, y: 0.9557 }
+place_id: hyakkiyako_karaoke
+entry_minutes: 1
+map:
+  x: 0.8854
+  y: 0.9557
 ---
 
 # Utage Karaoke Box

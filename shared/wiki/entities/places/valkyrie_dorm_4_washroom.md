@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_dorm_4_washroom
-place_id: valkyrie_dorm_4_washroom
-name: "Valkyrie Dorm 4 Washroom"
-aliases: ["Valkyrie Dorm Four Laundry"]
-parent: valkyrie_dorm_4
-entry_minutes: 1
-summary:
-  "Shared showers and a laundry room with uniform presses; hot water 06:00–09:00
-  and 17:00–24:00, queues before roll call."
+name: Valkyrie Dorm 4 Washroom
+aliases:
+  - Valkyrie Dorm Four Laundry
+summary: Shared showers and a laundry room with uniform presses; hot water 06:00–09:00 and 17:00–24:00, queues before roll call.
 renown: local
-map: { x: 1.8997, y: 1.4382 }
+parent: valkyrie_dorm_4
+place_id: valkyrie_dorm_4_washroom
+entry_minutes: 1
+map:
+  x: 1.8997
+  y: 1.4382
 ---
 
 # Valkyrie Dorm 4 Washroom

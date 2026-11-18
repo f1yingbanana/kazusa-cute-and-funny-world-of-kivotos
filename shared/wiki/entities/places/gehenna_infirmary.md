@@ -1,19 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_infirmary
-place_id: gehenna_infirmary
-name: "Gehenna Academy Infirmary"
-parent: gehenna_second_building
-entry_minutes: 1
-summary:
-  "Twelve beds behind curtains and a treatment room; open around the clock,
-  busiest after raids and on Friday nights, Emergency Medicine Club stretchers
-  in and out."
+name: Gehenna Academy Infirmary
+summary: Twelve beds behind curtains and a treatment room; open around the clock, busiest after raids and on Friday nights, Emergency Medicine Club stretchers in and out.
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
+parent: gehenna_second_building
 backdrop: infirmary
-map: { x: 1.5441, y: 2.8433 }
+place_id: gehenna_infirmary
+entry_minutes: 1
+map:
+  x: 1.5441
+  y: 2.8433
 ---
 
 # Gehenna Academy Infirmary

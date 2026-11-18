@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_sensei_room
-place_id: schale_sensei_room
-name: "Sensei's Room"
-parent: schale_residence
-entry_minutes: 1
-summary:
-  "Sensei's private room in the residence wing: a queen bed, piles of documents;
-  locked."
+name: Sensei's Room
+summary: "Sensei's private room in the residence wing: a queen bed, piles of documents; locked."
 renown: private
-map: { x: 1.4285, y: 1.6703 }
+parent: schale_residence
+place_id: schale_sensei_room
+entry_minutes: 1
+map:
+  x: 1.4285
+  y: 1.6703
 ---
 
 # Sensei's Room

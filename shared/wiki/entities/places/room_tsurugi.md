@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_tsurugi
-place_id: room_tsurugi
-name: "Tsurugi's Room"
-parent: trinity_magnolia_west
-entry_minutes: 1
-summary:
-  "West Wing room: surprisingly neat, romance novels shelved by author, movie
-  ticket stubs, a locked treasure chest; locked."
+name: Tsurugi's Room
+summary: "West Wing room: surprisingly neat, romance novels shelved by author, movie ticket stubs, a locked treasure chest; locked."
 renown: private
+parent: trinity_magnolia_west
 backdrop: student-room
-map: { x: 0.7746, y: 2.2551 }
+place_id: room_tsurugi
+entry_minutes: 1
+map:
+  x: 0.7746
+  y: 2.2551
 ---
 
 # Tsurugi's Room

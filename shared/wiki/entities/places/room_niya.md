@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_niya
-place_id: room_niya
-name: "Niya's Room"
-parent: tsukimi_upstairs
-entry_minutes: 1
-summary:
-  "Corner room: a kotatsu, a go board mid-game, piles of unsigned paperwork;
-  never locked, often empty when someone comes looking."
+name: Niya's Room
+summary: "Corner room: a kotatsu, a go board mid-game, piles of unsigned paperwork; never locked, often empty when someone comes looking."
 renown: private
+parent: tsukimi_upstairs
 backdrop: tatami-room
-map: { x: 0.7721, y: 0.6868 }
+place_id: room_niya
+entry_minutes: 1
+map:
+  x: 0.7721
+  y: 0.6868
 ---
 
 # Niya's Room

@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_parfait
-place_id: abydos_parfait
-name: "Desert Rose Parlour"
-parent: abydos_border_town
-entry_minutes: 2
-summary:
-  "Bright parfait café with tall glasses and a shaded terrace; 11:00–20:00,
-  queue on weekends, half-price parfaits on Wednesdays."
+name: Desert Rose Parlour
+summary: Bright parfait café with tall glasses and a shaded terrace; 11:00–20:00, queue on weekends, half-price parfaits on Wednesdays.
 renown: local
-map: { x: 2.61, y: 2.6783 }
+parent: abydos_border_town
+place_id: abydos_parfait
+entry_minutes: 2
+map:
+  x: 2.61
+  y: 2.6783
 ---
 
 # Desert Rose Parlour

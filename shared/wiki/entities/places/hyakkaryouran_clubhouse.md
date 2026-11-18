@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkaryouran_clubhouse
-place_id: hyakkaryouran_clubhouse
-name: "Hyakkaryouran Clubhouse"
-aliases: ["Resolution Council Clubhouse"]
-parent: hyakkiyako_old_schoolhouse_lane
-entry_minutes: 2
-summary:
-  "Run-down tatami house of the Resolution Council at the lane's end: council
-  hall, courtyard training yard, storehouse; lights often on past midnight."
+name: Hyakkaryouran Clubhouse
+aliases:
+  - Resolution Council Clubhouse
+summary: "Run-down tatami house of the Resolution Council at the lane's end: council hall, courtyard training yard, storehouse; lights often on past midnight."
+groups:
+  - hyakkaryouran_resolution_council
 renown: known
-community: hyakkaryouran_resolution_council
+parent: hyakkiyako_old_schoolhouse_lane
 backdrop: hyakkaryouran-tatami-room
-map: { x: 0.674, y: 0.9389 }
+place_id: hyakkaryouran_clubhouse
+entry_minutes: 2
+map:
+  x: 0.674
+  y: 0.9389
 ---
 
 # Hyakkaryouran Clubhouse

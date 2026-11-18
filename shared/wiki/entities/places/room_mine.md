@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_mine
-place_id: room_mine
-name: "Mine's Room"
-parent: trinity_old_quarters
-entry_minutes: 1
-summary:
-  "Ground-floor room lined with glass cabinets of medicine bottles and retired
-  equipment, a tea tray, a shield by the bed; locked, up before 05:00."
+name: Mine's Room
+summary: Ground-floor room lined with glass cabinets of medicine bottles and retired equipment, a tea tray, a shield by the bed; locked, up before 05:00.
 renown: private
+parent: trinity_old_quarters
 backdrop: student-room
-map: { x: 0.8233, y: 2.2692 }
+place_id: room_mine
+entry_minutes: 1
+map:
+  x: 0.8233
+  y: 2.2692
 ---
 
 # Mine's Room

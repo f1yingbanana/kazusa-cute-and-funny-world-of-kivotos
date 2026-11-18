@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.dorm_room_natsu
-place_id: dorm_room_natsu
-name: "Natsu Yutori's Room"
-aliases: ["Natsu's dorm room"]
-parent: trinity_dorm_upstairs
-entry_minutes: 1
-summary:
-  "Top-floor room: poetry books, a mini fridge of milk cartons, a beanbag by the
-  window; the door is usually ajar."
+name: Natsu Yutori's Room
+aliases:
+  - Natsu's dorm room
+summary: "Top-floor room: poetry books, a mini fridge of milk cartons, a beanbag by the window; the door is usually ajar."
 renown: private
+parent: trinity_dorm_upstairs
 backdrop: student-room
-map: { x: 0.8209, y: 2.3076 }
+place_id: dorm_room_natsu
+entry_minutes: 1
+map:
+  x: 0.8209
+  y: 2.3076
 ---
 
 # Natsu Yutori's Room

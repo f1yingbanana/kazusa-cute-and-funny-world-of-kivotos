@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_live_house
-place_id: wildhunt_live_house
-name: "Live House Gargoyle"
-parent: wildhunt_canal_town
-entry_minutes: 1
-summary:
-  "Basement live house: shows from 19:00 on Fridays and Saturdays, a metal night
-  once a month; loud, cheap tickets, last train to D.U. at 23:30."
+name: Live House Gargoyle
+summary: "Basement live house: shows from 19:00 on Fridays and Saturdays, a metal night once a month; loud, cheap tickets, last train to D.U. at 23:30."
 renown: local
-map: { x: 0.78, y: 1.6178 }
+parent: wildhunt_canal_town
+place_id: wildhunt_live_house
+entry_minutes: 1
+map:
+  x: 0.78
+  y: 1.6178
 ---
 
 # Live House Gargoyle

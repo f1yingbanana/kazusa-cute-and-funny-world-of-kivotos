@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_school
-place_id: shanhaijing_school
-name: "Shanhaijing Central Special Zone"
-aliases: ["Shanhaijing campus"]
-parent: shanhaijing_district
-entry_minutes: 8
-summary:
-  "The inner academy behind the Inner Gate: lecture hall, the old palace, labs,
-  gardens; pass holders only, gates 06:00–23:00, guards at every arch."
+name: Shanhaijing Central Special Zone
+aliases:
+  - Shanhaijing campus
+summary: "The inner academy behind the Inner Gate: lecture hall, the old palace, labs, gardens; pass holders only, gates 06:00–23:00, guards at every arch."
+groups:
+  - shanhaijing_senior_secondary_school
 renown: known
-community: shanhaijing_senior_secondary_school
+parent: shanhaijing_district
 backdrop: shanhaijing-campus
-map: { x: 0.2225, y: 1.2636 }
+place_id: shanhaijing_school
+entry_minutes: 8
+map:
+  x: 0.2225
+  y: 1.2636
 ---
 
 # Shanhaijing Central Special Zone

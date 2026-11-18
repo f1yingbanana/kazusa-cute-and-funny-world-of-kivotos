@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.black_death_poison
-title: "Black Death Poison"
+name: Black Death Poison
 renown: known
 ---
 

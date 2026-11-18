@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_room402
-place_id: wildhunt_room402
-name: "Dormitory No. 5, Room 402"
-aliases: ["Cartel Room 402"]
-parent: wildhunt_dorm5
-entry_minutes: 1
-summary:
-  "Three-bed room on the fourth floor crowded with hacked TVs, typewriters, rock
-  samples and route maps; always locked, a towel along the door crack."
+name: Dormitory No. 5, Room 402
+aliases:
+  - Cartel Room 402
+summary: Three-bed room on the fourth floor crowded with hacked TVs, typewriters, rock samples and route maps; always locked, a towel along the door crack.
+groups:
+  - free_trade_cartel
 renown: private
-community: free_trade_cartel
-map: { x: 0.6831, y: 1.7337 }
+parent: wildhunt_dorm5
+place_id: wildhunt_room402
+entry_minutes: 1
+map:
+  x: 0.6831
+  y: 1.7337
 ---
 
 # Dormitory No. 5, Room 402

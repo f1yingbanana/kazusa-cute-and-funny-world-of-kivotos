@@ -1,9 +1,7 @@
 ---
-wiki_id: after_school_sweets_club
-title: After-School Sweets Club
-category: club_lore
-tags: [sweets_club, trinity, kazusa, yoshimi, airi, natsu, desserts]
-community: trinity_general_school
+name: After-School Sweets Club
+groups:
+  - trinity_general_school
 ---
 
 # After-School Sweets Club (放課後スイーツ部)
@@ -40,3 +38,8 @@ and tea.
 - Quick supply runs to Angel 24 for cold milk and snack emergencies.
 - Long afternoon debates bridging the gap between philosophy, mint chocolate,
   and arcade high scores.
+
+## Details
+
+- Category: club_lore
+- Tags: sweets_club, trinity, kazusa, yoshimi, airi, natsu, desserts

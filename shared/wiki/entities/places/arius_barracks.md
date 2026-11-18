@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_barracks
-place_id: arius_barracks
-name: "Nicomedia Barracks"
-parent: arius_school
-entry_minutes: 3
-summary:
-  "Old barracks where the remaining Arius students sleep in bunk rooms; lights
-  out 22:00, roll call 06:30, a senior's room by the door."
+name: Nicomedia Barracks
+summary: Old barracks where the remaining Arius students sleep in bunk rooms; lights out 22:00, roll call 06:30, a senior's room by the door.
+groups:
+  - nicomedia_troop
 renown: local
-community: nicomedia_troop
-map: { x: 0.5211, y: 2.7713 }
+parent: arius_school
+place_id: arius_barracks
+entry_minutes: 3
+map:
+  x: 0.5211
+  y: 2.7713
 ---
 
 # Nicomedia Barracks

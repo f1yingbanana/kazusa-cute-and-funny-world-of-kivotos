@@ -1,16 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_state_guard_room
-place_id: red_winter_state_guard_room
-name: "State Guard Duty Room"
+name: State Guard Duty Room
+summary: "Guardroom by the Office Building's entrance: rifle rack, samovar, duty roster; State Guard officers on watch 24 hours, shift change 06:00 and 18:00."
+groups:
+  - red_winter_office
 parent: red_winter_secretariat
+place_id: red_winter_state_guard_room
 entry_minutes: 1
-summary:
-  "Guardroom by the Office Building's entrance: rifle rack, samovar, duty
-  roster; State Guard officers on watch 24 hours, shift change 06:00 and 18:00."
-community: red_winter_office
-map: { x: 1.4851, y: 0.2909 }
+map:
+  x: 1.4851
+  y: 0.2909
 ---
 
 # State Guard Duty Room

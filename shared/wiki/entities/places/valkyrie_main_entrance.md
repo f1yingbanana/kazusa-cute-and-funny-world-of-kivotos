@@ -1,24 +1,23 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_main_entrance
-place_id: valkyrie_main_entrance
-name: "Valkyrie Main Entrance"
-aliases: ["Valkyrie Front Desk"]
-parent: valkyrie_school
-entry_minutes: 1
-summary:
-  "The police school's gate and front desk: visitor sign-in, lost property,
-  complaints; staffed day and night, busy at 08:30 shift change and with field
-  trips."
+name: Valkyrie Main Entrance
+aliases:
+  - Valkyrie Front Desk
+summary: "The police school's gate and front desk: visitor sign-in, lost property, complaints; staffed day and night, busy at 08:30 shift change and with field trips."
+groups:
+  - valkyrie_police_academy
 renown: local
-community: valkyrie_police_academy
+parent: valkyrie_school
+place_id: valkyrie_main_entrance
+entry_minutes: 1
 connections:
   - to: shiratori_station
     ways:
-      - { by: walk, minutes: 7 }
-    note: "Down the tree-lined avenue to the Metro under Tri-Square."
-map: { x: 1.8674, y: 1.4714 }
+      - by: walk
+        minutes: 7
+    note: Down the tree-lined avenue to the Metro under Tri-Square.
+map:
+  x: 1.8674
+  y: 1.4714
 ---
 
 # Valkyrie Main Entrance

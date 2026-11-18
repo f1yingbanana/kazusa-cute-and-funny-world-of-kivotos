@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_training_center
-place_id: millennium_training_center
-name: "Millennium Training Center"
-parent: millennium_study_area
-entry_minutes: 3
-summary:
-  "Indoor firing range, drill halls and a mock street for tactical training;
-  07:00–21:00, booked by security clubs, ear protection mandatory."
+name: Millennium Training Center
+summary: Indoor firing range, drill halls and a mock street for tactical training; 07:00–21:00, booked by security clubs, ear protection mandatory.
+groups:
+  - millennium_science_school
 renown: local
-community: millennium_science_school
-map: { x: 2.6781, y: 1.7157 }
+parent: millennium_study_area
+place_id: millennium_training_center
+entry_minutes: 3
+map:
+  x: 2.6781
+  y: 1.7157
 ---
 
 # Millennium Training Center

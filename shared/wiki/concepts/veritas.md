@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.veritas
-title: Veritas
-community: millennium_science_school
+name: Veritas
+groups:
+  - millennium_science_school
 ---
 
 # Veritas

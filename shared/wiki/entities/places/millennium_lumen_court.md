@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_lumen_court
-place_id: millennium_lumen_court
-name: "Lumen Court"
-parent: millennium_research_park
-entry_minutes: 2
-summary:
-  "Tall residential tower with layered security: concierge, card gates,
-  camera-watched lifts; residents only, visitors announced."
+name: Lumen Court
+summary: "Tall residential tower with layered security: concierge, card gates, camera-watched lifts; residents only, visitors announced."
 renown: local
-map: { x: 2.9236, y: 1.6923 }
+parent: millennium_research_park
+place_id: millennium_lumen_court
+entry_minutes: 2
+map:
+  x: 2.9236
+  y: 1.6923
 ---
 
 # Lumen Court

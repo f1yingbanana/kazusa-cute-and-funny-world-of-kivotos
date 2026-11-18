@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_campus_store
-place_id: millennium_campus_store
-name: "Millennium Campus Convenience Store"
-parent: millennium_square
-entry_minutes: 1
-summary:
-  "Campus convenience store off the Square, open 24 hours: bento, energy drinks,
-  snacks, lab supplies; dorm and lab night owls drift in after midnight."
+name: Millennium Campus Convenience Store
+summary: "Campus convenience store off the Square, open 24 hours: bento, energy drinks, snacks, lab supplies; dorm and lab night owls drift in after midnight."
+groups:
+  - millennium_science_school
 renown: known
-community: millennium_science_school
-map: { x: 2.7047, y: 1.6622 }
+parent: millennium_square
+place_id: millennium_campus_store
+entry_minutes: 1
+map:
+  x: 2.7047
+  y: 1.6622
 ---
 
 # Millennium Campus Convenience Store

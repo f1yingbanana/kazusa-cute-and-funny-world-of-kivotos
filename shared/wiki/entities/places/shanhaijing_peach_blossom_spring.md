@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_peach_blossom_spring
-place_id: shanhaijing_peach_blossom_spring
-name: "Peach Blossom Spring"
-aliases: ["Peach Blossom Spring Teahouse"]
-parent: shanhaijing_entrance
-entry_minutes: 2
-summary:
-  "Elegant two-storey teahouse over a koi stream: gongfu tea, dim sum, private
-  rooms upstairs; 09:00–21:00, quiet mornings, busy afternoons."
+name: Peach Blossom Spring
+aliases:
+  - Peach Blossom Spring Teahouse
+summary: "Elegant two-storey teahouse over a koi stream: gongfu tea, dim sum, private rooms upstairs; 09:00–21:00, quiet mornings, busy afternoons."
+groups:
+  - shanhaijing_senior_secondary_school
 renown: famous
-community: shanhaijing_senior_secondary_school
-map: { x: 0.3949, y: 1.1919 }
+parent: shanhaijing_entrance
+place_id: shanhaijing_peach_blossom_spring
+entry_minutes: 2
+map:
+  x: 0.3949
+  y: 1.1919
 ---
 
 # Peach Blossom Spring

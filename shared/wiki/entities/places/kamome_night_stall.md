@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kamome_night_stall
-place_id: kamome_night_stall
-name: "Menyu Suzu"
-aliases: ["Kamome Night Stall"]
-parent: odyssey_school
-entry_minutes: 2
-summary:
-  "A yakitori cart with a red lantern by the Terminal 3 fence: chicken skewers,
-  oolong tea, six stools; 20:00–03:00, dockworkers and sailors, nobody asks
-  questions."
+name: Menyu Suzu
+aliases:
+  - Kamome Night Stall
+summary: "A yakitori cart with a red lantern by the Terminal 3 fence: chicken skewers, oolong tea, six stools; 20:00–03:00, dockworkers and sailors, nobody asks questions."
 renown: local
-map: { x: 1.9865, y: 1.6257 }
+parent: odyssey_school
+place_id: kamome_night_stall
+entry_minutes: 2
+map:
+  x: 1.9865
+  y: 1.6257
 ---
 
 # Menyu Suzu

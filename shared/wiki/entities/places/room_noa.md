@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_noa
-place_id: room_noa
-name: "Noa's Room"
-parent: millennium_dorm_2e
-entry_minutes: 1
-summary:
-  "Almost bare white room: a bed, a desk, rows of identical notebooks; locked,
-  and always exactly as she left it."
+name: Noa's Room
+summary: "Almost bare white room: a bed, a desk, rows of identical notebooks; locked, and always exactly as she left it."
 renown: private
+parent: millennium_dorm_2e
 backdrop: student-room
-map: { x: 2.7986, y: 1.7711 }
+place_id: room_noa
+entry_minutes: 1
+map:
+  x: 2.7986
+  y: 1.7711
 ---
 
 # Noa's Room

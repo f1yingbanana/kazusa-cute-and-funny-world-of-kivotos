@@ -1,26 +1,24 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_station
+name: Gehenna Central Station
+aliases:
+  - Zone 32-1 Station
+summary: "Southern Line and Trans-Desert station in Zone 32-1: Trinity and D.U. every 10 minutes 05:00–00:30, Abydos every 90 minutes until 21:00."
+backdrop: train-station
 place_id: gehenna_station
-name: "Gehenna Central Station"
-aliases: ["Zone 32-1 Station"]
-summary:
-  "Southern Line and Trans-Desert station in Zone 32-1: Trinity and D.U. every
-  10 minutes 05:00–00:30, Abydos every 90 minutes until 21:00."
-map: { x: 1.62, y: 2.38 }
 connections:
   - to: gehenna_district
     ways:
-      - { by: walk, minutes: 5 }
-    note: "Out into Zone 32."
+      - by: walk
+        minutes: 5
+    note: Out into Zone 32.
   - to: abydos_station
     ways:
-      - { by: train, minutes: 50 }
-    note:
-      "Trans-Desert Railway. Few trains, so riders plan around the posted
-      timetable; the time assumes they do."
-backdrop: train-station
+      - by: train
+        minutes: 50
+    note: Trans-Desert Railway. Few trains, so riders plan around the posted timetable; the time assumes they do.
+map:
+  x: 1.62
+  y: 2.38
 ---
 
 # Gehenna Central Station

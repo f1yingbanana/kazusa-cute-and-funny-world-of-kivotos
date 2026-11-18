@@ -1,19 +1,19 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.highlander_rail_yard
-place_id: highlander_rail_yard
-name: "Highlander Freight Yard"
-aliases: ["Highlander Freight Rail Yard", "Highlander Train Yard"]
-parent: highlander_school
-entry_minutes: 10
-summary:
-  "Sidings, a turntable and engine sheds east of Central Station where freight
-  is made up; works around the clock, staff and crews only past the yard gate."
+name: Highlander Freight Yard
+aliases:
+  - Highlander Freight Rail Yard
+  - Highlander Train Yard
+summary: Sidings, a turntable and engine sheds east of Central Station where freight is made up; works around the clock, staff and crews only past the yard gate.
+groups:
+  - highlander_freight_logistics
 renown: known
-community: highlander_freight_logistics
+parent: highlander_school
 backdrop: train-freight-station
-map: { x: 1.6516, y: 1.4308 }
+place_id: highlander_rail_yard
+entry_minutes: 10
+map:
+  x: 1.6516
+  y: 1.4308
 ---
 
 # Highlander Freight Yard

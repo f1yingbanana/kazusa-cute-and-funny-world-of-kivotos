@@ -1,10 +1,9 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.highlander_freight_logistics
-title: "Highlander Freight Logistics Department"
-community: highlander_railroad_academy
-aliases: ["Freight Logistics Department"]
+name: Highlander Freight Logistics Department
+aliases:
+  - Freight Logistics Department
+groups:
+  - highlander_railroad_academy
 ---
 
 # Highlander Freight Logistics Department

@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_ramen_stall
-place_id: gehenna_ramen_stall
-name: "Kagaribi Ramen Stall"
-parent: gehenna_backstreets
-entry_minutes: 1
-summary:
-  "A cheap night ramen cart under a bridge: open 20:00–03:00, six stools, garlic
-  and pork broth; delinquents and night-shift workers."
+name: Kagaribi Ramen Stall
+summary: "A cheap night ramen cart under a bridge: open 20:00–03:00, six stools, garlic and pork broth; delinquents and night-shift workers."
 renown: local
+parent: gehenna_backstreets
 backdrop: food-cart-ramen
-map: { x: 1.6326, y: 2.671 }
+place_id: gehenna_ramen_stall
+entry_minutes: 1
+map:
+  x: 1.6326
+  y: 2.671
 ---
 
 # Kagaribi Ramen Stall

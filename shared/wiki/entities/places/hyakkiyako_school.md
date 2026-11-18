@@ -1,20 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_school
-place_id: hyakkiyako_school
-name: "Hyakkiyako Alliance Academy Grounds"
-aliases: ["Hyakkiyako campus"]
-parent: hyakkiyako_district
-entry_minutes: 6
-summary:
-  "Walled academy grounds under the castle keep: classrooms, club houses, the
-  Great Garden, Dining Hall No. 7; gates 06:00–20:00, club keyholders after;
-  tourists kept to Castle Square."
+name: Hyakkiyako Alliance Academy Grounds
+aliases:
+  - Hyakkiyako campus
+summary: "Walled academy grounds under the castle keep: classrooms, club houses, the Great Garden, Dining Hall No. 7; gates 06:00–20:00, club keyholders after; tourists kept to Castle Square."
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
+parent: hyakkiyako_district
 backdrop: hyakkiyako-campus
-map: { x: 0.7351, y: 0.9683 }
+place_id: hyakkiyako_school
+entry_minutes: 6
+map:
+  x: 0.7351
+  y: 0.9683
 ---
 
 # Hyakkiyako Alliance Academy Grounds

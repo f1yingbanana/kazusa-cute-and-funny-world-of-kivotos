@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_saya
-place_id: room_saya
-name: "Saya's Room"
-parent: shanhaijing_alchemy_lab
-entry_minutes: 1
-summary:
-  "Cot room behind the lab: bubbling flasks by the bed, a cheese wheel under a
-  glass dome, a tiny bed for her rat; locked with a chemical seal."
+name: Saya's Room
+summary: "Cot room behind the lab: bubbling flasks by the bed, a cheese wheel under a glass dome, a tiny bed for her rat; locked with a chemical seal."
 renown: private
-map: { x: 0.222, y: 1.2979 }
+parent: shanhaijing_alchemy_lab
+place_id: room_saya
+entry_minutes: 1
+map:
+  x: 0.222
+  y: 1.2979
 ---
 
 # Saya's Room

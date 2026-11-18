@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_atsuko
-place_id: room_atsuko
-name: "Atsuko's Room"
-parent: arius_shelter
-entry_minutes: 1
-summary:
-  "Small room crowded with potted hydrangeas and rose cuttings, seed packets, a
-  watering can, and a school desk set up for playing school. Never locked."
+name: Atsuko's Room
+summary: Small room crowded with potted hydrangeas and rose cuttings, seed packets, a watering can, and a school desk set up for playing school. Never locked.
 renown: private
-map: { x: 0.4685, y: 2.7561 }
+parent: arius_shelter
+place_id: room_atsuko
+entry_minutes: 1
+map:
+  x: 0.4685
+  y: 2.7561
 ---
 
 # Atsuko's Room

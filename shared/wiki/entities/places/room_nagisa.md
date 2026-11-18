@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_nagisa
-place_id: room_nagisa
-name: "Nagisa's Room"
-parent: trinity_tea_residence
-entry_minutes: 1
-summary:
-  "The host's suite: a wall of labelled tea-leaf tins, paperwork piled under a
-  silver tray, a window box of herbs; locked, a guard down the hall."
+name: Nagisa's Room
+summary: "The host's suite: a wall of labelled tea-leaf tins, paperwork piled under a silver tray, a window box of herbs; locked, a guard down the hall."
 renown: private
+parent: trinity_tea_residence
 backdrop: student-room
-map: { x: 0.8286, y: 2.449 }
+place_id: room_nagisa
+entry_minutes: 1
+map:
+  x: 0.8286
+  y: 2.449
 ---
 
 # Nagisa's Room

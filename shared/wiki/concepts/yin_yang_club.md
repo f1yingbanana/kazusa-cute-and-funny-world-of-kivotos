@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.yin_yang_club
-title: Yin-Yang Club
-community: hyakkiyako_alliance_academy
+name: Yin-Yang Club
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Yin-Yang Club

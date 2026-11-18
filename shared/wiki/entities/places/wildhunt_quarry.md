@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_quarry
-place_id: wildhunt_quarry
-name: "Wild Hunt Marble Quarry"
-parent: wildhunt_district
-entry_minutes: 25
-summary:
-  "The academy's stone quarry in the hills, 25 min on foot from town; blocks cut
-  for the Sculpture Workshop. Open 08:00–17:00, off-cuts free to take."
+name: Wild Hunt Marble Quarry
+summary: The academy's stone quarry in the hills, 25 min on foot from town; blocks cut for the Sculpture Workshop. Open 08:00–17:00, off-cuts free to take.
+groups:
+  - wild_hunt_academy
 renown: local
-community: wild_hunt_academy
-map: { x: 0.7109, y: 1.6167 }
+parent: wildhunt_district
+place_id: wildhunt_quarry
+entry_minutes: 25
+map:
+  x: 0.7109
+  y: 1.6167
 ---
 
 # Wild Hunt Marble Quarry

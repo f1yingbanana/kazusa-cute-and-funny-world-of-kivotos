@@ -1,23 +1,21 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_canal_town
-place_id: wildhunt_canal_town
-name: "Wild Hunt Canal Town"
-aliases: ["Canal Town Galleries"]
-parent: wildhunt_district
-entry_minutes: 4
-summary:
-  "The town outside the walls along the canals: galleries, a café, fabric and
-  antique shops, a crepe stand, a live house. Busiest on weekends; most shops
-  close 19:00–21:00."
+name: Wild Hunt Canal Town
+aliases:
+  - Canal Town Galleries
+summary: "The town outside the walls along the canals: galleries, a café, fabric and antique shops, a crepe stand, a live house. Busiest on weekends; most shops close 19:00–21:00."
 renown: known
+parent: wildhunt_district
+place_id: wildhunt_canal_town
+entry_minutes: 4
 connections:
   - to: wildhunt_station
     ways:
-      - { by: walk, minutes: 3 }
-    note: "Along the quay to the station."
-map: { x: 0.7741, y: 1.6263 }
+      - by: walk
+        minutes: 3
+    note: Along the quay to the station.
+map:
+  x: 0.7741
+  y: 1.6263
 ---
 
 # Wild Hunt Canal Town

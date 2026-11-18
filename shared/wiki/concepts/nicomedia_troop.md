@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.nicomedia_troop
-title: Nicomedia Troop
-community: arius_satellite_school
+name: Nicomedia Troop
+groups:
+  - arius_satellite_school
 ---
 
 # Nicomedia Troop

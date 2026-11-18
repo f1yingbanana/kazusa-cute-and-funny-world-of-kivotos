@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.bunny_chasers
-title: "Bunny Chasers Aboard"
-community: millennium_science_school
+name: Bunny Chasers Aboard
+groups:
+  - millennium_science_school
 ---
 
 # Bunny Chasers Aboard

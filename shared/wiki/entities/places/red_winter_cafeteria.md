@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_cafeteria
-place_id: red_winter_cafeteria
-name: "Third Communal Cafeteria"
-aliases: ["Third Shared Cafeteria"]
-parent: red_winter_school
-entry_minutes: 2
-summary:
-  "The academy's big canteen: soup, black bread, kasha, pudding on Fridays;
-  07:00–09:00, 11:30–14:00, 17:30–19:30; packed at noon, bell peppers in
-  everything."
+name: Third Communal Cafeteria
+aliases:
+  - Third Shared Cafeteria
+summary: "The academy's big canteen: soup, black bread, kasha, pudding on Fridays; 07:00–09:00, 11:30–14:00, 17:30–19:30; packed at noon, bell peppers in everything."
+groups:
+  - red_winter_federal_academy
 renown: known
-community: red_winter_federal_academy
-map: { x: 1.5144, y: 0.3365 }
+parent: red_winter_school
+place_id: red_winter_cafeteria
+entry_minutes: 2
+map:
+  x: 1.5144
+  y: 0.3365
 ---
 
 # Third Communal Cafeteria

@@ -1,20 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_public_peace
-place_id: valkyrie_public_peace
-name: "Valkyrie Public Peace Bureau"
-aliases: ["Valkyrie Public Security Bureau"]
-parent: valkyrie_hq_building
-entry_minutes: 1
-summary:
-  "The top-floor office of Valkyrie's investigators: case boards, a coffee
-  machine, a cot; lit past midnight during cases, closed to visitors without
-  escort."
+name: Valkyrie Public Peace Bureau
+aliases:
+  - Valkyrie Public Security Bureau
+summary: "The top-floor office of Valkyrie's investigators: case boards, a coffee machine, a cot; lit past midnight during cases, closed to visitors without escort."
+groups:
+  - valkyrie_police_academy
 renown: known
-community: valkyrie_police_academy
+parent: valkyrie_hq_building
 backdrop: valkyrie-office-desks
-map: { x: 1.8942, y: 1.4874 }
+place_id: valkyrie_public_peace
+entry_minutes: 1
+map:
+  x: 1.8942
+  y: 1.4874
 ---
 
 # Valkyrie Public Peace Bureau

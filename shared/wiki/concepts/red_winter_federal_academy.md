@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.red_winter_federal_academy
-title: "Red Winter Federal Academy"
-community: kivotos_overview
+name: Red Winter Federal Academy
+groups:
+  - kivotos_overview
 renown: known
 ---
 

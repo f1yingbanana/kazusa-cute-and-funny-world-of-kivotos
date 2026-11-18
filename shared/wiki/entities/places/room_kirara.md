@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kirara
-place_id: room_kirara
-name: "Kirara's Room"
-parent: gehenna_dorm13_4f
-entry_minutes: 1
-summary:
-  "A bright room with a sticker-covered vanity mirror and a rainbow of nail
-  polish; door open when friends are over, which is often."
+name: Kirara's Room
+summary: A bright room with a sticker-covered vanity mirror and a rainbow of nail polish; door open when friends are over, which is often.
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_4f
 backdrop: student-room
-map: { x: 1.4761, y: 2.5899 }
+place_id: room_kirara
+entry_minutes: 1
+map:
+  x: 1.4761
+  y: 2.5899
 ---
 
 # Kirara's Room

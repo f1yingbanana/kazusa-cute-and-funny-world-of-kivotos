@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_cafe
-place_id: wildhunt_cafe
-name: "Caffè Bastione"
-parent: wildhunt_canal_town
-entry_minutes: 1
-summary:
-  "Quiet canal-side café with free Wi-Fi, long tables and window seats;
-  08:00–21:00, students writing and sketching all afternoon."
+name: Caffè Bastione
+summary: Quiet canal-side café with free Wi-Fi, long tables and window seats; 08:00–21:00, students writing and sketching all afternoon.
 renown: local
-map: { x: 0.7643, y: 1.6276 }
+parent: wildhunt_canal_town
+place_id: wildhunt_cafe
+entry_minutes: 1
+map:
+  x: 0.7643
+  y: 1.6276
 ---
 
 # Caffè Bastione

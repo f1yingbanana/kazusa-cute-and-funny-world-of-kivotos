@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.ninjutsu_old_building
-place_id: ninjutsu_old_building
-name: "Old Schoolhouse No. 38"
-aliases: ["38th Old School Building", "Ninjutsu Club Schoolhouse"]
-parent: hyakkiyako_old_schoolhouse_lane
-entry_minutes: 3
-summary:
-  "Leaky old schoolhouse the Ninjutsu club borrows: one classroom of props, a
-  camera tripod, shuriken targets; used after class and late, no lock worth the
-  name."
+name: Old Schoolhouse No. 38
+aliases:
+  - 38th Old School Building
+  - Ninjutsu Club Schoolhouse
+summary: "Leaky old schoolhouse the Ninjutsu club borrows: one classroom of props, a camera tripod, shuriken targets; used after class and late, no lock worth the name."
+groups:
+  - ninjutsu_research_department
 renown: local
-community: ninjutsu_research_department
-map: { x: 0.6944, y: 0.9316 }
+parent: hyakkiyako_old_schoolhouse_lane
+place_id: ninjutsu_old_building
+entry_minutes: 3
+map:
+  x: 0.6944
+  y: 0.9316
 ---
 
 # Old Schoolhouse No. 38

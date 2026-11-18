@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.srt_training_facility
-place_id: srt_training_facility
-name: "SRT Special Academy Campus"
-aliases: ["Former SRT Training Facility"]
+name: SRT Special Academy Campus
+aliases:
+  - Former SRT Training Facility
+summary: "The closed SRT academy's training compound: locked gates, empty barracks, a GSC seal on the door."
+groups:
+  - srt_special_academy
 parent: kousagi_ward
-entry_minutes: 20
-summary:
-  "The closed SRT academy's training compound: locked gates, empty barracks, a
-  GSC seal on the door."
-community: srt_special_academy
 backdrop: srt-base
-map: { x: 1.5149, y: 1.6442 }
+place_id: srt_training_facility
+entry_minutes: 20
+map:
+  x: 1.5149
+  y: 1.6442
 ---
 
 # SRT Special Academy Campus

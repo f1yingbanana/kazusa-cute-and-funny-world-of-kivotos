@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.halo_festival
-title: "Kivotos Halo Festival"
+name: Kivotos Halo Festival
 renown: known
 ---
 

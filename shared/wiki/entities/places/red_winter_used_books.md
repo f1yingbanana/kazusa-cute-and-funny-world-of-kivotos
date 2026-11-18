@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_used_books
-place_id: red_winter_used_books
-name: "Samovar Used Books"
-parent: red_winter_3rd_street
-entry_minutes: 1
-summary:
-  "Cramped used bookshop of floor-to-ceiling secondhand books, fanzines and back
-  issues; 11:00–20:00, closed Mondays; a few regulars browsing for hours."
+name: Samovar Used Books
+summary: Cramped used bookshop of floor-to-ceiling secondhand books, fanzines and back issues; 11:00–20:00, closed Mondays; a few regulars browsing for hours.
 renown: local
-map: { x: 1.4358, y: 0.425 }
+parent: red_winter_3rd_street
+place_id: red_winter_used_books
+entry_minutes: 1
+map:
+  x: 1.4358
+  y: 0.425
 ---
 
 # Samovar Used Books

@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_suburban_park
-place_id: abydos_suburban_park
-name: "Abydos Suburban Park"
-parent: abydos_suburban_town
-entry_minutes: 2
-summary:
-  "Small park behind the market: a dry fountain, benches, flower beds kept by
-  part-time weeders. Open all hours; empty and dark at night."
+name: Abydos Suburban Park
+summary: "Small park behind the market: a dry fountain, benches, flower beds kept by part-time weeders. Open all hours; empty and dark at night."
 renown: local
-map: { x: 2.6305, y: 2.6759 }
+parent: abydos_suburban_town
+place_id: abydos_suburban_park
+entry_minutes: 2
+map:
+  x: 2.6305
+  y: 2.6759
 ---
 
 # Abydos Suburban Park

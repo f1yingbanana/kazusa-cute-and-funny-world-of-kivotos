@@ -1,18 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.outlaw_beach
-place_id: outlaw_beach
-name: "Outlaw Beach"
-parent: kanesaki_port
-entry_minutes: 30
-summary:
-  "A rough stretch of sand beyond the port's breakwater claimed by no school;
-  Helmet Gang festival stalls and fireworks in summer, empty and unpatrolled the
-  rest of the year."
+name: Outlaw Beach
+summary: A rough stretch of sand beyond the port's breakwater claimed by no school; Helmet Gang festival stalls and fireworks in summer, empty and unpatrolled the rest of the year.
 renown: local
+parent: kanesaki_port
 backdrop: beachside
-map: { x: 1.9842, y: 1.5872 }
+place_id: outlaw_beach
+entry_minutes: 30
+map:
+  x: 1.9842
+  y: 1.5872
 ---
 
 # Outlaw Beach

@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_old_bathhouse
-place_id: gehenna_old_bathhouse
-name: "Former Matsu-no-yu Bathhouse"
-parent: gehenna_backstreets
-entry_minutes: 3
-summary:
-  "A closed-down public bath with boarded windows and a dry tiled pool; nobody
-  officially uses it; odd noises at night."
+name: Former Matsu-no-yu Bathhouse
+summary: A closed-down public bath with boarded windows and a dry tiled pool; nobody officially uses it; odd noises at night.
 renown: local
-map: { x: 1.6632, y: 2.6682 }
+parent: gehenna_backstreets
+place_id: gehenna_old_bathhouse
+entry_minutes: 3
+map:
+  x: 1.6632
+  y: 2.6682
 ---
 
 # Former Matsu-no-yu Bathhouse

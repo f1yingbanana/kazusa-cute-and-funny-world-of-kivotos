@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_class_3a
-place_id: hyakkiyako_class_3a
-name: "Hyakkiyako Class 3-A"
-parent: hyakkiyako_main_building
-entry_minutes: 1
-summary:
-  "Third-year homeroom on the top classroom floor, under the keep; homeroom
-  08:30, lessons until 15:00, half-empty when club business runs late."
+name: Hyakkiyako Class 3-A
+summary: Third-year homeroom on the top classroom floor, under the keep; homeroom 08:30, lessons until 15:00, half-empty when club business runs late.
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
-map: { x: 0.7169, y: 1.0035 }
+parent: hyakkiyako_main_building
+place_id: hyakkiyako_class_3a
+entry_minutes: 1
+map:
+  x: 0.7169
+  y: 1.0035
 ---
 
 # Hyakkiyako Class 3-A

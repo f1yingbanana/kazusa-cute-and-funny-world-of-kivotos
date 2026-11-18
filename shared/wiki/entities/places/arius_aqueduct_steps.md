@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_aqueduct_steps
-place_id: arius_aqueduct_steps
-name: "Arius Aqueduct Steps"
-parent: arius_district
-entry_minutes: 10
-summary:
-  "Stone steps down to the old aqueduct channel; a shaft of daylight falls
-  through a broken vault in the late afternoon. Quiet, echoing, open all hours."
+name: Arius Aqueduct Steps
+summary: Stone steps down to the old aqueduct channel; a shaft of daylight falls through a broken vault in the late afternoon. Quiet, echoing, open all hours.
 renown: local
-map: { x: 0.4872, y: 2.7435 }
+parent: arius_district
+place_id: arius_aqueduct_steps
+entry_minutes: 10
+map:
+  x: 0.4872
+  y: 2.7435
 ---
 
 # Arius Aqueduct Steps

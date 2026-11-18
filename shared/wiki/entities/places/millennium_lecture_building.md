@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_lecture_building
-place_id: millennium_lecture_building
-name: "Millennium Lecture Building"
-parent: millennium_school
-entry_minutes: 2
-summary:
-  "Main teaching block: homerooms on three floors, the Central Cafeteria
-  downstairs, a rooftop; open 07:00–20:00, crowded at 08:20 and at lunch."
+name: Millennium Lecture Building
+summary: "Main teaching block: homerooms on three floors, the Central Cafeteria downstairs, a rooftop; open 07:00–20:00, crowded at 08:20 and at lunch."
+groups:
+  - millennium_science_school
 renown: known
-community: millennium_science_school
+parent: millennium_school
 backdrop: millennium-corridor
-map: { x: 2.7033, y: 1.6239 }
+place_id: millennium_lecture_building
+entry_minutes: 2
+map:
+  x: 2.7033
+  y: 1.6239
 ---
 
 # Millennium Lecture Building

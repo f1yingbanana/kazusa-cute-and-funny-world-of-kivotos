@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.slumpia_haunted_mansion
-place_id: slumpia_haunted_mansion
-name: "Slumpia Haunted Mansion"
-aliases: ["Splash Helmet Squat"]
-parent: du_abandoned_park
-entry_minutes: 4
-summary:
-  "The park's old haunted-house ride, now the Splash Helmet Gang's squat: bunk
-  mats, a helmet rack, a camp stove; gang members in and out all night."
+name: Slumpia Haunted Mansion
+aliases:
+  - Splash Helmet Squat
+summary: "The park's old haunted-house ride, now the Splash Helmet Gang's squat: bunk mats, a helmet rack, a camp stove; gang members in and out all night."
+groups:
+  - splash_helmet_gang
 renown: local
-community: splash_helmet_gang
-map: { x: 1.8355, y: 1.5623 }
+parent: du_abandoned_park
+place_id: slumpia_haunted_mansion
+entry_minutes: 4
+map:
+  x: 1.8355
+  y: 1.5623
 ---
 
 # Slumpia Haunted Mansion

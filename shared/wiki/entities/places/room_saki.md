@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_saki
-place_id: room_saki
-name: "Saki's Tent"
-parent: rabbit_tent_row
-entry_minutes: 1
-summary:
-  "A square-pitched tent with a rifle-cleaning kit laid out like a diagram and
-  wild greens drying on a cord; zipped shut, helmet always on its peg."
+name: Saki's Tent
+summary: A square-pitched tent with a rifle-cleaning kit laid out like a diagram and wild greens drying on a cord; zipped shut, helmet always on its peg.
 renown: private
+parent: rabbit_tent_row
 backdrop: tent-inside
-map: { x: 1.5703, y: 1.5836 }
+place_id: room_saki
+entry_minutes: 1
+map:
+  x: 1.5703
+  y: 1.5836
 ---
 
 # Saki's Tent

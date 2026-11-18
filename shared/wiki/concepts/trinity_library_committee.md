@@ -1,10 +1,9 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.trinity_library_committee
-title: Trinity Library Committee
-community: trinity_general_school
-aliases: ["Library Committee"]
+name: Trinity Library Committee
+aliases:
+  - Library Committee
+groups:
+  - trinity_general_school
 ---
 
 # Trinity Library Committee

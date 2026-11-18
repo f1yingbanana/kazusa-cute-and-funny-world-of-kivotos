@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.ebisu_satellite_school
-title: "Ebisu Satellite School"
-community: hyakkiyako_alliance_academy
+name: Ebisu Satellite School
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Ebisu Satellite School

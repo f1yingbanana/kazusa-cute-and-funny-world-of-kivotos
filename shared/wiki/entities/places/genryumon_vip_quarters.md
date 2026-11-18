@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.genryumon_vip_quarters
-place_id: genryumon_vip_quarters
-name: "Old Palace VIP Quarters"
-parent: shanhaijing_rikkagaku
-entry_minutes: 2
-summary:
-  "The palace's guarded residential court for the council head and guests;
-  guards on the gate around the clock, visitors announced."
+name: Old Palace VIP Quarters
+summary: The palace's guarded residential court for the council head and guests; guards on the gate around the clock, visitors announced.
+groups:
+  - xuanlong_office
 renown: local
-community: xuanlong_office
+parent: shanhaijing_rikkagaku
 backdrop: shanhaijing-vip-room
-map: { x: 0.2211, y: 1.1914 }
+place_id: genryumon_vip_quarters
+entry_minutes: 2
+map:
+  x: 0.2211
+  y: 1.1914
 ---
 
 # Old Palace VIP Quarters

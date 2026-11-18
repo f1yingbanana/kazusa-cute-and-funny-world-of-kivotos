@@ -1,17 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_cloister_garden
-place_id: arius_cloister_garden
-name: "Arius Cloister Garden"
-parent: arius_school
-entry_minutes: 2
-summary:
-  "A cloister walk round a patch of earth turned into flower beds: hydrangeas,
-  roses, seedlings in tins under grow lamps. Watered every morning; open with
-  the grounds."
+name: Arius Cloister Garden
+summary: "A cloister walk round a patch of earth turned into flower beds: hydrangeas, roses, seedlings in tins under grow lamps. Watered every morning; open with the grounds."
 renown: local
-map: { x: 0.5125, y: 2.7949 }
+parent: arius_school
+place_id: arius_cloister_garden
+entry_minutes: 2
+map:
+  x: 0.5125
+  y: 2.7949
 ---
 
 # Arius Cloister Garden

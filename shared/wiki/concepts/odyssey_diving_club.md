@@ -1,10 +1,9 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.odyssey_diving_club
-title: Odyssey Diving Club
-community: odyssey_school
-aliases: ["Diving Club"]
+name: Odyssey Diving Club
+aliases:
+  - Diving Club
+groups:
+  - odyssey_school
 ---
 
 # Odyssey Diving Club

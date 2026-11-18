@@ -1,12 +1,8 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.kivotos_transit
-title: "Getting Around Kivotos"
-summary:
-  "How students travel between districts: Highlander's railways, the D.U. Metro,
-  district buses, and the time it all takes."
-community: kivotos_overview
+name: Getting Around Kivotos
+summary: "How students travel between districts: Highlander's railways, the D.U. Metro, district buses, and the time it all takes."
+groups:
+  - kivotos_overview
 renown: famous
 ---
 

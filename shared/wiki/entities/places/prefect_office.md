@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.prefect_office
-place_id: prefect_office
-name: "Prefect Team Office"
-parent: prefect_headquarters
-entry_minutes: 1
-summary:
-  "Desks, filing cabinets and a dispatch board; staffed 07:00–24:00 and by a
-  night duty officer after; paperwork piles high by evening."
+name: Prefect Team Office
+summary: Desks, filing cabinets and a dispatch board; staffed 07:00–24:00 and by a night duty officer after; paperwork piles high by evening.
+groups:
+  - prefect_team
 renown: local
-community: prefect_team
-map: { x: 1.4649, y: 2.7912 }
+parent: prefect_headquarters
+place_id: prefect_office
+entry_minutes: 1
+map:
+  x: 1.4649
+  y: 2.7912
 ---
 
 # Prefect Team Office

@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.general_student_council
-title: "General Student Council"
+name: General Student Council
 renown: famous
 ---
 

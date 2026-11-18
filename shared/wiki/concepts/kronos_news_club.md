@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.kronos_news_club
-title: "Kronos News Club"
+name: Kronos News Club
 renown: known
 ---
 

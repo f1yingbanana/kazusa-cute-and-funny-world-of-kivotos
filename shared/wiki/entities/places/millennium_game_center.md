@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_game_center
-place_id: millennium_game_center
-name: "Game Center Quantum"
-parent: millennium_shopping_district
-entry_minutes: 2
-summary:
-  "Three floors of rhythm, fighting and claw machines plus batting cages on the
-  roof; 10:00–24:00, a line for new cabinets on release mornings."
+name: Game Center Quantum
+summary: Three floors of rhythm, fighting and claw machines plus batting cages on the roof; 10:00–24:00, a line for new cabinets on release mornings.
 renown: local
+parent: millennium_shopping_district
 backdrop: arcade
-map: { x: 2.8511, y: 1.6689 }
+place_id: millennium_game_center
+entry_minutes: 2
+map:
+  x: 2.8511
+  y: 1.6689
 ---
 
 # Game Center Quantum

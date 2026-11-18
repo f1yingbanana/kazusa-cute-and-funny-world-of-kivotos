@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.red_winter_office
-title: Red Winter Office
+name: Red Winter Office
 ---
 
 # Red Winter Office

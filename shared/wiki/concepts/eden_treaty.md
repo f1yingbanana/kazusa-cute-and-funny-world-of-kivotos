@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.eden_treaty
-title: "Eden Treaty"
+name: Eden Treaty
 renown: known
 ---
 

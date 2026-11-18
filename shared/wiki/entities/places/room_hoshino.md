@@ -1,18 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_hoshino
-place_id: room_hoshino
-name: "Hoshino's Room"
-parent: abydos_oasis_view
-entry_minutes: 1
-summary:
-  "Bare fourth-floor flat: a futon on the floor, a whale plush, a shield folded
-  by the door, glow-in-the-dark fish on the ceiling. She locks it and keeps
-  losing the key."
+name: Hoshino's Room
+summary: "Bare fourth-floor flat: a futon on the floor, a whale plush, a shield folded by the door, glow-in-the-dark fish on the ceiling. She locks it and keeps losing the key."
 renown: private
+parent: abydos_oasis_view
 backdrop: student-room
-map: { x: 2.6596, y: 2.6922 }
+place_id: room_hoshino
+entry_minutes: 1
+map:
+  x: 2.6596
+  y: 2.6922
 ---
 
 # Hoshino's Room

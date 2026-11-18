@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.pandemonium_society
-title: Pandemonium Society
-community: gehenna_academy
+name: Pandemonium Society
+groups:
+  - gehenna_academy
 ---
 
 # Pandemonium Society

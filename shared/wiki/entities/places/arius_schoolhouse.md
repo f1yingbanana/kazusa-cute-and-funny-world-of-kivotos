@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_schoolhouse
-place_id: arius_schoolhouse
-name: "Arius Branch Schoolhouse"
-parent: arius_school
-entry_minutes: 3
-summary:
-  "The Gothic main schoolhouse, half its windows boarded: council room and study
-  hall in the repaired wing. Unlocked 07:00–21:00, the rest sealed off."
+name: Arius Branch Schoolhouse
+summary: "The Gothic main schoolhouse, half its windows boarded: council room and study hall in the repaired wing. Unlocked 07:00–21:00, the rest sealed off."
+groups:
+  - arius_satellite_school
 renown: local
-community: arius_satellite_school
-map: { x: 0.4872, y: 2.797 }
+parent: arius_school
+place_id: arius_schoolhouse
+entry_minutes: 3
+map:
+  x: 0.4872
+  y: 2.797
 ---
 
 # Arius Branch Schoolhouse

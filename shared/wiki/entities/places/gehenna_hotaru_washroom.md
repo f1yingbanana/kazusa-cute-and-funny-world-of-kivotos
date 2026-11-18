@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_hotaru_washroom
-place_id: gehenna_hotaru_washroom
-name: "Hotaru Building Shared Washroom"
-parent: gehenna_hotaru_building
-entry_minutes: 1
-summary:
-  "A shared washroom and tiny kitchen on the third-floor landing; one shower,
-  hot water some days, a kettle and a microwave."
+name: Hotaru Building Shared Washroom
+summary: A shared washroom and tiny kitchen on the third-floor landing; one shower, hot water some days, a kettle and a microwave.
 renown: local
-map: { x: 1.6113, y: 2.6502 }
+parent: gehenna_hotaru_building
+place_id: gehenna_hotaru_washroom
+entry_minutes: 1
+map:
+  x: 1.6113
+  y: 2.6502
 ---
 
 # Hotaru Building Shared Washroom

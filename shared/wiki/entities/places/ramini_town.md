@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.ramini_town
-place_id: ramini_town
-name: "Ramini Town"
-parent: shiratori_ward
-entry_minutes: 8
-summary:
-  "A food street of stalls and restaurants lining both banks of a river; open
-  late, crowded with students from every school after 18:00."
+name: Ramini Town
+summary: A food street of stalls and restaurants lining both banks of a river; open late, crowded with students from every school after 18:00.
 renown: known
-map: { x: 1.9123, y: 1.5009 }
+parent: shiratori_ward
+place_id: ramini_town
+entry_minutes: 8
+map:
+  x: 1.9123
+  y: 1.5009
 ---
 
 # Ramini Town

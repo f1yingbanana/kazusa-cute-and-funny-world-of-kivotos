@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.frenzy_max
-title: "Frenzy MAX"
-community: millennium_science_school
+name: Frenzy MAX
+groups:
+  - millennium_science_school
 ---
 
 # Frenzy MAX

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_data_center
-place_id: millennium_data_center
-name: "Millennium Data Center"
-parent: millennium_study_area
-entry_minutes: 3
-summary:
-  "Humming server halls behind badge doors; staff and authorised clubs only,
-  around the clock; cold inside."
+name: Millennium Data Center
+summary: Humming server halls behind badge doors; staff and authorised clubs only, around the clock; cold inside.
+groups:
+  - millennium_science_school
 renown: local
-community: millennium_science_school
+parent: millennium_study_area
 backdrop: millennium-data-center
-map: { x: 2.6684, y: 1.7171 }
+place_id: millennium_data_center
+entry_minutes: 3
+map:
+  x: 2.6684
+  y: 1.7171
 ---
 
 # Millennium Data Center

@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_store
-place_id: wildhunt_store
-name: "Wild Hunt Academy Store"
-parent: wildhunt_piazza
-entry_minutes: 1
-summary:
-  "Approved supplies only: paper, brushes, inspected paints, snacks, toiletries;
-  08:00–19:00. What it doesn't stock arrives by other means."
+name: Wild Hunt Academy Store
+summary: "Approved supplies only: paper, brushes, inspected paints, snacks, toiletries; 08:00–19:00. What it doesn't stock arrives by other means."
+groups:
+  - wild_hunt_academy
 renown: known
-community: wild_hunt_academy
-map: { x: 0.6213, y: 1.7191 }
+parent: wildhunt_piazza
+place_id: wildhunt_store
+entry_minutes: 1
+map:
+  x: 0.6213
+  y: 1.7191
 ---
 
 # Wild Hunt Academy Store

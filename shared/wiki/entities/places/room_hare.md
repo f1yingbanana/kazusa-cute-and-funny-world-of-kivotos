@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_hare
-place_id: room_hare
-name: "Hare's Room"
-parent: millennium_dorm_3w
-entry_minutes: 1
-summary:
-  "Night owl's room: a fridge packed with energy drinks, a gaming rig, a
-  half-built drone, blackout curtains; locked, no visitors before noon."
+name: Hare's Room
+summary: "Night owl's room: a fridge packed with energy drinks, a gaming rig, a half-built drone, blackout curtains; locked, no visitors before noon."
 renown: private
+parent: millennium_dorm_3w
 backdrop: student-room
-map: { x: 2.832, y: 1.788 }
+place_id: room_hare
+entry_minutes: 1
+map:
+  x: 2.832
+  y: 1.788
 ---
 
 # Hare's Room

@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_station
+name: Abydos Central Station
+summary: "Abydos's last working platform: Trans-Desert trains to Gehenna and to Kousagi in D.U., each every 90 minutes, 06:00–21:00."
+backdrop: abydos-station-platform
 place_id: abydos_station
-name: "Abydos Central Station"
-summary:
-  "Abydos's last working platform: Trans-Desert trains to Gehenna and to Kousagi
-  in D.U., each every 90 minutes, 06:00–21:00."
-map: { x: 2.42, y: 2.5 }
 connections:
   - to: abydos_town
     ways:
-      - { by: walk, minutes: 8 }
-    note: "Through the half-buried concourse into town."
-backdrop: abydos-station-platform
+      - by: walk
+        minutes: 8
+    note: Through the half-buried concourse into town.
+map:
+  x: 2.42
+  y: 2.5
 ---
 
 # Abydos Central Station

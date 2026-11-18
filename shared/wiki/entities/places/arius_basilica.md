@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_basilica
-place_id: arius_basilica
-name: "Arius Basilica Ruins"
-parent: arius_district
-entry_minutes: 15
-summary:
-  "The collapsed Basilica where the old regime held its rites: roped off, rubble
-  and cold air, patrolled at night. Few go near it willingly."
+name: Arius Basilica Ruins
+summary: "The collapsed Basilica where the old regime held its rites: roped off, rubble and cold air, patrolled at night. Few go near it willingly."
+groups:
+  - arius_satellite_school
 renown: known
-community: arius_satellite_school
+parent: arius_district
 backdrop: arius-basilica
-map: { x: 0.4755, y: 2.7414 }
+place_id: arius_basilica
+entry_minutes: 15
+map:
+  x: 0.4755
+  y: 2.7414
 ---
 
 # Arius Basilica Ruins

@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.free_trade_cartel
-title: Free Trade Cartel
-community: wild_hunt_academy
+name: Free Trade Cartel
+groups:
+  - wild_hunt_academy
 ---
 
 # Free Trade Cartel

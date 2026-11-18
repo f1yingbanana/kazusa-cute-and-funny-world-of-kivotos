@@ -1,25 +1,24 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_school
-place_id: arius_school
-name: "Arius Satellite School Grounds"
-aliases: ["Arius Branch School"]
-parent: arius_district
-entry_minutes: 6
-summary:
-  "Walled school grounds: patched schoolhouse, barracks for the remaining
-  students, a drill yard and a cloister garden. Gates open 06:00–21:00; student
-  patrols at night."
+name: Arius Satellite School Grounds
+aliases:
+  - Arius Branch School
+summary: "Walled school grounds: patched schoolhouse, barracks for the remaining students, a drill yard and a cloister garden. Gates open 06:00–21:00; student patrols at night."
+groups:
+  - arius_satellite_school
 renown: local
-community: arius_satellite_school
+parent: arius_district
+backdrop: arius-campus
+place_id: arius_school
+entry_minutes: 6
 connections:
   - to: arius_lantern_street
     ways:
-      - { by: walk, minutes: 5 }
-    note: "Out of the gate and down to the lit street."
-backdrop: arius-campus
-map: { x: 0.5065, y: 2.7873 }
+      - by: walk
+        minutes: 5
+    note: Out of the gate and down to the lit street.
+map:
+  x: 0.5065
+  y: 2.7873
 ---
 
 # Arius Satellite School Grounds

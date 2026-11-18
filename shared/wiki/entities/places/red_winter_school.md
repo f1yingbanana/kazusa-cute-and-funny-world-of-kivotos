@@ -1,20 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_school
-place_id: red_winter_school
-name: "Red Winter Federal Academy Campus"
-aliases: ["Red Winter campus"]
-parent: red_winter_district
-entry_minutes: 8
-summary:
-  "Academy grounds: the Main Building spire, the Office Building on Revolution
-  Plaza, library, cafeteria, radio tower; gates 06:30–22:00 with State Guard
-  sentries."
+name: Red Winter Federal Academy Campus
+aliases:
+  - Red Winter campus
+summary: "Academy grounds: the Main Building spire, the Office Building on Revolution Plaza, library, cafeteria, radio tower; gates 06:30–22:00 with State Guard sentries."
+groups:
+  - red_winter_federal_academy
 renown: known
-community: red_winter_federal_academy
+parent: red_winter_district
 backdrop: red-winter-campus
-map: { x: 1.5235, y: 0.3329 }
+place_id: red_winter_school
+entry_minutes: 8
+map:
+  x: 1.5235
+  y: 0.3329
 ---
 
 # Red Winter Federal Academy Campus

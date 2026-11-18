@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.kronos_school
-title: "Kronos School of Journalism"
+name: Kronos School of Journalism
 renown: known
 ---
 

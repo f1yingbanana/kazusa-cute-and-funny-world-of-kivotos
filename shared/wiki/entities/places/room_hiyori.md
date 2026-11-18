@@ -1,17 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_hiyori
-place_id: room_hiyori
-name: "Hiyori's Room"
-parent: arius_shelter
-entry_minutes: 1
-summary:
-  "Room walled with stacked magazines sorted by issue, a sagging sleeping bag, a
-  backpack packed by the door, a phone on a portable battery. Locked, then
-  checked again."
+name: Hiyori's Room
+summary: Room walled with stacked magazines sorted by issue, a sagging sleeping bag, a backpack packed by the door, a phone on a portable battery. Locked, then checked again.
 renown: private
-map: { x: 0.4525, y: 2.7478 }
+parent: arius_shelter
+place_id: room_hiyori
+entry_minutes: 1
+map:
+  x: 0.4525
+  y: 2.7478
 ---
 
 # Hiyori's Room

@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_tree_square
-place_id: hyakkiyako_tree_square
-name: "Tree Square"
-aliases: ["Hyakkiyako Tree Square"]
-parent: hyakkiyako_plaza
-entry_minutes: 2
-summary:
-  "Square around a sacred old tree where festivals are set up and the Tree of
-  Deities rite is held; benches, open all hours, busy on festival days."
+name: Tree Square
+aliases:
+  - Hyakkiyako Tree Square
+summary: Square around a sacred old tree where festivals are set up and the Tree of Deities rite is held; benches, open all hours, busy on festival days.
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
+parent: hyakkiyako_plaza
 backdrop: hyakkiyako-tree-square
-map: { x: 0.8143, y: 0.8974 }
+place_id: hyakkiyako_tree_square
+entry_minutes: 2
+map:
+  x: 0.8143
+  y: 0.8974
 ---
 
 # Tree Square

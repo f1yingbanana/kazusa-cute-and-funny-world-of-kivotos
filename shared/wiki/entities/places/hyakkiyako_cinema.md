@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_cinema
-place_id: hyakkiyako_cinema
-name: "Kinema Hyakkiyako"
-parent: hyakkiyako_movie_village
-entry_minutes: 1
-summary:
-  "Old single-screen cinema showing period dramas, gangster classics and noir;
-  shows 13:00–23:00, all-night marathons on Saturdays."
+name: Kinema Hyakkiyako
+summary: Old single-screen cinema showing period dramas, gangster classics and noir; shows 13:00–23:00, all-night marathons on Saturdays.
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
-map: { x: 0.8421, y: 0.8653 }
+parent: hyakkiyako_movie_village
+place_id: hyakkiyako_cinema
+entry_minutes: 1
+map:
+  x: 0.8421
+  y: 0.8653
 ---
 
 # Kinema Hyakkiyako

@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_square
-place_id: millennium_square
-name: "Millennium Square"
-parent: millennium_school
-entry_minutes: 2
-summary:
-  "Open plaza at the Tower's foot: benches, a fountain, lunch food stalls
-  11:30–14:00; the campus meeting point, busy all day and lit at night."
+name: Millennium Square
+summary: "Open plaza at the Tower's foot: benches, a fountain, lunch food stalls 11:30–14:00; the campus meeting point, busy all day and lit at night."
+groups:
+  - millennium_science_school
 renown: known
-community: millennium_science_school
-map: { x: 2.714, y: 1.6595 }
+parent: millennium_school
+place_id: millennium_square
+entry_minutes: 2
+map:
+  x: 2.714
+  y: 1.6595
 ---
 
 # Millennium Square

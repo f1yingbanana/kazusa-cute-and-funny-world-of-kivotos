@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_correctional
-place_id: valkyrie_correctional
-name: "Valkyrie Correctional Facility"
-aliases: ["Corrections Bureau prison"]
-parent: du_downtown
-entry_minutes: 30
-summary:
-  "Valkyrie's prison on downtown's edge: high walls and searchlights; visits by
-  appointment 10:00–16:00."
+name: Valkyrie Correctional Facility
+aliases:
+  - Corrections Bureau prison
+summary: "Valkyrie's prison on downtown's edge: high walls and searchlights; visits by appointment 10:00–16:00."
+groups:
+  - valkyrie_police_academy
 renown: known
-community: valkyrie_police_academy
-map: { x: 1.703, y: 1.5112 }
+parent: du_downtown
+place_id: valkyrie_correctional
+entry_minutes: 30
+map:
+  x: 1.703
+  y: 1.5112
 ---
 
 # Valkyrie Correctional Facility

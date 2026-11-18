@@ -1,17 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_cistern
-place_id: wildhunt_cistern
-name: "Wild Hunt Cistern Ruins"
-parent: wildhunt_rampart
-entry_minutes: 6
-summary:
-  "An old underground cistern beneath a bastion, reached by a loose grate: cold
-  water, vaulted stone, chisel marks on the pillars. Nobody else seems to know
-  it."
+name: Wild Hunt Cistern Ruins
+summary: "An old underground cistern beneath a bastion, reached by a loose grate: cold water, vaulted stone, chisel marks on the pillars. Nobody else seems to know it."
 renown: private
-map: { x: 0.6656, y: 1.6758 }
+parent: wildhunt_rampart
+place_id: wildhunt_cistern
+entry_minutes: 6
+map:
+  x: 0.6656
+  y: 1.6758
 ---
 
 # Wild Hunt Cistern Ruins

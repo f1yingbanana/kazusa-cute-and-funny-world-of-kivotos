@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_karaoke
-place_id: trinity_karaoke
-name: "Galleria Karaoke Box"
-parent: trinity_galleria
-entry_minutes: 1
-summary:
-  "Karaoke box with rooms by the hour, 11:00–23:00 via the side lift; groups
-  after school, bands book the big room to rehearse."
+name: Galleria Karaoke Box
+summary: Karaoke box with rooms by the hour, 11:00–23:00 via the side lift; groups after school, bands book the big room to rehearse.
 renown: local
+parent: trinity_galleria
 backdrop: karaoke
-map: { x: 0.9125, y: 2.3682 }
+place_id: trinity_karaoke
+entry_minutes: 1
+map:
+  x: 0.9125
+  y: 2.3682
 ---
 
 # Galleria Karaoke Box

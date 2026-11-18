@@ -1,16 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_punch_card_registry
-place_id: red_winter_punch_card_registry
-name: "Red Winter Punch Card Registry"
+name: Red Winter Punch Card Registry
+summary: Basement hall of filing cabinets and a clattering card reader holding every student record; open 09:00–16:00 on weekdays, nearly empty, cold.
+groups:
+  - red_winter_office
 parent: red_winter_secretariat
+place_id: red_winter_punch_card_registry
 entry_minutes: 1
-summary:
-  "Basement hall of filing cabinets and a clattering card reader holding every
-  student record; open 09:00–16:00 on weekdays, nearly empty, cold."
-community: red_winter_office
-map: { x: 1.4731, y: 0.2923 }
+map:
+  x: 1.4731
+  y: 0.2923
 ---
 
 # Red Winter Punch Card Registry

@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_main_building
-place_id: red_winter_main_building
-name: "Red Winter Main Building"
-aliases: ["Red Winter spire"]
-parent: red_winter_school
-entry_minutes: 3
-summary:
-  "The towering spire where classes are held: lecture floors, slow lifts, coat
-  queues at 08:20; open 07:00–19:00 on weekdays, locked at weekends outside exam
-  weeks."
+name: Red Winter Main Building
+aliases:
+  - Red Winter spire
+summary: "The towering spire where classes are held: lecture floors, slow lifts, coat queues at 08:20; open 07:00–19:00 on weekdays, locked at weekends outside exam weeks."
+groups:
+  - red_winter_federal_academy
 renown: known
-community: red_winter_federal_academy
-map: { x: 1.5245, y: 0.3556 }
+parent: red_winter_school
+place_id: red_winter_main_building
+entry_minutes: 3
+map:
+  x: 1.5245
+  y: 0.3556
 ---
 
 # Red Winter Main Building

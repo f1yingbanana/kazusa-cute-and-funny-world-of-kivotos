@@ -1,22 +1,21 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_game_center
-place_id: trinity_game_center
-name: "Trinity Stationside Game Center"
-aliases: ["Trinity Game Center"]
+name: Trinity Stationside Game Center
+aliases:
+  - Trinity Game Center
+summary: "Arcade beside the station exit: crane machines including a famous Peroro one, rhythm and fighting games; open 11:00–23:00, busiest 16:00–19:00."
 parent: church_street
+backdrop: arcade
+place_id: trinity_game_center
 entry_minutes: 2
-summary:
-  "Arcade beside the station exit: crane machines including a famous Peroro one,
-  rhythm and fighting games; open 11:00–23:00, busiest 16:00–19:00."
 connections:
   - to: trinity_station
     ways:
-      - { by: walk, minutes: 1 }
-    note: "Right beside the station exit."
-backdrop: arcade
-map: { x: 0.9359, y: 2.3496 }
+      - by: walk
+        minutes: 1
+    note: Right beside the station exit.
+map:
+  x: 0.9359
+  y: 2.3496
 ---
 
 # Trinity Stationside Game Center

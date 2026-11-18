@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_aquarium
-place_id: trinity_aquarium
-name: "Trinity Aquarium"
-parent: trinity_seafront
-entry_minutes: 4
-summary:
-  "Trinity's aquarium: a sea tunnel, jellyfish hall and a rare golden tuna; open
-  09:30–18:00, closed Mondays; school trips on weekday mornings."
+name: Trinity Aquarium
+summary: "Trinity's aquarium: a sea tunnel, jellyfish hall and a rare golden tuna; open 09:30–18:00, closed Mondays; school trips on weekday mornings."
 renown: known
-map: { x: 0.9014, y: 2.4191 }
+parent: trinity_seafront
+place_id: trinity_aquarium
+entry_minutes: 4
+map:
+  x: 0.9014
+  y: 2.4191
 ---
 
 # Trinity Aquarium

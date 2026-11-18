@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_family_restaurant
-place_id: millennium_family_restaurant
-name: "Galileo Family Restaurant"
-aliases: ["Galileo Famires"]
-parent: millennium_shopping_district
-entry_minutes: 1
-summary:
-  "Family restaurant with a drink bar and a monthly challenge menu; 07:00–02:00,
-  students camp at booths with homework after 21:00."
+name: Galileo Family Restaurant
+aliases:
+  - Galileo Famires
+summary: Family restaurant with a drink bar and a monthly challenge menu; 07:00–02:00, students camp at booths with homework after 21:00.
 renown: local
+parent: millennium_shopping_district
 backdrop: family-restaurant
-map: { x: 2.8398, y: 1.6854 }
+place_id: millennium_family_restaurant
+entry_minutes: 1
+map:
+  x: 2.8398
+  y: 1.6854
 ---
 
 # Galileo Family Restaurant

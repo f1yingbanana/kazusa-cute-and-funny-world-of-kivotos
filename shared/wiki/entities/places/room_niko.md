@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_niko
-place_id: room_niko
-name: "Niko's Room"
-parent: schale_night_duty_corridor
-entry_minutes: 1
-summary:
-  "A small bedroom that smells of simmered tofu: a rice cooker, a hot plate,
-  jars on the shelf; door usually ajar until lights-out."
+name: Niko's Room
+summary: "A small bedroom that smells of simmered tofu: a rice cooker, a hot plate, jars on the shelf; door usually ajar until lights-out."
 renown: private
+parent: schale_night_duty_corridor
 backdrop: student-room
-map: { x: 1.4296, y: 1.6916 }
+place_id: room_niko
+entry_minutes: 1
+map:
+  x: 1.4296
+  y: 1.6916
 ---
 
 # Niko's Room

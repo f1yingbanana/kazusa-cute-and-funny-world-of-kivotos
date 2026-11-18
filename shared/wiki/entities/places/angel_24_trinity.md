@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.angel_24_trinity
-place_id: angel_24_trinity
-name: "Angel 24, Trinity Street Branch"
-aliases: ["Trinity Angel 24"]
+name: Angel 24, Trinity Street Branch
+aliases:
+  - Trinity Angel 24
+summary: "24-hour convenience store at the dorm end of Trinity Street: bento, milk, ammo, magazines; one night clerk after 23:00; students drift in until the dorms lock."
 parent: church_street
-entry_minutes: 1
-summary:
-  "24-hour convenience store at the dorm end of Trinity Street: bento, milk,
-  ammo, magazines; one night clerk after 23:00; students drift in until the
-  dorms lock."
 backdrop: convenience
-map: { x: 0.9163, y: 2.3504 }
+place_id: angel_24_trinity
+entry_minutes: 1
+map:
+  x: 0.9163
+  y: 2.3504
 ---
 
 # Angel 24, Trinity Street Branch

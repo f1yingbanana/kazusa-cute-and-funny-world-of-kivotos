@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_provisions
-place_id: arius_provisions
-name: "Lantern Street Provisions"
-parent: arius_lantern_street
-entry_minutes: 1
-summary:
-  "General shop in an old vestry: tins, snacks, soap, phone cards and a rack of
-  week-old magazines; 08:00–20:00."
+name: Lantern Street Provisions
+summary: "General shop in an old vestry: tins, snacks, soap, phone cards and a rack of week-old magazines; 08:00–20:00."
 renown: local
-map: { x: 0.5135, y: 2.7305 }
+parent: arius_lantern_street
+place_id: arius_provisions
+entry_minutes: 1
+map:
+  x: 0.5135
+  y: 2.7305
 ---
 
 # Lantern Street Provisions

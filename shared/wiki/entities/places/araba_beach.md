@@ -1,24 +1,21 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.araba_beach
-place_id: araba_beach
-name: "Araba Beach"
-parent: gehenna_district
-entry_minutes: 40
-summary:
-  "A long sandy beach south-east of town with a beach shack and campsites; open
-  always, busy in summer, lifeguards 09:00–18:00 in season."
+name: Araba Beach
+summary: A long sandy beach south-east of town with a beach shack and campsites; open always, busy in summer, lifeguards 09:00–18:00 in season.
+groups:
+  - gehenna_academy
 renown: known
-community: gehenna_academy
+parent: gehenna_district
+place_id: araba_beach
+entry_minutes: 40
 connections:
   - to: gehenna_central_square
     ways:
-      - { by: bus, minutes: 25 }
-    note:
-      "The beach bus from the Central Square terminal, every 30 minutes in
-      summer, hourly otherwise."
-map: { x: 1.5738, y: 2.7277 }
+      - by: bus
+        minutes: 25
+    note: The beach bus from the Central Square terminal, every 30 minutes in summer, hourly otherwise.
+map:
+  x: 1.5738
+  y: 2.7277
 ---
 
 # Araba Beach

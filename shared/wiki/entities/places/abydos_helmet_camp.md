@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_helmet_camp
-place_id: abydos_helmet_camp
-name: "Kata-Kata Helmet Gang Camp"
-parent: abydos_desert
-entry_minutes: 25
-summary:
-  "Gang camp of tents and scrap shacks among half-buried buildings; loud at
-  night, armed lookouts, raids into town some evenings."
+name: Kata-Kata Helmet Gang Camp
+summary: Gang camp of tents and scrap shacks among half-buried buildings; loud at night, armed lookouts, raids into town some evenings.
+groups:
+  - helmet_gang
 renown: local
-community: helmet_gang
+parent: abydos_desert
 backdrop: desert-camp
-map: { x: 2.6328, y: 2.6931 }
+place_id: abydos_helmet_camp
+entry_minutes: 25
+map:
+  x: 2.6328
+  y: 2.6931
 ---
 
 # Kata-Kata Helmet Gang Camp

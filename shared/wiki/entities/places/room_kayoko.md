@@ -1,16 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kayoko
-place_id: room_kayoko
-name: "Kayoko's Room"
-parent: gehenna_hotaru_building
-entry_minutes: 1
-summary:
-  "A neat rented room of CD towers and good headphones; locked, up before dawn."
+name: Kayoko's Room
+summary: A neat rented room of CD towers and good headphones; locked, up before dawn.
+groups:
+  - problem_solver_68
 renown: private
-community: problem_solver_68
-map: { x: 1.6049, y: 2.6575 }
+parent: gehenna_hotaru_building
+place_id: room_kayoko
+entry_minutes: 1
+map:
+  x: 1.6049
+  y: 2.6575
 ---
 
 # Kayoko's Room

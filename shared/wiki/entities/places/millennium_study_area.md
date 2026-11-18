@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_study_area
-place_id: millennium_study_area
-name: "Millennium Study Area"
-parent: millennium_school
-entry_minutes: 4
-summary:
-  "Campus quarter of library, study rooms and research facilities around the
-  monorail stop; paths open all hours, most buildings 07:00–23:00; quiet but
-  full in exam weeks."
+name: Millennium Study Area
+summary: Campus quarter of library, study rooms and research facilities around the monorail stop; paths open all hours, most buildings 07:00–23:00; quiet but full in exam weeks.
+groups:
+  - millennium_science_school
 renown: known
-community: millennium_science_school
-map: { x: 2.6722, y: 1.7075 }
+parent: millennium_school
+place_id: millennium_study_area
+entry_minutes: 4
+map:
+  x: 2.6722
+  y: 1.7075
 ---
 
 # Millennium Study Area

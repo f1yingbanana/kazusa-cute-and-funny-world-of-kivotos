@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.rabbit_tent_row
-place_id: rabbit_tent_row
-name: "RABBIT Tent Row"
-parent: rabbit_camp
-entry_minutes: 1
-summary:
-  "Four squad tents in a tidy row behind the sandbags; each one is someone's
-  home, so knock on the pole."
+name: RABBIT Tent Row
+summary: Four squad tents in a tidy row behind the sandbags; each one is someone's home, so knock on the pole.
+groups:
+  - rabbit_platoon
 renown: local
-community: rabbit_platoon
-map: { x: 1.5635, y: 1.5905 }
+parent: rabbit_camp
+place_id: rabbit_tent_row
+entry_minutes: 1
+map:
+  x: 1.5635
+  y: 1.5905
 ---
 
 # RABBIT Tent Row

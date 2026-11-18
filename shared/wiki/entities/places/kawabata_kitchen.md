@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kawabata_kitchen
-place_id: kawabata_kitchen
-name: "Kawabata Shared Kitchen"
-parent: kawabata_upstairs
-entry_minutes: 1
-summary:
-  "Shared kitchen with two gas burners, a rice cooker and a labelled fridge;
-  open all hours, busiest 07:00–08:00."
+name: Kawabata Shared Kitchen
+summary: Shared kitchen with two gas burners, a rice cooker and a labelled fridge; open all hours, busiest 07:00–08:00.
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
-map: { x: 0.7682, y: 0.801 }
+parent: kawabata_upstairs
+place_id: kawabata_kitchen
+entry_minutes: 1
+map:
+  x: 0.7682
+  y: 0.801
 ---
 
 # Kawabata Shared Kitchen

@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_shooting_range
-place_id: schale_shooting_range
-name: "SCHALE Shooting Range"
+name: SCHALE Shooting Range
+summary: Indoor range in SCHALE's basement level with ammunition for every school's weapons; open 08:00–20:00.
 parent: schale_training_wing
-entry_minutes: 1
-summary:
-  "Indoor range in SCHALE's basement level with ammunition for every school's
-  weapons; open 08:00–20:00."
 backdrop: shooting-range
-map: { x: 1.4021, y: 1.6043 }
+place_id: schale_shooting_range
+entry_minutes: 1
+map:
+  x: 1.4021
+  y: 1.6043
 ---
 
 # SCHALE Shooting Range

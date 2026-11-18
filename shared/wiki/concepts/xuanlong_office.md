@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.xuanlong_office
-title: Xuanlong Office
-community: shanhaijing_senior_secondary_school
+name: Xuanlong Office
+groups:
+  - shanhaijing_senior_secondary_school
 ---
 
 # Xuanlong Office

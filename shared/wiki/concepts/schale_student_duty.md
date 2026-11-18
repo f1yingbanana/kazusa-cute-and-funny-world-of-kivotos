@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.schale_student_duty
-title: Student SCHALE Duty
+name: Student SCHALE Duty
 renown: known
 ---
 

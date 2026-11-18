@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_serina
-place_id: room_serina
-name: "Serina's Room"
-parent: trinity_old_quarters
-entry_minutes: 1
-summary:
-  "First-floor room: a pressed nurse's cap, a box of handmade gifts for
-  children, a map of every building she covers; locked."
+name: Serina's Room
+summary: "First-floor room: a pressed nurse's cap, a box of handmade gifts for children, a map of every building she covers; locked."
 renown: private
+parent: trinity_old_quarters
 backdrop: student-room
-map: { x: 0.8112, y: 2.2808 }
+place_id: room_serina
+entry_minutes: 1
+map:
+  x: 0.8112
+  y: 2.2808
 ---
 
 # Serina's Room

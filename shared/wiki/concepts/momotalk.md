@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.momotalk
-title: MomoTalk
+name: MomoTalk
 renown: famous
 ---
 

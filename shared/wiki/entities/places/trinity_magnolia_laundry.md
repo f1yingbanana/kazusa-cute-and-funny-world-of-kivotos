@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_magnolia_laundry
-place_id: trinity_magnolia_laundry
-name: "Magnolia Hall East Laundry"
+name: Magnolia Hall East Laundry
+summary: "Laundry room at the end of the East Wing: four machines, a drying line, an ironing board; open 06:00–22:30, the machines rattle the whole corridor."
 parent: trinity_magnolia_east
+place_id: trinity_magnolia_laundry
 entry_minutes: 1
-summary:
-  "Laundry room at the end of the East Wing: four machines, a drying line, an
-  ironing board; open 06:00–22:30, the machines rattle the whole corridor."
-map: { x: 0.7365, y: 2.2438 }
+map:
+  x: 0.7365
+  y: 2.2438
 ---
 
 # Magnolia Hall East Laundry

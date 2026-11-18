@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.oasis_view_roof
-place_id: oasis_view_roof
-name: "Oasis View Rooftop"
-parent: abydos_oasis_view
-entry_minutes: 1
-summary:
-  "Flat roof with the water tank, a washing line and a view over the dunes; door
-  unlocked, good for stargazing and drying clothes."
+name: Oasis View Rooftop
+summary: Flat roof with the water tank, a washing line and a view over the dunes; door unlocked, good for stargazing and drying clothes.
 renown: local
-map: { x: 2.6507, y: 2.6961 }
+parent: abydos_oasis_view
+place_id: oasis_view_roof
+entry_minutes: 1
+map:
+  x: 2.6507
+  y: 2.6961
 ---
 
 # Oasis View Rooftop

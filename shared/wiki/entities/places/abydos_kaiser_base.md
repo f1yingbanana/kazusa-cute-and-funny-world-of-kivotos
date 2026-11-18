@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_kaiser_base
-place_id: abydos_kaiser_base
-name: "Kaiser PMC Desert Base"
-parent: abydos_desert
-entry_minutes: 45
-summary:
-  "A fenced Kaiser PMC compound on land the district sold off; armed guards and
-  searchlights day and night. Trespassers get shot at."
+name: Kaiser PMC Desert Base
+summary: A fenced Kaiser PMC compound on land the district sold off; armed guards and searchlights day and night. Trespassers get shot at.
+groups:
+  - kaiser_corporation
 renown: known
-community: kaiser_corporation
-map: { x: 2.6155, y: 2.7004 }
+parent: abydos_desert
+place_id: abydos_kaiser_base
+entry_minutes: 45
+map:
+  x: 2.6155
+  y: 2.7004
 ---
 
 # Kaiser PMC Desert Base

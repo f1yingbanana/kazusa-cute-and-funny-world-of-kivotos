@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_justice_hq
-place_id: trinity_justice_hq
-name: "Justice Task Force Headquarters"
-aliases: ["Justice Realization Committee headquarters"]
-parent: trinity_school
-entry_minutes: 3
-summary:
-  "Justice Task Force offices: a duty desk staffed 24 hours, patrol briefings at
-  07:30 and 16:00, holding cells downstairs; busiest on weekend nights."
+name: Justice Task Force Headquarters
+aliases:
+  - Justice Realization Committee headquarters
+summary: "Justice Task Force offices: a duty desk staffed 24 hours, patrol briefings at 07:30 and 16:00, holding cells downstairs; busiest on weekend nights."
+groups:
+  - justice_task_force
 renown: known
-community: justice_task_force
-map: { x: 0.8596, y: 2.5973 }
+parent: trinity_school
+place_id: trinity_justice_hq
+entry_minutes: 3
+map:
+  x: 0.8596
+  y: 2.5973
 ---
 
 # Justice Task Force Headquarters

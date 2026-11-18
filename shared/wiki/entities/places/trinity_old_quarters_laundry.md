@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_old_quarters_laundry
-place_id: trinity_old_quarters_laundry
-name: "Old Living Quarters Laundry Room"
+name: Old Living Quarters Laundry Room
+summary: Basement laundry room with two ancient machines; open 06:00–21:30; the one place in the dorm you're likely to meet another resident.
 parent: trinity_old_quarters
+place_id: trinity_old_quarters_laundry
 entry_minutes: 1
-summary:
-  "Basement laundry room with two ancient machines; open 06:00–21:30; the one
-  place in the dorm you're likely to meet another resident."
-map: { x: 0.8071, y: 2.2645 }
+map:
+  x: 0.8071
+  y: 2.2645
 ---
 
 # Old Living Quarters Laundry Room

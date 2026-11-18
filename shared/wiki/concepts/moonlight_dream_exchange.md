@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.moonlight_dream_exchange
-title: "Moonlight Dream Exchange"
+name: Moonlight Dream Exchange
 renown: known
 ---
 

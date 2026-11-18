@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_chiaki
-place_id: room_chiaki
-name: "Chiaki's Room"
-parent: gehenna_dorm2
-entry_minutes: 1
-summary:
-  "A cheerful room buried in magazine proofs and photos; door usually open, a
-  printer whirring late."
+name: Chiaki's Room
+summary: A cheerful room buried in magazine proofs and photos; door usually open, a printer whirring late.
+groups:
+  - pandemonium_society
 renown: private
-community: pandemonium_society
+parent: gehenna_dorm2
 backdrop: student-room
-map: { x: 1.5228, y: 2.6472 }
+place_id: room_chiaki
+entry_minutes: 1
+map:
+  x: 1.5228
+  y: 2.6472
 ---
 
 # Chiaki's Room

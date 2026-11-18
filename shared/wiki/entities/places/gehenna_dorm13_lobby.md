@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_dorm13_lobby
-place_id: gehenna_dorm13_lobby
-name: "Dormitory No. 13 Lobby"
-parent: gehenna_dorm13
-entry_minutes: 1
-summary:
-  "The dorm's front lobby: mailboxes, vending machines, a notice board; busy
-  07:30–08:30 and at 22:30 roll call, the night door buzzer after 23:00."
+name: Dormitory No. 13 Lobby
+summary: "The dorm's front lobby: mailboxes, vending machines, a notice board; busy 07:30–08:30 and at 22:30 roll call, the night door buzzer after 23:00."
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
-map: { x: 1.4951, y: 2.5757 }
+parent: gehenna_dorm13
+place_id: gehenna_dorm13_lobby
+entry_minutes: 1
+map:
+  x: 1.4951
+  y: 2.5757
 ---
 
 # Dormitory No. 13 Lobby

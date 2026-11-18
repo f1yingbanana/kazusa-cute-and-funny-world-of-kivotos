@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_lounge
-place_id: schale_lounge
-name: "SCHALE Resting Room"
-aliases: ["SCHALE Residence Lounge"]
+name: SCHALE Resting Room
+aliases:
+  - SCHALE Residence Lounge
+summary: A quiet room of recliners, beds and a juice bar in the residence wing; anyone may nap here.
 parent: schale_residence
-entry_minutes: 2
-summary:
-  "A quiet room of recliners, beds and a juice bar in the residence wing; anyone
-  may nap here."
 backdrop: resting-lounge
-map: { x: 1.4496, y: 1.6855 }
+place_id: schale_lounge
+entry_minutes: 2
+map:
+  x: 1.4496
+  y: 1.6855
 ---
 
 # SCHALE Resting Room

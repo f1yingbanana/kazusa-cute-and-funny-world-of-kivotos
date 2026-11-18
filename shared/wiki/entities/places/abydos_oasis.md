@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_oasis
-place_id: abydos_oasis
-name: "Abydos Great Oasis"
-parent: abydos_desert
-entry_minutes: 60
-summary:
-  "The Great Oasis, dry now: a cracked basin, dead palms and rusting festival
-  stalls, an hour's shadeless hike. The Sand Festival used to be held here."
+name: Abydos Great Oasis
+summary: "The Great Oasis, dry now: a cracked basin, dead palms and rusting festival stalls, an hour's shadeless hike. The Sand Festival used to be held here."
 renown: known
+parent: abydos_desert
 backdrop: desert-oasis
-map: { x: 2.6222, y: 2.7083 }
+place_id: abydos_oasis
+entry_minutes: 60
+map:
+  x: 2.6222
+  y: 2.7083
 ---
 
 # Abydos Great Oasis

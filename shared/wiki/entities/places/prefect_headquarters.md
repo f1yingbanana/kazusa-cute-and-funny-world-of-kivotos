@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.prefect_headquarters
-place_id: prefect_headquarters
-name: "Prefect Team Headquarters"
-aliases: ["Prefect HQ"]
-parent: gehenna_school
-entry_minutes: 3
-summary:
-  "The Prefect Team's command building: office, holding cells, armoury; staffed
-  around the clock, officers on night shift, lights on past midnight."
+name: Prefect Team Headquarters
+aliases:
+  - Prefect HQ
+summary: "The Prefect Team's command building: office, holding cells, armoury; staffed around the clock, officers on night shift, lights on past midnight."
+groups:
+  - prefect_team
 renown: known
-community: prefect_team
+parent: gehenna_school
 backdrop: committee-room
-map: { x: 1.4607, y: 2.7999 }
+place_id: prefect_headquarters
+entry_minutes: 3
+map:
+  x: 1.4607
+  y: 2.7999
 ---
 
 # Prefect Team Headquarters

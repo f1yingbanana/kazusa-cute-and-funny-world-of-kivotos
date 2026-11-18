@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_market
-place_id: trinity_market
-name: "Trinity Market"
-parent: church_street
-entry_minutes: 2
-summary:
-  "Covered market hall off Trinity Street: produce, tea-leaf merchants, flowers
-  and seeds, cheap food stalls; open 07:00–18:00, busiest on weekend mornings."
+name: Trinity Market
+summary: "Covered market hall off Trinity Street: produce, tea-leaf merchants, flowers and seeds, cheap food stalls; open 07:00–18:00, busiest on weekend mornings."
 renown: known
+parent: church_street
 backdrop: trinity-market
-map: { x: 0.9203, y: 2.3416 }
+place_id: trinity_market
+entry_minutes: 2
+map:
+  x: 0.9203
+  y: 2.3416
 ---
 
 # Trinity Market

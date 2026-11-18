@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_miyu
-place_id: room_miyu
-name: "Miyu's Tent"
-parent: rabbit_tent_row
-entry_minutes: 1
-summary:
-  "A small camouflaged tent half-hidden in the shrubs, easy to walk past; a
-  pebble collection, a thermos, a rifle wrapped in a blanket; always zipped."
+name: Miyu's Tent
+summary: A small camouflaged tent half-hidden in the shrubs, easy to walk past; a pebble collection, a thermos, a rifle wrapped in a blanket; always zipped.
 renown: private
+parent: rabbit_tent_row
 backdrop: tent-inside
-map: { x: 1.5576, y: 1.5982 }
+place_id: room_miyu
+entry_minutes: 1
+map:
+  x: 1.5576
+  y: 1.5982
 ---
 
 # Miyu's Tent

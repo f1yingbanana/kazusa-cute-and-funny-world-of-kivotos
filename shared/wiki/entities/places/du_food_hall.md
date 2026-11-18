@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.du_food_hall
-place_id: du_food_hall
-name: "Central Department Store Food Hall"
+name: Central Department Store Food Hall
+summary: "Basement food hall: bento counters, bakeries, sweets from every district; half-price stickers after 19:30."
 parent: du_department_store
+place_id: du_food_hall
 entry_minutes: 2
-summary:
-  "Basement food hall: bento counters, bakeries, sweets from every district;
-  half-price stickers after 19:30."
-map: { x: 1.7077, y: 1.4772 }
+map:
+  x: 1.7077
+  y: 1.4772
 ---
 
 # Central Department Store Food Hall

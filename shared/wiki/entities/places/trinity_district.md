@@ -1,21 +1,20 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_district
-place_id: trinity_district
-name: "Trinity District"
-summary:
-  "Trinity's town: white stone, spires, rose gardens and cobbled streets running
-  down toward the sea."
+name: Trinity District
+summary: "Trinity's town: white stone, spires, rose gardens and cobbled streets running down toward the sea."
+groups:
+  - trinity_general_school
 renown: famous
-community: trinity_general_school
-map: { x: 0.88, y: 2.42 }
+backdrop: trinity-street
+place_id: trinity_district
 connections:
   - to: gehenna_district
     ways:
-      - { by: bus, minutes: 30 }
-    note: "Cross-border bus; it waits at the checkpoint."
-backdrop: trinity-street
+      - by: bus
+        minutes: 30
+    note: Cross-border bus; it waits at the checkpoint.
+map:
+  x: 0.88
+  y: 2.42
 ---
 
 # Trinity District

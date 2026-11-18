@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.slumpia_ferris_wheel
-place_id: slumpia_ferris_wheel
-name: "Slumpia Ferris Wheel"
-aliases: ["Slumpia Big Wheel"]
-parent: du_abandoned_park
-entry_minutes: 5
-summary:
-  "The park's stalled Ferris wheel, climbable to the top car for a view of
-  Shiratori; a dare by night, gang lookouts by day, no railings."
+name: Slumpia Ferris Wheel
+aliases:
+  - Slumpia Big Wheel
+summary: The park's stalled Ferris wheel, climbable to the top car for a view of Shiratori; a dare by night, gang lookouts by day, no railings.
 renown: local
-map: { x: 1.8569, y: 1.5597 }
+parent: du_abandoned_park
+place_id: slumpia_ferris_wheel
+entry_minutes: 5
+map:
+  x: 1.8569
+  y: 1.5597
 ---
 
 # Slumpia Ferris Wheel

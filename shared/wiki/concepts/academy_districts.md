@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.academy_districts
-title: Academy Districts
+name: Academy Districts
 renown: famous
 ---
 

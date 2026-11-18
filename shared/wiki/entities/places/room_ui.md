@@ -1,17 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_ui
-place_id: room_ui
-name: "Ui's Room"
-parent: trinity_old_library
-entry_minutes: 1
-summary:
-  "A back office in the Old Library turned bedroom: a cot between book stacks,
-  coffee cans, a magnifier lamp; she locks the library at night, never this
-  door."
+name: Ui's Room
+summary: "A back office in the Old Library turned bedroom: a cot between book stacks, coffee cans, a magnifier lamp; she locks the library at night, never this door."
 renown: private
-map: { x: 0.888, y: 2.5774 }
+parent: trinity_old_library
+place_id: room_ui
+entry_minutes: 1
+map:
+  x: 0.888
+  y: 2.5774
 ---
 
 # Ui's Room

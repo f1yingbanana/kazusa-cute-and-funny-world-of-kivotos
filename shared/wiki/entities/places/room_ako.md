@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_ako
-place_id: room_ako
-name: "Ako Amau's Room"
-parent: gehenna_dorm13_2f
-entry_minutes: 1
-summary:
-  "An orderly room with a wall planner of colour-coded schedules; locked always,
-  lights on early and late."
+name: Ako Amau's Room
+summary: An orderly room with a wall planner of colour-coded schedules; locked always, lights on early and late.
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_2f
 backdrop: student-room
-map: { x: 1.4988, y: 2.5875 }
+place_id: room_ako
+entry_minutes: 1
+map:
+  x: 1.4988
+  y: 2.5875
 ---
 
 # Ako Amau's Room

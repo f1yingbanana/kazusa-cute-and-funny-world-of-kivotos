@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_dawn_market
-place_id: shanhaijing_dawn_market
-name: "Promenade Dawn Market"
-parent: shanhaijing_promenade
-entry_minutes: 2
-summary:
-  "Early market at the Promenade's end: vegetables, dried herbs and medicinal
-  roots, cheese and deli stalls; 05:00–10:00, cooks and alchemists at first
-  light."
+name: Promenade Dawn Market
+summary: "Early market at the Promenade's end: vegetables, dried herbs and medicinal roots, cheese and deli stalls; 05:00–10:00, cooks and alchemists at first light."
+groups:
+  - xuanwu_merchant_association
 renown: local
-community: xuanwu_merchant_association
-map: { x: 0.4395, y: 1.2034 }
+parent: shanhaijing_promenade
+place_id: shanhaijing_dawn_market
+entry_minutes: 2
+map:
+  x: 0.4395
+  y: 1.2034
 ---
 
 # Promenade Dawn Market

@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_refectory
-place_id: trinity_refectory
-name: "Sisterhood Refectory"
-parent: trinity_cathedral_cloister
-entry_minutes: 1
-summary:
-  "Long-tabled hall where the Sisters eat: breakfast 06:30, supper 18:45, grace
-  first and talk kept low; guests by invitation."
+name: Sisterhood Refectory
+summary: "Long-tabled hall where the Sisters eat: breakfast 06:30, supper 18:45, grace first and talk kept low; guests by invitation."
+groups:
+  - sisterhood
 renown: local
-community: sisterhood
-map: { x: 0.9695, y: 2.4248 }
+parent: trinity_cathedral_cloister
+place_id: trinity_refectory
+entry_minutes: 1
+map:
+  x: 0.9695
+  y: 2.4248
 ---
 
 # Sisterhood Refectory

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_minori
-place_id: room_minori
-name: "Minori's Room"
-parent: labor_party_bunkhouse
-entry_minutes: 1
-summary:
-  "A narrow prefab room upstairs: bunk, hard hat on the bedpost, placards under
-  the bed, a binder of union minutes; locked when out, lights out 22:30."
+name: Minori's Room
+summary: "A narrow prefab room upstairs: bunk, hard hat on the bedpost, placards under the bed, a binder of union minutes; locked when out, lights out 22:30."
+groups:
+  - red_winter_public_works
 renown: private
-community: red_winter_public_works
+parent: labor_party_bunkhouse
 backdrop: student-room
-map: { x: 1.8895, y: 1.5144 }
+place_id: room_minori
+entry_minutes: 1
+map:
+  x: 1.8895
+  y: 1.5144
 ---
 
 # Minori's Room

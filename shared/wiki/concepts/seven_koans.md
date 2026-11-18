@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.seven_koans
-title: "Seven Koans"
+name: Seven Koans
 renown: known
 ---
 

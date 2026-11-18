@@ -1,25 +1,22 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_seafront
-place_id: trinity_seafront
-name: "Trinity Seafront"
-parent: trinity_district
-entry_minutes: 30
-summary:
-  "Trinity's stretch of coast beyond the town: aquarium, a long beach, a
-  promenade; bus from Trinity Street every 30 minutes until 21:00."
+name: Trinity Seafront
+summary: "Trinity's stretch of coast beyond the town: aquarium, a long beach, a promenade; bus from Trinity Street every 30 minutes until 21:00."
 renown: known
+parent: trinity_district
+backdrop: beachside
+place_id: trinity_seafront
+entry_minutes: 30
 connections:
   - to: church_street
     ways:
-      - { by: bus, minutes: 22 }
-      - { by: walk, minutes: 40 }
-    note:
-      "Seafront bus from the stop on Trinity Street, every 30 minutes until
-      21:00. Time includes the average wait."
-backdrop: beachside
-map: { x: 0.899, y: 2.4097 }
+      - by: bus
+        minutes: 22
+      - by: walk
+        minutes: 40
+    note: Seafront bus from the stop on Trinity Street, every 30 minutes until 21:00. Time includes the average wait.
+map:
+  x: 0.899
+  y: 2.4097
 ---
 
 # Trinity Seafront

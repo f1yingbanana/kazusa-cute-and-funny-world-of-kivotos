@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kotone
-place_id: room_kotone
-name: "Kotone's Cabin"
-parent: odyssey_calypso
-entry_minutes: 1
-summary:
-  "A cabin crowded with a ham radio, logbooks of call signs and large-print
-  books; spare glasses in every drawer; locked, a bell on the door."
+name: Kotone's Cabin
+summary: A cabin crowded with a ham radio, logbooks of call signs and large-print books; spare glasses in every drawer; locked, a bell on the door.
 renown: private
-map: { x: 1.9847, y: 1.6612 }
+parent: odyssey_calypso
+place_id: room_kotone
+entry_minutes: 1
+map:
+  x: 1.9847
+  y: 1.6612
 ---
 
 # Kotone's Cabin

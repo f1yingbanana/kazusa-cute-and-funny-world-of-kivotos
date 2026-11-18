@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_linden_park
-place_id: trinity_linden_park
-name: "Linden Park"
-parent: trinity_residential
-entry_minutes: 4
-summary:
-  "Park of lime trees with a playground and a pond; always open, lamps until
-  23:00; joggers and stretchers at dawn, a flea market Sundays 09:00–14:00."
+name: Linden Park
+summary: Park of lime trees with a playground and a pond; always open, lamps until 23:00; joggers and stretchers at dawn, a flea market Sundays 09:00–14:00.
 renown: local
-map: { x: 0.7868, y: 2.3013 }
+parent: trinity_residential
+place_id: trinity_linden_park
+entry_minutes: 4
+map:
+  x: 0.7868
+  y: 2.3013
 ---
 
 # Linden Park

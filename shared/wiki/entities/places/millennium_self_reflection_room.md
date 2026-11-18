@@ -1,19 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_self_reflection_room
-place_id: millennium_self_reflection_room
-name: "Self-Reflection Room"
-parent: millennium_tower
-entry_minutes: 2
-summary:
-  "Millennium's disciplinary room on the Tower's guarded floor, long since
-  decorated like a bedroom; locked from outside during a sentence, guard at the
-  stairs."
+name: Self-Reflection Room
+summary: Millennium's disciplinary room on the Tower's guarded floor, long since decorated like a bedroom; locked from outside during a sentence, guard at the stairs.
+groups:
+  - seminar
 renown: known
-community: seminar
+parent: millennium_tower
 backdrop: millennium-prison
-map: { x: 2.7446, y: 1.6308 }
+place_id: millennium_self_reflection_room
+entry_minutes: 2
+map:
+  x: 2.7446
+  y: 1.6308
 ---
 
 # Self-Reflection Room

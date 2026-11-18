@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_room404
-place_id: wildhunt_room404
-name: "Dormitory No. 4, Room 404"
-aliases: ["Occult Society Dorm"]
-parent: wildhunt_dorm4
-entry_minutes: 1
-summary:
-  "Four-bed room on the fourth floor, half studio, half occult den: tarot,
-  candles, a sewing machine, a recording mic, a guitar case. Heavy curtains;
-  locked when empty."
+name: Dormitory No. 4, Room 404
+aliases:
+  - Occult Society Dorm
+summary: "Four-bed room on the fourth floor, half studio, half occult den: tarot, candles, a sewing machine, a recording mic, a guitar case. Heavy curtains; locked when empty."
+groups:
+  - occult_research_society
 renown: private
-community: occult_research_society
-map: { x: 0.709, y: 1.7381 }
+parent: wildhunt_dorm4
+place_id: wildhunt_room404
+entry_minutes: 1
+map:
+  x: 0.709
+  y: 1.7381
 ---
 
 # Dormitory No. 4, Room 404

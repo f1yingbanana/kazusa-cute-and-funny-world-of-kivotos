@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kisaki
-place_id: room_kisaki
-name: "Kisaki's Room"
-parent: genryumon_vip_quarters
-entry_minutes: 1
-summary:
-  "Lacquered chamber in the VIP quarters: a smoking censer, a tea table, stacks
-  of petitions; guards outside, door barred at night."
+name: Kisaki's Room
+summary: "Lacquered chamber in the VIP quarters: a smoking censer, a tea table, stacks of petitions; guards outside, door barred at night."
 renown: private
+parent: genryumon_vip_quarters
 backdrop: student-room
-map: { x: 0.2271, y: 1.1838 }
+place_id: room_kisaki
+entry_minutes: 1
+map:
+  x: 0.2271
+  y: 1.1838
 ---
 
 # Kisaki's Room

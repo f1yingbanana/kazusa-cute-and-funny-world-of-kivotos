@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shiratori_ward
-place_id: shiratori_ward
-name: "Shiratori Ward"
-aliases: ["D.U. Shiratori"]
-parent: du_downtown
-entry_minutes: 20
-summary:
-  "D.U.'s busiest civic ward, rebuilt after the last crisis: offices,
-  Tri-Square, galleries, the river food street and the port."
+name: Shiratori Ward
+aliases:
+  - D.U. Shiratori
+summary: "D.U.'s busiest civic ward, rebuilt after the last crisis: offices, Tri-Square, galleries, the river food street and the port."
+groups:
+  - general_student_council
 renown: known
-community: general_student_council
-map: { x: 1.9139, y: 1.5193 }
+parent: du_downtown
+place_id: shiratori_ward
+entry_minutes: 20
+map:
+  x: 1.9139
+  y: 1.5193
 ---
 
 # Shiratori Ward

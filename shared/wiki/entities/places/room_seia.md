@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_seia
-place_id: room_seia
-name: "Seia's Room"
-parent: trinity_tea_residence
-entry_minutes: 1
-summary:
-  "A cosy convalescent room facing Songbird Park: towers of books, a half-done
-  puzzle on the blanket, a bird feeder at the window; a Knight checks in daily."
+name: Seia's Room
+summary: "A cosy convalescent room facing Songbird Park: towers of books, a half-done puzzle on the blanket, a bird feeder at the window; a Knight checks in daily."
 renown: private
+parent: trinity_tea_residence
 backdrop: student-room
-map: { x: 0.8134, y: 2.4433 }
+place_id: room_seia
+entry_minutes: 1
+map:
+  x: 0.8134
+  y: 2.4433
 ---
 
 # Seia's Room

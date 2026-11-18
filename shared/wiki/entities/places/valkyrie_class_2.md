@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_class_2
-place_id: valkyrie_class_2
-name: "Valkyrie Class 2-A"
-parent: valkyrie_lecture_building
-entry_minutes: 1
-summary:
-  "The second-years' homeroom: a newspaper rack by the door, desks half empty
-  during patrol weeks; homeroom 08:40, lessons until 15:00."
+name: Valkyrie Class 2-A
+summary: "The second-years' homeroom: a newspaper rack by the door, desks half empty during patrol weeks; homeroom 08:40, lessons until 15:00."
 renown: local
-map: { x: 1.8619, y: 1.4419 }
+parent: valkyrie_lecture_building
+place_id: valkyrie_class_2
+entry_minutes: 1
+map:
+  x: 1.8619
+  y: 1.4419
 ---
 
 # Valkyrie Class 2-A

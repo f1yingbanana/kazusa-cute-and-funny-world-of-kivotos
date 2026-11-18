@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kousagi_viaduct
-place_id: kousagi_viaduct
-name: "Kousagi Viaduct"
-aliases: ["Southern Line Viaduct"]
-parent: kousagi_ward
-entry_minutes: 8
-summary:
-  "The Southern Line's concrete viaduct crossing the ward's river: a riverside
-  path, vending machines and graffiti beneath; trains overhead 05:00–01:00."
+name: Kousagi Viaduct
+aliases:
+  - Southern Line Viaduct
+summary: "The Southern Line's concrete viaduct crossing the ward's river: a riverside path, vending machines and graffiti beneath; trains overhead 05:00–01:00."
 renown: local
-map: { x: 1.513, y: 1.593 }
+parent: kousagi_ward
+place_id: kousagi_viaduct
+entry_minutes: 8
+map:
+  x: 1.513
+  y: 1.593
 ---
 
 # Kousagi Viaduct

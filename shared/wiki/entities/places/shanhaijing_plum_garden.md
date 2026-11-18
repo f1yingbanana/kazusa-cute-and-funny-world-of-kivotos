@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_plum_garden
-place_id: shanhaijing_plum_garden
-name: "Plum Blossom Garden Main Building"
-aliases: ["Plum Garden Schoolhouse"]
-parent: shanhaijing_school
-entry_minutes: 5
-summary:
-  "Schoolhouse where the Plum Blossom Garden raises and teaches young children:
-  classrooms, a kitchen, plum trees; 07:30–18:00, full of children."
+name: Plum Blossom Garden Main Building
+aliases:
+  - Plum Garden Schoolhouse
+summary: "Schoolhouse where the Plum Blossom Garden raises and teaches young children: classrooms, a kitchen, plum trees; 07:30–18:00, full of children."
+groups:
+  - plum_blossom_garden
 renown: known
-community: plum_blossom_garden
+parent: shanhaijing_school
 backdrop: shanhaijing-plum-blossom-garden
-map: { x: 0.1755, y: 1.2823 }
+place_id: shanhaijing_plum_garden
+entry_minutes: 5
+map:
+  x: 0.1755
+  y: 1.2823
 ---
 
 # Plum Blossom Garden Main Building

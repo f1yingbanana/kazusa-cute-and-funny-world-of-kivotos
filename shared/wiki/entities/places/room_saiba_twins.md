@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_saiba_twins
-place_id: room_saiba_twins
-name: "Momoi and Midori's Room"
-parent: millennium_dorm_2w
-entry_minutes: 1
-summary:
-  "Twin room split down the middle: consoles and snack bags on one side,
-  sketchbooks and a drawing tablet on the other; usually unlocked."
+name: Momoi and Midori's Room
+summary: "Twin room split down the middle: consoles and snack bags on one side, sketchbooks and a drawing tablet on the other; usually unlocked."
 renown: private
+parent: millennium_dorm_2w
 backdrop: student-room
-map: { x: 2.8463, y: 1.7473 }
+place_id: room_saiba_twins
+entry_minutes: 1
+map:
+  x: 2.8463
+  y: 1.7473
 ---
 
 # Momoi and Midori's Room

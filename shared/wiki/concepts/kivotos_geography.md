@@ -1,12 +1,8 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.kivotos_geography
-title: "The Lay of Kivotos"
-summary:
-  "Where the academy districts lie relative to one another, from D.U. at the
-  centre to Red Winter's far snows."
-community: kivotos_overview
+name: The Lay of Kivotos
+summary: Where the academy districts lie relative to one another, from D.U. at the centre to Red Winter's far snows.
+groups:
+  - kivotos_overview
 renown: famous
 ---
 

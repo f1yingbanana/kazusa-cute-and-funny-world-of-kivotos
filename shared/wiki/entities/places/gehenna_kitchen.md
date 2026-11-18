@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_kitchen
-place_id: gehenna_kitchen
-name: "Gehenna Dining Hall Kitchen"
-parent: gehenna_lunch_building
-entry_minutes: 1
-summary:
-  "The dining hall's kitchen: burners lit from 04:30, prep until 20:30; staff
-  and drafted helpers only, chronically short of hands."
+name: Gehenna Dining Hall Kitchen
+summary: "The dining hall's kitchen: burners lit from 04:30, prep until 20:30; staff and drafted helpers only, chronically short of hands."
+groups:
+  - school_lunch_club
 renown: local
-community: school_lunch_club
+parent: gehenna_lunch_building
 backdrop: kitchen
-map: { x: 1.5044, y: 2.8532 }
+place_id: gehenna_kitchen
+entry_minutes: 1
+map:
+  x: 1.5044
+  y: 2.8532
 ---
 
 # Gehenna Dining Hall Kitchen

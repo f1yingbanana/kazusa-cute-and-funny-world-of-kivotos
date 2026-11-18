@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_utaha
-place_id: room_utaha
-name: "Utaha's Room"
-parent: millennium_dorm_3e
-entry_minutes: 1
-summary:
-  "Workbench with a bed beside it: a pegboard of premium tools, a robot charging
-  dock, a lab coat on a hook; locked; often empty overnight."
+name: Utaha's Room
+summary: "Workbench with a bed beside it: a pegboard of premium tools, a robot charging dock, a lab coat on a hook; locked; often empty overnight."
 renown: private
+parent: millennium_dorm_3e
 backdrop: student-room
-map: { x: 2.7972, y: 1.7422 }
+place_id: room_utaha
+entry_minutes: 1
+map:
+  x: 2.7972
+  y: 1.7422
 ---
 
 # Utaha's Room

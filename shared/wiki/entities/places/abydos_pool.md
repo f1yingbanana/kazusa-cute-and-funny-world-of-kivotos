@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_pool
-place_id: abydos_pool
-name: "Abydos School Pool"
-aliases: ["Abydos Pool"]
-parent: abydos_school
-entry_minutes: 3
-summary:
-  "The outdoor pool, dry and cracked, sand in the deep end; shade by the
-  changing huts is cool at midday. Always open, always empty."
+name: Abydos School Pool
+aliases:
+  - Abydos Pool
+summary: The outdoor pool, dry and cracked, sand in the deep end; shade by the changing huts is cool at midday. Always open, always empty.
 renown: local
+parent: abydos_school
 backdrop: empty-swimming-pool
-map: { x: 2.6889, y: 2.646 }
+place_id: abydos_pool
+entry_minutes: 3
+map:
+  x: 2.6889
+  y: 2.646
 ---
 
 # Abydos School Pool

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.yatoura_village
-place_id: yatoura_village
-name: "Yatoura Fishing Village"
-aliases: ["Yatoura Village"]
-parent: kanesaki_port
-entry_minutes: 35
-summary:
-  "A small fishing village down the coast from Kanesaki Port: shrimp boats, a
-  fish market at dawn, one bus an hour; quiet by 20:00."
+name: Yatoura Fishing Village
+aliases:
+  - Yatoura Village
+summary: "A small fishing village down the coast from Kanesaki Port: shrimp boats, a fish market at dawn, one bus an hour; quiet by 20:00."
 renown: local
+parent: kanesaki_port
 backdrop: fishing-village
-map: { x: 2.0029, y: 1.5904 }
+place_id: yatoura_village
+entry_minutes: 35
+map:
+  x: 2.0029
+  y: 1.5904
 ---
 
 # Yatoura Fishing Village

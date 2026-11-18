@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kanna
-place_id: room_kanna
-name: "Kanna Ogata's Room"
-parent: valkyrie_dorm_4
-entry_minutes: 1
-summary:
-  "Room 301: sparse, a corkboard of case strings, shelves of detective novels
-  and films, a pressed spare uniform; locked, and she sleeps lightly."
+name: Kanna Ogata's Room
+summary: "Room 301: sparse, a corkboard of case strings, shelves of detective novels and films, a pressed spare uniform; locked, and she sleeps lightly."
 renown: private
+parent: valkyrie_dorm_4
 backdrop: valkyrie-student-room
-map: { x: 1.8889, y: 1.4511 }
+place_id: room_kanna
+entry_minutes: 1
+map:
+  x: 1.8889
+  y: 1.4511
 ---
 
 # Kanna Ogata's Room

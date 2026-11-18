@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.vigilante_crew
-title: Vigilante Crew
-community: trinity_general_school
+name: Vigilante Crew
+groups:
+  - trinity_general_school
 ---
 
 # Vigilante Crew

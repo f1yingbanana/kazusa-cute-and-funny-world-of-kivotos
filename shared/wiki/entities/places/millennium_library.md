@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_library
-place_id: millennium_library
-name: "42nd Millennium Library"
-parent: millennium_study_area
-entry_minutes: 2
-summary:
-  "Stacks, reading rooms and private study booths; 08:00–23:00, open all night
-  in exam weeks; strict silence enforced by patrolling drones."
+name: 42nd Millennium Library
+summary: Stacks, reading rooms and private study booths; 08:00–23:00, open all night in exam weeks; strict silence enforced by patrolling drones.
+groups:
+  - millennium_science_school
 renown: known
-community: millennium_science_school
+parent: millennium_study_area
 backdrop: library
-map: { x: 2.6823, y: 1.707 }
+place_id: millennium_library
+entry_minutes: 2
+map:
+  x: 2.6823
+  y: 1.707
 ---
 
 # 42nd Millennium Library

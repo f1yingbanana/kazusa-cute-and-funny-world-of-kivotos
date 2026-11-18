@@ -1,22 +1,21 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_duck_park
-place_id: hyakkiyako_duck_park
-name: "Quacking Duck Park"
-parent: hyakkiyako_district
-entry_minutes: 8
-summary:
-  "Riverside park with a duck pond, a wooded grove, sunny lawns and vending
-  machines; open all hours, unlit groves after dark, joggers at dawn."
+name: Quacking Duck Park
+summary: Riverside park with a duck pond, a wooded grove, sunny lawns and vending machines; open all hours, unlit groves after dark, joggers at dawn.
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
+parent: hyakkiyako_district
+place_id: hyakkiyako_duck_park
+entry_minutes: 8
 connections:
   - to: hyakkiyako_shirakawa_quarter
     ways:
-      - { by: walk, minutes: 5 }
-    note: "Along the river path."
-map: { x: 0.8182, y: 0.8704 }
+      - by: walk
+        minutes: 5
+    note: Along the river path.
+map:
+  x: 0.8182
+  y: 0.8704
 ---
 
 # Quacking Duck Park

@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_dorm13_2f
-place_id: gehenna_dorm13_2f
-name: "Dormitory No. 13 Second Floor"
-parent: gehenna_dorm13
-entry_minutes: 1
-summary:
-  "The second-floor corridor: five rooms and a kitchenette; Prefect officers'
-  doors side by side with a gourmand's, quiet-ish after midnight."
+name: Dormitory No. 13 Second Floor
+summary: "The second-floor corridor: five rooms and a kitchenette; Prefect officers' doors side by side with a gourmand's, quiet-ish after midnight."
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
-map: { x: 1.4992, y: 2.5972 }
+parent: gehenna_dorm13
+place_id: gehenna_dorm13_2f
+entry_minutes: 1
+map:
+  x: 1.4992
+  y: 2.5972
 ---
 
 # Dormitory No. 13 Second Floor

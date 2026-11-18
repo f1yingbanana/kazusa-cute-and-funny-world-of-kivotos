@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_playground
-place_id: abydos_playground
-name: "Abydos Playground"
-aliases: ["Abydos school field"]
-parent: abydos_school
-entry_minutes: 2
-summary:
-  "The school field, slowly being buried in sand: a faucet that runs some days,
-  a rusty bench, dumbbells left by an old club. Open all hours; dawn runners."
+name: Abydos Playground
+aliases:
+  - Abydos school field
+summary: "The school field, slowly being buried in sand: a faucet that runs some days, a rusty bench, dumbbells left by an old club. Open all hours; dawn runners."
 renown: local
-map: { x: 2.6986, y: 2.6471 }
+parent: abydos_school
+place_id: abydos_playground
+entry_minutes: 2
+map:
+  x: 2.6986
+  y: 2.6471
 ---
 
 # Abydos Playground

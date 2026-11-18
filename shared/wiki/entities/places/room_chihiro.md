@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_chihiro
-place_id: room_chihiro
-name: "Chihiro's Room"
-parent: millennium_dorm_3w
-entry_minutes: 1
-summary:
-  "Tidy tech room: dual monitors, labeled cable bins, a framed code of hacker
-  ethics; a smart lock of her own design."
+name: Chihiro's Room
+summary: "Tidy tech room: dual monitors, labeled cable bins, a framed code of hacker ethics; a smart lock of her own design."
 renown: private
+parent: millennium_dorm_3w
 backdrop: student-room
-map: { x: 2.823, y: 1.7795 }
+place_id: room_chihiro
+entry_minutes: 1
+map:
+  x: 2.823
+  y: 1.7795
 ---
 
 # Chihiro's Room

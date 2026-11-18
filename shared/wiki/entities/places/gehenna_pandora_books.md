@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_pandora_books
-place_id: gehenna_pandora_books
-name: "Pandora Books"
-parent: gehenna_shopping_district
-entry_minutes: 1
-summary:
-  "A two-floor bookshop of new and used books with reading chairs; open
-  10:00–21:00, quiet, browsers welcome to linger."
+name: Pandora Books
+summary: A two-floor bookshop of new and used books with reading chairs; open 10:00–21:00, quiet, browsers welcome to linger.
 renown: local
-map: { x: 1.5497, y: 2.7078 }
+parent: gehenna_shopping_district
+place_id: gehenna_pandora_books
+entry_minutes: 1
+map:
+  x: 1.5497
+  y: 2.7078
 ---
 
 # Pandora Books

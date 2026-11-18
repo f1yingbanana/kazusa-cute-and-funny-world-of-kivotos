@@ -1,23 +1,22 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_central_square
-place_id: gehenna_central_square
-name: "Gehenna Central Square"
-parent: gehenna_district
-entry_minutes: 2
-summary:
-  "The big plaza outside the station: food stalls 11:00–23:00, the bus terminal,
-  festivals and rallies; crowded at lunch and every evening."
+name: Gehenna Central Square
+summary: "The big plaza outside the station: food stalls 11:00–23:00, the bus terminal, festivals and rallies; crowded at lunch and every evening."
+groups:
+  - gehenna_academy
 renown: known
-community: gehenna_academy
+parent: gehenna_district
+backdrop: gehenna-central
+place_id: gehenna_central_square
+entry_minutes: 2
 connections:
   - to: gehenna_station
     ways:
-      - { by: walk, minutes: 2 }
-    note: "Straight out of the station's north exit."
-backdrop: gehenna-central
-map: { x: 1.6154, y: 2.7192 }
+      - by: walk
+        minutes: 2
+    note: Straight out of the station's north exit.
+map:
+  x: 1.6154
+  y: 2.7192
 ---
 
 # Gehenna Central Square

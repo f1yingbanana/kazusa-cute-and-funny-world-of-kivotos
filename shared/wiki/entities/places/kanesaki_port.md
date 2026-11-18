@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kanesaki_port
-place_id: kanesaki_port
-name: "Kanesaki Port"
-parent: shiratori_ward
-entry_minutes: 18
-summary:
-  "D.U.'s port: piers, warehouses, merchant guilds and a small beach; Odyssey's
-  fleet berths at Port Terminal 3."
+name: Kanesaki Port
+summary: "D.U.'s port: piers, warehouses, merchant guilds and a small beach; Odyssey's fleet berths at Port Terminal 3."
 renown: known
+parent: shiratori_ward
 backdrop: wharf
-map: { x: 1.9938, y: 1.5869 }
+place_id: kanesaki_port
+entry_minutes: 18
+map:
+  x: 1.9938
+  y: 1.5869
 ---
 
 # Kanesaki Port

@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_gelateria
-place_id: trinity_gelateria
-name: "Gelateria Fiume"
-parent: trinity_riverside
-entry_minutes: 2
-summary:
-  "Gelato stand on the riverside: twelve flavours, mint-chocolate always among
-  them; open 11:00–20:00 in fine weather, shut when it rains."
+name: Gelateria Fiume
+summary: "Gelato stand on the riverside: twelve flavours, mint-chocolate always among them; open 11:00–20:00 in fine weather, shut when it rains."
 renown: local
-map: { x: 0.8702, y: 2.4088 }
+parent: trinity_riverside
+place_id: trinity_gelateria
+entry_minutes: 2
+map:
+  x: 0.8702
+  y: 2.4088
 ---
 
 # Gelateria Fiume

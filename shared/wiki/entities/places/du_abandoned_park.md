@@ -1,16 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.du_abandoned_park
-place_id: du_abandoned_park
-name: "Slumpia Amusement Park"
-aliases: ["Abandoned Theme Park"]
+name: Slumpia Amusement Park
+aliases:
+  - Abandoned Theme Park
+summary: A rusting, fenced-off amusement park on Shiratori's edge; officially closed, unofficially a dare, a hangout and a hideout.
 parent: shiratori_ward
+place_id: du_abandoned_park
 entry_minutes: 25
-summary:
-  "A rusting, fenced-off amusement park on Shiratori's edge; officially closed,
-  unofficially a dare, a hangout and a hideout."
-map: { x: 1.8568, y: 1.5695 }
+map:
+  x: 1.8568
+  y: 1.5695
 ---
 
 # Abandoned Theme Park

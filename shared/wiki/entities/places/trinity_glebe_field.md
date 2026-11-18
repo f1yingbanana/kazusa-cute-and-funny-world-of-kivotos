@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_glebe_field
-place_id: trinity_glebe_field
-name: "Glebe Field"
-parent: trinity_outskirts
-entry_minutes: 6
-summary:
-  "School-owned farmland where students on community service weed and dig; work
-  07:00–17:00 under a Justice Task Force supervisor; nobody comes for fun."
+name: Glebe Field
+summary: School-owned farmland where students on community service weed and dig; work 07:00–17:00 under a Justice Task Force supervisor; nobody comes for fun.
+groups:
+  - trinity_general_school
 renown: local
-community: trinity_general_school
-map: { x: 0.801, y: 2.4423 }
+parent: trinity_outskirts
+place_id: trinity_glebe_field
+entry_minutes: 6
+map:
+  x: 0.801
+  y: 2.4423
 ---
 
 # Glebe Field

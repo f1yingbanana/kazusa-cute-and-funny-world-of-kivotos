@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_shizuko
-place_id: room_shizuko
-name: "Shizuko's Room"
-parent: momoyodou
-entry_minutes: 1
-summary:
-  "Room above the tea house: a futon squeezed between ledgers and festival
-  schedules, spare kimono aprons; locked, lights out late."
+name: Shizuko's Room
+summary: "Room above the tea house: a futon squeezed between ledgers and festival schedules, spare kimono aprons; locked, lights out late."
 renown: private
-map: { x: 0.8762, y: 0.8935 }
+parent: momoyodou
+place_id: room_shizuko
+entry_minutes: 1
+map:
+  x: 0.8762
+  y: 0.8935
 ---
 
 # Shizuko's Room

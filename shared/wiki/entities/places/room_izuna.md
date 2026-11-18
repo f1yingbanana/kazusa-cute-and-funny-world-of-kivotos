@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_izuna
-place_id: room_izuna
-name: "Izuna's Room"
-parent: kawabata_upstairs
-entry_minutes: 1
-summary:
-  "Rented room upstairs: stacks of ninja drama DVDs by a small TV, a shuriken
-  target, a rope ladder out the window; locked, she leaves by the window."
+name: Izuna's Room
+summary: "Rented room upstairs: stacks of ninja drama DVDs by a small TV, a shuriken target, a rope ladder out the window; locked, she leaves by the window."
 renown: private
+parent: kawabata_upstairs
 backdrop: tatami-room
-map: { x: 0.7685, y: 0.7913 }
+place_id: room_izuna
+entry_minutes: 1
+map:
+  x: 0.7685
+  y: 0.7913
 ---
 
 # Izuna's Room

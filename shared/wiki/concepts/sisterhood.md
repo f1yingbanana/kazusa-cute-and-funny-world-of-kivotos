@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.sisterhood
-title: Sisterhood
-community: trinity_general_school
+name: Sisterhood
+groups:
+  - trinity_general_school
 ---
 
 # Sisterhood

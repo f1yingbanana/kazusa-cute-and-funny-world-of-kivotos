@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_museum
-place_id: hyakkiyako_museum
-name: "Hyakkiyako Museum of Traditions"
-parent: hyakkiyako_movie_village
-entry_minutes: 2
-summary:
-  "Museum of festival floats, masks, armour and old school records; 09:30–17:00,
-  closed Mondays, quiet on weekdays."
+name: Hyakkiyako Museum of Traditions
+summary: Museum of festival floats, masks, armour and old school records; 09:30–17:00, closed Mondays, quiet on weekdays.
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
-map: { x: 0.8519, y: 0.8742 }
+parent: hyakkiyako_movie_village
+place_id: hyakkiyako_museum
+entry_minutes: 2
+map:
+  x: 0.8519
+  y: 0.8742
 ---
 
 # Hyakkiyako Museum of Traditions

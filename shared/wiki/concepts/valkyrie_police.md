@@ -1,6 +1,7 @@
 ---
-title: "Valkyrie Police"
-community: valkyrie_police_academy
+name: Valkyrie Police
+groups:
+  - valkyrie_police_academy
 ---
 
 # Valkyrie Police

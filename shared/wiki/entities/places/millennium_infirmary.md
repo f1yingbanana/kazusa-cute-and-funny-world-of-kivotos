@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_infirmary
-place_id: millennium_infirmary
-name: "Millennium Infirmary"
-parent: millennium_stadium
-entry_minutes: 1
-summary:
-  "Campus infirmary beside the gym; nurse on duty 08:00–20:00, night bell after
-  hours; beds rarely empty after field missions."
+name: Millennium Infirmary
+summary: Campus infirmary beside the gym; nurse on duty 08:00–20:00, night bell after hours; beds rarely empty after field missions.
+groups:
+  - millennium_science_school
 renown: known
-community: millennium_science_school
+parent: millennium_stadium
 backdrop: infirmary
-map: { x: 2.6493, y: 1.6402 }
+place_id: millennium_infirmary
+entry_minutes: 1
+map:
+  x: 2.6493
+  y: 1.6402
 ---
 
 # Millennium Infirmary

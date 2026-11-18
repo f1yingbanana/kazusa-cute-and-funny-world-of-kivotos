@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_lantern_road
-place_id: hyakkiyako_lantern_road
-name: "Lantern Road"
-parent: hyakkiyako_plaza
-entry_minutes: 2
-summary:
-  "Narrow stone road hung with paper lanterns, lit 18:00–23:00; the Lantern
-  Festival procession route, a quiet evening walk otherwise."
+name: Lantern Road
+summary: Narrow stone road hung with paper lanterns, lit 18:00–23:00; the Lantern Festival procession route, a quiet evening walk otherwise.
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
+parent: hyakkiyako_plaza
 backdrop: hyakkiyako-lantern-road
-map: { x: 0.829, y: 0.9098 }
+place_id: hyakkiyako_lantern_road
+entry_minutes: 2
+map:
+  x: 0.829
+  y: 0.9098
 ---
 
 # Lantern Road

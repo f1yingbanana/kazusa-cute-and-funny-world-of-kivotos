@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.hyakkaryouran_crisis
-title: Hyakkaryouran and the Lantern Festivals
+name: Hyakkaryouran and the Lantern Festivals
 renown: known
 ---
 

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_parfait
-place_id: trinity_parfait
-name: "Étoile Parfait Parlour"
-aliases: ["Etoile Parfait Parlour"]
-parent: church_street
-entry_minutes: 1
-summary:
-  "24-hour parfait parlour: tall glass sundaes, quiet booths; students by day,
-  night owls, insomniacs and patrols after midnight."
+name: Étoile Parfait Parlour
+aliases:
+  - Etoile Parfait Parlour
+summary: "24-hour parfait parlour: tall glass sundaes, quiet booths; students by day, night owls, insomniacs and patrols after midnight."
 renown: local
+parent: church_street
 backdrop: dessert-cafe
-map: { x: 0.9329, y: 2.3588 }
+place_id: trinity_parfait
+entry_minutes: 1
+map:
+  x: 0.9329
+  y: 2.3588
 ---
 
 # Étoile Parfait Parlour

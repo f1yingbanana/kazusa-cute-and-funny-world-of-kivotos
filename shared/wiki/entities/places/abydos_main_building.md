@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_main_building
-place_id: abydos_main_building
-name: "Abydos Main Building"
-aliases: ["Abydos Main School Building"]
-parent: abydos_school
-entry_minutes: 2
-summary:
-  "The one school building still in daily use, swept clean every morning despite
-  the sandstorms: club room, classroom, library, store. Unlocked 07:00–19:00,
-  quiet except after class."
+name: Abydos Main Building
+aliases:
+  - Abydos Main School Building
+summary: "The one school building still in daily use, swept clean every morning despite the sandstorms: club room, classroom, library, store. Unlocked 07:00–19:00, quiet except after class."
+groups:
+  - abydos_high_school
 renown: local
-community: abydos_high_school
-map: { x: 2.7135, y: 2.6627 }
+parent: abydos_school
+place_id: abydos_main_building
+entry_minutes: 2
+map:
+  x: 2.7135
+  y: 2.6627
 ---
 
 # Abydos Main Building

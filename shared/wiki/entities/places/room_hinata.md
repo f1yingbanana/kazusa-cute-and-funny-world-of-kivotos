@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_hinata
-place_id: room_hinata
-name: "Hinata's Room"
-parent: trinity_cathedral_cloister
-entry_minutes: 1
-summary:
-  "A scrubbed-clean cell: an inventory ledger on the desk, a rosary on the
-  bedpost, an enormous suitcase by the door; she often forgets to lock it."
+name: Hinata's Room
+summary: "A scrubbed-clean cell: an inventory ledger on the desk, a rosary on the bedpost, an enormous suitcase by the door; she often forgets to lock it."
 renown: private
-map: { x: 0.9638, y: 2.4063 }
+parent: trinity_cathedral_cloister
+place_id: room_hinata
+entry_minutes: 1
+map:
+  x: 0.9638
+  y: 2.4063
 ---
 
 # Hinata's Room

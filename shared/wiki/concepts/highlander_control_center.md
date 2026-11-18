@@ -1,10 +1,9 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.highlander_control_center
-title: "Highlander Central Control Center"
-community: highlander_railroad_academy
-aliases: ["Central Control Center"]
+name: Highlander Central Control Center
+aliases:
+  - Central Control Center
+groups:
+  - highlander_railroad_academy
 ---
 
 # Highlander Central Control Center

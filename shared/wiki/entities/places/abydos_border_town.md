@@ -1,25 +1,22 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_border_town
-place_id: abydos_border_town
-name: "Abydos Border Town"
-parent: abydos_town
-entry_minutes: 40
-summary:
-  "A busier town at the district's edge: supermarket, cafés, a cycle shop. Local
-  bus from Suburban Town every 30 min until 20:00, or a 40-min walk."
+name: Abydos Border Town
+summary: "A busier town at the district's edge: supermarket, cafés, a cycle shop. Local bus from Suburban Town every 30 min until 20:00, or a 40-min walk."
 renown: known
+parent: abydos_town
+backdrop: abydos-sand-street
+place_id: abydos_border_town
+entry_minutes: 40
 connections:
   - to: abydos_suburban_town
     ways:
-      - { by: bus, minutes: 18 }
-      - { by: walk, minutes: 40 }
-    note:
-      "Local bus from the market stop, every 30 minutes until 20:00; the time
-      includes the wait."
-backdrop: abydos-sand-street
-map: { x: 2.6008, y: 2.6753 }
+      - by: bus
+        minutes: 18
+      - by: walk
+        minutes: 40
+    note: Local bus from the market stop, every 30 minutes until 20:00; the time includes the wait.
+map:
+  x: 2.6008
+  y: 2.6753
 ---
 
 # Abydos Border Town

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_iroha
-place_id: room_iroha
-name: "Iroha's Room"
-parent: gehenna_dorm13_4f
-entry_minutes: 1
-summary:
-  "A messy, barely used room: books, a futon never folded, empty iced-coffee
-  cans; locked, its owner usually elsewhere."
+name: Iroha's Room
+summary: "A messy, barely used room: books, a futon never folded, empty iced-coffee cans; locked, its owner usually elsewhere."
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_4f
 backdrop: student-room
-map: { x: 1.47, y: 2.5796 }
+place_id: room_iroha
+entry_minutes: 1
+map:
+  x: 1.47
+  y: 2.5796
 ---
 
 # Iroha's Room

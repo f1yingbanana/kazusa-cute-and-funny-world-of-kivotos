@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_refectory
-place_id: shanhaijing_refectory
-name: "Shanhaijing Student Refectory"
-parent: shanhaijing_school
-entry_minutes: 3
-summary:
-  "Inner-zone canteen: congee and buns at breakfast, set lunches; 07:00–19:00,
-  packed 12:00–13:00, round tables shared by everyone."
+name: Shanhaijing Student Refectory
+summary: "Inner-zone canteen: congee and buns at breakfast, set lunches; 07:00–19:00, packed 12:00–13:00, round tables shared by everyone."
+groups:
+  - shanhaijing_senior_secondary_school
 renown: known
-community: shanhaijing_senior_secondary_school
-map: { x: 0.2234, y: 1.2732 }
+parent: shanhaijing_school
+place_id: shanhaijing_refectory
+entry_minutes: 3
+map:
+  x: 0.2234
+  y: 1.2732
 ---
 
 # Shanhaijing Student Refectory

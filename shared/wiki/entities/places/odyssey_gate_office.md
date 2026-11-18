@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.odyssey_gate_office
-place_id: odyssey_gate_office
-name: "Terminal 3 Gate Office"
-aliases: ["Odyssey Gate Office"]
-parent: odyssey_school
-entry_minutes: 1
-summary:
-  "The terminal's gatehouse: visitor passes, deliveries and a duty sailor;
-  staffed 06:00–22:00, after that a bell and a long wait."
+name: Terminal 3 Gate Office
+aliases:
+  - Odyssey Gate Office
+summary: "The terminal's gatehouse: visitor passes, deliveries and a duty sailor; staffed 06:00–22:00, after that a bell and a long wait."
 renown: local
-map: { x: 1.9797, y: 1.642 }
+parent: odyssey_school
+place_id: odyssey_gate_office
+entry_minutes: 1
+map:
+  x: 1.9797
+  y: 1.642
 ---
 
 # Terminal 3 Gate Office

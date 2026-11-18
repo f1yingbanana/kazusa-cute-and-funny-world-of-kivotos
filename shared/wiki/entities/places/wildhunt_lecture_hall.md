@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_lecture_hall
-place_id: wildhunt_lecture_hall
-name: "Wild Hunt Grand Lecture Hall"
-parent: wildhunt_art_center
-entry_minutes: 1
-summary:
-  "Raked lecture hall for art history and general classes, all years; weekday
-  mornings 09:00–12:00. The back rows are for sleeping."
+name: Wild Hunt Grand Lecture Hall
+summary: Raked lecture hall for art history and general classes, all years; weekday mornings 09:00–12:00. The back rows are for sleeping.
+groups:
+  - wild_hunt_academy
 renown: local
-community: wild_hunt_academy
+parent: wildhunt_art_center
 backdrop: wildhunt-classroom
-map: { x: 0.6234, y: 1.6889 }
+place_id: wildhunt_lecture_hall
+entry_minutes: 1
+map:
+  x: 0.6234
+  y: 1.6889
 ---
 
 # Wild Hunt Grand Lecture Hall

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_takane
-place_id: room_takane
-name: "Takane's Room"
-parent: red_winter_first_dorm_upstairs
-entry_minutes: 1
-summary:
-  "A tidy third-floor study-bedroom: review typewriter, long-lens camera, hockey
-  pennant, books annotated in red; locked, hot plate hidden from the warden."
+name: Takane's Room
+summary: "A tidy third-floor study-bedroom: review typewriter, long-lens camera, hockey pennant, books annotated in red; locked, hot plate hidden from the warden."
+groups:
+  - red_winter_federal_academy
 renown: private
-community: red_winter_federal_academy
+parent: red_winter_first_dorm_upstairs
 backdrop: student-room
-map: { x: 1.3643, y: 0.3236 }
+place_id: room_takane
+entry_minutes: 1
+map:
+  x: 1.3643
+  y: 0.3236
 ---
 
 # Takane's Room

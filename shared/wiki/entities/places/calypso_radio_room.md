@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.calypso_radio_room
-place_id: calypso_radio_room
-name: "Calypso Radio Room"
-aliases: ["Calypso Radio Shack"]
-parent: odyssey_calypso
-entry_minutes: 1
-summary:
-  "A cramped radio shack on the upper deck: transceivers, logbooks, a kettle;
-  open to licensed students at all hours, quiet except for static."
+name: Calypso Radio Room
+aliases:
+  - Calypso Radio Shack
+summary: "A cramped radio shack on the upper deck: transceivers, logbooks, a kettle; open to licensed students at all hours, quiet except for static."
 renown: local
-map: { x: 1.997, y: 1.6674 }
+parent: odyssey_calypso
+place_id: calypso_radio_room
+entry_minutes: 1
+map:
+  x: 1.997
+  y: 1.6674
 ---
 
 # Calypso Radio Room

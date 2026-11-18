@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.festival_operations_department
-title: Festival Operations Department
-community: hyakkiyako_alliance_academy
+name: Festival Operations Department
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Festival Operations Department

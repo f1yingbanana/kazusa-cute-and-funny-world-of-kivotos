@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_maki
-place_id: room_maki
-name: "Maki's Room"
-parent: millennium_dorm_2w
-entry_minutes: 1
-summary:
-  "Room with every wall painted in murals, spray cans lined up by colour, a
-  console always on; unlocked."
+name: Maki's Room
+summary: Room with every wall painted in murals, spray cans lined up by colour, a console always on; unlocked.
 renown: private
+parent: millennium_dorm_2w
 backdrop: student-room
-map: { x: 2.8446, y: 1.7592 }
+place_id: room_maki
+entry_minutes: 1
+map:
+  x: 2.8446
+  y: 1.7592
 ---
 
 # Maki's Room

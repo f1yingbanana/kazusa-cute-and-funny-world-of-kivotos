@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_angel_24
-place_id: red_winter_angel_24
-name: "Angel 24, Red Winter 3rd Street Branch"
-aliases: ["3rd Street Angel 24"]
-parent: red_winter_3rd_street
-entry_minutes: 1
-summary:
-  "24-hour convenience store by the station square: instant noodles, hand
-  warmers, milk, ammo; the only lit shop on 3rd Street after 22:00."
+name: Angel 24, Red Winter 3rd Street Branch
+aliases:
+  - 3rd Street Angel 24
+summary: "24-hour convenience store by the station square: instant noodles, hand warmers, milk, ammo; the only lit shop on 3rd Street after 22:00."
+groups:
+  - angel_24
 renown: local
-community: angel_24
+parent: red_winter_3rd_street
 backdrop: convenience
-map: { x: 1.4337, y: 0.4345 }
+place_id: red_winter_angel_24
+entry_minutes: 1
+map:
+  x: 1.4337
+  y: 0.4345
 ---
 
 # Angel 24, Red Winter 3rd Street Branch

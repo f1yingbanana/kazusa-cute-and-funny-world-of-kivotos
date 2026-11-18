@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_white_tiger_park
-place_id: shanhaijing_white_tiger_park
-name: "White Tiger Park"
-parent: shanhaijing_school
-entry_minutes: 4
-summary:
-  "Inner-zone park with an open stage and lawns; morning exercise 06:30–07:30,
-  opera and performances on festival evenings; open 06:00–22:00."
+name: White Tiger Park
+summary: Inner-zone park with an open stage and lawns; morning exercise 06:30–07:30, opera and performances on festival evenings; open 06:00–22:00.
+groups:
+  - shanhaijing_senior_secondary_school
 renown: known
-community: shanhaijing_senior_secondary_school
-map: { x: 0.2142, y: 1.2586 }
+parent: shanhaijing_school
+place_id: shanhaijing_white_tiger_park
+entry_minutes: 4
+map:
+  x: 0.2142
+  y: 1.2586
 ---
 
 # White Tiger Park

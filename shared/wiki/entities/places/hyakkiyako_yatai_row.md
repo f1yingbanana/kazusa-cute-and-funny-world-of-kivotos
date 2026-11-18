@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_yatai_row
-place_id: hyakkiyako_yatai_row
-name: "Hyakkiyako Yatai Row"
-aliases: ["Hyakkiyako Food Stalls"]
-parent: hyakkiyako_shopping_district
-entry_minutes: 2
-summary:
-  "Side lane of food stalls: yakitori, takoyaki, ramen, shaved ice, cotton
-  candy; 17:00–23:00 daily, all day on festival days, crowded after 19:00."
+name: Hyakkiyako Yatai Row
+aliases:
+  - Hyakkiyako Food Stalls
+summary: "Side lane of food stalls: yakitori, takoyaki, ramen, shaved ice, cotton candy; 17:00–23:00 daily, all day on festival days, crowded after 19:00."
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
+parent: hyakkiyako_shopping_district
 backdrop: food-stall-street
-map: { x: 0.8901, y: 0.9262 }
+place_id: hyakkiyako_yatai_row
+entry_minutes: 2
+map:
+  x: 0.8901
+  y: 0.9262
 ---
 
 # Hyakkiyako Yatai Row

@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_pina
-place_id: room_pina
-name: "Pina's Room"
-parent: kawabata_upstairs
-entry_minutes: 1
-summary:
-  "Room by the stairs: yakuza film posters, a sake-cup set used for tea, a guide
-  flag and megaphone; door open, visitors welcome."
+name: Pina's Room
+summary: "Room by the stairs: yakuza film posters, a sake-cup set used for tea, a guide flag and megaphone; door open, visitors welcome."
 renown: private
+parent: kawabata_upstairs
 backdrop: tatami-room
-map: { x: 0.7869, y: 0.8023 }
+place_id: room_pina
+entry_minutes: 1
+map:
+  x: 0.7869
+  y: 0.8023
 ---
 
 # Pina's Room

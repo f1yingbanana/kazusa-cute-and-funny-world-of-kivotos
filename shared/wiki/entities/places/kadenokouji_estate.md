@@ -1,24 +1,25 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kadenokouji_estate
-place_id: kadenokouji_estate
-name: "Kadenokouji Estate"
-aliases: ["Kadenokouji Family Residence"]
-parent: hyakkiyako_district
-entry_minutes: 15
-summary:
-  "Walled hillside estate of the Kadenokouji shrine family: gardens, servants, a
-  resident doctor; gate staffed day and night, visitors by appointment."
+name: Kadenokouji Estate
+aliases:
+  - Kadenokouji Family Residence
+summary: "Walled hillside estate of the Kadenokouji shrine family: gardens, servants, a resident doctor; gate staffed day and night, visitors by appointment."
+groups:
+  - kadenokouji_family
 renown: known
-community: kadenokouji_family
+parent: hyakkiyako_district
+place_id: kadenokouji_estate
+entry_minutes: 15
 connections:
   - to: hyakkiyako_castle_square
     ways:
-      - { by: walk, minutes: 15 }
-      - { by: rickshaw, minutes: 8 }
-    note: "Down the hill road; the family keeps a rickshaw."
-map: { x: 0.7974, y: 0.8805 }
+      - by: walk
+        minutes: 15
+      - by: rickshaw
+        minutes: 8
+    note: Down the hill road; the family keeps a rickshaw.
+map:
+  x: 0.7974
+  y: 0.8805
 ---
 
 # Kadenokouji Estate

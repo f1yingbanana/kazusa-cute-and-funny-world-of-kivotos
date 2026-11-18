@@ -1,19 +1,19 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.highlander_control
-place_id: highlander_control
-name: "Central Control Center Operations Floor"
-aliases: ["CCC Operations Floor", "Highlander Dispatch Floor"]
-parent: highlander_school
-entry_minutes: 2
-summary:
-  "A dim room of screens tracking every train in Kivotos: dispatch desks,
-  radios, a snack drawer; staffed around the clock, frantic at rush hours."
+name: Central Control Center Operations Floor
+aliases:
+  - CCC Operations Floor
+  - Highlander Dispatch Floor
+summary: "A dim room of screens tracking every train in Kivotos: dispatch desks, radios, a snack drawer; staffed around the clock, frantic at rush hours."
+groups:
+  - highlander_control_center
 renown: known
-community: highlander_control_center
+parent: highlander_school
 backdrop: train-control-room-front
-map: { x: 1.6728, y: 1.4351 }
+place_id: highlander_control
+entry_minutes: 2
+map:
+  x: 1.6728
+  y: 1.4351
 ---
 
 # Central Control Center Operations Floor

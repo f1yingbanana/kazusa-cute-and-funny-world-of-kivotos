@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_sweets_cafe
-place_id: shanhaijing_sweets_cafe
-name: "Promenade Sweets Café"
-parent: shanhaijing_promenade
-entry_minutes: 1
-summary:
-  "Bright dessert café: mango pudding, egg tarts, a couples-only cheesecake day
-  each month; 10:00–21:00, crowded after 15:00."
+name: Promenade Sweets Café
+summary: "Bright dessert café: mango pudding, egg tarts, a couples-only cheesecake day each month; 10:00–21:00, crowded after 15:00."
+groups:
+  - xuanwu_merchant_association
 renown: known
-community: xuanwu_merchant_association
-map: { x: 0.4509, y: 1.193 }
+parent: shanhaijing_promenade
+place_id: shanhaijing_sweets_cafe
+entry_minutes: 1
+map:
+  x: 0.4509
+  y: 1.193
 ---
 
 # Promenade Sweets Café

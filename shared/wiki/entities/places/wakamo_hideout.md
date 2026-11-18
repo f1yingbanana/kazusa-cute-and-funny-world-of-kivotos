@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wakamo_hideout
-place_id: wakamo_hideout
-name: "Storehouse Loft on Kousagi Hill"
-parent: kousagi_hill
-entry_minutes: 6
-summary:
-  "Loft of a forgotten shrine storehouse up an overgrown path, its window facing
-  the SCHALE building; no lights, no lock but hers."
+name: Storehouse Loft on Kousagi Hill
+summary: Loft of a forgotten shrine storehouse up an overgrown path, its window facing the SCHALE building; no lights, no lock but hers.
 renown: private
-map: { x: 1.5336, y: 1.6157 }
+parent: kousagi_hill
+place_id: wakamo_hideout
+entry_minutes: 6
+map:
+  x: 1.5336
+  y: 1.6157
 ---
 
 # Storehouse Loft on Kousagi Hill

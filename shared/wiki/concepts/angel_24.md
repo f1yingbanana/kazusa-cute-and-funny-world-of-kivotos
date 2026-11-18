@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.angel_24
-title: "Angel 24"
+name: Angel 24
 renown: known
 ---
 

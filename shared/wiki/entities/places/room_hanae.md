@@ -1,18 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_hanae
-place_id: room_hanae
-name: "Hanae's Room"
-parent: trinity_old_quarters
-entry_minutes: 1
-summary:
-  "First-floor room with a working fireplace: potted morning glories on the
-  sill, pom-poms, a calisthenics chart, a first-aid kit as big as a suitcase;
-  locked."
+name: Hanae's Room
+summary: "First-floor room with a working fireplace: potted morning glories on the sill, pom-poms, a calisthenics chart, a first-aid kit as big as a suitcase; locked."
 renown: private
+parent: trinity_old_quarters
 backdrop: student-room
-map: { x: 0.8165, y: 2.2622 }
+place_id: room_hanae
+entry_minutes: 1
+map:
+  x: 0.8165
+  y: 2.2622
 ---
 
 # Hanae's Room

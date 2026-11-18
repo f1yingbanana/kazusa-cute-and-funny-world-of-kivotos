@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_chirp_supermarket
-place_id: gehenna_chirp_supermarket
-name: "Chirp Supermarket"
-parent: gehenna_shopping_district
-entry_minutes: 2
-summary:
-  "A neighbourhood supermarket with wholesale crates out back; open 07:00–23:00,
-  discount stickers after 20:00, the dining hall's bulk orders at dawn."
+name: Chirp Supermarket
+summary: A neighbourhood supermarket with wholesale crates out back; open 07:00–23:00, discount stickers after 20:00, the dining hall's bulk orders at dawn.
 renown: local
-map: { x: 1.5607, y: 2.7045 }
+parent: gehenna_shopping_district
+place_id: gehenna_chirp_supermarket
+entry_minutes: 2
+map:
+  x: 1.5607
+  y: 2.7045
 ---
 
 # Chirp Supermarket

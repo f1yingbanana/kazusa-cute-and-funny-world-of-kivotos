@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.red_winter_hot_springs
-title: "No. 227 Hot Spring Resort"
+name: No. 227 Hot Spring Resort
 renown: known
 ---
 

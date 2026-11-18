@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_yuuka
-place_id: room_yuuka
-name: "Yuuka's Room"
-parent: millennium_dorm_2e
-entry_minutes: 1
-summary:
-  "Orderly single room: ledger binders by fiscal quarter, an abacus on the
-  nightstand, a radio for sleepless nights; always locked."
+name: Yuuka's Room
+summary: "Orderly single room: ledger binders by fiscal quarter, an abacus on the nightstand, a radio for sleepless nights; always locked."
 renown: private
+parent: millennium_dorm_2e
 backdrop: student-room
-map: { x: 2.7883, y: 1.7856 }
+place_id: room_yuuka
+entry_minutes: 1
+map:
+  x: 2.7883
+  y: 1.7856
 ---
 
 # Yuuka's Room

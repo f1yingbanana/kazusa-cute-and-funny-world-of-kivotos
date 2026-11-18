@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_haruka
-place_id: room_haruka
-name: "Haruka's Room"
-parent: gehenna_hotaru_building
-entry_minutes: 1
-summary:
-  "A tiny rented room overflowing with potted weeds; unlocked, she apologises to
-  anyone who finds it."
+name: Haruka's Room
+summary: A tiny rented room overflowing with potted weeds; unlocked, she apologises to anyone who finds it.
+groups:
+  - problem_solver_68
 renown: private
-community: problem_solver_68
-map: { x: 1.6079, y: 2.6667 }
+parent: gehenna_hotaru_building
+place_id: room_haruka
+entry_minutes: 1
+map:
+  x: 1.6079
+  y: 2.6667
 ---
 
 # Haruka's Room

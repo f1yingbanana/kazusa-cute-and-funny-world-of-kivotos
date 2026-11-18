@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.pan_chan
-title: "Pan-chan"
+name: Pan-chan
 renown: known
 ---
 

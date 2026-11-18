@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_tsubaki
-place_id: room_tsubaki
-name: "Tsubaki's Room"
-parent: tsukimi_upstairs
-entry_minutes: 1
-summary:
-  "Blackout curtains and a nest of pillows of every firmness; door unlocked, she
-  sleeps through knocking."
+name: Tsubaki's Room
+summary: Blackout curtains and a nest of pillows of every firmness; door unlocked, she sleeps through knocking.
 renown: private
+parent: tsukimi_upstairs
 backdrop: tatami-room
-map: { x: 0.7657, y: 0.6941 }
+place_id: room_tsubaki
+entry_minutes: 1
+map:
+  x: 0.7657
+  y: 0.6941
 ---
 
 # Tsubaki's Room

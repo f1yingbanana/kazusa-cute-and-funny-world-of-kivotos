@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_mall
-place_id: millennium_mall
-name: "Prism Mall"
-parent: millennium_shopping_district
-entry_minutes: 2
-summary:
-  "Five floors of boutiques, a specialist tool shop, a supplement store, a
-  swimsuit shop and a food court; 10:00–21:00, packed on weekends."
+name: Prism Mall
+summary: Five floors of boutiques, a specialist tool shop, a supplement store, a swimsuit shop and a food court; 10:00–21:00, packed on weekends.
 renown: local
+parent: millennium_shopping_district
 backdrop: shopping-mall
-map: { x: 2.8538, y: 1.6782 }
+place_id: millennium_mall
+entry_minutes: 2
+map:
+  x: 2.8538
+  y: 1.6782
 ---
 
 # Prism Mall

@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.kivotos_currency
-title: Kivotos Currency
+name: Kivotos Currency
 renown: famous
 ---
 

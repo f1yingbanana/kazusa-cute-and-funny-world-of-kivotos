@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_otogi
-place_id: room_otogi
-name: "Otogi's Room"
-parent: schale_night_duty_corridor
-entry_minutes: 1
-summary:
-  "A small bedroom that often stands empty at night: a half-made bed, a desk of
-  opened electronics, a pile of strangers' gifts; never locked."
+name: Otogi's Room
+summary: "A small bedroom that often stands empty at night: a half-made bed, a desk of opened electronics, a pile of strangers' gifts; never locked."
 renown: private
+parent: schale_night_duty_corridor
 backdrop: student-room
-map: { x: 1.428, y: 1.711 }
+place_id: room_otogi
+entry_minutes: 1
+map:
+  x: 1.428
+  y: 1.711
 ---
 
 # Otogi's Room

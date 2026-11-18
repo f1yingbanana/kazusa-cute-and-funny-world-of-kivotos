@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.serenade_promenade
-title: "Serenade Promenade"
+name: Serenade Promenade
 renown: known
 ---
 

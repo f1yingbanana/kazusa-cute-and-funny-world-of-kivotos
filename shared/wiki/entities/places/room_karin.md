@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_karin
-place_id: room_karin
-name: "Karin's Room"
-parent: millennium_villa_lagrange
-entry_minutes: 1
-summary:
-  "Immaculate, minimal room: ironed maid uniforms, a rifle case under the bed,
-  flashcards for the next make-up exam; always locked."
+name: Karin's Room
+summary: "Immaculate, minimal room: ironed maid uniforms, a rifle case under the bed, flashcards for the next make-up exam; always locked."
 renown: private
+parent: millennium_villa_lagrange
 backdrop: student-room
-map: { x: 2.8529, y: 1.6061 }
+place_id: room_karin
+entry_minutes: 1
+map:
+  x: 2.8529
+  y: 1.6061
 ---
 
 # Karin's Room

@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_secretariat
-place_id: red_winter_secretariat
-name: "Red Winter Office Building"
-aliases: ["Red Winter Secretariat"]
-parent: red_winter_revolution_plaza
-entry_minutes: 1
-summary:
-  "The student government's columned building on Revolution Plaza: Presidential
-  Office, staff room, punch-card registry; open 08:00–18:00, State Guard on the
-  door day and night."
+name: Red Winter Office Building
+aliases:
+  - Red Winter Secretariat
+summary: "The student government's columned building on Revolution Plaza: Presidential Office, staff room, punch-card registry; open 08:00–18:00, State Guard on the door day and night."
+groups:
+  - red_winter_office
 renown: known
-community: red_winter_office
-map: { x: 1.4782, y: 0.284 }
+parent: red_winter_revolution_plaza
+place_id: red_winter_secretariat
+entry_minutes: 1
+map:
+  x: 1.4782
+  y: 0.284
 ---
 
 # Red Winter Office Building

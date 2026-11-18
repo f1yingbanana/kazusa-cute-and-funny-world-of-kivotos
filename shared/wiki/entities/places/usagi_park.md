@@ -1,18 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.usagi_park
-place_id: usagi_park
-name: "Kousagi Park"
-aliases: ["Usagi Park", "Bunny Park"]
+name: Kousagi Park
+aliases:
+  - Usagi Park
+  - Bunny Park
+summary: A hilly public park where RABBIT Squad keeps its tent camp; paths open at all hours, the camp is theirs.
+groups:
+  - srt_special_academy
 parent: kousagi_ward
-entry_minutes: 6
-summary:
-  "A hilly public park where RABBIT Squad keeps its tent camp; paths open at all
-  hours, the camp is theirs."
-community: srt_special_academy
 backdrop: park
-map: { x: 1.6238, y: 1.5791 }
+place_id: usagi_park
+entry_minutes: 6
+map:
+  x: 1.6238
+  y: 1.5791
 ---
 
 # Usagi Park

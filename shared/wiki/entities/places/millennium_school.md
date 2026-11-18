@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_school
-place_id: millennium_school
-name: "Millennium Science School Campus"
-aliases: ["Millennium Science School grounds"]
-parent: millennium_district
-entry_minutes: 6
-summary:
-  "Millennium's campus of glass towers and labs around the Tower and the Square;
-  gates 06:00–23:00, ID card after hours; busiest 08:00–08:30 and 16:00–18:00."
+name: Millennium Science School Campus
+aliases:
+  - Millennium Science School grounds
+summary: Millennium's campus of glass towers and labs around the Tower and the Square; gates 06:00–23:00, ID card after hours; busiest 08:00–08:30 and 16:00–18:00.
+groups:
+  - millennium_science_school
 renown: famous
-community: millennium_science_school
+parent: millennium_district
 backdrop: millennium-campus
-map: { x: 2.6974, y: 1.6456 }
+place_id: millennium_school
+entry_minutes: 6
+map:
+  x: 2.6974
+  y: 1.6456
 ---
 
 # Millennium Science School Campus

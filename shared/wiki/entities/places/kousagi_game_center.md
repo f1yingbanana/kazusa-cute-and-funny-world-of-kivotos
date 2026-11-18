@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kousagi_game_center
-place_id: kousagi_game_center
-name: "Kousagi Game Center"
+name: Kousagi Game Center
+summary: Three floors of cranes, rhythm and fighting games; open 10:00–23:00, students crowd it after 16:00.
 parent: kousagi_station_street
-entry_minutes: 1
-summary:
-  "Three floors of cranes, rhythm and fighting games; open 10:00–23:00, students
-  crowd it after 16:00."
 backdrop: arcade
-map: { x: 1.5475, y: 1.6772 }
+place_id: kousagi_game_center
+entry_minutes: 1
+map:
+  x: 1.5475
+  y: 1.6772
 ---
 
 # Kousagi Game Center

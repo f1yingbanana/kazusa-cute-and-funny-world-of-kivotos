@@ -1,17 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_bell_tower
-place_id: trinity_bell_tower
-name: "Trinity Bell Tower"
-parent: trinity_academic_hall
-entry_minutes: 2
-summary:
-  "Bell tower above the Academic Hall: a steep stair to a windy gallery
-  overlooking all Trinity; officially closed, but the door's lock has been
-  broken for years."
+name: Trinity Bell Tower
+summary: "Bell tower above the Academic Hall: a steep stair to a windy gallery overlooking all Trinity; officially closed, but the door's lock has been broken for years."
 renown: local
-map: { x: 0.9211, y: 2.5426 }
+parent: trinity_academic_hall
+place_id: trinity_bell_tower
+entry_minutes: 2
+map:
+  x: 0.9211
+  y: 2.5426
 ---
 
 # Trinity Bell Tower

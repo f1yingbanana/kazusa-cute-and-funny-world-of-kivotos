@@ -1,18 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_moe
-place_id: room_moe
-name: "Moe's Tent"
-parent: rabbit_tent_row
-entry_minutes: 1
-summary:
-  "A tent fenced by crates and cables: a stickered laptop, a candy-wrapper
-  drift, a framed photo of an explosion; unlocked, but booby-trapped on
-  principle."
+name: Moe's Tent
+summary: "A tent fenced by crates and cables: a stickered laptop, a candy-wrapper drift, a framed photo of an explosion; unlocked, but booby-trapped on principle."
 renown: private
+parent: rabbit_tent_row
 backdrop: tent-inside
-map: { x: 1.5702, y: 1.5975 }
+place_id: room_moe
+entry_minutes: 1
+map:
+  x: 1.5702
+  y: 1.5975
 ---
 
 # Moe's Tent

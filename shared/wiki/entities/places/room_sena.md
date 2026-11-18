@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_sena
-place_id: room_sena
-name: "Sena's Room"
-parent: gehenna_dorm13_4f
-entry_minutes: 1
-summary:
-  "A spare room with a labelled medicine cabinet and a radio scanner on all
-  night; locked, emptied in a hurry when an alert comes."
+name: Sena's Room
+summary: A spare room with a labelled medicine cabinet and a radio scanner on all night; locked, emptied in a hurry when an alert comes.
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_4f
 backdrop: student-room
-map: { x: 1.468, y: 2.5982 }
+place_id: room_sena
+entry_minutes: 1
+map:
+  x: 1.468
+  y: 2.5982
 ---
 
 # Sena's Room

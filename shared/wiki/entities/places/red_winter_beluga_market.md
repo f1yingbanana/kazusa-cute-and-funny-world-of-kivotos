@@ -1,17 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_beluga_market
-place_id: red_winter_beluga_market
-name: "Beluga Market"
-parent: red_winter_3rd_street
-entry_minutes: 3
-summary:
-  "Old open-air market at the end of 3rd Street: students' handmade goods, fish,
-  berries, cleaning supplies, salvaged parts; 07:00–16:00, crowded Saturday
-  mornings."
+name: Beluga Market
+summary: "Old open-air market at the end of 3rd Street: students' handmade goods, fish, berries, cleaning supplies, salvaged parts; 07:00–16:00, crowded Saturday mornings."
 renown: known
-map: { x: 1.4147, y: 0.4296 }
+parent: red_winter_3rd_street
+place_id: red_winter_beluga_market
+entry_minutes: 3
+map:
+  x: 1.4147
+  y: 0.4296
 ---
 
 # Beluga Market

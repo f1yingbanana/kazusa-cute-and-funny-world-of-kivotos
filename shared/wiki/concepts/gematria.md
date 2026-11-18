@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.gematria
-title: "Gematria"
+name: Gematria
 renown: known
 ---
 

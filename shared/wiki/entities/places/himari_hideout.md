@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.himari_hideout
-place_id: himari_hideout
-name: "Clubhouse Annex Room 13"
-parent: millennium_clubhouse_annex
-entry_minutes: 1
-summary:
-  "An unused club room booked on paper to a defunct club; keypad lock, blinds
-  always down, a soft light on behind them."
+name: Clubhouse Annex Room 13
+summary: An unused club room booked on paper to a defunct club; keypad lock, blinds always down, a soft light on behind them.
+groups:
+  - paranormal_affairs_department
 renown: private
-community: paranormal_affairs_department
-map: { x: 2.6706, y: 1.5811 }
+parent: millennium_clubhouse_annex
+place_id: himari_hideout
+entry_minutes: 1
+map:
+  x: 2.6706
+  y: 1.5811
 ---
 
 # Clubhouse Annex Room 13

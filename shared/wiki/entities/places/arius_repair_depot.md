@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_repair_depot
-place_id: arius_repair_depot
-name: "Arius Repair Depot"
-parent: arius_lantern_street
-entry_minutes: 2
-summary:
-  "The repair crews' yard: scaffolding, generators, a site office posting paid
-  day jobs for students; 07:00–18:00, Valkyrie and Trinity crews."
+name: Arius Repair Depot
+summary: "The repair crews' yard: scaffolding, generators, a site office posting paid day jobs for students; 07:00–18:00, Valkyrie and Trinity crews."
+groups:
+  - arius_reconstruction
 renown: local
-community: arius_reconstruction
-map: { x: 0.4971, y: 2.7228 }
+parent: arius_lantern_street
+place_id: arius_repair_depot
+entry_minutes: 2
+map:
+  x: 0.4971
+  y: 2.7228
 ---
 
 # Arius Repair Depot

@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_rabu
-place_id: room_rabu
-name: "Rabu's Room"
-parent: slumpia_haunted_mansion
-entry_minutes: 1
-summary:
-  "The ride's old control booth: a cot, a rack of buffed helmets, a jar of coins
-  from under vending machines; door wedged shut from inside at night."
+name: Rabu's Room
+summary: "The ride's old control booth: a cot, a rack of buffed helmets, a jar of coins from under vending machines; door wedged shut from inside at night."
 renown: private
-map: { x: 1.8384, y: 1.5531 }
+parent: slumpia_haunted_mansion
+place_id: room_rabu
+entry_minutes: 1
+map:
+  x: 1.8384
+  y: 1.5531
 ---
 
 # Rabu's Room

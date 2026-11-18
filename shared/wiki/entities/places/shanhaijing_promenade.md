@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_promenade
-place_id: shanhaijing_promenade
-name: "Black Tortoise Promenade"
-aliases: ["Xuanwu Promenade"]
-parent: shanhaijing_entrance
-entry_minutes: 2
-summary:
-  "Shanhaijing's famous gourmet street run by the merchant association:
-  restaurants, noodles, sweets, a dawn market; 06:00–23:00, packed at lunch and
-  dinner."
+name: Black Tortoise Promenade
+aliases:
+  - Xuanwu Promenade
+summary: "Shanhaijing's famous gourmet street run by the merchant association: restaurants, noodles, sweets, a dawn market; 06:00–23:00, packed at lunch and dinner."
+groups:
+  - xuanwu_merchant_association
 renown: famous
-community: xuanwu_merchant_association
-map: { x: 0.4412, y: 1.1938 }
+parent: shanhaijing_entrance
+place_id: shanhaijing_promenade
+entry_minutes: 2
+map:
+  x: 0.4412
+  y: 1.1938
 ---
 
 # Black Tortoise Promenade

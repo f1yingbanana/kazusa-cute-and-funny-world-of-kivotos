@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_erina
-place_id: room_erina
-name: "Erina Niki's Room"
-parent: red_winter_facility_183
-entry_minutes: 1
-summary:
-  "A messy room down the hall: a chem bench that doubles as a stove, heaps of
-  salvaged fashion magazines, tissue boxes, resin snowflakes on the sill; never
-  tidy."
+name: Erina Niki's Room
+summary: "A messy room down the hall: a chem bench that doubles as a stove, heaps of salvaged fashion magazines, tissue boxes, resin snowflakes on the sill; never tidy."
+groups:
+  - red_winter_special_class_183
 renown: private
-community: red_winter_special_class_183
-map: { x: 1.3183, y: 0.3803 }
+parent: red_winter_facility_183
+place_id: room_erina
+entry_minutes: 1
+map:
+  x: 1.3183
+  y: 0.3803
 ---
 
 # Erina Niki's Room

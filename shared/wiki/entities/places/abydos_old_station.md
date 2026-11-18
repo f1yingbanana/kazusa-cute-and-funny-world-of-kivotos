@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_old_station
-place_id: abydos_old_station
-name: "Old Desert Line Station"
-aliases: ["Abydos old station", "Abydos Central Station Old Building"]
-parent: abydos_desert
-entry_minutes: 30
-summary:
-  "The first Abydos Central Station building, abandoned to the dunes when the
-  line was cut back to the suburbs; rails half buried, Highlander survey crews
-  now and then. No trains, no water."
+name: Old Desert Line Station
+aliases:
+  - Abydos old station
+  - Abydos Central Station Old Building
+summary: The first Abydos Central Station building, abandoned to the dunes when the line was cut back to the suburbs; rails half buried, Highlander survey crews now and then. No trains, no water.
 renown: local
+parent: abydos_desert
 backdrop: desert-railway
-map: { x: 2.6206, y: 2.6905 }
+place_id: abydos_old_station
+entry_minutes: 30
+map:
+  x: 2.6206
+  y: 2.6905
 ---
 
 # Old Desert Line Station

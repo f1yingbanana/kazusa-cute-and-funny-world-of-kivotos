@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.calypso_galley
-place_id: calypso_galley
-name: "Calypso Galley"
-aliases: ["Calypso Kitchen"]
-parent: odyssey_calypso
-entry_minutes: 1
-summary:
-  "The berthing ship's small galley and mess table; residents cook their own
-  breakfasts and late snacks; open until 22:00, smells of soup."
+name: Calypso Galley
+aliases:
+  - Calypso Kitchen
+summary: The berthing ship's small galley and mess table; residents cook their own breakfasts and late snacks; open until 22:00, smells of soup.
 renown: local
-map: { x: 1.9925, y: 1.6486 }
+parent: odyssey_calypso
+place_id: calypso_galley
+entry_minutes: 1
+map:
+  x: 1.9925
+  y: 1.6486
 ---
 
 # Calypso Galley

@@ -1,16 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_227_roof
-place_id: red_winter_227_roof
-name: "Former Institute Roof"
+name: Former Institute Roof
+summary: Flat snowy roof above the treeline with a clear sky to the south; telescope tripod marks in the snow; windy and bitterly cold after dark.
+groups:
+  - special_class_227
 parent: red_winter_spec227
+place_id: red_winter_227_roof
 entry_minutes: 2
-summary:
-  "Flat snowy roof above the treeline with a clear sky to the south; telescope
-  tripod marks in the snow; windy and bitterly cold after dark."
-community: special_class_227
-map: { x: 1.3625, y: 0.4763 }
+map:
+  x: 1.3625
+  y: 0.4763
 ---
 
 # Former Institute Roof

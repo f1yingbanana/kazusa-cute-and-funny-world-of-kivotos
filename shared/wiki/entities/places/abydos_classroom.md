@@ -1,20 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_classroom
-place_id: abydos_classroom
-name: "Abydos Combined Classroom"
-aliases: ["Abydos all-years classroom"]
-parent: abydos_main_building
-entry_minutes: 1
-summary:
-  "The only classroom still used, five desks pushed together by the window for
-  all three years. Lessons 09:00–15:00 on weekdays, mostly self-study from
-  textbooks and coursework."
+name: Abydos Combined Classroom
+aliases:
+  - Abydos all-years classroom
+summary: The only classroom still used, five desks pushed together by the window for all three years. Lessons 09:00–15:00 on weekdays, mostly self-study from textbooks and coursework.
+groups:
+  - abydos_high_school
 renown: local
-community: abydos_high_school
+parent: abydos_main_building
 backdrop: abydos-meeting-room
-map: { x: 2.7231, y: 2.6638 }
+place_id: abydos_classroom
+entry_minutes: 1
+map:
+  x: 2.7231
+  y: 2.6638
 ---
 
 # Abydos Combined Classroom

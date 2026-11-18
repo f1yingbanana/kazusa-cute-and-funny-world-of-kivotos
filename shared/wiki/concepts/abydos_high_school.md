@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.abydos_high_school
-title: "Abydos High School"
-community: kivotos_overview
+name: Abydos High School
+groups:
+  - kivotos_overview
 renown: known
 ---
 

@@ -1,21 +1,20 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.labor_party_bunkhouse_canteen
-place_id: labor_party_bunkhouse_canteen
-name: "Labor Party Bunkhouse Canteen"
+name: Labor Party Bunkhouse Canteen
+summary: "Long-table canteen on the bunkhouse ground floor: breakfast 06:30, dinner 18:00, union meetings after; its back door opens onto the reconstruction site."
+groups:
+  - red_winter_public_works
 parent: labor_party_bunkhouse
+place_id: labor_party_bunkhouse_canteen
 entry_minutes: 1
-summary:
-  "Long-table canteen on the bunkhouse ground floor: breakfast 06:30, dinner
-  18:00, union meetings after; its back door opens onto the reconstruction site."
-community: red_winter_public_works
 connections:
   - to: shiratori_reconstruction
     ways:
-      - { by: walk, minutes: 3 }
-    note: "Out the back door and through the site fence."
-map: { x: 1.9004, y: 1.5179 }
+      - by: walk
+        minutes: 3
+    note: Out the back door and through the site fence.
+map:
+  x: 1.9004
+  y: 1.5179
 ---
 
 # Labor Party Bunkhouse Canteen

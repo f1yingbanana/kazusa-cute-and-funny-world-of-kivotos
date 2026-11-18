@@ -1,33 +1,34 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_old_quarters
-place_id: trinity_old_quarters
-name: "Old Living Quarters"
-parent: trinity_residential
-entry_minutes: 10
-summary:
-  "Old, half-empty brick dorm at the far end of the quarter: fireplace room,
-  creaky stairs, rats in the walls; door locked 21:30–06:00, strict roll call at
-  21:30."
+name: Old Living Quarters
+summary: "Old, half-empty brick dorm at the far end of the quarter: fireplace room, creaky stairs, rats in the walls; door locked 21:30–06:00, strict roll call at 21:30."
+groups:
+  - trinity_general_school
 renown: local
-community: trinity_general_school
+parent: trinity_residential
+backdrop: dormitory
+place_id: trinity_old_quarters
+entry_minutes: 10
 connections:
   - to: school_gate
     ways:
-      - { by: walk, minutes: 12 }
-      - { by: bike, minutes: 5 }
-    note: "The long way up through the quarter to the main gate."
+      - by: walk
+        minutes: 12
+      - by: bike
+        minutes: 5
+    note: The long way up through the quarter to the main gate.
   - to: trinity_hospital
     ways:
-      - { by: walk, minutes: 3 }
-    note: "Across the lane; handy for Knights on shift."
+      - by: walk
+        minutes: 3
+    note: Across the lane; handy for Knights on shift.
   - to: church_street
     ways:
-      - { by: walk, minutes: 10 }
-    note: "Down the back lane past the hospital wall to Trinity Street."
-backdrop: dormitory
-map: { x: 0.8139, y: 2.2715 }
+      - by: walk
+        minutes: 10
+    note: Down the back lane past the hospital wall to Trinity Street.
+map:
+  x: 0.8139
+  y: 2.2715
 ---
 
 # Old Living Quarters

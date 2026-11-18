@@ -1,31 +1,32 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_dormitory
-place_id: millennium_dormitory
-name: "Millennium Dormitory"
-parent: millennium_district
-entry_minutes: 8
-summary:
-  "Student dormitory across the footbridge from campus; front door 06:00–23:30,
-  later entry by ID card and logged; quiet hours 23:00–07:00, no roll call."
+name: Millennium Dormitory
+summary: Student dormitory across the footbridge from campus; front door 06:00–23:30, later entry by ID card and logged; quiet hours 23:00–07:00, no roll call.
+groups:
+  - millennium_science_school
 renown: known
-community: millennium_science_school
+parent: millennium_district
+backdrop: dormitory
+place_id: millennium_dormitory
+entry_minutes: 8
 connections:
   - to: millennium_school
     ways:
-      - { by: walk, minutes: 4 }
-    note: "Over the footbridge to the campus north gate."
+      - by: walk
+        minutes: 4
+    note: Over the footbridge to the campus north gate.
   - to: millennium_shopping_district
     ways:
-      - { by: walk, minutes: 6 }
-    note: "Down the hill to the shops and the station."
+      - by: walk
+        minutes: 6
+    note: Down the hill to the shops and the station.
   - to: millennium_district_park
     ways:
-      - { by: walk, minutes: 7 }
-    note: "The jogging route past the canal."
-backdrop: dormitory
-map: { x: 2.8137, y: 1.764 }
+      - by: walk
+        minutes: 7
+    note: The jogging route past the canal.
+map:
+  x: 2.8137
+  y: 1.764
 ---
 
 # Millennium Dormitory

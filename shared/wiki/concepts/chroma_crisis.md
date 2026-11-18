@@ -1,10 +1,9 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.chroma_crisis
-title: The Chroma Crisis
-aliases: [Where All Miracles Begin]
-community: abydos_high_school
+name: The Chroma Crisis
+aliases:
+  - Where All Miracles Begin
+groups:
+  - abydos_high_school
 ---
 
 # The Chroma Crisis

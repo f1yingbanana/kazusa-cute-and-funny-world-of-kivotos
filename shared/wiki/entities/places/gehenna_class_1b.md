@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_class_1b
-place_id: gehenna_class_1b
-name: "Gehenna Class 1-B"
-parent: gehenna_first_building
-entry_minutes: 1
-summary:
-  "A first-year homeroom: homeroom 08:40, classes until 15:50; a third of the
-  seats empty on any given day, more after lunch."
+name: Gehenna Class 1-B
+summary: "A first-year homeroom: homeroom 08:40, classes until 15:50; a third of the seats empty on any given day, more after lunch."
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
+parent: gehenna_first_building
 backdrop: gehenna-classroom
-map: { x: 1.4804, y: 2.8312 }
+place_id: gehenna_class_1b
+entry_minutes: 1
+map:
+  x: 1.4804
+  y: 2.8312
 ---
 
 # Gehenna Class 1-B

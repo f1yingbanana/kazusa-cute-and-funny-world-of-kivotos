@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kousagi_hill
-place_id: kousagi_hill
-name: "Kousagi Hill"
+name: Kousagi Hill
+summary: "The wooded hill behind Kousagi Park: a hiking trail, foraging spots and an abandoned house; no lights after dark."
 parent: kousagi_ward
+place_id: kousagi_hill
 entry_minutes: 10
-summary:
-  "The wooded hill behind Kousagi Park: a hiking trail, foraging spots and an
-  abandoned house; no lights after dark."
-map: { x: 1.5275, y: 1.6232 }
+map:
+  x: 1.5275
+  y: 1.6232
 ---
 
 # Kousagi Hill

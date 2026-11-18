@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_maid_cafe
-place_id: millennium_maid_cafe
-name: "Cafe Maidramatic!"
-parent: millennium_shopping_district
-entry_minutes: 2
-summary:
-  "Maid café above a game shop; 11:00–22:00, student maids work evening shifts,
-  photo packages extra."
+name: Cafe Maidramatic!
+summary: Maid café above a game shop; 11:00–22:00, student maids work evening shifts, photo packages extra.
 renown: local
-map: { x: 2.8427, y: 1.664 }
+parent: millennium_shopping_district
+place_id: millennium_maid_cafe
+entry_minutes: 2
+map:
+  x: 2.8427
+  y: 1.664
 ---
 
 # Cafe Maidramatic!

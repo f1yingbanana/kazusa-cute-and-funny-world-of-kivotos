@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.lotus_court_courtyard
-place_id: lotus_court_courtyard
-name: "Lotus Court Courtyard"
-parent: shanhaijing_lotus_court
-entry_minutes: 1
-summary:
-  "The dorm's shared courtyard: a well, washing lines, a stone table, a communal
-  stove under the eaves; open until the 23:00 lock."
+name: Lotus Court Courtyard
+summary: "The dorm's shared courtyard: a well, washing lines, a stone table, a communal stove under the eaves; open until the 23:00 lock."
+groups:
+  - shanhaijing_senior_secondary_school
 renown: local
-community: shanhaijing_senior_secondary_school
-map: { x: 0.2918, y: 1.1639 }
+parent: shanhaijing_lotus_court
+place_id: lotus_court_courtyard
+entry_minutes: 1
+map:
+  x: 0.2918
+  y: 1.1639
 ---
 
 # Lotus Court Courtyard

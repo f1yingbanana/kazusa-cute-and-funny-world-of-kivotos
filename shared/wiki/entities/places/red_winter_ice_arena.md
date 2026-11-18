@@ -1,23 +1,21 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_ice_arena
-place_id: red_winter_ice_arena
-name: "Red Winter Ice Arena"
-parent: red_winter_district
-entry_minutes: 7
-summary:
-  "Hockey arena with wooden stands: team practice on weekdays, matches Friday
-  18:00 and Sunday 15:00 with packed, rowdy stands; public skating 10:00–16:00
-  on Saturdays."
+name: Red Winter Ice Arena
+summary: "Hockey arena with wooden stands: team practice on weekdays, matches Friday 18:00 and Sunday 15:00 with packed, rowdy stands; public skating 10:00–16:00 on Saturdays."
+groups:
+  - red_winter_federal_academy
 renown: known
-community: red_winter_federal_academy
+parent: red_winter_district
+place_id: red_winter_ice_arena
+entry_minutes: 7
 connections:
   - to: red_winter_3rd_street
     ways:
-      - { by: walk, minutes: 4 }
-    note: "Past the station square to the arcade."
-map: { x: 1.4005, y: 0.3703 }
+      - by: walk
+        minutes: 4
+    note: Past the station square to the arcade.
+map:
+  x: 1.4005
+  y: 0.3703
 ---
 
 # Red Winter Ice Arena

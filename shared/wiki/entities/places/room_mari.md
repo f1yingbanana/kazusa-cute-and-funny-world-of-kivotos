@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_mari
-place_id: room_mari
-name: "Mari's Room"
-parent: trinity_cathedral_cloister
-entry_minutes: 1
-summary:
-  "A neat, sparse cell with a prayer corner and a small box of cute hair
-  accessories she tells herself she shouldn't keep; locked."
+name: Mari's Room
+summary: A neat, sparse cell with a prayer corner and a small box of cute hair accessories she tells herself she shouldn't keep; locked.
 renown: private
-map: { x: 0.9584, y: 2.4183 }
+parent: trinity_cathedral_cloister
+place_id: room_mari
+entry_minutes: 1
+map:
+  x: 0.9584
+  y: 2.4183
 ---
 
 # Mari's Room

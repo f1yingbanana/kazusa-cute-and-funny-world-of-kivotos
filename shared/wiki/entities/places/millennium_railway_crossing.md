@@ -1,22 +1,20 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_railway_crossing
-place_id: millennium_railway_crossing
-name: "Euler Heights Railway Crossing"
-parent: millennium_euler_heights
-entry_minutes: 2
-summary:
-  "Level crossing on Millennium's railway between Euler Heights and campus;
-  barriers come down every few minutes at rush hour."
+name: Euler Heights Railway Crossing
+summary: Level crossing on Millennium's railway between Euler Heights and campus; barriers come down every few minutes at rush hour.
 renown: local
+parent: millennium_euler_heights
+backdrop: railway-crossing
+place_id: millennium_railway_crossing
+entry_minutes: 2
 connections:
   - to: millennium_school
     ways:
-      - { by: walk, minutes: 7 }
-    note: "Over the crossing and up to the south gate."
-backdrop: railway-crossing
-map: { x: 2.847, y: 1.6198 }
+      - by: walk
+        minutes: 7
+    note: Over the crossing and up to the south gate.
+map:
+  x: 2.847
+  y: 1.6198
 ---
 
 # Euler Heights Railway Crossing

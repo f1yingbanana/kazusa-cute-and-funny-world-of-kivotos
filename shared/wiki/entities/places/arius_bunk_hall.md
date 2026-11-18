@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_bunk_hall
-place_id: arius_bunk_hall
-name: "Nicomedia Barracks Bunk Hall"
-parent: arius_barracks
-entry_minutes: 1
-summary:
-  "The juniors' long bunk room: rows of beds, footlockers, a stove in the
-  middle. Noisy until lights out at 22:00."
+name: Nicomedia Barracks Bunk Hall
+summary: "The juniors' long bunk room: rows of beds, footlockers, a stove in the middle. Noisy until lights out at 22:00."
 renown: local
-map: { x: 0.5236, y: 2.762 }
+parent: arius_barracks
+place_id: arius_bunk_hall
+entry_minutes: 1
+map:
+  x: 0.5236
+  y: 2.762
 ---
 
 # Nicomedia Barracks Bunk Hall

@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kokoro
-place_id: room_kokoro
-name: "Kokoro's Cabin"
-parent: odyssey_calypso
-entry_minutes: 1
-summary:
-  "A two-berth cabin she has to herself: diving gear hung in checklist order, a
-  twice-laminated pre-dive checklist, a small pan; locked, and checked twice."
+name: Kokoro's Cabin
+summary: "A two-berth cabin she has to herself: diving gear hung in checklist order, a twice-laminated pre-dive checklist, a small pan; locked, and checked twice."
 renown: private
-map: { x: 2.0035, y: 1.6566 }
+parent: odyssey_calypso
+place_id: room_kokoro
+entry_minutes: 1
+map:
+  x: 2.0035
+  y: 1.6566
 ---
 
 # Kokoro's Cabin

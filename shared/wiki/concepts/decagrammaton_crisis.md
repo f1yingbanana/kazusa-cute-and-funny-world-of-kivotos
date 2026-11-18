@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.decagrammaton_crisis
-title: Decagrammaton and the Steel Continent
-community: millennium_science_school
+name: Decagrammaton and the Steel Continent
+groups:
+  - millennium_science_school
 ---
 
 # Decagrammaton and the Steel Continent

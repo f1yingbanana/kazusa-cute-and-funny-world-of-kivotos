@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_class_3b
-place_id: millennium_class_3b
-name: "Millennium Class 3-B"
-parent: millennium_lecture_building
-entry_minutes: 1
-summary:
-  "Third-year homeroom on the fourth floor; classes 08:30–15:30 on weekdays, but
-  half the class is usually away on research or club work."
+name: Millennium Class 3-B
+summary: Third-year homeroom on the fourth floor; classes 08:30–15:30 on weekdays, but half the class is usually away on research or club work.
+groups:
+  - millennium_science_school
 renown: local
-community: millennium_science_school
+parent: millennium_lecture_building
 backdrop: classroom
-map: { x: 2.6969, y: 1.6166 }
+place_id: millennium_class_3b
+entry_minutes: 1
+map:
+  x: 2.6969
+  y: 1.6166
 ---
 
 # Millennium Class 3-B

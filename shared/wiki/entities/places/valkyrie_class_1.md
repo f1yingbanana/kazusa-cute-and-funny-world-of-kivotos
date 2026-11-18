@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_class_1
-place_id: valkyrie_class_1
-name: "Valkyrie Class 1-A"
-parent: valkyrie_lecture_building
-entry_minutes: 1
-summary:
-  "The first-years' homeroom: procedure posters, a radio on the teacher's desk;
-  homeroom 08:40, noisy at lunch, empty after 15:00."
+name: Valkyrie Class 1-A
+summary: "The first-years' homeroom: procedure posters, a radio on the teacher's desk; homeroom 08:40, noisy at lunch, empty after 15:00."
 renown: local
-map: { x: 1.85, y: 1.4534 }
+parent: valkyrie_lecture_building
+place_id: valkyrie_class_1
+entry_minutes: 1
+map:
+  x: 1.85
+  y: 1.4534
 ---
 
 # Valkyrie Class 1-A

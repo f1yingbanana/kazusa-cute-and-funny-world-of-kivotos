@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_dorm_4
-place_id: valkyrie_dorm_4
-name: "Valkyrie Assigned Dormitory 4"
-aliases: ["Valkyrie Dorm Four"]
-parent: valkyrie_school
-entry_minutes: 3
-summary:
-  "A numbered-room dorm for bureau officers: door code at all hours, curfew
-  23:00 with signed exemptions for night duty, roll call 06:30."
+name: Valkyrie Assigned Dormitory 4
+aliases:
+  - Valkyrie Dorm Four
+summary: "A numbered-room dorm for bureau officers: door code at all hours, curfew 23:00 with signed exemptions for night duty, roll call 06:30."
+groups:
+  - valkyrie_police_academy
 renown: local
-community: valkyrie_police_academy
-map: { x: 1.8906, y: 1.4416 }
+parent: valkyrie_school
+place_id: valkyrie_dorm_4
+entry_minutes: 3
+map:
+  x: 1.8906
+  y: 1.4416
 ---
 
 # Valkyrie Assigned Dormitory 4

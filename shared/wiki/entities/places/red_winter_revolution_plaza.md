@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_revolution_plaza
-place_id: red_winter_revolution_plaza
-name: "Red Mustache Revolution Plaza"
-aliases: ["Red Winter Plaza"]
-parent: red_winter_school
-entry_minutes: 2
-summary:
-  "Broad snowy square of the Office Building and the radio tower, around a
-  floodlit statue of the president; rallies at noon, Book Festival in season;
-  busiest 12:00–13:00."
+name: Red Mustache Revolution Plaza
+aliases:
+  - Red Winter Plaza
+summary: Broad snowy square of the Office Building and the radio tower, around a floodlit statue of the president; rallies at noon, Book Festival in season; busiest 12:00–13:00.
+groups:
+  - red_winter_federal_academy
 renown: known
-community: red_winter_federal_academy
-map: { x: 1.4971, y: 0.2946 }
+parent: red_winter_school
+place_id: red_winter_revolution_plaza
+entry_minutes: 2
+map:
+  x: 1.4971
+  y: 0.2946
 ---
 
 # Red Mustache Revolution Plaza

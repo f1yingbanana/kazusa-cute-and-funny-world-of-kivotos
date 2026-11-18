@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.foreclosure_task_force
-title: "Foreclosure Task Force"
-community: abydos_high_school
+name: Foreclosure Task Force
+groups:
+  - abydos_high_school
 ---
 
 # Foreclosure Task Force

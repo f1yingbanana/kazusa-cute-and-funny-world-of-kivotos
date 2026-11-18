@@ -1,15 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.haruhabara
-place_id: haruhabara
-name: "Haruhabara Electric Town"
-aliases: ["Haruhabara Electric Street", "Haru Habara"]
-summary:
-  "Kivotos's electronics and otaku town between D.U. and Millennium: parts
-  shops, game stores, maid cafés; most shops 10:00–21:00."
+name: Haruhabara Electric Town
+aliases:
+  - Haruhabara Electric Street
+  - Haru Habara
+summary: "Kivotos's electronics and otaku town between D.U. and Millennium: parts shops, game stores, maid cafés; most shops 10:00–21:00."
 renown: famous
-map: { x: 2.36, y: 2.1 }
+place_id: haruhabara
+map:
+  x: 2.36
+  y: 2.1
 ---
 
 # Haruhabara Electric Town

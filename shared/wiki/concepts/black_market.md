@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.black_market
-title: "Black Market"
+name: Black Market
 renown: known
 ---
 

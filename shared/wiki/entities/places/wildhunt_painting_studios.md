@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_painting_studios
-place_id: wildhunt_painting_studios
-name: "Wild Hunt Painting Studios"
-parent: wildhunt_art_center
-entry_minutes: 1
-summary:
-  "Long north-lit studios of easels and drying racks, smelling of turpentine;
-  classes 09:00–15:00, open to students until 21:00."
+name: Wild Hunt Painting Studios
+summary: Long north-lit studios of easels and drying racks, smelling of turpentine; classes 09:00–15:00, open to students until 21:00.
+groups:
+  - wild_hunt_academy
 renown: local
-community: wild_hunt_academy
+parent: wildhunt_art_center
 backdrop: atelier
-map: { x: 0.6149, y: 1.6842 }
+place_id: wildhunt_painting_studios
+entry_minutes: 1
+map:
+  x: 0.6149
+  y: 1.6842
 ---
 
 # Wild Hunt Painting Studios

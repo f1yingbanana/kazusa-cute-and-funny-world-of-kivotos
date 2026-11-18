@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_barracks_washroom
-place_id: arius_barracks_washroom
-name: "Nicomedia Barracks Washroom"
-parent: arius_barracks
-entry_minutes: 1
-summary:
-  "Shared washroom and laundry tubs; hot water 06:00–07:00 and 20:00–21:30 only,
-  queues before roll call."
+name: Nicomedia Barracks Washroom
+summary: Shared washroom and laundry tubs; hot water 06:00–07:00 and 20:00–21:30 only, queues before roll call.
 renown: local
-map: { x: 0.5274, y: 2.7786 }
+parent: arius_barracks
+place_id: arius_barracks_washroom
+entry_minutes: 1
+map:
+  x: 0.5274
+  y: 2.7786
 ---
 
 # Nicomedia Barracks Washroom

@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_station
+name: Wild Hunt Station
+summary: Western Line terminus in the canal town outside the fortress; trains to D.U. Central every 15 minutes, 05:30–23:30.
+backdrop: train-station
 place_id: wildhunt_station
-name: "Wild Hunt Station"
-summary:
-  "Western Line terminus in the canal town outside the fortress; trains to D.U.
-  Central every 15 minutes, 05:30–23:30."
-map: { x: 1.04, y: 1.66 }
 connections:
   - to: wildhunt_district
     ways:
-      - { by: walk, minutes: 8 }
-    note: "Along the canal to town."
-backdrop: train-station
+      - by: walk
+        minutes: 8
+    note: Along the canal to town.
+map:
+  x: 1.04
+  y: 1.66
 ---
 
 # Wild Hunt Station

@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_class_3_1
-place_id: red_winter_class_3_1
-name: "Red Winter Class 3-1"
+name: Red Winter Class 3-1
+summary: Third-year homeroom on the third floor beside the stairwell, where the student government sits in front; class 08:30–15:30 on weekdays, often interrupted by announcements.
+groups:
+  - red_winter_federal_academy
 parent: red_winter_main_building
+place_id: red_winter_class_3_1
 entry_minutes: 1
-summary:
-  "Third-year homeroom on the third floor beside the stairwell, where the
-  student government sits in front; class 08:30–15:30 on weekdays, often
-  interrupted by announcements."
-community: red_winter_federal_academy
-map: { x: 1.515, y: 0.3537 }
+map:
+  x: 1.515
+  y: 0.3537
 ---
 
 # Red Winter Class 3-1

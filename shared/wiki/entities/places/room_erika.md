@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_erika
-place_id: room_erika
-name: "Erika Hatami's Room"
-parent: gehenna_dorm13_4f
-entry_minutes: 1
-summary:
-  "A room of catalogue stacks and a clothing rail, with a window seat facing the
-  sky; locked when she wants time alone."
+name: Erika Hatami's Room
+summary: A room of catalogue stacks and a clothing rail, with a window seat facing the sky; locked when she wants time alone.
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_4f
 backdrop: student-room
-map: { x: 1.4582, y: 2.5936 }
+place_id: room_erika
+entry_minutes: 1
+map:
+  x: 1.4582
+  y: 2.5936
 ---
 
 # Erika Hatami's Room

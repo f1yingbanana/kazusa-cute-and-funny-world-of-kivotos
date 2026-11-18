@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_izumi
-place_id: room_izumi
-name: "Izumi's Room"
-parent: gehenna_dorm13_2f
-entry_minutes: 1
-summary:
-  "A cluttered room full of odd condiments and a packed cooler box; door often
-  unlocked, smells vary."
+name: Izumi's Room
+summary: A cluttered room full of odd condiments and a packed cooler box; door often unlocked, smells vary.
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_2f
 backdrop: student-room
-map: { x: 1.4906, y: 2.5927 }
+place_id: room_izumi
+entry_minutes: 1
+map:
+  x: 1.4906
+  y: 2.5927
 ---
 
 # Izumi's Room

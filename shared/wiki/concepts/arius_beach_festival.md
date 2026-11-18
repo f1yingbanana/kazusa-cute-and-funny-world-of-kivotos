@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.arius_beach_festival
-title: "Arius Squad at the Beach Festival"
-community: arius_satellite_school
+name: Arius Squad at the Beach Festival
+groups:
+  - arius_satellite_school
 ---
 
 # Arius Squad at the Beach Festival

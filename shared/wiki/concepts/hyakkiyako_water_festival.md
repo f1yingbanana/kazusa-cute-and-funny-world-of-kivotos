@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.hyakkiyako_water_festival
-title: "Hyakkiyako Water Festival"
-community: hyakkiyako_alliance_academy
+name: Hyakkiyako Water Festival
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Hyakkiyako Water Festival

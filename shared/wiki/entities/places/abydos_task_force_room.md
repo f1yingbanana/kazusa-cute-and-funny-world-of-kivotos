@@ -1,20 +1,19 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_task_force_room
-place_id: abydos_task_force_room
-name: "Abydos Foreclosure Task Force Room"
-aliases: ["Abydos club room", "Countermeasures Committee room"]
-parent: abydos_main_building
-entry_minutes: 1
-summary:
-  "Second-floor club room: whiteboard of debt figures, long table, snack shelf,
-  a sofa that's rarely free. Busy after 15:00 and most weekends; someone often
-  naps here at lunch."
+name: Abydos Foreclosure Task Force Room
+aliases:
+  - Abydos club room
+  - Countermeasures Committee room
+summary: "Second-floor club room: whiteboard of debt figures, long table, snack shelf, a sofa that's rarely free. Busy after 15:00 and most weekends; someone often naps here at lunch."
+groups:
+  - foreclosure_task_force
 renown: local
-community: foreclosure_task_force
+parent: abydos_main_building
 backdrop: abydos-task-force-room
-map: { x: 2.7173, y: 2.6716 }
+place_id: abydos_task_force_room
+entry_minutes: 1
+map:
+  x: 2.7173
+  y: 2.6716
 ---
 
 # Abydos Foreclosure Task Force Room

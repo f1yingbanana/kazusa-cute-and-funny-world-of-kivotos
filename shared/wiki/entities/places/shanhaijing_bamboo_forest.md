@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_bamboo_forest
-place_id: shanhaijing_bamboo_forest
-name: "Shanhaijing Bamboo Forest"
-parent: shanhaijing_district
-entry_minutes: 18
-summary:
-  "Dense bamboo forest beyond the walls; narrow paths, green dusk at noon, no
-  lights; pass holders only, easy to get lost."
+name: Shanhaijing Bamboo Forest
+summary: Dense bamboo forest beyond the walls; narrow paths, green dusk at noon, no lights; pass holders only, easy to get lost.
+groups:
+  - shanhaijing_senior_secondary_school
 renown: known
-community: shanhaijing_senior_secondary_school
+parent: shanhaijing_district
 backdrop: bamboo-forest
-map: { x: 0.292, y: 1.194 }
+place_id: shanhaijing_bamboo_forest
+entry_minutes: 18
+map:
+  x: 0.292
+  y: 1.194
 ---
 
 # Shanhaijing Bamboo Forest

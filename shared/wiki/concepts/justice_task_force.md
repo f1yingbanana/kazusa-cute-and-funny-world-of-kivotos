@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.justice_task_force
-title: Justice Task Force
-community: trinity_general_school
+name: Justice Task Force
+groups:
+  - trinity_general_school
 ---
 
 # Justice Task Force

@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.mandrake_complex
-place_id: mandrake_complex
-name: "Mandrake Complex"
+name: Mandrake Complex
+summary: A secondhand chain of collectibles, manga and retro games in a maze of narrow floors; open 11:00–20:00.
 parent: haruhabara
+place_id: mandrake_complex
 entry_minutes: 5
-summary:
-  "A secondhand chain of collectibles, manga and retro games in a maze of narrow
-  floors; open 11:00–20:00."
-map: { x: 2.3512, y: 2.1041 }
+map:
+  x: 2.3512
+  y: 2.1041
 ---
 
 # Mandrake Complex

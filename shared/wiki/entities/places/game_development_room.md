@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.game_development_room
-place_id: game_development_room
-name: "Game Development Department Club Room"
-parent: millennium_clubhouse
-entry_minutes: 1
-summary:
-  "Cramped club room of consoles, monitors and a red sofa; one member sleeps
-  here and a locker doubles as a hideout; noisy until late most nights."
+name: Game Development Department Club Room
+summary: Cramped club room of consoles, monitors and a red sofa; one member sleeps here and a locker doubles as a hideout; noisy until late most nights.
+groups:
+  - game_development_department
 renown: known
-community: game_development_department
+parent: millennium_clubhouse
 backdrop: game-dev-room
-map: { x: 2.6411, y: 1.5727 }
+place_id: game_development_room
+entry_minutes: 1
+map:
+  x: 2.6411
+  y: 1.5727
 ---
 
 # Game Development Department Club Room

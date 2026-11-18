@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.hyakkaryouran_resolution_council
-title: Hyakkaryouran Resolution Council
-community: hyakkiyako_alliance_academy
+name: Hyakkaryouran Resolution Council
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Hyakkaryouran Resolution Council

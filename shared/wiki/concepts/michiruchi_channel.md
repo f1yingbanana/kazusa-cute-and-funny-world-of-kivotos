@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.michiruchi_channel
-title: "Michiruchi: A Girl’s Ninja Scroll"
+name: "Michiruchi: A Girl’s Ninja Scroll"
 renown: known
 ---
 

@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.black_market_job_board
-place_id: black_market_job_board
-name: "Black Market Job Board"
+name: Black Market Job Board
+summary: "A wall of pinned job postings outside a broker's office: guard work, deliveries, demolition; the broker takes a cut, 10:00–22:00."
 parent: black_market_district
+place_id: black_market_job_board
 entry_minutes: 3
-summary:
-  "A wall of pinned job postings outside a broker's office: guard work,
-  deliveries, demolition; the broker takes a cut, 10:00–22:00."
-map: { x: 2.1217, y: 2.9104 }
+map:
+  x: 2.1217
+  y: 2.9104
 ---
 
 # Black Market Job Board

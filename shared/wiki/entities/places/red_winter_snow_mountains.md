@@ -1,20 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_snow_mountains
-place_id: red_winter_snow_mountains
-name: "Red Winter Snow Mountains"
-aliases: ["Red Winter taiga"]
-parent: red_winter_district
-entry_minutes: 40
-summary:
-  "Snowy taiga and mountain roads beyond the outskirts: forestry depots, a
-  security post, the No. 183 facility; bears, whiteouts, easy to get lost after
-  dark."
+name: Red Winter Snow Mountains
+aliases:
+  - Red Winter taiga
+summary: "Snowy taiga and mountain roads beyond the outskirts: forestry depots, a security post, the No. 183 facility; bears, whiteouts, easy to get lost after dark."
+groups:
+  - red_winter_federal_academy
 renown: known
-community: red_winter_federal_academy
+parent: red_winter_district
 backdrop: winter-field
-map: { x: 1.3439, y: 0.395 }
+place_id: red_winter_snow_mountains
+entry_minutes: 40
+map:
+  x: 1.3439
+  y: 0.395
 ---
 
 # Red Winter Snow Mountains

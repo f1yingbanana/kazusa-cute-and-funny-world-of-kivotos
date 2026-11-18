@@ -1,17 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_district
-place_id: hyakkiyako_district
-name: "Hyakkiyako District"
-aliases: ["Hyakkiyako town"]
-summary:
-  "Lantern-lit streets, wooden shopfronts and cherry trees around Hyakkiyako's
-  castle keep; tourists all day, a festival most weeks, rickshaws until 22:00."
+name: Hyakkiyako District
+aliases:
+  - Hyakkiyako town
+summary: Lantern-lit streets, wooden shopfronts and cherry trees around Hyakkiyako's castle keep; tourists all day, a festival most weeks, rickshaws until 22:00.
+groups:
+  - hyakkiyako_alliance_academy
 renown: famous
-community: hyakkiyako_alliance_academy
-map: { x: 0.82, y: 0.88 }
 backdrop: hyakkiyako-square-street
+place_id: hyakkiyako_district
+map:
+  x: 0.82
+  y: 0.88
 ---
 
 # Hyakkiyako District

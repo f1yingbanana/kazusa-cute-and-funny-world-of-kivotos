@@ -1,19 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_station
+name: Millennium Station
+summary: Eastern Line terminus and Millennium's own railway, with the campus monorail upstairs; trains to Haruhabara and D.U. every 10 minutes, 05:00–00:30.
+backdrop: train-station
 place_id: millennium_station
-name: "Millennium Station"
-summary:
-  "Eastern Line terminus and Millennium's own railway, with the campus monorail
-  upstairs; trains to Haruhabara and D.U. every 10 minutes, 05:00–00:30."
-map: { x: 2.5, y: 1.76 }
 connections:
   - to: millennium_district
     ways:
-      - { by: walk, minutes: 4 }
-    note: "Out to the district's streets."
-backdrop: train-station
+      - by: walk
+        minutes: 4
+    note: Out to the district's streets.
+map:
+  x: 2.5
+  y: 1.76
 ---
 
 # Millennium Station

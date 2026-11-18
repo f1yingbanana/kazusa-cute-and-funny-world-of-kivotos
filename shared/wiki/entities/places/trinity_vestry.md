@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_vestry
-place_id: trinity_vestry
-name: "Trinity Cathedral Vestry"
-parent: trinity_sisterhood
-entry_minutes: 1
-summary:
-  "Sisterhood offices and confessional behind the altar; counselling by
-  appointment 15:30–18:00; storerooms and closed halls beyond, keys held by the
-  cathedral's manager."
+name: Trinity Cathedral Vestry
+summary: Sisterhood offices and confessional behind the altar; counselling by appointment 15:30–18:00; storerooms and closed halls beyond, keys held by the cathedral's manager.
+groups:
+  - sisterhood
 renown: local
-community: sisterhood
-map: { x: 0.9655, y: 2.4368 }
+parent: trinity_sisterhood
+place_id: trinity_vestry
+entry_minutes: 1
+map:
+  x: 0.9655
+  y: 2.4368
 ---
 
 # Trinity Cathedral Vestry

@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.plum_blossom_garden
-title: Plum Blossom Garden
-community: shanhaijing_senior_secondary_school
+name: Plum Blossom Garden
+groups:
+  - shanhaijing_senior_secondary_school
 ---
 
 # Plum Blossom Garden

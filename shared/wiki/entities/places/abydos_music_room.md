@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_music_room
-place_id: abydos_music_room
-name: "Abydos Music Room"
-parent: abydos_annex
-entry_minutes: 1
-summary:
-  "An unused music room with an old upright piano still roughly in tune, chairs
-  stacked against the wall; empty most days, sand in the corners."
+name: Abydos Music Room
+summary: An unused music room with an old upright piano still roughly in tune, chairs stacked against the wall; empty most days, sand in the corners.
 renown: local
-map: { x: 2.6783, y: 2.6632 }
+parent: abydos_annex
+place_id: abydos_music_room
+entry_minutes: 1
+map:
+  x: 2.6783
+  y: 2.6632
 ---
 
 # Abydos Music Room

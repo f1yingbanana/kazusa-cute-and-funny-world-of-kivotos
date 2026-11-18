@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_paranormal_office
-place_id: millennium_paranormal_office
-name: "Super Phenomenon Task Force Room"
-aliases: ["Paranormal Affairs Office"]
-parent: millennium_clubhouse
-entry_minutes: 1
-summary:
-  "Operations room of the Paranormal Affairs Department: anomaly maps, a sickbed
-  recliner, a thermostat fought over daily; members only, quiet before noon."
+name: Super Phenomenon Task Force Room
+aliases:
+  - Paranormal Affairs Office
+summary: "Operations room of the Paranormal Affairs Department: anomaly maps, a sickbed recliner, a thermostat fought over daily; members only, quiet before noon."
+groups:
+  - paranormal_affairs_department
 renown: local
-community: paranormal_affairs_department
+parent: millennium_clubhouse
 backdrop: occult-room
-map: { x: 2.658, y: 1.5971 }
+place_id: millennium_paranormal_office
+entry_minutes: 1
+map:
+  x: 2.658
+  y: 1.5971
 ---
 
 # Super Phenomenon Task Force Room

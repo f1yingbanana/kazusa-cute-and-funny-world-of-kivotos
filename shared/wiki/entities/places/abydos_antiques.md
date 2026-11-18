@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_antiques
-place_id: abydos_antiques
-name: "Hourglass Antiques"
-parent: abydos_suburban_town
-entry_minutes: 1
-summary:
-  "Cluttered antique and junk dealer that buys salvage, scrap and old books;
-  10:00–18:00, closed Sundays. The owner appraises slowly and haggles slower."
+name: Hourglass Antiques
+summary: Cluttered antique and junk dealer that buys salvage, scrap and old books; 10:00–18:00, closed Sundays. The owner appraises slowly and haggles slower.
 renown: local
-map: { x: 2.6412, y: 2.6612 }
+parent: abydos_suburban_town
+place_id: abydos_antiques
+entry_minutes: 1
+map:
+  x: 2.6412
+  y: 2.6612
 ---
 
 # Hourglass Antiques

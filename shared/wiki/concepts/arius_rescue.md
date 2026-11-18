@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.arius_rescue
-title: "Rescue at Arius Basilica"
-community: arius_satellite_school
+name: Rescue at Arius Basilica
+groups:
+  - arius_satellite_school
 ---
 
 # Rescue at Arius Basilica

@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_piazza
-place_id: wildhunt_piazza
-name: "Wild Hunt Statue Piazza"
-aliases: ["Purple Statue Square"]
-parent: wildhunt_school
-entry_minutes: 2
-summary:
-  "The central square round a purple statue everyone uses as a meeting point;
-  benches, the refectory, the academy store. Busy 12:00–13:30 and after class."
+name: Wild Hunt Statue Piazza
+aliases:
+  - Purple Statue Square
+summary: The central square round a purple statue everyone uses as a meeting point; benches, the refectory, the academy store. Busy 12:00–13:30 and after class.
+groups:
+  - wild_hunt_academy
 renown: known
-community: wild_hunt_academy
+parent: wildhunt_school
 backdrop: wildhunt-campus-plaza
-map: { x: 0.6301, y: 1.715 }
+place_id: wildhunt_piazza
+entry_minutes: 2
+map:
+  x: 0.6301
+  y: 1.715
 ---
 
 # Wild Hunt Statue Piazza

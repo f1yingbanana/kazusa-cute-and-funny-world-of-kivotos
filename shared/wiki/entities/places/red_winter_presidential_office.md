@@ -1,19 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_presidential_office
-place_id: red_winter_presidential_office
-name: "Red Winter Presidential Office"
-parent: red_winter_secretariat
-entry_minutes: 1
-summary:
-  "The president's office: a huge desk on a riser, a pudding fridge, medals in
-  glass cases; State Guard at the door; busy 09:00–17:00, a nap hour after
-  lunch."
+name: Red Winter Presidential Office
+summary: "The president's office: a huge desk on a riser, a pudding fridge, medals in glass cases; State Guard at the door; busy 09:00–17:00, a nap hour after lunch."
+groups:
+  - red_winter_office
 renown: known
-community: red_winter_office
+parent: red_winter_secretariat
 backdrop: cherino-office
-map: { x: 1.4687, y: 0.2825 }
+place_id: red_winter_presidential_office
+entry_minutes: 1
+map:
+  x: 1.4687
+  y: 0.2825
 ---
 
 # Red Winter Presidential Office

@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.false_president_accounts
-title: "Accounts of the False President"
+name: Accounts of the False President
 renown: known
 ---
 

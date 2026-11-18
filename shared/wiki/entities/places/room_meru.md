@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_meru
-place_id: room_meru
-name: "Meru's Room"
-parent: red_winter_first_dorm_upstairs
-entry_minutes: 1
-summary:
-  "A cluttered third-floor room of sketchbooks, screentone scraps and convention
-  badges; a curtained corkboard nobody may see; thin walls; locked when out."
+name: Meru's Room
+summary: A cluttered third-floor room of sketchbooks, screentone scraps and convention badges; a curtained corkboard nobody may see; thin walls; locked when out.
+groups:
+  - red_winter_federal_academy
 renown: private
-community: red_winter_federal_academy
+parent: red_winter_first_dorm_upstairs
 backdrop: student-room
-map: { x: 1.3589, y: 0.3411 }
+place_id: room_meru
+entry_minutes: 1
+map:
+  x: 1.3589
+  y: 0.3411
 ---
 
 # Meru's Room

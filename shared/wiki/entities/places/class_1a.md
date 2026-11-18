@@ -1,17 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.class_1a
-place_id: class_1a
-name: "Trinity Class 1-A"
+name: Trinity Class 1-A
+summary: First-year homeroom on the Academic Hall's ground floor, windows over the Rose Courtyard; homeroom 08:30, lessons until 15:20; left unlocked at lunch, locked at 19:00.
 parent: trinity_academic_hall
-entry_minutes: 1
-summary:
-  "First-year homeroom on the Academic Hall's ground floor, windows over the
-  Rose Courtyard; homeroom 08:30, lessons until 15:20; left unlocked at lunch,
-  locked at 19:00."
 backdrop: trinity-classroom
-map: { x: 0.9157, y: 2.5345 }
+place_id: class_1a
+entry_minutes: 1
+map:
+  x: 0.9157
+  y: 2.5345
 ---
 
 # Trinity Class 1-A

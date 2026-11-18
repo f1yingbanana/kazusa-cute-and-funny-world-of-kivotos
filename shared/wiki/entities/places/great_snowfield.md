@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.great_snowfield
-place_id: great_snowfield
-name: "Great Snowfield"
-parent: ebisu_district
-entry_minutes: 35
-summary:
-  "Endless white plain north of the farms; no roads, whiteouts without warning,
-  no shelter; people have been lost here for good."
+name: Great Snowfield
+summary: Endless white plain north of the farms; no roads, whiteouts without warning, no shelter; people have been lost here for good.
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
+parent: ebisu_district
 backdrop: winter-field
-map: { x: 0.8972, y: 0.387 }
+place_id: great_snowfield
+entry_minutes: 35
+map:
+  x: 0.8972
+  y: 0.387
 ---
 
 # Great Snowfield

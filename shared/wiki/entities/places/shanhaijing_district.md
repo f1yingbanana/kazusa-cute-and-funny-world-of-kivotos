@@ -1,17 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_district
-place_id: shanhaijing_district
-name: "Shanhaijing District"
-aliases: ["Shanhaijing town"]
-summary:
-  "Tiled roofs and pavilions behind Shanhaijing's walls at the foot of Kunlun
-  Mountain; outsiders only in the restaurant-lined entrance compounds."
+name: Shanhaijing District
+aliases:
+  - Shanhaijing town
+summary: Tiled roofs and pavilions behind Shanhaijing's walls at the foot of Kunlun Mountain; outsiders only in the restaurant-lined entrance compounds.
+groups:
+  - shanhaijing_senior_secondary_school
 renown: famous
-community: shanhaijing_senior_secondary_school
-map: { x: 0.3, y: 1.2 }
 backdrop: shanhaijing-street
+place_id: shanhaijing_district
+map:
+  x: 0.3
+  y: 1.2
 ---
 
 # Shanhaijing District

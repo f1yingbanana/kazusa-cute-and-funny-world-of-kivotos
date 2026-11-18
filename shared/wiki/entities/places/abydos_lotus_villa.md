@@ -1,26 +1,24 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_lotus_villa
-place_id: abydos_lotus_villa
-name: "Lotus Court Villa"
-parent: abydos_town
-entry_minutes: 10
-summary:
-  "A restored two-storey villa on the last green street: air-conditioned,
-  spotless, hedges trimmed. Gate locked at night; one resident, a family butler
-  calls now and then."
+name: Lotus Court Villa
+summary: "A restored two-storey villa on the last green street: air-conditioned, spotless, hedges trimmed. Gate locked at night; one resident, a family butler calls now and then."
 renown: local
+parent: abydos_town
+place_id: abydos_lotus_villa
+entry_minutes: 10
 connections:
   - to: abydos_school
     ways:
-      - { by: walk, minutes: 12 }
-    note: "Along the green street and up to the school gate."
+      - by: walk
+        minutes: 12
+    note: Along the green street and up to the school gate.
   - to: abydos_suburban_town
     ways:
-      - { by: walk, minutes: 8 }
-    note: "Downhill to the shops."
-map: { x: 2.6377, y: 2.6333 }
+      - by: walk
+        minutes: 8
+    note: Downhill to the shops.
+map:
+  x: 2.6377
+  y: 2.6333
 ---
 
 # Lotus Court Villa

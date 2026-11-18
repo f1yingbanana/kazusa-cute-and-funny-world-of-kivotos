@@ -1,22 +1,21 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_kawabata_house
-place_id: hyakkiyako_kawabata_house
-name: "Kawabata Boarding House"
-parent: hyakkiyako_shirakawa_quarter
-entry_minutes: 3
-summary:
-  "Rickety two-storey boarding house next to the bathhouse; tenants rent their
-  own rooms, keys to the gate, no curfew, landlady locks the front at 23:00."
+name: Kawabata Boarding House
+summary: Rickety two-storey boarding house next to the bathhouse; tenants rent their own rooms, keys to the gate, no curfew, landlady locks the front at 23:00.
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
+parent: hyakkiyako_shirakawa_quarter
+place_id: hyakkiyako_kawabata_house
+entry_minutes: 3
 connections:
   - to: hyakkiyako_castle_square
     ways:
-      - { by: walk, minutes: 9 }
-    note: "Along the moat path to Castle Square and the academy gate."
-map: { x: 0.7915, y: 0.8142 }
+      - by: walk
+        minutes: 9
+    note: Along the moat path to Castle Square and the academy gate.
+map:
+  x: 0.7915
+  y: 0.8142
 ---
 
 # Kawabata Boarding House

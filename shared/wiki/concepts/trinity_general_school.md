@@ -1,9 +1,7 @@
 ---
-wiki_id: trinity_general_school
-title: Trinity General School
-category: academy_lore
-tags: [trinity, tea_party, sisterhood, justice_task_force, culture]
-community: kivotos_overview
+name: Trinity General School
+groups:
+  - kivotos_overview
 renown: known
 ---
 
@@ -42,3 +40,8 @@ Between classes, Trinity students frequent the manicured campus courtyards,
 Victorian-style dormitories, and patisseries lining Church Street. Afternoon tea
 and freshly baked confections are an essential cultural ritual across all social
 tiers.
+
+## Details
+
+- Category: academy_lore
+- Tags: trinity, tea_party, sisterhood, justice_task_force, culture

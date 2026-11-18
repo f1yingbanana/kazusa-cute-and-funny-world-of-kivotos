@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.alabaster_calling_card
-title: "Alabaster Calling Card"
+name: Alabaster Calling Card
 renown: known
 ---
 

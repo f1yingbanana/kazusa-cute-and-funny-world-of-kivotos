@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.paranormal_affairs_department
-title: Paranormal Affairs Department
-community: millennium_science_school
+name: Paranormal Affairs Department
+groups:
+  - millennium_science_school
 ---
 
 # Paranormal Affairs Department

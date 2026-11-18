@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.sukeban_gangs
-title: "Sukeban Gangs"
+name: Sukeban Gangs
 renown: known
 ---
 

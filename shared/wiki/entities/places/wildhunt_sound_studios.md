@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_sound_studios
-place_id: wildhunt_sound_studios
-name: "Wild Hunt Sound Studios"
-parent: wildhunt_art_center
-entry_minutes: 1
-summary:
-  "Soundproofed booths and rehearsal rooms for music and voice acting; booked by
-  the hour 08:00–21:00. One booth's lock has been broken for years."
+name: Wild Hunt Sound Studios
+summary: Soundproofed booths and rehearsal rooms for music and voice acting; booked by the hour 08:00–21:00. One booth's lock has been broken for years.
+groups:
+  - wild_hunt_academy
 renown: local
-community: wild_hunt_academy
-map: { x: 0.6362, y: 1.6798 }
+parent: wildhunt_art_center
+place_id: wildhunt_sound_studios
+entry_minutes: 1
+map:
+  x: 0.6362
+  y: 1.6798
 ---
 
 # Wild Hunt Sound Studios

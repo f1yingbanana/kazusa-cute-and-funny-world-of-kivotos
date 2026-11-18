@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_cathedral_garden
-place_id: trinity_cathedral_garden
-name: "Trinity Cathedral Garden"
-aliases: ["Cathedral back park"]
-parent: trinity_sisterhood
-entry_minutes: 2
-summary:
-  "The Sisterhood's walled park behind the cathedral: lawns, old trees, a quiet
-  training ground; Sisters and their guests only, gate locked at dusk."
+name: Trinity Cathedral Garden
+aliases:
+  - Cathedral back park
+summary: "The Sisterhood's walled park behind the cathedral: lawns, old trees, a quiet training ground; Sisters and their guests only, gate locked at dusk."
+groups:
+  - sisterhood
 renown: local
-community: sisterhood
-map: { x: 0.9494, y: 2.4275 }
+parent: trinity_sisterhood
+place_id: trinity_cathedral_garden
+entry_minutes: 2
+map:
+  x: 0.9494
+  y: 2.4275
 ---
 
 # Trinity Cathedral Garden

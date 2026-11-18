@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_hq_building
-place_id: valkyrie_hq_building
-name: "Valkyrie Headquarters Building"
-aliases: ["Valkyrie Bureau Building"]
-parent: valkyrie_school
-entry_minutes: 2
-summary:
-  "Four floors of bureau offices around a stairwell of notice boards; lights on
-  somewhere at every hour, rival bureaus share the lifts."
+name: Valkyrie Headquarters Building
+aliases:
+  - Valkyrie Bureau Building
+summary: Four floors of bureau offices around a stairwell of notice boards; lights on somewhere at every hour, rival bureaus share the lifts.
+groups:
+  - valkyrie_police_academy
 renown: local
-community: valkyrie_police_academy
+parent: valkyrie_school
 backdrop: valkyrie-office
-map: { x: 1.8855, y: 1.4832 }
+place_id: valkyrie_hq_building
+entry_minutes: 2
+map:
+  x: 1.8855
+  y: 1.4832
 ---
 
 # Valkyrie Headquarters Building

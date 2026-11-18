@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.masked_swimsuit_gang
-title: "Masked Swimsuit Gang"
-community: abydos_high_school
+name: Masked Swimsuit Gang
+groups:
+  - abydos_high_school
 ---
 
 # Masked Swimsuit Gang

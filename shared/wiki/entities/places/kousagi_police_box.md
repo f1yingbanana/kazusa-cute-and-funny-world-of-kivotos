@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kousagi_police_box
-place_id: kousagi_police_box
-name: "Kousagi Station Police Box"
+name: Kousagi Station Police Box
+summary: Valkyrie's small police box in front of Kousagi Station; staffed 09:00–18:00, otherwise a phone on the wall.
 parent: kousagi_station_street
+place_id: kousagi_police_box
 entry_minutes: 1
-summary:
-  "Valkyrie's small police box in front of Kousagi Station; staffed 09:00–18:00,
-  otherwise a phone on the wall."
-map: { x: 1.5352, y: 1.6917 }
+map:
+  x: 1.5352
+  y: 1.6917
 ---
 
 # Kousagi Station Police Box

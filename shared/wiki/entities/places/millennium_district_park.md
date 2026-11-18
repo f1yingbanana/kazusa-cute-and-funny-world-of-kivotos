@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_district_park
-place_id: millennium_district_park
-name: "Millennium District Park"
-parent: millennium_district
-entry_minutes: 8
-summary:
-  "Big public park of lawns, jogging loops and a pond; always open, joggers at
-  dawn, families on weekends, couples on the benches at dusk."
+name: Millennium District Park
+summary: Big public park of lawns, jogging loops and a pond; always open, joggers at dawn, families on weekends, couples on the benches at dusk.
 renown: known
+parent: millennium_district
 backdrop: park
-map: { x: 2.8495, y: 1.712 }
+place_id: millennium_district_park
+entry_minutes: 8
+map:
+  x: 2.8495
+  y: 1.712
 ---
 
 # Millennium District Park

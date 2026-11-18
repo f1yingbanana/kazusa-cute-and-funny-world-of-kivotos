@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_old_dining_hall
-place_id: gehenna_old_dining_hall
-name: "Gehenna Old Dining Hall"
-parent: gehenna_abandoned_building
-entry_minutes: 1
-summary:
-  "The closed old dining hall, its kitchen still working: an unauthorised food
-  lab for gourmet experiments; used evenings and weekends, smells of something."
+name: Gehenna Old Dining Hall
+summary: "The closed old dining hall, its kitchen still working: an unauthorised food lab for gourmet experiments; used evenings and weekends, smells of something."
+groups:
+  - gourmet_research_society
 renown: local
-community: gourmet_research_society
-map: { x: 1.5229, y: 2.8066 }
+parent: gehenna_abandoned_building
+place_id: gehenna_old_dining_hall
+entry_minutes: 1
+map:
+  x: 1.5229
+  y: 2.8066
 ---
 
 # Gehenna Old Dining Hall

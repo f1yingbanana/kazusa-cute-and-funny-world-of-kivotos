@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_hangar
-place_id: schale_hangar
-name: "SCHALE Hangar"
-aliases: ["SCHALE heliport"]
+name: SCHALE Hangar
+aliases:
+  - SCHALE heliport
+summary: Vehicle hangar and rooftop heliport for SCHALE's cars, tanks and helicopters; staff and invited students only.
 parent: schale_office
-entry_minutes: 3
-summary:
-  "Vehicle hangar and rooftop heliport for SCHALE's cars, tanks and helicopters;
-  staff and invited students only."
 backdrop: hangar
-map: { x: 1.3936, y: 1.6442 }
+place_id: schale_hangar
+entry_minutes: 3
+map:
+  x: 1.3936
+  y: 1.6442
 ---
 
 # SCHALE Hangar

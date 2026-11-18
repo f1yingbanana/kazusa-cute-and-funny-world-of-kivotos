@@ -1,19 +1,19 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.odyssey_school
-place_id: odyssey_school
-name: "Odyssey Fleet Berth, Port Terminal 3"
-aliases: ["Port Terminal 3", "Odyssey fleet"]
-parent: kanesaki_port
-entry_minutes: 6
-summary:
-  "Odyssey Maritime School's ships moored at Port Terminal 3; gangways guarded,
-  visitors sign in at the terminal office."
+name: Odyssey Fleet Berth, Port Terminal 3
+aliases:
+  - Port Terminal 3
+  - Odyssey fleet
+summary: Odyssey Maritime School's ships moored at Port Terminal 3; gangways guarded, visitors sign in at the terminal office.
+groups:
+  - odyssey_school
 renown: known
-community: odyssey_school
+parent: kanesaki_port
 backdrop: odyssey-wharf
-map: { x: 1.9869, y: 1.6355 }
+place_id: odyssey_school
+entry_minutes: 6
+map:
+  x: 1.9869
+  y: 1.6355
 ---
 
 # Odyssey Fleet Berth, Port Terminal 3

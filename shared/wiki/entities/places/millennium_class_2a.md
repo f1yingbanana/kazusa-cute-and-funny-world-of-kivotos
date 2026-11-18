@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_class_2a
-place_id: millennium_class_2a
-name: "Millennium Class 2-A"
-parent: millennium_lecture_building
-entry_minutes: 1
-summary:
-  "Second-year homeroom on the third floor; classes 08:30–15:30 on weekdays,
-  quiet in the mornings, emptying fast at the bell."
+name: Millennium Class 2-A
+summary: Second-year homeroom on the third floor; classes 08:30–15:30 on weekdays, quiet in the mornings, emptying fast at the bell.
+groups:
+  - millennium_science_school
 renown: local
-community: millennium_science_school
+parent: millennium_lecture_building
 backdrop: classroom
-map: { x: 2.7089, y: 1.616 }
+place_id: millennium_class_2a
+entry_minutes: 1
+map:
+  x: 2.7089
+  y: 1.616
 ---
 
 # Millennium Class 2-A

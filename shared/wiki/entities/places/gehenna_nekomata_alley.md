@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_nekomata_alley
-place_id: gehenna_nekomata_alley
-name: "Nekomata Alley"
-parent: gehenna_backstreets
-entry_minutes: 2
-summary:
-  "A dim back alley of bins and fire escapes where stray cats live; empty most
-  hours, dangerous after dark."
+name: Nekomata Alley
+summary: A dim back alley of bins and fire escapes where stray cats live; empty most hours, dangerous after dark.
 renown: local
-map: { x: 1.6454, y: 2.6559 }
+parent: gehenna_backstreets
+place_id: gehenna_nekomata_alley
+entry_minutes: 2
+map:
+  x: 1.6454
+  y: 2.6559
 ---
 
 # Nekomata Alley

@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_campus_store
-place_id: valkyrie_campus_store
-name: "Valkyrie Campus Store"
-aliases: ["Valkyrie School Store"]
-parent: valkyrie_school
-entry_minutes: 2
-summary:
-  "The academy shop by the parade ground: donuts, canned coffee, notebooks,
-  crossword books and duty ammunition; 07:00–20:00, a queue at 08:30."
+name: Valkyrie Campus Store
+aliases:
+  - Valkyrie School Store
+summary: "The academy shop by the parade ground: donuts, canned coffee, notebooks, crossword books and duty ammunition; 07:00–20:00, a queue at 08:30."
 renown: local
-map: { x: 1.8818, y: 1.4616 }
+parent: valkyrie_school
+place_id: valkyrie_campus_store
+entry_minutes: 2
+map:
+  x: 1.8818
+  y: 1.4616
 ---
 
 # Valkyrie Campus Store

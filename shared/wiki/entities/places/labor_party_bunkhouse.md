@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.labor_party_bunkhouse
-place_id: labor_party_bunkhouse
-name: "Labor Party Bunkhouse"
+name: Labor Party Bunkhouse
+summary: A prefab bunkhouse beside the reconstruction site where Red Winter's Labor Party crews sleep on work weeks; lights out 22:30.
 parent: shiratori_ward
+place_id: labor_party_bunkhouse
 entry_minutes: 14
-summary:
-  "A prefab bunkhouse beside the reconstruction site where Red Winter's Labor
-  Party crews sleep on work weeks; lights out 22:30."
-map: { x: 1.8926, y: 1.5236 }
+map:
+  x: 1.8926
+  y: 1.5236
 ---
 
 # Labor Party Bunkhouse

@@ -1,20 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_tea_party
-place_id: trinity_tea_party
-name: "Tea Party Chamber"
-aliases: ["Tea Party room"]
-parent: trinity_school
-entry_minutes: 4
-summary:
-  "The Tea Party's hall on the campus hill: council chamber and offices;
-  guarded, by appointment only; staffed 08:00–20:00, the host's light often on
-  later."
+name: Tea Party Chamber
+aliases:
+  - Tea Party room
+summary: "The Tea Party's hall on the campus hill: council chamber and offices; guarded, by appointment only; staffed 08:00–20:00, the host's light often on later."
+groups:
+  - tea_party
 renown: famous
-community: tea_party
+parent: trinity_school
 backdrop: trinity-terrace
-map: { x: 0.834, y: 2.5756 }
+place_id: trinity_tea_party
+entry_minutes: 4
+map:
+  x: 0.834
+  y: 2.5756
 ---
 
 # Tea Party Chamber

@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_megu
-place_id: room_megu
-name: "Megu's Room"
-parent: gehenna_dorm13_3f
-entry_minutes: 1
-summary:
-  "A room of hard hats, a camp stove and a freezer of ice cream; door unlocked,
-  blast-proof posters on the wall."
+name: Megu's Room
+summary: A room of hard hats, a camp stove and a freezer of ice cream; door unlocked, blast-proof posters on the wall.
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_3f
 backdrop: student-room
-map: { x: 1.4723, y: 2.5612 }
+place_id: room_megu
+entry_minutes: 1
+map:
+  x: 1.4723
+  y: 2.5612
 ---
 
 # Megu's Room

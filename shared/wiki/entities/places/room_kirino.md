@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kirino
-place_id: room_kirino
-name: "Kirino's Room"
-parent: valkyrie_dorm_4
-entry_minutes: 1
-summary:
-  "Room 204: police posters, a pegboard of practice targets with stray holes,
-  handcuffs on a hook; alarm set for 05:30, door locked."
+name: Kirino's Room
+summary: "Room 204: police posters, a pegboard of practice targets with stray holes, handcuffs on a hook; alarm set for 05:30, door locked."
 renown: private
+parent: valkyrie_dorm_4
 backdrop: valkyrie-student-room
-map: { x: 1.8831, y: 1.4354 }
+place_id: room_kirino
+entry_minutes: 1
+map:
+  x: 1.8831
+  y: 1.4354
 ---
 
 # Kirino's Room

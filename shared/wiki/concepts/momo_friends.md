@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.momo_friends
-title: MomoFriends
+name: MomoFriends
 renown: known
 ---
 

@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_hasumi
-place_id: room_hasumi
-name: "Hasumi's Room"
-parent: trinity_magnolia_west
-entry_minutes: 1
-summary:
-  "West Wing room: tea tins, a bathroom scale turned to the wall, a sweets
-  stash, a locked notebook; the lamp is often on late."
+name: Hasumi's Room
+summary: "West Wing room: tea tins, a bathroom scale turned to the wall, a sweets stash, a locked notebook; the lamp is often on late."
 renown: private
+parent: trinity_magnolia_west
 backdrop: student-room
-map: { x: 0.7658, y: 2.2593 }
+place_id: room_hasumi
+entry_minutes: 1
+map:
+  x: 0.7658
+  y: 2.2593
 ---
 
 # Hasumi's Room

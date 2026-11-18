@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.trinity_hidden_heritage
-title: "Trinity’s Hidden Heritage Expedition"
-community: trinity_general_school
+name: Trinity’s Hidden Heritage Expedition
+groups:
+  - trinity_general_school
 ---
 
 # Trinity’s Hidden Heritage Expedition

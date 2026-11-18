@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.shanhaijing_senior_secondary_school
-title: "Shanhaijing Senior Secondary School"
-community: kivotos_overview
+name: Shanhaijing Senior Secondary School
+groups:
+  - kivotos_overview
 renown: known
 ---
 

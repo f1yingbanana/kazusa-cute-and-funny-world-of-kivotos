@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.shanhaijing_valley_trip
-title: "Shanhaijing Valley Trip"
-community: shanhaijing_senior_secondary_school
+name: Shanhaijing Valley Trip
+groups:
+  - shanhaijing_senior_secondary_school
 ---
 
 # Shanhaijing Valley Trip

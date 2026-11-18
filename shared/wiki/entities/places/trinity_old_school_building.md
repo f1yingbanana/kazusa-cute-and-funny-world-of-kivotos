@@ -1,22 +1,21 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_old_school_building
-place_id: trinity_old_school_building
-name: "Trinity Old School Building"
-parent: trinity_outskirts
-entry_minutes: 6
-summary:
-  "A disused Trinity school building lent to Arius students for exam classes;
-  lessons weekdays 09:00–15:00, locked at 18:00."
+name: Trinity Old School Building
+summary: A disused Trinity school building lent to Arius students for exam classes; lessons weekdays 09:00–15:00, locked at 18:00.
+groups:
+  - arius_reconstruction
 renown: local
-community: arius_reconstruction
+parent: trinity_outskirts
+place_id: trinity_old_school_building
+entry_minutes: 6
 connections:
   - to: trinity_old_cathedral
     ways:
-      - { by: walk, minutes: 4 }
-    note: "A footpath across the cathedral grounds."
-map: { x: 0.7979, y: 2.4239 }
+      - by: walk
+        minutes: 4
+    note: A footpath across the cathedral grounds.
+map:
+  x: 0.7979
+  y: 2.4239
 ---
 
 # Trinity Old School Building

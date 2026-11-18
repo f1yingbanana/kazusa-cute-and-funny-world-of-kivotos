@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.shittim_chest
-title: "Shittim Chest"
+name: Shittim Chest
 renown: known
 ---
 

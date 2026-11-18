@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.black_market_arms_row
-place_id: black_market_arms_row
-name: "Black Market Arms Row"
+name: Black Market Arms Row
+summary: A covered alley of gun and parts dealers; open noon until late, haggling expected.
 parent: black_market_district
+place_id: black_market_arms_row
 entry_minutes: 3
-summary:
-  "A covered alley of gun and parts dealers; open noon until late, haggling
-  expected."
-map: { x: 2.1104, y: 2.919 }
+map:
+  x: 2.1104
+  y: 2.919
 ---
 
 # Black Market Arms Row

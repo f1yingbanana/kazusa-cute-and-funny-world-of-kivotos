@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.xuanwu_merchant_association
-title: Xuanwu Merchant Association
-community: shanhaijing_senior_secondary_school
+name: Xuanwu Merchant Association
+groups:
+  - shanhaijing_senior_secondary_school
 ---
 
 # Xuanwu Merchant Association

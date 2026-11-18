@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.sparkle_club
-title: Sparkle Club
-community: gehenna_academy
+name: Sparkle Club
+groups:
+  - gehenna_academy
 ---
 
 # Sparkle Club

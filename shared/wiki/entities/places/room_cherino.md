@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_cherino
-place_id: room_cherino
-name: "Cherino's Room"
-parent: red_winter_secretariat
-entry_minutes: 1
-summary:
-  "The president's private bedroom behind the Presidential Office: canopy bed, a
-  second pudding fridge, a stand of spare mustaches; guarded, locked from
-  inside."
+name: Cherino's Room
+summary: "The president's private bedroom behind the Presidential Office: canopy bed, a second pudding fridge, a stand of spare mustaches; guarded, locked from inside."
+groups:
+  - red_winter_office
 renown: private
-community: red_winter_office
-map: { x: 1.4862, y: 0.2784 }
+parent: red_winter_secretariat
+place_id: room_cherino
+entry_minutes: 1
+map:
+  x: 1.4862
+  y: 0.2784
 ---
 
 # Cherino's Room

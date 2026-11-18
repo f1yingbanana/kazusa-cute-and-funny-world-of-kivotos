@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_secretariat_staff_room
-place_id: red_winter_secretariat_staff_room
-name: "Secretariat Staff Room"
+name: Secretariat Staff Room
+summary: "Shared office of the Secretary General and the Security Committee: two desks, a speech typewriter, a district map; staffed 08:00–18:00, later before rallies."
+groups:
+  - red_winter_office
 parent: red_winter_secretariat
+place_id: red_winter_secretariat_staff_room
 entry_minutes: 1
-summary:
-  "Shared office of the Secretary General and the Security Committee: two desks,
-  a speech typewriter, a district map; staffed 08:00–18:00, later before
-  rallies."
-community: red_winter_office
-map: { x: 1.4755, y: 0.2747 }
+map:
+  x: 1.4755
+  y: 0.2747
 ---
 
 # Secretariat Staff Room

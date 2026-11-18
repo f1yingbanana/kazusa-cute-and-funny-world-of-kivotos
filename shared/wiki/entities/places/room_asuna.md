@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_asuna
-place_id: room_asuna
-name: "Asuna's Room"
-parent: millennium_dorm_2e
-entry_minutes: 1
-summary:
-  "Cheerfully messy room: maid uniforms on a drying rack, a bowl of lucky
-  trinkets, a dartboard full of holes; often left unlocked."
+name: Asuna's Room
+summary: "Cheerfully messy room: maid uniforms on a drying rack, a bowl of lucky trinkets, a dartboard full of holes; often left unlocked."
 renown: private
+parent: millennium_dorm_2e
 backdrop: student-room
-map: { x: 2.7983, y: 1.7817 }
+place_id: room_asuna
+entry_minutes: 1
+map:
+  x: 2.7983
+  y: 1.7817
 ---
 
 # Asuna's Room

@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_school
-place_id: trinity_school
-name: "Trinity General School Campus"
-aliases: ["Trinity campus"]
-parent: trinity_district
-entry_minutes: 8
-summary:
-  "Trinity's hilltop campus of white halls around Trinity Square; grounds open
-  06:00–21:00, most halls lock at 19:00; crowded 08:00–08:30 and after 15:30."
+name: Trinity General School Campus
+aliases:
+  - Trinity campus
+summary: Trinity's hilltop campus of white halls around Trinity Square; grounds open 06:00–21:00, most halls lock at 19:00; crowded 08:00–08:30 and after 15:30.
+groups:
+  - trinity_general_school
 renown: famous
-community: trinity_general_school
+parent: trinity_district
 backdrop: trinity-campus
-map: { x: 0.8765, y: 2.583 }
+place_id: trinity_school
+entry_minutes: 8
+map:
+  x: 0.8765
+  y: 2.583
 ---
 
 # Trinity General School Campus

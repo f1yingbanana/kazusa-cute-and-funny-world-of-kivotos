@@ -1,22 +1,21 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_art_center
-place_id: wildhunt_art_center
-name: "Wild Hunt Art Center"
-parent: wildhunt_school
-entry_minutes: 3
-summary:
-  "The main teaching building: studios, workshops, recording booths, a lecture
-  hall. Open 07:00–21:00; practical exams in the last week of each month."
+name: Wild Hunt Art Center
+summary: "The main teaching building: studios, workshops, recording booths, a lecture hall. Open 07:00–21:00; practical exams in the last week of each month."
+groups:
+  - wild_hunt_academy
 renown: known
-community: wild_hunt_academy
+parent: wildhunt_school
+place_id: wildhunt_art_center
+entry_minutes: 3
 connections:
   - to: wildhunt_piazza
     ways:
-      - { by: walk, minutes: 2 }
-    note: "Down the arcade steps onto the piazza."
-map: { x: 0.626, y: 1.6791 }
+      - by: walk
+        minutes: 2
+    note: Down the arcade steps onto the piazza.
+map:
+  x: 0.626
+  y: 1.6791
 ---
 
 # Wild Hunt Art Center

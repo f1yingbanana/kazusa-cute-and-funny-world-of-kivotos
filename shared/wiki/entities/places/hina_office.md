@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hina_office
-place_id: hina_office
-name: "Hina's Office"
-parent: prefect_headquarters
-entry_minutes: 1
-summary:
-  "The chairwoman's office: a big desk under stacks of reports, a sofa that
-  serves as a bed, a blanket folded on the arm; locked, lit past midnight most
-  nights."
+name: Hina's Office
+summary: "The chairwoman's office: a big desk under stacks of reports, a sofa that serves as a bed, a blanket folded on the arm; locked, lit past midnight most nights."
+groups:
+  - prefect_team
 renown: local
-community: prefect_team
-map: { x: 1.4516, y: 2.7963 }
+parent: prefect_headquarters
+place_id: hina_office
+entry_minutes: 1
+map:
+  x: 1.4516
+  y: 2.7963
 ---
 
 # Hina's Office

@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.splash_helmet_gang
-title: Splash Helmet Gang
+name: Splash Helmet Gang
 renown: known
 ---
 

@@ -1,15 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_night_duty_room
-place_id: schale_night_duty_room
-name: "SCHALE Night-Duty Room"
+name: SCHALE Night-Duty Room
+summary: A bunk, a desk and the night phone for the student on night duty; unlocked.
 parent: schale_night_duty_corridor
-entry_minutes: 1
-summary:
-  "A bunk, a desk and the night phone for the student on night duty; unlocked."
 backdrop: schale-overnight-room
-map: { x: 1.4194, y: 1.701 }
+place_id: schale_night_duty_room
+entry_minutes: 1
+map:
+  x: 1.4194
+  y: 1.701
 ---
 
 # SCHALE Night-Duty Room

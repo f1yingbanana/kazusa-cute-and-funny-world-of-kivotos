@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_riverbank
-place_id: hyakkiyako_riverbank
-name: "Shirakawa Riverbank"
-parent: hyakkiyako_shirakawa_quarter
-entry_minutes: 2
-summary:
-  "Grassy riverbank path under willows with rowboat rental; open all hours,
-  rowboats 10:00–17:00, joggers at dawn and couples at dusk."
+name: Shirakawa Riverbank
+summary: Grassy riverbank path under willows with rowboat rental; open all hours, rowboats 10:00–17:00, joggers at dawn and couples at dusk.
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
-map: { x: 0.8141, y: 0.769 }
+parent: hyakkiyako_shirakawa_quarter
+place_id: hyakkiyako_riverbank
+entry_minutes: 2
+map:
+  x: 0.8141
+  y: 0.769
 ---
 
 # Shirakawa Riverbank

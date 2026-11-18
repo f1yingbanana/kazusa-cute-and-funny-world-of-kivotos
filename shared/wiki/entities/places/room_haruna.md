@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_haruna
-place_id: room_haruna
-name: "Haruna's Room"
-parent: gehenna_dorm2
-entry_minutes: 1
-summary:
-  "A large, elegant corner room with a tasting table and a ledger of
-  restaurants; locked, tea things laid out."
+name: Haruna's Room
+summary: A large, elegant corner room with a tasting table and a ledger of restaurants; locked, tea things laid out.
+groups:
+  - gourmet_research_society
 renown: private
-community: gourmet_research_society
+parent: gehenna_dorm2
 backdrop: student-room
-map: { x: 1.5284, y: 2.6392 }
+place_id: room_haruna
+entry_minutes: 1
+map:
+  x: 1.5284
+  y: 2.6392
 ---
 
 # Haruna's Room

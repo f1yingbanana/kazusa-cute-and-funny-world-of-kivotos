@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.arius_canteen
-place_id: arius_canteen
-name: "Arius Reconstruction Canteen"
-parent: arius_lantern_street
-entry_minutes: 1
-summary:
-  "Long tables in a patched hall where repair crews and Arius students eat free;
-  06:30–08:00, 12:00–13:00, 18:00–19:30. Loud and crowded at supper."
+name: Arius Reconstruction Canteen
+summary: Long tables in a patched hall where repair crews and Arius students eat free; 06:30–08:00, 12:00–13:00, 18:00–19:30. Loud and crowded at supper.
+groups:
+  - arius_reconstruction
 renown: local
-community: arius_reconstruction
-map: { x: 0.5001, y: 2.7387 }
+parent: arius_lantern_street
+place_id: arius_canteen
+entry_minutes: 1
+map:
+  x: 0.5001
+  y: 2.7387
 ---
 
 # Arius Reconstruction Canteen

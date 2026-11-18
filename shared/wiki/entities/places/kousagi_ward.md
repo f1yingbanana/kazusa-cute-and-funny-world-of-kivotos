@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kousagi_ward
-place_id: kousagi_ward
-name: "Kousagi Ward"
-parent: du_downtown
-entry_minutes: 75
-summary:
-  "D.U.'s quiet south-west outskirts: Kousagi Park, low apartment blocks, the
-  station street and the SCHALE building on its hill."
+name: Kousagi Ward
+summary: "D.U.'s quiet south-west outskirts: Kousagi Park, low apartment blocks, the station street and the SCHALE building on its hill."
+groups:
+  - general_student_council
 renown: known
-community: general_student_council
-map: { x: 1.51, y: 1.6358 }
+parent: du_downtown
+place_id: kousagi_ward
+entry_minutes: 75
+map:
+  x: 1.51
+  y: 1.6358
 ---
 
 # Kousagi Ward

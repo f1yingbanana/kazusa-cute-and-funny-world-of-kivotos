@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.rabbit_supply_dump
-place_id: rabbit_supply_dump
-name: "RABBIT Supply Dump"
-aliases: ["RABBIT Supply Crates"]
-parent: rabbit_camp_cookfire
-entry_minutes: 1
-summary:
-  "Stacked crates under camouflage netting: rations, ammunition, spare tarps and
-  carefully labelled explosives; padlocked, inventory checked weekly."
+name: RABBIT Supply Dump
+aliases:
+  - RABBIT Supply Crates
+summary: "Stacked crates under camouflage netting: rations, ammunition, spare tarps and carefully labelled explosives; padlocked, inventory checked weekly."
 renown: local
-map: { x: 1.5735, y: 1.6257 }
+parent: rabbit_camp_cookfire
+place_id: rabbit_supply_dump
+entry_minutes: 1
+map:
+  x: 1.5735
+  y: 1.6257
 ---
 
 # RABBIT Supply Dump

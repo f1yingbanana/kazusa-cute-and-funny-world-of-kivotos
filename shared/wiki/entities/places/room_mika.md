@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_mika
-place_id: room_mika
-name: "Mika Misono's Room"
-parent: trinity_old_quarters
-entry_minutes: 1
-summary:
-  "The attic at the end of the top floor: slanted ceiling, sparkly accessories
-  everywhere, a jar of seashells, fairy lights over the damp patches; locked."
+name: Mika Misono's Room
+summary: "The attic at the end of the top floor: slanted ceiling, sparkly accessories everywhere, a jar of seashells, fairy lights over the damp patches; locked."
 renown: private
+parent: trinity_old_quarters
 backdrop: student-room
-map: { x: 0.8206, y: 2.2785 }
+place_id: room_mika
+entry_minutes: 1
+map:
+  x: 0.8206
+  y: 2.2785
 ---
 
 # Mika Misono's Room

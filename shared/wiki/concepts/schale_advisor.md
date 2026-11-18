@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.schale_advisor
-title: SCHALE Advisor
+name: SCHALE Advisor
 renown: known
 ---
 

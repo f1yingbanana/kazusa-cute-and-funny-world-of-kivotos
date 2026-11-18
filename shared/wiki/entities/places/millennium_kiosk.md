@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_kiosk
-place_id: millennium_kiosk
-name: "Millennium Study Area Kiosk"
-parent: millennium_study_area
-entry_minutes: 1
-summary:
-  "Small kiosk at the monorail stop: bread, drinks, magazines; 07:00–19:00, a
-  line at 08:15 and between classes."
+name: Millennium Study Area Kiosk
+summary: "Small kiosk at the monorail stop: bread, drinks, magazines; 07:00–19:00, a line at 08:15 and between classes."
+groups:
+  - millennium_science_school
 renown: local
-community: millennium_science_school
-map: { x: 2.6694, y: 1.6981 }
+parent: millennium_study_area
+place_id: millennium_kiosk
+entry_minutes: 1
+map:
+  x: 2.6694
+  y: 1.6981
 ---
 
 # Millennium Study Area Kiosk

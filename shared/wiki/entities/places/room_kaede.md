@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kaede
-place_id: room_kaede
-name: "Kaede's Room"
-parent: tsukimi_upstairs
-entry_minutes: 1
-summary:
-  "Small room at the end of the hall: a beetle terrarium, binders of Mushiqueen
-  cards, hero-show posters; locked when she remembers."
+name: Kaede's Room
+summary: "Small room at the end of the hall: a beetle terrarium, binders of Mushiqueen cards, hero-show posters; locked when she remembers."
 renown: private
+parent: tsukimi_upstairs
 backdrop: tatami-room
-map: { x: 0.7854, y: 0.7042 }
+place_id: room_kaede
+entry_minutes: 1
+map:
+  x: 0.7854
+  y: 0.7042
 ---
 
 # Kaede's Room

@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_class_2a
-place_id: hyakkiyako_class_2a
-name: "Hyakkiyako Class 2-A"
-parent: hyakkiyako_main_building
-entry_minutes: 1
-summary:
-  "Second-year homeroom on the first floor; homeroom 08:30, lessons until 15:00;
-  a sunny back row where people nap."
+name: Hyakkiyako Class 2-A
+summary: Second-year homeroom on the first floor; homeroom 08:30, lessons until 15:00; a sunny back row where people nap.
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
-map: { x: 0.7296, y: 0.9963 }
+parent: hyakkiyako_main_building
+place_id: hyakkiyako_class_2a
+entry_minutes: 1
+map:
+  x: 0.7296
+  y: 0.9963
 ---
 
 # Hyakkiyako Class 2-A

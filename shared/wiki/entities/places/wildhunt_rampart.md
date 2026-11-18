@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_rampart
-place_id: wildhunt_rampart
-name: "Wild Hunt Outer Rampart"
-parent: wildhunt_school
-entry_minutes: 5
-summary:
-  "Walk along the star-fort walls and bastions: benches, wind, views over the
-  moat. Open 06:00–21:00, patrolled after dark; parcels sometimes land here."
+name: Wild Hunt Outer Rampart
+summary: "Walk along the star-fort walls and bastions: benches, wind, views over the moat. Open 06:00–21:00, patrolled after dark; parcels sometimes land here."
+groups:
+  - wild_hunt_academy
 renown: local
-community: wild_hunt_academy
-map: { x: 0.6665, y: 1.6662 }
+parent: wildhunt_school
+place_id: wildhunt_rampart
+entry_minutes: 5
+map:
+  x: 0.6665
+  y: 1.6662
 ---
 
 # Wild Hunt Outer Rampart

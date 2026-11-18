@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_espresso
-place_id: wildhunt_espresso
-name: "Bastion Espresso Bar"
-parent: wildhunt_piazza
-entry_minutes: 1
-summary:
-  "Standing espresso bar under the piazza arcade; 07:00–18:00, queue before
-  first class. It refuses to serve americanos."
+name: Bastion Espresso Bar
+summary: Standing espresso bar under the piazza arcade; 07:00–18:00, queue before first class. It refuses to serve americanos.
 renown: local
-map: { x: 0.6326, y: 1.7056 }
+parent: wildhunt_piazza
+place_id: wildhunt_espresso
+entry_minutes: 1
+map:
+  x: 0.6326
+  y: 1.7056
 ---
 
 # Bastion Espresso Bar

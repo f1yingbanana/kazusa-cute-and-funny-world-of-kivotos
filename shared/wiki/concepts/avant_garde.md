@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.avant_garde
-title: "Avant-Garde"
-community: millennium_science_school
+name: Avant-Garde
+groups:
+  - millennium_science_school
 ---
 
 # Avant-Garde

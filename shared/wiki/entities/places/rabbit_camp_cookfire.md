@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.rabbit_camp_cookfire
-place_id: rabbit_camp_cookfire
-name: "RABBIT Camp Cookfire"
-aliases: ["RABBIT Cookfire"]
-parent: rabbit_camp
-entry_minutes: 1
-summary:
-  "The camp's tarp kitchen: an oil-drum stove, crates for seats, a mess table
-  and a cooler; meals at dawn and dusk, the kettle on at all hours."
+name: RABBIT Camp Cookfire
+aliases:
+  - RABBIT Cookfire
+summary: "The camp's tarp kitchen: an oil-drum stove, crates for seats, a mess table and a cooler; meals at dawn and dusk, the kettle on at all hours."
 renown: local
-map: { x: 1.5826, y: 1.6221 }
+parent: rabbit_camp
+place_id: rabbit_camp_cookfire
+entry_minutes: 1
+map:
+  x: 1.5826
+  y: 1.6221
 ---
 
 # RABBIT Camp Cookfire

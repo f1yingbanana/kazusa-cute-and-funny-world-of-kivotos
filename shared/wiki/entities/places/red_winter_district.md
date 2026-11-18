@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_district
-place_id: red_winter_district
-name: "Red Winter District"
-aliases: ["Red Winter town"]
-summary:
-  "Snowbound district of taiga, onion domes and stern apartment blocks around
-  Red Winter Federal Academy; trams and ploughs on the main streets, cold all
-  year, a coup most weeks."
+name: Red Winter District
+aliases:
+  - Red Winter town
+summary: Snowbound district of taiga, onion domes and stern apartment blocks around Red Winter Federal Academy; trams and ploughs on the main streets, cold all year, a coup most weeks.
+groups:
+  - red_winter_federal_academy
 renown: known
-community: red_winter_federal_academy
-map: { x: 1.4, y: 0.38 }
 backdrop: red-winter-street
+place_id: red_winter_district
+map:
+  x: 1.4
+  y: 0.38
 ---
 
 # Red Winter District

@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.wildhunt_fabric
-place_id: wildhunt_fabric
-name: "Bobbin & Bolt Fabrics"
-parent: wildhunt_canal_town
-entry_minutes: 1
-summary:
-  "Fabric, ribbon, thread and craft supplies the academy store won't stock;
-  10:00–19:00. Students on outing passes rush in before the gate closes."
+name: Bobbin & Bolt Fabrics
+summary: Fabric, ribbon, thread and craft supplies the academy store won't stock; 10:00–19:00. Students on outing passes rush in before the gate closes.
 renown: local
-map: { x: 0.7697, y: 1.6356 }
+parent: wildhunt_canal_town
+place_id: wildhunt_fabric
+entry_minutes: 1
+map:
+  x: 0.7697
+  y: 1.6356
 ---
 
 # Bobbin & Bolt Fabrics

@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_lunch_roof
-place_id: gehenna_lunch_roof
-name: "School Lunch Club Rooftop"
-parent: gehenna_lunch_building
-entry_minutes: 1
-summary:
-  "A small roof with a drying rack, a bench and herb planters; open while the
-  building is, usually empty, a place to breathe between services."
+name: School Lunch Club Rooftop
+summary: A small roof with a drying rack, a bench and herb planters; open while the building is, usually empty, a place to breathe between services.
+groups:
+  - school_lunch_club
 renown: local
-community: school_lunch_club
-map: { x: 1.4923, y: 2.8448 }
+parent: gehenna_lunch_building
+place_id: gehenna_lunch_roof
+entry_minutes: 1
+map:
+  x: 1.4923
+  y: 2.8448
 ---
 
 # School Lunch Club Rooftop

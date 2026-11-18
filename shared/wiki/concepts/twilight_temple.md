@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.twilight_temple
-title: "Twilight Temple"
+name: Twilight Temple
 renown: known
 ---
 

@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.red_winter_special_class_183
-title: No. 183 Special Class
-community: red_winter_federal_academy
+name: No. 183 Special Class
+groups:
+  - red_winter_federal_academy
 ---
 
 # No. 183 Special Class

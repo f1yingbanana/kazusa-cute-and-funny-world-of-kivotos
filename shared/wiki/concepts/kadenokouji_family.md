@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.kadenokouji_family
-title: "Kadenokouji Family"
-community: hyakkiyako_alliance_academy
+name: Kadenokouji Family
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Kadenokouji Family

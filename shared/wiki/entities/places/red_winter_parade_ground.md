@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_parade_ground
-place_id: red_winter_parade_ground
-name: "Red Winter Parade Ground"
-parent: red_winter_school
-entry_minutes: 3
-summary:
-  "Snow-packed field behind the Main Building: drill and reviews in the morning,
-  snowball fights after 15:30, flooded for skating in deep winter; floodlit
-  until 21:00."
+name: Red Winter Parade Ground
+summary: "Snow-packed field behind the Main Building: drill and reviews in the morning, snowball fights after 15:30, flooded for skating in deep winter; floodlit until 21:00."
+groups:
+  - red_winter_federal_academy
 renown: local
-community: red_winter_federal_academy
-map: { x: 1.5329, y: 0.3354 }
+parent: red_winter_school
+place_id: red_winter_parade_ground
+entry_minutes: 3
+map:
+  x: 1.5329
+  y: 0.3354
 ---
 
 # Red Winter Parade Ground

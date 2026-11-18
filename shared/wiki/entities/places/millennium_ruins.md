@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_ruins
-place_id: millennium_ruins
-name: "Millennium Ruins"
-aliases: ["Millennium restricted zone"]
-parent: millennium_district
-entry_minutes: 45
-summary:
-  "Restricted wasteland of abandoned facilities and dormant machines beyond the
-  outskirts; fenced by Seminar, entry by permit only, hostile drones."
+name: Millennium Ruins
+aliases:
+  - Millennium restricted zone
+summary: Restricted wasteland of abandoned facilities and dormant machines beyond the outskirts; fenced by Seminar, entry by permit only, hostile drones.
 renown: known
-map: { x: 2.8177, y: 1.7015 }
+parent: millennium_district
+place_id: millennium_ruins
+entry_minutes: 45
+map:
+  x: 2.8177
+  y: 1.7015
 ---
 
 # Millennium Ruins

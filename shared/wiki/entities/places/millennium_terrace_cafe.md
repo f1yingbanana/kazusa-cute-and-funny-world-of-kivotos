@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_terrace_cafe
-place_id: millennium_terrace_cafe
-name: "Café Theorem"
-aliases: ["Study Center terrace café"]
-parent: millennium_study_center
-entry_minutes: 1
-summary:
-  "Terrace café on the Study Center's second floor: coffee, sandwiches, cakes;
-  08:00–20:00, laptops on every table, terrace seats taken by noon."
+name: Café Theorem
+aliases:
+  - Study Center terrace café
+summary: "Terrace café on the Study Center's second floor: coffee, sandwiches, cakes; 08:00–20:00, laptops on every table, terrace seats taken by noon."
+groups:
+  - millennium_science_school
 renown: local
-community: millennium_science_school
-map: { x: 2.6573, y: 1.6902 }
+parent: millennium_study_center
+place_id: millennium_terrace_cafe
+entry_minutes: 1
+map:
+  x: 2.6573
+  y: 1.6902
 ---
 
 # Café Theorem

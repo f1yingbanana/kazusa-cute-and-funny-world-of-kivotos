@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_mashiro
-place_id: room_mashiro
-name: "Mashiro's Room"
-parent: trinity_magnolia_west
-entry_minutes: 1
-summary:
-  "West Wing room at the end of the corridor: a telescope at the window, shelves
-  of books on justice, an observation diary by the bed; locked."
+name: Mashiro's Room
+summary: "West Wing room at the end of the corridor: a telescope at the window, shelves of books on justice, an observation diary by the bed; locked."
 renown: private
+parent: trinity_magnolia_west
 backdrop: student-room
-map: { x: 0.7754, y: 2.2455 }
+place_id: room_mashiro
+entry_minutes: 1
+map:
+  x: 0.7754
+  y: 2.2455
 ---
 
 # Mashiro's Room

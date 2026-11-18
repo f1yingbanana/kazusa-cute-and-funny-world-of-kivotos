@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kinds_steakhouse
-place_id: kinds_steakhouse
-name: "Kinds! Steakhouse"
+name: Kinds! Steakhouse
+summary: A famous steakhouse near the station; lunch sets 11:00–15:00, dinner until 22:00.
 parent: haruhabara
+place_id: kinds_steakhouse
 entry_minutes: 5
-summary:
-  "A famous steakhouse near the station; lunch sets 11:00–15:00, dinner until
-  22:00."
-map: { x: 2.3693, y: 2.1027 }
+map:
+  x: 2.3693
+  y: 2.1027
 ---
 
 # Kinds! Steakhouse

@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.sugar_rush
-title: "Sugar Rush"
-community: trinity_general_school
+name: Sugar Rush
+groups:
+  - trinity_general_school
 ---
 
 # Sugar Rush

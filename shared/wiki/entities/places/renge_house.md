@@ -1,16 +1,13 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.renge_house
-place_id: renge_house
-name: "Renge's House"
-parent: hyakkiyako_shirakawa_quarter
-entry_minutes: 3
-summary:
-  "Small house of her own down a riverside lane: light novels, dumbbells, a
-  youth to-do list; locked, a key under the planter."
+name: Renge's House
+summary: "Small house of her own down a riverside lane: light novels, dumbbells, a youth to-do list; locked, a key under the planter."
 renown: private
-map: { x: 0.7959, y: 0.7638 }
+parent: hyakkiyako_shirakawa_quarter
+place_id: renge_house
+entry_minutes: 3
+map:
+  x: 0.7959
+  y: 0.7638
 ---
 
 # Renge's House

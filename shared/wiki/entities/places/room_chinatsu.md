@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_chinatsu
-place_id: room_chinatsu
-name: "Chinatsu's Room"
-parent: gehenna_dorm13_2f
-entry_minutes: 1
-summary:
-  "A neat room smelling of herbal tea: philosophy books, a first-aid cabinet, a
-  red throw; locked at night, door open to anyone hurt."
+name: Chinatsu's Room
+summary: "A neat room smelling of herbal tea: philosophy books, a first-aid cabinet, a red throw; locked at night, door open to anyone hurt."
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_2f
 backdrop: student-room
-map: { x: 1.5078, y: 2.6017 }
+place_id: room_chinatsu
+entry_minutes: 1
+map:
+  x: 1.5078
+  y: 2.6017
 ---
 
 # Chinatsu's Room

@@ -1,15 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_magnolia_kitchenette
-place_id: trinity_magnolia_kitchenette
-name: "Magnolia Hall West Kitchenette"
+name: Magnolia Hall West Kitchenette
+summary: "West Wing kitchenette: kettle, toaster, a tea shelf and a snack drawer; open all hours, often occupied at 02:00 by someone who can't sleep."
 parent: trinity_magnolia_west
+place_id: trinity_magnolia_kitchenette
 entry_minutes: 1
-summary:
-  "West Wing kitchenette: kettle, toaster, a tea shelf and a snack drawer; open
-  all hours, often occupied at 02:00 by someone who can't sleep."
-map: { x: 0.7587, y: 2.2441 }
+map:
+  x: 0.7587
+  y: 2.2441
 ---
 
 # Magnolia Hall West Kitchenette

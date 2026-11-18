@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.ninjutsu_research_department
-title: Ninjutsu Research Department
-community: hyakkiyako_alliance_academy
+name: Ninjutsu Research Department
+groups:
+  - hyakkiyako_alliance_academy
 ---
 
 # Ninjutsu Research Department

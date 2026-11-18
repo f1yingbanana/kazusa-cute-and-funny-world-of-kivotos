@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.sweets_club_room
-place_id: sweets_club_room
-name: "Sweets Club Room"
-aliases: ["After-School Sweets Club Room"]
+name: Sweets Club Room
+aliases:
+  - After-School Sweets Club Room
+summary: "Sunlit club room smelling of vanilla: long table, countertop oven, a fridge of milk cartons; busy after 15:30, locked with the annex at 20:00."
+groups:
+  - after_school_sweets_club
 parent: west_annex
-entry_minutes: 1
-summary:
-  "Sunlit club room smelling of vanilla: long table, countertop oven, a fridge
-  of milk cartons; busy after 15:30, locked with the annex at 20:00."
-community: after_school_sweets_club
 backdrop: trinity-clubroom
-map: { x: 0.8899, y: 2.6205 }
+place_id: sweets_club_room
+entry_minutes: 1
+map:
+  x: 0.8899
+  y: 2.6205
 ---
 
 # Sweets Club Room

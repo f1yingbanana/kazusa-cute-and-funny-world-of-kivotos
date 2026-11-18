@@ -1,10 +1,9 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.publishing_department
-title: Red Winter Publishing Department
-aliases: ["Publishing Department"]
-community: red_winter_federal_academy
+name: Red Winter Publishing Department
+aliases:
+  - Publishing Department
+groups:
+  - red_winter_federal_academy
 ---
 
 # Red Winter Publishing Department

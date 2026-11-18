@@ -1,9 +1,7 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.sunshine_girls_serenade
-title: "Sunshine Girls’ Serenade"
-community: gehenna_academy
+name: Sunshine Girls’ Serenade
+groups:
+  - gehenna_academy
 ---
 
 # Sunshine Girls’ Serenade

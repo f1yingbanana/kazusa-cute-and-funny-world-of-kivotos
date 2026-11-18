@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.secret_midnight_party
-title: "Secret Midnight Party"
+name: Secret Midnight Party
 renown: known
 ---
 

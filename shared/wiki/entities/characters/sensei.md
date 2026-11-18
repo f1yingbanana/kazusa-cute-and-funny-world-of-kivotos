@@ -1,12 +1,9 @@
 ---
-character_id: user:sensei
-home: schale_office
-full_name: Sensei (先生)
-role: Advisor to SCHALE / Teacher
-affiliation: Federal Investigation Club SCHALE
-status: ACTIVE_IN_WORLD
-is_simulated_agent: false
+name: Sensei
+aliases:
+  - 先生
 renown: famous
+home: schale_office
 ---
 
 # Sensei
@@ -21,3 +18,9 @@ student academies. Known for an empathetic, patient approach, often taking
 students' problems seriously regardless of academy politics or institutional
 authority. Holds special extra-territorial authority granted under the SCHALE
 charter, enabling intervention across autonomous academy districts.
+
+## Details
+
+- Role: Advisor to SCHALE / Teacher
+- Affiliation: Federal Investigation Club SCHALE
+- Status: ACTIVE_IN_WORLD

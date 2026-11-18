@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.highlander_crew_quarters
-place_id: highlander_crew_quarters
-name: "Highlander Crew Quarters"
-aliases: ["Highlander Crew Dormitory"]
-parent: highlander_school
-entry_minutes: 2
-summary:
-  "The top floor of the east wing: small crew bedrooms, a mess and showers;
-  keycard door, quiet hours 23:00–05:00 for early crews, trains rumble below."
+name: Highlander Crew Quarters
+aliases:
+  - Highlander Crew Dormitory
+summary: "The top floor of the east wing: small crew bedrooms, a mess and showers; keycard door, quiet hours 23:00–05:00 for early crews, trains rumble below."
+groups:
+  - highlander_railroad_academy
 renown: local
-community: highlander_railroad_academy
-map: { x: 1.694, y: 1.4309 }
+parent: highlander_school
+place_id: highlander_crew_quarters
+entry_minutes: 2
+map:
+  x: 1.694
+  y: 1.4309
 ---
 
 # Highlander Crew Quarters

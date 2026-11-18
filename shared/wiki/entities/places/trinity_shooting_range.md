@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_shooting_range
-place_id: trinity_shooting_range
-name: "Trinity Shooting Range"
-parent: trinity_gymnasium
-entry_minutes: 2
-summary:
-  "Outdoor range behind the gymnasium: twelve lanes and earth berms; open
-  06:00–19:00, nearly empty at dawn; ammunition sold at the hut until 17:00."
+name: Trinity Shooting Range
+summary: "Outdoor range behind the gymnasium: twelve lanes and earth berms; open 06:00–19:00, nearly empty at dawn; ammunition sold at the hut until 17:00."
 renown: local
+parent: trinity_gymnasium
 backdrop: shooting-range
-map: { x: 0.8869, y: 2.5293 }
+place_id: trinity_shooting_range
+entry_minutes: 2
+map:
+  x: 0.8869
+  y: 2.5293
 ---
 
 # Trinity Shooting Range

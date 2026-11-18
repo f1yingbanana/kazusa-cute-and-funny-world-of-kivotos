@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_nagusa
-place_id: room_nagusa
-name: "Nagusa's Room"
-parent: kawabata_upstairs
-entry_minutes: 1
-summary:
-  "Dim north-facing room, the coolest in the house: a meditation cushion,
-  paperbacks, a fan and a cold-water jug; locked, quiet."
+name: Nagusa's Room
+summary: "Dim north-facing room, the coolest in the house: a meditation cushion, paperbacks, a fan and a cold-water jug; locked, quiet."
 renown: private
+parent: kawabata_upstairs
 backdrop: tatami-room
-map: { x: 0.7774, y: 0.8041 }
+place_id: room_nagusa
+entry_minutes: 1
+map:
+  x: 0.7774
+  y: 0.8041
 ---
 
 # Nagusa's Room

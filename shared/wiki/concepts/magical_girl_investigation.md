@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.magical_girl_investigation
-title: "Magical Girl Investigation"
+name: Magical Girl Investigation
 renown: known
 ---
 

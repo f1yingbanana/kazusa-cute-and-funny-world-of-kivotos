@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.shanhaijing_noodle_house
-place_id: shanhaijing_noodle_house
-name: "Old Kettle Noodle House"
-parent: shanhaijing_promenade
-entry_minutes: 1
-summary:
-  "Narrow noodle shop: hand-pulled noodles, ramen, a wall of house chili sauces;
-  11:00–23:00, students at night, a regulars' counter."
+name: Old Kettle Noodle House
+summary: "Narrow noodle shop: hand-pulled noodles, ramen, a wall of house chili sauces; 11:00–23:00, students at night, a regulars' counter."
+groups:
+  - xuanwu_merchant_association
 renown: local
-community: xuanwu_merchant_association
-map: { x: 0.4324, y: 1.1897 }
+parent: shanhaijing_promenade
+place_id: shanhaijing_noodle_house
+entry_minutes: 1
+map:
+  x: 0.4324
+  y: 1.1897
 ---
 
 # Old Kettle Noodle House

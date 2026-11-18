@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.abydos_old_schoolhouse
-place_id: abydos_old_schoolhouse
-name: "Abydos Old Schoolhouse 3"
-aliases: ["Abydos Old School Building"]
-parent: abydos_school
-entry_minutes: 4
-summary:
-  "A condemned wooden schoolhouse at the edge of campus, used for dares and
-  night treasure hunts; boarded up, floors unsafe, no lights."
+name: Abydos Old Schoolhouse 3
+aliases:
+  - Abydos Old School Building
+summary: A condemned wooden schoolhouse at the edge of campus, used for dares and night treasure hunts; boarded up, floors unsafe, no lights.
 renown: local
-map: { x: 2.6909, y: 2.6645 }
+parent: abydos_school
+place_id: abydos_old_schoolhouse
+entry_minutes: 4
+map:
+  x: 2.6909
+  y: 2.6645
 ---
 
 # Abydos Old Schoolhouse 3

@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_michiru
-place_id: room_michiru
-name: "Michiru's Room"
-parent: kawabata_upstairs
-entry_minutes: 1
-summary:
-  "Cramped room: an editing desk with camcorder and ring light, ninja figure
-  shelves; locked, light on late while she edits videos."
+name: Michiru's Room
+summary: "Cramped room: an editing desk with camcorder and ring light, ninja figure shelves; locked, light on late while she edits videos."
 renown: private
+parent: kawabata_upstairs
 backdrop: tatami-room
-map: { x: 0.7732, y: 0.7828 }
+place_id: room_michiru
+entry_minutes: 1
+map:
+  x: 0.7732
+  y: 0.7828
 ---
 
 # Michiru's Room

@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kaho
-place_id: room_kaho
-name: "Kaho's Room"
-parent: tsukimi_upstairs
-entry_minutes: 1
-summary:
-  "Tidy room next to the president's: shelves of Hyakkiyako mascot goods and
-  festival posters, a PR whiteboard; locked when she's out."
+name: Kaho's Room
+summary: "Tidy room next to the president's: shelves of Hyakkiyako mascot goods and festival posters, a PR whiteboard; locked when she's out."
 renown: private
+parent: tsukimi_upstairs
 backdrop: tatami-room
-map: { x: 0.776, y: 0.7065 }
+place_id: room_kaho
+entry_minutes: 1
+map:
+  x: 0.776
+  y: 0.7065
 ---
 
 # Kaho's Room

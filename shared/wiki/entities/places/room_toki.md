@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_toki
-place_id: room_toki
-name: "Toki's Room"
-parent: millennium_dorm_2e
-entry_minutes: 1
-summary:
-  "Clinically neat room: pressed maid uniforms, a weapons-care kit, a tablet
-  paused on a stream; locked."
+name: Toki's Room
+summary: "Clinically neat room: pressed maid uniforms, a weapons-care kit, a tablet paused on a stream; locked."
 renown: private
+parent: millennium_dorm_2e
 backdrop: student-room
-map: { x: 2.7877, y: 1.7668 }
+place_id: room_toki
+entry_minutes: 1
+map:
+  x: 2.7877
+  y: 1.7668
 ---
 
 # Toki's Room

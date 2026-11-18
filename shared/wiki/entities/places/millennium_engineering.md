@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.millennium_engineering
-place_id: millennium_engineering
-name: "Millennium Engineering Hangar"
-aliases: ["Millennium Engineering Workshop", "Engineering Department workshop"]
-parent: millennium_school
-entry_minutes: 4
-summary:
-  "Hangar-sized workshop of 3D printers, lathes and half-built robots; open
-  whenever its members are, which is most nights; visitors keep behind the
-  yellow line."
+name: Millennium Engineering Hangar
+aliases:
+  - Millennium Engineering Workshop
+  - Engineering Department workshop
+summary: Hangar-sized workshop of 3D printers, lathes and half-built robots; open whenever its members are, which is most nights; visitors keep behind the yellow line.
+groups:
+  - engineering_department
 renown: known
-community: engineering_department
-map: { x: 2.6759, y: 1.6433 }
+parent: millennium_school
+place_id: millennium_engineering
+entry_minutes: 4
+map:
+  x: 2.6759
+  y: 1.6433
 ---
 
 # Millennium Engineering Hangar

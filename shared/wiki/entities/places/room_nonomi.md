@@ -1,18 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_nonomi
-place_id: room_nonomi
-name: "Nonomi's Room"
-parent: abydos_lotus_villa
-entry_minutes: 1
-summary:
-  "Airy, soft bedroom: unopened shopping bags, a reversi board mid-game, a
-  cleaning caddy, a framed club photo. Locked when she's out, like the villa
-  gate."
+name: Nonomi's Room
+summary: "Airy, soft bedroom: unopened shopping bags, a reversi board mid-game, a cleaning caddy, a framed club photo. Locked when she's out, like the villa gate."
 renown: private
+parent: abydos_lotus_villa
 backdrop: student-room
-map: { x: 2.6471, y: 2.631 }
+place_id: room_nonomi
+entry_minutes: 1
+map:
+  x: 2.6471
+  y: 2.631
 ---
 
 # Nonomi's Room

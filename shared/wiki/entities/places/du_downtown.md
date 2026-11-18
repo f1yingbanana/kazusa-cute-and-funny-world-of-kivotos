@@ -1,17 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.du_downtown
-place_id: du_downtown
-name: "D.U. City"
-aliases: ["District of Utnapishtim", "downtown Kivotos"]
-summary:
-  "Downtown D.U., the capital: towers, crowds and Sanctum Tower over it all;
-  D.U. Central Station is the hub for every line."
+name: D.U. City
+aliases:
+  - District of Utnapishtim
+  - downtown Kivotos
+summary: "Downtown D.U., the capital: towers, crowds and Sanctum Tower over it all; D.U. Central Station is the hub for every line."
+groups:
+  - general_student_council
 renown: famous
-community: general_student_council
-map: { x: 1.7, y: 1.5 }
 backdrop: city-downtown
+place_id: du_downtown
+map:
+  x: 1.7
+  y: 1.5
 ---
 
 # D.U. Downtown

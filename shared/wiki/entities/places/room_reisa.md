@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_reisa
-place_id: room_reisa
-name: "Reisa's Room"
-parent: trinity_dorm_upstairs
-entry_minutes: 1
-summary:
-  "Second-floor room two doors from a certain rival's: magical-girl posters, a
-  duel whiteboard on the door; locked, though the key gets left inside weekly."
+name: Reisa's Room
+summary: "Second-floor room two doors from a certain rival's: magical-girl posters, a duel whiteboard on the door; locked, though the key gets left inside weekly."
 renown: private
+parent: trinity_dorm_upstairs
 backdrop: student-room
-map: { x: 0.812, y: 2.3037 }
+place_id: room_reisa
+entry_minutes: 1
+map:
+  x: 0.812
+  y: 2.3037
 ---
 
 # Reisa's Room

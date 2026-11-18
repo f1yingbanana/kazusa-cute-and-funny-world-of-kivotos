@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_movie_stage
-place_id: hyakkiyako_movie_stage
-name: "Movie Village Open-Air Stage"
-parent: hyakkiyako_movie_village
-entry_minutes: 1
-summary:
-  "Courtyard stage for samurai and ninja shows at 11:00, 14:00 and 16:00; bench
-  seating, tourists and children crowd it at showtimes."
+name: Movie Village Open-Air Stage
+summary: Courtyard stage for samurai and ninja shows at 11:00, 14:00 and 16:00; bench seating, tourists and children crowd it at showtimes.
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
+parent: hyakkiyako_movie_village
 backdrop: hyakkiyako-square-stage
-map: { x: 0.8429, y: 0.8846 }
+place_id: hyakkiyako_movie_stage
+entry_minutes: 1
+map:
+  x: 0.8429
+  y: 0.8846
 ---
 
 # Movie Village Open-Air Stage

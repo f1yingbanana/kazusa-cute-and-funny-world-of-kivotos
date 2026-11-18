@@ -1,8 +1,5 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.rabbit_shrimp_mystery
-title: "RABBIT Squad’s Shrimp Mystery"
+name: RABBIT Squad’s Shrimp Mystery
 renown: known
 ---
 

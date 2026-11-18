@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_kotama
-place_id: room_kotama
-name: "Kotama's Room"
-parent: millennium_dorm_3w
-entry_minutes: 1
-summary:
-  "Dim room of radio receivers, antennas and headphones, a giant teddy bear,
-  shelves of labeled recordings; locked and soundproofed."
+name: Kotama's Room
+summary: Dim room of radio receivers, antennas and headphones, a giant teddy bear, shelves of labeled recordings; locked and soundproofed.
 renown: private
+parent: millennium_dorm_3w
 backdrop: student-room
-map: { x: 2.8253, y: 1.7984 }
+place_id: room_kotama
+entry_minutes: 1
+map:
+  x: 2.8253
+  y: 1.7984
 ---
 
 # Kotama's Room

@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkaryouran_council_hall
-place_id: hyakkaryouran_council_hall
-name: "Hyakkaryouran Council Hall"
-parent: hyakkaryouran_clubhouse
-entry_minutes: 1
-summary:
-  "The council's main tatami room: a map table of Hyakkiyako's streets, duty
-  rosters, a cold kettle; meetings 07:00 and 17:00, someone on watch all night."
+name: Hyakkaryouran Council Hall
+summary: "The council's main tatami room: a map table of Hyakkiyako's streets, duty rosters, a cold kettle; meetings 07:00 and 17:00, someone on watch all night."
+groups:
+  - hyakkaryouran_resolution_council
 renown: local
-community: hyakkaryouran_resolution_council
-map: { x: 0.6754, y: 0.9485 }
+parent: hyakkaryouran_clubhouse
+place_id: hyakkaryouran_council_hall
+entry_minutes: 1
+map:
+  x: 0.6754
+  y: 0.9485
 ---
 
 # Hyakkaryouran Council Hall

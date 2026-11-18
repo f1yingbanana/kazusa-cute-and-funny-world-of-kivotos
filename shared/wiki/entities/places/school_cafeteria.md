@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.school_cafeteria
-place_id: school_cafeteria
-name: "Trinity Dining Hall"
-aliases: ["Trinity School Cafeteria"]
-parent: trinity_plaza
-entry_minutes: 2
-summary:
-  "Campus dining hall with set meals and a dessert counter; breakfast
-  07:00–08:15, lunch 11:50–13:30 (packed 12:10–12:50), dinner 17:30–19:30."
+name: Trinity Dining Hall
+aliases:
+  - Trinity School Cafeteria
+summary: Campus dining hall with set meals and a dessert counter; breakfast 07:00–08:15, lunch 11:50–13:30 (packed 12:10–12:50), dinner 17:30–19:30.
+groups:
+  - trinity_general_school
 renown: local
-community: trinity_general_school
+parent: trinity_plaza
 backdrop: school-cafeteria
-map: { x: 0.8959, y: 2.5098 }
+place_id: school_cafeteria
+entry_minutes: 2
+map:
+  x: 0.8959
+  y: 2.5098
 ---
 
 # Trinity Dining Hall

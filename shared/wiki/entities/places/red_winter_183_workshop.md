@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_183_workshop
-place_id: red_winter_183_workshop
-name: "No. 183 Tank Workshop"
+name: No. 183 Tank Workshop
+summary: "The facility's garage: a half-built tank, lathes, welding gear, a chalk-ringed wrestling mat for settling disputes; noisy 08:00–20:00."
+groups:
+  - red_winter_special_class_183
 parent: red_winter_facility_183
-entry_minutes: 1
-summary:
-  "The facility's garage: a half-built tank, lathes, welding gear, a
-  chalk-ringed wrestling mat for settling disputes; noisy 08:00–20:00."
-community: red_winter_special_class_183
 backdrop: red-winter-183-hangar
-map: { x: 1.3211, y: 0.3985 }
+place_id: red_winter_183_workshop
+entry_minutes: 1
+map:
+  x: 1.3211
+  y: 0.3985
 ---
 
 # No. 183 Tank Workshop

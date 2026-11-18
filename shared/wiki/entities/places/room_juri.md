@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_juri
-place_id: room_juri
-name: "Juri's Room"
-parent: gehenna_dorm13_3f
-entry_minutes: 1
-summary:
-  "A cheerful room with tomato seedlings on the sill and a fire extinguisher by
-  the hot plate; locked at night."
+name: Juri's Room
+summary: A cheerful room with tomato seedlings on the sill and a fire extinguisher by the hot plate; locked at night.
+groups:
+  - gehenna_academy
 renown: private
-community: gehenna_academy
+parent: gehenna_dorm13_3f
 backdrop: student-room
-map: { x: 1.4749, y: 2.5518 }
+place_id: room_juri
+entry_minutes: 1
+map:
+  x: 1.4749
+  y: 2.5518
 ---
 
 # Juri's Room

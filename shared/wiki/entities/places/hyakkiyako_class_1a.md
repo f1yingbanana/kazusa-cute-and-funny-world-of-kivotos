@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_class_1a
-place_id: hyakkiyako_class_1a
-name: "Hyakkiyako Class 1-A"
-parent: hyakkiyako_main_building
-entry_minutes: 1
-summary:
-  "First-year homeroom on the ground floor: low desks, a cherry tree outside the
-  window; homeroom 08:30, lessons until 15:00, noisy at every break."
+name: Hyakkiyako Class 1-A
+summary: "First-year homeroom on the ground floor: low desks, a cherry tree outside the window; homeroom 08:30, lessons until 15:00, noisy at every break."
+groups:
+  - hyakkiyako_alliance_academy
 renown: local
-community: hyakkiyako_alliance_academy
-map: { x: 0.722, y: 0.9849 }
+parent: hyakkiyako_main_building
+place_id: hyakkiyako_class_1a
+entry_minutes: 1
+map:
+  x: 0.722
+  y: 0.9849
 ---
 
 # Hyakkiyako Class 1-A

@@ -1,19 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_class_2d
-place_id: gehenna_class_2d
-name: "Gehenna Class 2-D"
-parent: gehenna_first_building
-entry_minutes: 1
-summary:
-  "A second-year homeroom on the third floor: homeroom 08:40, classes until
-  15:50; notorious for students who are wanted by the Prefect Team and their
-  pursuers sharing it."
+name: Gehenna Class 2-D
+summary: "A second-year homeroom on the third floor: homeroom 08:40, classes until 15:50; notorious for students who are wanted by the Prefect Team and their pursuers sharing it."
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
+parent: gehenna_first_building
 backdrop: gehenna-classroom
-map: { x: 1.4683, y: 2.8413 }
+place_id: gehenna_class_2d
+entry_minutes: 1
+map:
+  x: 1.4683
+  y: 2.8413
 ---
 
 # Gehenna Class 2-D

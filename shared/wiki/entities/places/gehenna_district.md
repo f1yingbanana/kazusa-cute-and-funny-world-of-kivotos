@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_district
-place_id: gehenna_district
-name: "Gehenna District"
-aliases: ["Gehenna town"]
-summary:
-  "Gehenna's sprawling numbered zones around the academy: loud streets, cheap
-  food, hot springs in the hills and frequent gunfire; buses until 23:00, the
-  subway until 00:30."
+name: Gehenna District
+aliases:
+  - Gehenna town
+summary: "Gehenna's sprawling numbered zones around the academy: loud streets, cheap food, hot springs in the hills and frequent gunfire; buses until 23:00, the subway until 00:30."
+groups:
+  - gehenna_academy
 renown: famous
-community: gehenna_academy
-map: { x: 1.58, y: 2.72 }
 backdrop: gehenna-street
+place_id: gehenna_district
+map:
+  x: 1.58
+  y: 2.72
 ---
 
 # Gehenna District

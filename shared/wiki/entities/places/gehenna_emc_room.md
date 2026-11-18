@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_emc_room
-place_id: gehenna_emc_room
-name: "Emergency Medicine Club Room"
-aliases: ["Gehenna ambulance post"]
-parent: gehenna_clubroom_building
-entry_minutes: 1
-summary:
-  "The club's medicine store and on-call post, with a radio and an ambulance
-  parked outside the back door; staffed day and night by whoever is on call."
+name: Emergency Medicine Club Room
+aliases:
+  - Gehenna ambulance post
+summary: The club's medicine store and on-call post, with a radio and an ambulance parked outside the back door; staffed day and night by whoever is on call.
+groups:
+  - emergency_medicine_club
 renown: local
-community: emergency_medicine_club
-map: { x: 1.4989, y: 2.8051 }
+parent: gehenna_clubroom_building
+place_id: gehenna_emc_room
+entry_minutes: 1
+map:
+  x: 1.4989
+  y: 2.8051
 ---
 
 # Emergency Medicine Club Room

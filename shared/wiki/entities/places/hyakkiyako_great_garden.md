@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_great_garden
-place_id: hyakkiyako_great_garden
-name: "Hyakkiyako Great Garden"
-aliases: ["Great Garden Lesson Grounds"]
-parent: hyakkiyako_school
-entry_minutes: 4
-summary:
-  "Walled stroll garden used for outdoor lessons: a carp pond, stone lanterns, a
-  teahouse bench; open 07:00–18:00, quiet except during lessons."
+name: Hyakkiyako Great Garden
+aliases:
+  - Great Garden Lesson Grounds
+summary: "Walled stroll garden used for outdoor lessons: a carp pond, stone lanterns, a teahouse bench; open 07:00–18:00, quiet except during lessons."
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
-map: { x: 0.7536, y: 0.9552 }
+parent: hyakkiyako_school
+place_id: hyakkiyako_great_garden
+entry_minutes: 4
+map:
+  x: 0.7536
+  y: 0.9552
 ---
 
 # Hyakkiyako Great Garden

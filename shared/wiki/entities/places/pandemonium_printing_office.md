@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.pandemonium_printing_office
-place_id: pandemonium_printing_office
-name: "Pandemonium Printing Office"
-parent: gehenna_backstreets
-entry_minutes: 3
-summary:
-  "The council's own print shop: presses for posters and the weekly magazine;
-  running 09:00–19:00, all night before an issue deadline."
+name: Pandemonium Printing Office
+summary: "The council's own print shop: presses for posters and the weekly magazine; running 09:00–19:00, all night before an issue deadline."
+groups:
+  - pandemonium_society
 renown: local
-community: pandemonium_society
-map: { x: 1.6421, y: 2.6729 }
+parent: gehenna_backstreets
+place_id: pandemonium_printing_office
+entry_minutes: 3
+map:
+  x: 1.6421
+  y: 2.6729
 ---
 
 # Pandemonium Printing Office

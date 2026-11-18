@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gdd_locker
-place_id: gdd_locker
-name: "Yuzu's Locker"
-parent: game_development_room
-entry_minutes: 1
-summary:
-  "A padded locker in the Game Development club room, a name sticker on the
-  door; a small monitor, a headset and a fan inside; latched from within."
+name: Yuzu's Locker
+summary: A padded locker in the Game Development club room, a name sticker on the door; a small monitor, a headset and a fan inside; latched from within.
+groups:
+  - game_development_department
 renown: private
-community: game_development_department
-map: { x: 2.6364, y: 1.5812 }
+parent: game_development_room
+place_id: gdd_locker
+entry_minutes: 1
+map:
+  x: 2.6364
+  y: 1.5812
 ---
 
 # Yuzu's Locker

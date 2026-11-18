@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.gehenna_second_building
-place_id: gehenna_second_building
-name: "Gehenna Second School Building"
-parent: gehenna_school
-entry_minutes: 3
-summary:
-  "Newer block for third-years, the library and the infirmary; doors open
-  07:00–20:00, the infirmary entrance at the side stays open all night."
+name: Gehenna Second School Building
+summary: Newer block for third-years, the library and the infirmary; doors open 07:00–20:00, the infirmary entrance at the side stays open all night.
+groups:
+  - gehenna_academy
 renown: local
-community: gehenna_academy
+parent: gehenna_school
 backdrop: gehenna-corridor
-map: { x: 1.5353, y: 2.8474 }
+place_id: gehenna_second_building
+entry_minutes: 3
+map:
+  x: 1.5353
+  y: 2.8474
 ---
 
 # Gehenna Second School Building

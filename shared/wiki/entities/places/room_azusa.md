@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_azusa
-place_id: room_azusa
-name: "Azusa Shirasu's Room"
-parent: trinity_magnolia_east
-entry_minutes: 1
-summary:
-  "East Wing room: a spartan cot, gear laid out in rows, a tripwire across the
-  doorway at night; one shelf of plushes given by a friend."
+name: Azusa Shirasu's Room
+summary: "East Wing room: a spartan cot, gear laid out in rows, a tripwire across the doorway at night; one shelf of plushes given by a friend."
 renown: private
+parent: trinity_magnolia_east
 backdrop: student-room
-map: { x: 0.7268, y: 2.2602 }
+place_id: room_azusa
+entry_minutes: 1
+map:
+  x: 0.7268
+  y: 2.2602
 ---
 
 # Azusa Shirasu's Room

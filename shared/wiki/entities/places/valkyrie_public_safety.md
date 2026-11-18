@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_public_safety
-place_id: valkyrie_public_safety
-name: "Valkyrie Public Safety Bureau"
+name: Valkyrie Public Safety Bureau
 aliases:
-  ["Valkyrie Community Safety Bureau", "Valkyrie Lifestyle Safety Bureau"]
-parent: valkyrie_hq_building
-entry_minutes: 1
-summary:
-  "The ground-floor office for civil complaints and beat patrols: desks, a duty
-  board, an answering machine; open 08:30–18:00, the machine takes the rest."
+  - Valkyrie Community Safety Bureau
+  - Valkyrie Lifestyle Safety Bureau
+summary: "The ground-floor office for civil complaints and beat patrols: desks, a duty board, an answering machine; open 08:30–18:00, the machine takes the rest."
+groups:
+  - valkyrie_police_academy
 renown: known
-community: valkyrie_police_academy
-map: { x: 1.8929, y: 1.477 }
+parent: valkyrie_hq_building
+place_id: valkyrie_public_safety
+entry_minutes: 1
+map:
+  x: 1.8929
+  y: 1.477
 ---
 
 # Valkyrie Public Safety Bureau

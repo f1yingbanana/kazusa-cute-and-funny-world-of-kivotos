@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_shimiko
-place_id: room_shimiko
-name: "Shimiko's Room"
-parent: trinity_magnolia_west
-entry_minutes: 1
-summary:
-  "West Wing room: bookshelves on every wall, handmade bookmarks drying on a
-  string, a reading lamp on all night; locked."
+name: Shimiko's Room
+summary: "West Wing room: bookshelves on every wall, handmade bookmarks drying on a string, a reading lamp on all night; locked."
 renown: private
+parent: trinity_magnolia_west
 backdrop: student-room
-map: { x: 0.7674, y: 2.2399 }
+place_id: room_shimiko
+entry_minutes: 1
+map:
+  x: 0.7674
+  y: 2.2399
 ---
 
 # Shimiko's Room

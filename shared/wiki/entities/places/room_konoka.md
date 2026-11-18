@@ -1,17 +1,14 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.room_konoka
-place_id: room_konoka
-name: "Konoka's Room"
-parent: valkyrie_dorm_4
-entry_minutes: 1
-summary:
-  "Room 302: a massage chair takes up half of it, horoscope clippings on the
-  mirror, charms on every handle; locked, key on a lucky-cat keyring."
+name: Konoka's Room
+summary: "Room 302: a massage chair takes up half of it, horoscope clippings on the mirror, charms on every handle; locked, key on a lucky-cat keyring."
 renown: private
+parent: valkyrie_dorm_4
 backdrop: valkyrie-student-room
-map: { x: 1.898, y: 1.4478 }
+place_id: room_konoka
+entry_minutes: 1
+map:
+  x: 1.898
+  y: 1.4478
 ---
 
 # Konoka's Room

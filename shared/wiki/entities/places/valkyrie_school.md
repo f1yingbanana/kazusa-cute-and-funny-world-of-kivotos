@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.valkyrie_school
-place_id: valkyrie_school
-name: "Valkyrie Police School, Shiratori Branch"
-aliases: ["Valkyrie Shiratori Branch"]
+name: Valkyrie Police School, Shiratori Branch
+aliases:
+  - Valkyrie Shiratori Branch
+summary: "The police academy's leafy D.U. campus: bureaus, classrooms, a shooting range and Valkyrie's dorms; front desk staffed day and night."
+groups:
+  - valkyrie_police_academy
 parent: shiratori_ward
-entry_minutes: 8
-summary:
-  "The police academy's leafy D.U. campus: bureaus, classrooms, a shooting range
-  and Valkyrie's dorms; front desk staffed day and night."
-community: valkyrie_police_academy
 backdrop: valkyrie-yard
-map: { x: 1.8721, y: 1.4625 }
+place_id: valkyrie_school
+entry_minutes: 8
+map:
+  x: 1.8721
+  y: 1.4625
 ---
 
 # Valkyrie Police School, Shiratori Branch

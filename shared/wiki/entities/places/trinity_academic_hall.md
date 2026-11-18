@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_academic_hall
-place_id: trinity_academic_hall
-name: "Trinity Academic Hall"
-aliases: ["Trinity Academic Building"]
+name: Trinity Academic Hall
+aliases:
+  - Trinity Academic Building
+summary: "Main teaching building: homerooms on three floors, lecture halls, a bell tower; open 07:30–19:00; corridors packed 08:20–08:30 and between periods."
+groups:
+  - trinity_general_school
 parent: trinity_plaza
-entry_minutes: 2
-summary:
-  "Main teaching building: homerooms on three floors, lecture halls, a bell
-  tower; open 07:30–19:00; corridors packed 08:20–08:30 and between periods."
-community: trinity_general_school
 backdrop: trinity-class-corridor
-map: { x: 0.9247, y: 2.53 }
+place_id: trinity_academic_hall
+entry_minutes: 2
+map:
+  x: 0.9247
+  y: 2.53
 ---
 
 # Trinity Academic Hall

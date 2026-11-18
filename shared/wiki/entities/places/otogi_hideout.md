@@ -1,18 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.otogi_hideout
-place_id: otogi_hideout
-name: "Pier 7 Inspection Walkway"
-aliases: ["Kousagi Pier 7 Walkway"]
-parent: kousagi_viaduct
-entry_minutes: 3
-summary:
-  "A narrow maintenance walkway slung under the viaduct deck: a hammock, radio
-  gear, puzzle boxes; reached by a ladder behind a gate, chalk marks show the
-  way."
+name: Pier 7 Inspection Walkway
+aliases:
+  - Kousagi Pier 7 Walkway
+summary: "A narrow maintenance walkway slung under the viaduct deck: a hammock, radio gear, puzzle boxes; reached by a ladder behind a gate, chalk marks show the way."
 renown: private
-map: { x: 1.5227, y: 1.5934 }
+parent: kousagi_viaduct
+place_id: otogi_hideout
+entry_minutes: 3
+map:
+  x: 1.5227
+  y: 1.5934
 ---
 
 # Pier 7 Inspection Walkway

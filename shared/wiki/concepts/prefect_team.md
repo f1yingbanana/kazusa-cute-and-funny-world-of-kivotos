@@ -1,10 +1,9 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.prefect_team
-title: Prefect Team
-aliases: [Disciplinary Committee]
-community: gehenna_academy
+name: Prefect Team
+aliases:
+  - Disciplinary Committee
+groups:
+  - gehenna_academy
 ---
 
 # Prefect Team

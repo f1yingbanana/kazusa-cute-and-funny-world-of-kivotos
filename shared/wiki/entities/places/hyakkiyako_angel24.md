@@ -1,19 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_angel24
-place_id: hyakkiyako_angel24
-name: "Angel 24, Hyakkiyako Branch"
-aliases: ["Hyakkiyako Angel 24"]
-parent: hyakkiyako_shopping_district
-entry_minutes: 1
-summary:
-  "24-hour convenience store at the station end of the street, in a
-  wooden-fronted building; onigiri, bento, ammo; the only light on the street
-  after 23:00."
+name: Angel 24, Hyakkiyako Branch
+aliases:
+  - Hyakkiyako Angel 24
+summary: 24-hour convenience store at the station end of the street, in a wooden-fronted building; onigiri, bento, ammo; the only light on the street after 23:00.
 renown: known
+parent: hyakkiyako_shopping_district
 backdrop: convenience
-map: { x: 0.8754, y: 0.9323 }
+place_id: hyakkiyako_angel24
+entry_minutes: 1
+map:
+  x: 0.8754
+  y: 0.9323
 ---
 
 # Angel 24, Hyakkiyako Branch

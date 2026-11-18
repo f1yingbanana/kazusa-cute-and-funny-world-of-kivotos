@@ -1,19 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_makeup_room
-place_id: trinity_makeup_room
-name: "Make-Up Work Club Annex"
-aliases: ["Make-Up Work Club Room", "Supplementary Lessons Club annex"]
-parent: trinity_outskirts
-entry_minutes: 6
-summary:
-  "Old two-storey annex in the outskirts, the Make-Up Work Club's base: study
-  hall, bedrooms, an outdoor pool, a laundry line; the club holds the key, used
-  after class and weekends."
+name: Make-Up Work Club Annex
+aliases:
+  - Make-Up Work Club Room
+  - Supplementary Lessons Club annex
+summary: "Old two-storey annex in the outskirts, the Make-Up Work Club's base: study hall, bedrooms, an outdoor pool, a laundry line; the club holds the key, used after class and weekends."
+groups:
+  - make_up_work_club
 renown: local
-community: make_up_work_club
-map: { x: 0.804, y: 2.4164 }
+parent: trinity_outskirts
+place_id: trinity_makeup_room
+entry_minutes: 6
+map:
+  x: 0.804
+  y: 2.4164
 ---
 
 # Make-Up Work Club Annex

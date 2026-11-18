@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_227_bathhouse
-place_id: red_winter_227_bathhouse
-name: "No. 227 Bathhouse"
-aliases: ["Shigure Hot Spring"]
-parent: red_winter_spec227
-entry_minutes: 2
-summary:
-  "Small hot-spring bathhouse behind the Former Institute, one renovated tub and
-  a milk bar; open 16:00–22:30, town visitors arrive on the evening shuttles."
+name: No. 227 Bathhouse
+aliases:
+  - Shigure Hot Spring
+summary: Small hot-spring bathhouse behind the Former Institute, one renovated tub and a milk bar; open 16:00–22:30, town visitors arrive on the evening shuttles.
+groups:
+  - red_winter_hot_springs
 renown: local
-community: red_winter_hot_springs
-map: { x: 1.3602, y: 0.4979 }
+parent: red_winter_spec227
+place_id: red_winter_227_bathhouse
+entry_minutes: 2
+map:
+  x: 1.3602
+  y: 0.4979
 ---
 
 # No. 227 Bathhouse

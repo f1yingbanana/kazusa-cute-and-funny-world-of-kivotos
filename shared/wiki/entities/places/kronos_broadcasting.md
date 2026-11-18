@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.kronos_broadcasting
-place_id: kronos_broadcasting
-name: "Kronos Broadcasting Center"
-aliases: ["Kronos studios"]
-parent: business_district_3
-entry_minutes: 4
-summary:
-  "Kronos School of Journalism's studios and newsroom; tours at 15:00 on
-  weekdays, reporters out on the street at all hours."
+name: Kronos Broadcasting Center
+aliases:
+  - Kronos studios
+summary: Kronos School of Journalism's studios and newsroom; tours at 15:00 on weekdays, reporters out on the street at all hours.
 renown: known
-map: { x: 1.9339, y: 1.5005 }
+parent: business_district_3
+place_id: kronos_broadcasting
+entry_minutes: 4
+map:
+  x: 1.9339
+  y: 1.5005
 ---
 
 # Kronos Broadcasting Center

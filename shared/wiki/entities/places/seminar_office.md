@@ -1,20 +1,18 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.seminar_office
-place_id: seminar_office
-name: "Seminar Office"
-aliases: ["Millennium Seminar Office"]
-parent: millennium_tower
-entry_minutes: 2
-summary:
-  "Seminar's working office and side lounge in the Tower: budget files, a ledger
-  wall, a kettle; staffed 08:00–20:00, club heads queue outside before budget
-  day."
+name: Seminar Office
+aliases:
+  - Millennium Seminar Office
+summary: "Seminar's working office and side lounge in the Tower: budget files, a ledger wall, a kettle; staffed 08:00–20:00, club heads queue outside before budget day."
+groups:
+  - seminar
 renown: known
-community: seminar
+parent: millennium_tower
 backdrop: millennium-seminar-clubroom
-map: { x: 2.7352, y: 1.6434 }
+place_id: seminar_office
+entry_minutes: 2
+map:
+  x: 2.7352
+  y: 1.6434
 ---
 
 # Seminar Office

@@ -1,28 +1,29 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.red_winter_first_dormitory
-place_id: red_winter_first_dormitory
-name: "First Shared Dormitory"
-parent: red_winter_district
-entry_minutes: 8
-summary:
-  "Cheap five-storey dorm for most students: door 06:00–23:00, roll call 22:30
-  in the lounge, banging radiators, hot water rare (best before 06:30)."
+name: First Shared Dormitory
+summary: "Cheap five-storey dorm for most students: door 06:00–23:00, roll call 22:30 in the lounge, banging radiators, hot water rare (best before 06:30)."
+groups:
+  - red_winter_federal_academy
 renown: local
-community: red_winter_federal_academy
+parent: red_winter_district
+backdrop: fireplace-lounge-hearth-view
+place_id: red_winter_first_dormitory
+entry_minutes: 8
 connections:
   - to: red_winter_school
     ways:
-      - { by: walk, minutes: 7 }
-      - { by: tram, minutes: 4 }
-    note: "Across the tram tracks to the campus gate."
+      - by: walk
+        minutes: 7
+      - by: tram
+        minutes: 4
+    note: Across the tram tracks to the campus gate.
   - to: red_winter_3rd_street
     ways:
-      - { by: walk, minutes: 5 }
-    note: "Down the block to the shops."
-backdrop: fireplace-lounge-hearth-view
-map: { x: 1.3876, y: 0.3208 }
+      - by: walk
+        minutes: 5
+    note: Down the block to the shops.
+map:
+  x: 1.3876
+  y: 0.3208
 ---
 
 # First Shared Dormitory

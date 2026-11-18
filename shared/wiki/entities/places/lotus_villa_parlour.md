@@ -1,17 +1,15 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.lotus_villa_parlour
-place_id: lotus_villa_parlour
-name: "Lotus Court Villa Parlour"
-parent: abydos_lotus_villa
-entry_minutes: 1
-summary:
-  "Ground-floor parlour and kitchen: deep sofas, a big table, a fridge always
-  stocked with snacks for guests. Where the club's parties end up."
+name: Lotus Court Villa Parlour
+summary: "Ground-floor parlour and kitchen: deep sofas, a big table, a fridge always stocked with snacks for guests. Where the club's parties end up."
+groups:
+  - foreclosure_task_force
 renown: local
-community: foreclosure_task_force
-map: { x: 2.6441, y: 2.6406 }
+parent: abydos_lotus_villa
+place_id: lotus_villa_parlour
+entry_minutes: 1
+map:
+  x: 2.6441
+  y: 2.6406
 ---
 
 # Lotus Court Villa Parlour

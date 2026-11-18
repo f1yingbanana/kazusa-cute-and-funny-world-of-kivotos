@@ -1,14 +1,12 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.schale_study_room
-place_id: schale_study_room
-name: "SCHALE Self-Study Room"
+name: SCHALE Self-Study Room
+summary: Bookable quiet study desks in the residence wing; reserve at the front desk.
 parent: schale_residence
+place_id: schale_study_room
 entry_minutes: 3
-summary:
-  "Bookable quiet study desks in the residence wing; reserve at the front desk."
-map: { x: 1.4307, y: 1.6798 }
+map:
+  x: 1.4307
+  y: 1.6798
 ---
 
 # SCHALE Self-Study Room

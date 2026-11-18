@@ -1,18 +1,17 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.hyakkiyako_department_store
-place_id: hyakkiyako_department_store
-name: "Hyakkiyako Department Store"
-aliases: ["Hyakkiyako Superstore"]
-parent: hyakkiyako_shopping_23
-entry_minutes: 1
-summary:
-  "Five-floor store: crafts and fabrics, bedding, toys and a card-game counter,
-  food hall in the basement; 10:00–20:00, card counter mobbed on release days."
+name: Hyakkiyako Department Store
+aliases:
+  - Hyakkiyako Superstore
+summary: "Five-floor store: crafts and fabrics, bedding, toys and a card-game counter, food hall in the basement; 10:00–20:00, card counter mobbed on release days."
+groups:
+  - hyakkiyako_alliance_academy
 renown: known
-community: hyakkiyako_alliance_academy
-map: { x: 0.8982, y: 0.9542 }
+parent: hyakkiyako_shopping_23
+place_id: hyakkiyako_department_store
+entry_minutes: 1
+map:
+  x: 0.8982
+  y: 0.9542
 ---
 
 # Hyakkiyako Department Store

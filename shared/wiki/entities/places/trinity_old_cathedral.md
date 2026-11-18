@@ -1,18 +1,16 @@
 ---
-pageType: entity
-entityType: place
-id: entity.place.trinity_old_cathedral
-place_id: trinity_old_cathedral
-name: "Old Cathedral of Communion"
-parent: trinity_outskirts
-entry_minutes: 10
-summary:
-  "A ruined historic cathedral on Trinity's outskirts where the Eden Treaty was
-  signed; open grounds, its crypt leads to the catacombs."
+name: Old Cathedral of Communion
+summary: A ruined historic cathedral on Trinity's outskirts where the Eden Treaty was signed; open grounds, its crypt leads to the catacombs.
+groups:
+  - trinity_general_school
 renown: known
-community: trinity_general_school
+parent: trinity_outskirts
 backdrop: cathedral-ruins
-map: { x: 0.7802, y: 2.4363 }
+place_id: trinity_old_cathedral
+entry_minutes: 10
+map:
+  x: 0.7802
+  y: 2.4363
 ---
 
 # Old Cathedral of Communion
