@@ -1,0 +1,28 @@
+---
+name: Abydos Central Station
+summary: "Abydos's last working platform: Trans-Desert trains to Gehenna and to Kousagi in D.U., each every 90 minutes, 06:00–21:00."
+known:
+  everyone: heard of
+  abydos_school: knows
+backdrop: abydos-station-platform
+place_id: abydos_station
+connections:
+  - to: abydos_town
+    ways:
+      - by: walk
+        minutes: 8
+    note: Through the half-buried concourse into town.
+map:
+  x: 2.42
+  y: 2.5
+---
+
+# Abydos Central Station
+
+Once the grand gateway to the richest district in Kivotos, now mostly sealed
+off by sand. One platform still runs, with a timetable pinned by the gate:
+Trans-Desert Railway trains to [[gehenna_station|Gehenna]] and to
+[[kousagi_station|Kousagi]] in D.U., a handful each day. Someone sells snacks
+out front most days, and the buses leave from the forecourt. The first station
+building, the [[abydos_old_station|Old Desert Line Station]] out in the dunes,
+was abandoned when the line was cut back here.

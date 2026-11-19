@@ -1,11 +1,13 @@
 ---
 name: Pseudoscience Department
-groups:
-  - millennium_science_school
+summary: A Millennium department for ideas outside accepted research, which lost its funding and dissolved.
+group: true
+known:
+  millennium_school: knows
 ---
 
 # Pseudoscience Department
 
-Millennium’s Pseudoscience Department was associated with Azuma Mirai and
-investigated or marketed ideas outside accepted research. Its work was disputed,
-and the department lost funding and dissolved.
+The Pseudoscience Department of [[millennium_school]], associated with Azuma
+Mirai, investigated and marketed ideas outside accepted research. Its work was
+disputed, and in the end it lost its funding and dissolved.

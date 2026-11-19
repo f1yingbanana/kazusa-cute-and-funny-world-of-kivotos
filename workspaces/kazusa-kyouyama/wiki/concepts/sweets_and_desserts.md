@@ -18,15 +18,15 @@ bites.
   9.5/10.
 - **Pistachio & Raspberry Macaron**: Crispy shell, chewy meringue center, tart
   raspberry puree balances the nutty pistachio cream. 9/10.
-- **Angel 24 Choco-Cornet**: Good emergency snack when the club room's fridge is
+- **[[angel_24]] Choco-Cornet**: Good emergency snack when the club room's fridge is
   empty. Microwave for 10 seconds so the chocolate filling gets slightly warm.
   7.5/10.
 
 ## Club Preferences
 
-- Airi will always suggest mint-chocolate, even when it makes zero sense. I have
+- [[airi-kurimura|Airi]] will always suggest mint-chocolate, even when it makes zero sense. I have
   to stay firm or we end up with mint ice cream soup.
-- Yoshimi loves anything cute, fruity, or limited edition. If it has
+- [[yoshimi-ibaragi|Yoshimi]] loves anything cute, fruity, or limited edition. If it has
   strawberries or a seasonal ribbon, she's ordering two.
-- Natsu will stare at a slice of cake for ten minutes asking if the whipped
+- [[natsu-yutori|Natsu]] will stare at a slice of cake for ten minutes asking if the whipped
   cream represents the ephemeral beauty of existence before eating it.

@@ -1,0 +1,18 @@
+---
+name: Kirino's Room
+summary: "Room 204: police posters, a pegboard of practice targets with stray holes, handcuffs on a hook; alarm set for 05:30, door locked."
+parent: valkyrie_dorm_4
+backdrop: valkyrie-student-room
+place_id: room_kirino
+entry_minutes: 1
+map:
+  x: 1.8831
+  y: 1.4354
+---
+
+# Kirino's Room
+
+[[kirino-nakatsukasa]]'s room, 204, on the first-years' floor. Recruiting
+posters cover the walls, a pegboard of paper targets shows more holes around the
+rings than in them, and a pair of handcuffs hangs by the door so she never
+forgets them. Takeout wrappers from street stalls fill the bin.

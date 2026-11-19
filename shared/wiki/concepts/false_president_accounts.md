@@ -1,13 +1,21 @@
 ---
 name: Accounts of the False President
-renown: known
+summary: Accounts of someone accepted as the General Student Council President although memories and records disagreed.
+known:
+  general_student_council: knows
+  schale: knows
 ---
 
 # Accounts of the False President
 
-Accounts collected in the source world describe Rin and Sensei encountering a
-supposed General Student Council President whom others accepted despite
-inconsistencies in their memories and records. The accounts also mention the
-Staff of Shaqed and an investigation into conflicting information. These events
-are recorded as an account rather than a change to the simulation’s present
-government.
+There are accounts of a time when someone appeared as the
+[[general_student_council|General Student Council]] President and was accepted
+by those around her, although people's memories and the council's records did
+not agree. The accounts change nothing about the council today: the real
+President is still missing.
+
+## The investigation
+
+Rin of the General Student Council and [[sensei|Sensei]] encountered the
+supposed President, and looked into the conflicting information. The accounts also mention the Staff of Shaqed in
+connection with the investigation.

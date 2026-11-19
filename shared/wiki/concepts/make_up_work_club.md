@@ -3,17 +3,27 @@ name: Make-Up Work Club
 aliases:
   - Supplementary Lessons Department
   - Remedial Class
-groups:
-  - trinity_general_school
+summary: A remedial study group at [[trinity_school]] for four students at risk of failing, taught by Sensei.
+group: true
+known:
+  trinity_school: knows
 ---
 
 # Make-Up Work Club
 
-The Make-Up Work Club is a Trinity General School group formed to help students
-pass their examinations under Sensei's supervision. Its members are Ajitani
-Hifumi, Azusa Shirasu, Koharu Shimoe and Hanako Urawa.
+The Make-Up Work Club, also called the Supplementary Lessons Department, is a
+remedial study group at [[trinity_school]] for students who are about to fail.
+Its four members study under [[sensei]] in the [[trinity_makeup_room]], an old
+annex on the edge of campus: [[hifumi-ajitani]], [[azusa-shirasu]],
+[[koharu-shimoe]] and [[hanako-urawa]].
 
-The Tea Party's Nagisa Kirifuji brought the students together during the Eden
-Treaty crisis. The club was also bound up with her suspicions about threats to
-the treaty. The students faced the exams and the crisis together, and the
-friendships they formed endured beyond the circumstances of the club's creation.
+## How it began
+
+The Tea Party's host, [[nagisa-kirifuji]], brought the four together during the
+[[eden_treaty_crisis]]. The club was bound up with her suspicion that a traitor
+inside Trinity meant to sabotage the [[eden_treaty]]: she gathered the students
+she distrusted in one place.
+
+The four faced their exams and the crisis together. Azusa, who had come from
+[[arius_school]], chose her new friends over the mission she had been sent on.
+The friendships they formed outlasted the reasons the club was created.

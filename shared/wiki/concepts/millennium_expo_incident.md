@@ -1,11 +1,15 @@
 ---
 name: Millennium Expo Incident
-groups:
-  - millennium_science_school
+summary: A threat during a Millennium Expo, met by Seia, Neru and Rio together.
+known:
+  everyone: heard of
+  millennium_school: knows
 ---
 
 # Millennium Expo Incident
 
-During a Millennium Expo, Seia, Neru and Rio became involved in a threat
-connected to a surveillance system. Their cooperation helped address the
-immediate problem and gave Seia and Rio a chance to confront personal doubts.
+During a Millennium Expo at [[millennium_school]],
+[[seia-yurizono|Seia Yurizono]], [[neru-mikamo|Neru Mikamo]] and
+[[rio-tsukatsuki|Rio Tsukatsuki]] were drawn into a threat connected to a
+surveillance system. Working together, they dealt with the immediate danger,
+and Seia and Rio each had a chance to face their own doubts.

@@ -1,0 +1,19 @@
+---
+name: Toki's Room
+summary: "Clinically neat room: pressed maid uniforms, a weapons-care kit, a tablet paused on a stream; locked."
+parent: millennium_dorm_2e
+backdrop: student-room
+place_id: room_toki
+entry_minutes: 1
+map:
+  x: 2.7877
+  y: 1.7668
+---
+
+# Toki's Room
+
+In [[toki-asuma|Toki]]'s room the uniforms hang in a perfect row, the bed is
+made with corners a hospital would envy, and a weapons-care kit sits open on a
+towel. On the desk are three manga volumes marked with sticky notes reading
+"testing", and a tablet paused on a streamer she is trying to decide whether
+she likes.

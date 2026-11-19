@@ -1,0 +1,22 @@
+---
+name: Hyakkiyako Department Store
+aliases:
+  - Hyakkiyako Superstore
+summary: "Five-floor store: crafts and fabrics, bedding, toys and a card-game counter, food hall in the basement; 10:00–20:00, card counter mobbed on release days."
+known:
+  hyakkiyako_school: knows
+parent: hyakkiyako_shopping_23
+place_id: hyakkiyako_department_store
+entry_minutes: 1
+map:
+  x: 0.8982
+  y: 0.9542
+---
+
+# Hyakkiyako Department Store
+
+The town's only department store, five floors on the corner of
+[[hyakkiyako_shopping_23]]. The handicraft floor sells silk thread and
+handkerchiefs, the bedding floor has a pillow corner with trial beds, the toy
+floor has a card-game counter where limited packs sell out in minutes, and the
+basement is a food hall.

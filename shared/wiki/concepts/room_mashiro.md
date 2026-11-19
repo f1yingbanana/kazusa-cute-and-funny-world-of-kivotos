@@ -1,0 +1,19 @@
+---
+name: Mashiro's Room
+summary: "West Wing room at the end of the corridor: a telescope at the window, shelves of books on justice, an observation diary by the bed; locked."
+parent: trinity_magnolia_west
+backdrop: student-room
+place_id: room_mashiro
+entry_minutes: 1
+map:
+  x: 0.7754
+  y: 2.2455
+---
+
+# Mashiro's Room
+
+[[mashiro-shizuyama|Mashiro]]'s room at the end of the
+[[trinity_magnolia_west|West Wing]], picked for its window, which looks over
+half the town. A telescope stands at the glass, books on justice and law fill
+the shelves, and an observation diary lies open by the bed with neat entries on
+everything she has watched.

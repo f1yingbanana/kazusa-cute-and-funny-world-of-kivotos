@@ -1,13 +1,15 @@
 ---
 name: Phantom Story Tomes
-groups:
-  - hyakkiyako_alliance_academy
+summary: Strange books of phantom tales carried by the members of Nature's Beauty.
+known:
+  hyakkaryouran_resolution_council: close
 ---
 
 # Phantom Story Tomes
 
-Several unusual tomes appear in accounts of Hyakkiyako’s supernatural crises.
-Inou’s Phantom Records is associated with Shuro, while Toutei’s Phantom
-Illustrations is associated with Azami. Another, Inou’s Spirit Records, is
-linked with Kokuriko. Accounts describe their effects in terms of stories, fears
-and desires.
+Several strange tomes turned up in [[hyakkiyako_school|Hyakkiyako]]'s
+supernatural crises, each associated with a member of [[natures_beauty]]:
+Inou's Phantom Records with Shuro, Toutei's Phantom Illustrations with Azami,
+and Inou's Spirit Records with Kokuriko. Their power works through stories,
+fears and desires, and they are tied to the
+[[hyakkiyako_phantom_fables|Phantom Fables]] that walked the district.

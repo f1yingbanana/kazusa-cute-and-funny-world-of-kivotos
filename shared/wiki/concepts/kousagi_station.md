@@ -1,0 +1,40 @@
+---
+name: Kousagi Station
+summary: "D.U.'s southern rail gateway: Metro to downtown, Southern Line to Trinity and Gehenna, the Trans-Desert branch to Abydos; Metro 05:30–00:30."
+known:
+  everyone: heard of
+backdrop: train-station
+place_id: kousagi_station
+connections:
+  - to: kousagi_station_street
+    ways:
+      - by: walk
+        minutes: 1
+    note: Straight out of the ticket gates.
+  - to: trinity_station
+    ways:
+      - by: train
+        minutes: 18
+    note: Southern Line. Times include the average wait.
+  - to: gehenna_station
+    ways:
+      - by: train
+        minutes: 30
+    note: Southern Line through train. Times include the average wait.
+  - to: abydos_station
+    ways:
+      - by: train
+        minutes: 50
+    note: Trans-Desert Railway, D.U. branch, every 90 minutes. Few trains, so riders plan around the posted timetable; the time assumes they do.
+map:
+  x: 1.78
+  y: 2.08
+---
+
+# Kousagi Station
+
+A modest station on [[du_downtown|D.U.]]'s southern edge that punches above its
+size: two high-speed platforms where southbound trains leave the capital, and a
+Metro level beneath. A [[kousagi_police_box|police box]] stands out front on
+[[kousagi_station_street|the station street]], and from the exit the
+[[schale]] building is visible up the hill.

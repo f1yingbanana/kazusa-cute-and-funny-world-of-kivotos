@@ -6,6 +6,6 @@ summary:
 
 # Arius Squad
 
-Saori, Atsuko, Hiyori and Misaki. We have a long and complicated history. They
+[[saori-joumae|Saori]], [[atsuko-hakari|Atsuko]], [[hiyori-tsuchinaga|Hiyori]] and [[misaki-imashino|Misaki]]. We have a long and complicated history. They
 left, and the rest of us stayed to rebuild. Some days I understand why. Some
 days I don't want to.

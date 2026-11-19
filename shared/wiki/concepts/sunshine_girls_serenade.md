@@ -1,12 +1,20 @@
 ---
 name: Sunshine Girls’ Serenade
-groups:
-  - gehenna_academy
+summary: Gehenna's Special Party, where Hina was talked into giving a piano recital amid the council's and prefects' rivalry.
+known:
+  gehenna_school: knows
+  pandemonium_society: close
+  prefect_team: close
 ---
 
 # Sunshine Girls’ Serenade
 
-Makoto enlisted Sensei for Gehenna’s Special Party and arranged for Hina to
-perform a piano recital. Hina accepted the challenge and prepared despite her
-responsibilities as head prefect. Rivalry between the Pandemonium Society and
-the Prefect Team complicated the party preparations.
+For Gehenna's Special Party, [[makoto-hanuma|Makoto]] enlisted [[sensei]] and
+arranged for [[hina-sorasaki|Hina]] to give a piano recital. Hina accepted the
+challenge and prepared for it despite her duties as head of the
+[[prefect_team]].
+
+## Behind the scenes
+
+The rivalry between the [[pandemonium_society]] and the Prefect Team
+complicated the party preparations throughout.

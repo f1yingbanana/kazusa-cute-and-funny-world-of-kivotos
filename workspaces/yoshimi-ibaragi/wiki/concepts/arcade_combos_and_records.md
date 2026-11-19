@@ -19,5 +19,5 @@ My secret training notes from the D.U. Game Center.
 
 ## Rhythm Games
 
-- "Sugar Rush Deluxe": Master difficulty 98.4% Great Full Combo. Need to clean
+- "[[sugar_rush]] Deluxe": Master difficulty 98.4% Great Full Combo. Need to clean
   up the rapid trills in the bridge.
