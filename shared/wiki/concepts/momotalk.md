@@ -1,12 +1,12 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.momotalk
-title: MomoTalk
-renown: famous
+name: MomoTalk
+summary: The messaging app nearly every student in Kivotos uses.
+known:
+  everyone: knows
 ---
 
 # MomoTalk
 
-MomoTalk is a messaging application widely used by Kivotos students and Sensei.
-People use it for personal conversations as well as practical coordination.
+MomoTalk is the messaging app used by nearly every student in Kivotos, and by
+[[sensei|Sensei]]. People use it for personal chats as well as for arranging
+plans and work.

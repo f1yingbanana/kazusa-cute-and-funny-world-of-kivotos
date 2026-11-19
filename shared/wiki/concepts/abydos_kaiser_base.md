@@ -1,0 +1,20 @@
+---
+name: Kaiser PMC Desert Base
+summary: A fenced Kaiser PMC compound on land the district sold off; armed guards and searchlights day and night. Trespassers get shot at.
+known:
+  kaiser_corporation: knows
+  abydos_school: knows
+parent: abydos_desert
+place_id: abydos_kaiser_base
+entry_minutes: 45
+map:
+  x: 2.6155
+  y: 2.7004
+---
+
+# Kaiser PMC Desert Base
+
+Prefab barracks, a vehicle yard and floodlit fences on former Abydos land, with
+armed guards at the gate and searchlights sweeping the sand. Kaiser's private
+military, the PMC arm of [[kaiser_corporation]], runs the company's desert
+holdings from here, and does not welcome visitors from the school.

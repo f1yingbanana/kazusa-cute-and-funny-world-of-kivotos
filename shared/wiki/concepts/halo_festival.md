@@ -1,14 +1,14 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.halo_festival
-title: "Kivotos Halo Festival"
-renown: known
+name: Kivotos Halo Festival
+summary: A festival that brings students from different academies together for sports and celebration.
+known:
+  everyone: heard of
 ---
 
 # Kivotos Halo Festival
 
-The Halo Festival brings students from different academies together for athletic
-events and celebrations. Representatives from Millennium, Trinity and Gehenna
-coordinated one festival despite frequent disagreements, and students helped one
-another through both competition and unexpected trouble.
+The Halo Festival brings students from across Kivotos together for athletic
+events and celebrations. Representatives of [[millennium_school|Millennium]],
+[[trinity_school|Trinity]] and [[gehenna_school|Gehenna]] organized one
+festival together despite constant disagreements, and students helped one
+another through both the competition and some unexpected trouble.

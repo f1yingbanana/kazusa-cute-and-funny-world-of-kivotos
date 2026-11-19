@@ -1,14 +1,19 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.arius_beach_festival
-title: "Arius Squad at the Beach Festival"
-community: arius_satellite_school
+name: Arius Squad at the Beach Festival
+summary: The summer Saori worked at Outlaw Beach while the rest of the Arius Squad came to the festival with Sensei.
+known:
+  arius_squad: close
 ---
 
 # Arius Squad at the Beach Festival
 
-Saori took a job at Outlaw Beach while Atsuko, Misaki and Hiyori visited the
-festival with Sensei. The squad quietly looked out for Saori as she worked, and
-eventually reunited with her amid trouble at the event. Their time together
-offered the friends a chance to enjoy summer while finding their own paths.
+One summer [[saori-joumae|Saori]] took a job at [[outlaw_beach]] during a
+festival, while [[atsuko-hakari|Atsuko]], [[misaki-imashino|Misaki]] and
+[[hiyori-tsuchinaga|Hiyori]] of the [[arius_squad]] visited it with
+[[sensei]].
+
+## What happened
+
+The others quietly looked out for Saori as she worked, and in the end reunited
+with her amid trouble at the event. The time together gave the friends a chance
+to enjoy summer while each was finding her own path.

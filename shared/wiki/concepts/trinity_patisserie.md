@@ -1,0 +1,32 @@
+---
+name: Cafe Mille-Feuille
+aliases:
+  - Pâtisserie de Trinity
+  - Patisserie de Trinity
+summary: "Trinity Street's favourite dessert café: mille-feuille, seasonal menus, a terrace; open 10:00–20:00; queues on new-menu days, students crowd it after 15:30."
+known:
+  everyone: heard of
+  trinity_school: knows
+  after_school_sweets_club: close
+parent: church_street
+backdrop: dessert-cafe
+place_id: trinity_patisserie
+entry_minutes: 2
+map:
+  x: 0.9299
+  y: 2.342
+---
+
+# Cafe Mille-Feuille
+
+An elegant café and pâtisserie on [[church_street]], with brass-trimmed glass
+cases of macarons, fruit tarts and its namesake mille-feuille. Marble tables
+and wicker chairs fill the room and spill onto a terrace under striped awnings.
+A new seasonal menu launches every few weeks, and the line on launch day
+reaches down the street. The doors lock at 20:00 and the cases are emptied.
+
+## Behind the counter
+
+The staff are mostly part-timers, students from Trinity and from outside it;
+one student from the [[arius_school|Arius school]] works the afternoon and
+evening shifts several days a week.

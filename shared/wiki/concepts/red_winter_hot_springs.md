@@ -1,14 +1,23 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.red_winter_hot_springs
-title: "No. 227 Hot Spring Resort"
-renown: known
+name: No. 227 Hot Spring Resort
+summary: The short-lived hot spring resort Nodoka and Shigure ran in Red Winter.
+known:
+  red_winter_school: heard of
+  special_class_227: close
+  red_winter_office: knows
+  red_winter_public_works: knows
+  hot_spring_development_department: knows
 ---
 
 # No. 227 Hot Spring Resort
 
-Nodoka and Shigure discovered a hot spring and briefly ran a resort in Red
-Winter. The project drew visitors as well as disputes involving the Secretariat,
-the Labor Party and Gehenna’s Hot Springs Department. After the resort was
-destroyed, the two friends still had each other.
+[[nodoka-amami|Nodoka]] and [[shigure-mayoi|Shigure]] discovered a hot spring
+in [[red_winter_school|Red Winter]] and briefly ran a resort on it. It drew
+visitors, and disputes, before it was destroyed.
+
+## The disputes
+
+The resort brought in the [[red_winter_office|Red Winter Office]], the
+[[red_winter_public_works|Labor Party]] and Gehenna's
+[[hot_spring_development_department|Hot Spring Development Department]]. When
+the resort was gone, the two friends still had each other.

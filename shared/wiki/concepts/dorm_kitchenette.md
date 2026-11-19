@@ -1,0 +1,21 @@
+---
+name: Willow Hall Kitchenette
+aliases:
+  - Willow Hall kitchen
+summary: "Small shared kitchen off Willow Hall's upstairs corridor: kettle, two-burner stove, a fridge full of labelled snacks; open all hours, breakfast crowd 07:30–08:00."
+parent: trinity_dorm_upstairs
+place_id: dorm_kitchenette
+entry_minutes: 1
+map:
+  x: 0.8025
+  y: 2.3054
+known:
+  trinity_school: knows
+---
+
+# Willow Hall Kitchenette
+
+A small shared kitchen off the upstairs corridor of [[trinity_dorm]], with a
+kettle, a two-burner stove and a fridge crammed with labelled snacks and milk
+cartons. Residents grab breakfast here, brew tea in the evening and now and
+then attempt baking, with mixed results for the smoke alarm.

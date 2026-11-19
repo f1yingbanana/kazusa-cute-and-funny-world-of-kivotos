@@ -1,13 +1,13 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.education_in_kivotos
-title: Education in Kivotos
-renown: famous
+name: Education in Kivotos
+summary: How Kivotos students learn, from school materials and recorded lessons to their clubs.
+known:
+  everyone: knows
 ---
 
 # Education in Kivotos
 
-Students in Kivotos study through school materials, recorded lessons and their
-own clubs and activities. Sensei also provides direct instruction and guidance.
-Practices can vary between schools and individual students.
+Students in Kivotos learn from school materials, recorded lessons, and their
+own [[school_clubs|clubs]] and activities. [[sensei|Sensei]] also teaches and
+guides students directly. How lessons are run differs from school to school,
+and from student to student.

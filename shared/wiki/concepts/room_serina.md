@@ -1,0 +1,20 @@
+---
+name: Serina's Room
+summary: "First-floor room: a pressed nurse's cap, a box of handmade gifts for children, a map of every building she covers; locked."
+parent: trinity_old_quarters
+backdrop: student-room
+place_id: room_serina
+entry_minutes: 1
+map:
+  x: 0.8112
+  y: 2.2808
+---
+
+# Serina's Room
+
+[[serina-sumi|Serina]]'s first-floor room in the [[trinity_old_quarters]] is
+tidy and set up for someone who is rarely in it. A pressed nurse's cap hangs by
+the door, a box of handmade gifts for the children's ward of
+[[trinity_hospital]] sits half finished on the desk, and a hand-drawn map of
+every building she covers each day is pinned over the bed. Her night-duty pass
+is tucked in the frame.

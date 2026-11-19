@@ -1,13 +1,15 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.michiruchi_channel
-title: "Michiruchi: A Girl’s Ninja Scroll"
-renown: known
+name: "Michiruchi: A Girl’s Ninja Scroll"
+summary: Michiru Chidori's video channel about ninjas.
+known:
+  hyakkiyako_school: heard of
+  ninjutsu_research_department: close
 ---
 
 # Michiruchi: A Girl’s Ninja Scroll
 
-Michiru Chidori uses her video channel to share her enthusiasm for ninjas. Her
-Ninjutsu Research Department friends Izuna and Tsukuyo often help with
+[[michiru-chidori|Michiru Chidori]] runs this video channel to share her love
+of ninjas. Her friends from the
+[[ninjutsu_research_department|Ninjutsu Research Department]],
+[[izuna-kuda|Izuna]] and [[tsukuyo-oono|Tsukuyo]], often help with
 demonstrations and filming.

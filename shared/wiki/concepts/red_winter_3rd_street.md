@@ -1,0 +1,40 @@
+---
+name: Red Winter 3rd Street Shopping District
+aliases:
+  - 3rd Street Shopping District
+summary: "Arcaded shopping street between Central Station and the campus: sweets, used books, Beluga Market, a café, Angel 24; shops 09:00–21:00, busy after 16:00."
+known:
+  red_winter_school: knows
+parent: red_winter_district
+place_id: red_winter_3rd_street
+entry_minutes: 4
+connections:
+  - to: red_winter_station
+    ways:
+      - by: walk
+        minutes: 4
+    note: Out of the arcade onto the station square.
+  - to: red_winter_school
+    ways:
+      - by: walk
+        minutes: 6
+      - by: tram
+        minutes: 4
+    note: Up the avenue to the campus gate.
+map:
+  x: 1.4261
+  y: 0.4284
+---
+
+# Red Winter 3rd Street Shopping District
+
+The district's main shopping street, roofed over with glass arcades so the snow
+stays outside. It runs from the [[red_winter_station|Central Station]] square up
+toward the campus: the [[red_winter_sweets_shop|sweets shop]] the president
+visits on foot, a [[red_winter_used_books|used bookshop]] the library crowd
+haunts, the [[red_winter_printing_house|Red Bear printing house]] and its
+newsstand, a warm [[red_winter_cafe|café]], a
+[[red_winter_pharmacy|pharmacy]], an [[red_winter_angel_24|Angel 24]] that never
+closes, and at the far end the open-air
+[[red_winter_beluga_market|Beluga Market]]. After classes it is where everyone
+ends up.

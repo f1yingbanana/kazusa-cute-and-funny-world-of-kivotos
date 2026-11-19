@@ -7,7 +7,7 @@ tags: [music, bass, guitar, band, practice]
 
 # Bass Guitar Practice
 
-Keep this private. I don't need Yoshimi or Natsu teasing me about wanting to be
+Keep this private. I don't need [[yoshimi-ibaragi|Yoshimi]] or [[natsu-yutori|Natsu]] teasing me about wanting to be
 in a band.
 
 ## Current Setup & Tone

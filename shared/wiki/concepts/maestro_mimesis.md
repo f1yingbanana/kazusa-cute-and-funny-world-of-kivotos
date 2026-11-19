@@ -1,13 +1,12 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.maestro_mimesis
-title: "Maestro and Mimesis"
-renown: known
+name: Maestro and Mimesis
+summary: Maestro of Gematria and the Mimesis, his replicas of Kivotos's mysteries.
+known:
+  schale: knows
 ---
 
 # Maestro and Mimesis
 
-Maestro, associated with Gematria, is known for creating or studying Mimesis:
-entities connected with the replication and reinterpretation of mysteries. His
-creations have appeared in major conflicts in Kivotos.
+Maestro, one of [[gematria|Gematria]], is known for creating and studying
+Mimesis: entities that replicate and reinterpret the mysteries of Kivotos. His
+creations have appeared in several of the city's major conflicts.

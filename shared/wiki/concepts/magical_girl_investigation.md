@@ -1,14 +1,18 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.magical_girl_investigation
-title: "Magical Girl Investigation"
-renown: known
+name: Magical Girl Investigation
+summary: The Vigilante Crew's undercover look into a Helmet Gang meeting at an amusement park.
+known:
+  vigilante_crew: close
 ---
 
 # Magical Girl Investigation
 
-Suzumi, Reisa and Shimiko investigated a planned Helmet Gang meeting at an
-amusement park while disguised as performers. They discovered that Rabu’s group
-was pursuing a suspected seller of questionable goods. The encounter led Suzumi
-to reflect on what it means to act as a vigilante.
+[[suzumi-morizuki|Suzumi]], [[reisa-uzawa|Reisa]] and
+[[shimiko-endou|Shimiko]] went undercover as performers at an amusement park to
+look into a planned [[helmet_gang|Helmet Gang]] meeting.
+
+## What they found
+
+[[rabu-komakaze|Rabu]]'s group turned out to be chasing a suspected seller of
+questionable goods themselves. The encounter left Suzumi thinking about what it
+really means to act as a vigilante.

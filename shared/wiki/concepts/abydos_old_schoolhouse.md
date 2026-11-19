@@ -1,0 +1,21 @@
+---
+name: Abydos Old Schoolhouse 3
+aliases:
+  - Abydos Old School Building
+summary: A condemned wooden schoolhouse at the edge of campus, used for dares and night treasure hunts; boarded up, floors unsafe, no lights.
+known:
+  abydos_school: knows
+parent: abydos_school
+place_id: abydos_old_schoolhouse
+entry_minutes: 4
+map:
+  x: 2.6909
+  y: 2.6645
+---
+
+# Abydos Old Schoolhouse 3
+
+The third of the old wooden school buildings, and the only one still standing.
+It was condemned long ago: the windows are boarded, there are no lights, and
+some floors give underfoot. Students dare each other to go in after dark, and
+forgotten things from Abydos's better days still turn up in its cupboards.

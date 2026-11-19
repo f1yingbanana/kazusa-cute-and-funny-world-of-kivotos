@@ -5,6 +5,6 @@ summary:
 
 # FOX Platoon
 
-Kurumi takes the door, Niko holds the center, I take whatever high ground I
+[[kurumi-takakura|Kurumi]] takes the door, [[niko-yoshino|Niko]] holds the center, I take whatever high ground I
 like, and Yukino takes the weight. I'm as casual about Yukino as anyone. When
 she gives an order, though, I'm already moving.

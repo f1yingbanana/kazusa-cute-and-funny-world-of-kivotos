@@ -1,0 +1,25 @@
+---
+name: Trinity Dining Hall
+aliases:
+  - Trinity School Cafeteria
+summary: Campus dining hall with set meals and a dessert counter; breakfast 07:00–08:15, lunch 11:50–13:30 (packed 12:10–12:50), dinner 17:30–19:30.
+known:
+  trinity_school: knows
+parent: trinity_plaza
+backdrop: school-cafeteria
+place_id: school_cafeteria
+entry_minutes: 2
+map:
+  x: 0.8959
+  y: 2.5098
+---
+
+# Trinity Dining Hall
+
+A high-ceilinged hall on [[trinity_plaza]] with long tables, arched windows and
+a serving line with a set meal of the day. Nearly every student on campus eats
+lunch here on weekdays, so it is loud and crowded at noon.
+
+The dessert counter by the entrance sells cream puffs and pudding that run out
+within minutes. Breakfast and dinner are quieter, mostly students from dorms
+without a kitchen.

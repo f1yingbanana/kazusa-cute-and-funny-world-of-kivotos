@@ -1,13 +1,13 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.adult_card
-title: The Adult Card
-renown: known
+name: The Adult Card
+summary: An unusual card that Sensei carries, tied to an adult's authority in Kivotos.
+known:
+  schale: knows
 ---
 
 # The Adult Card
 
-Sensei possesses an unusual card associated with their authority and the cost of
-confronting extraordinary threats. Its full capabilities and nature are not
-clearly understood in Kivotos.
+[[sensei|Sensei]] carries an unusual card, tied to Sensei's authority as an
+adult and used only against extraordinary threats. Using it is said to carry a
+cost. What the card can truly do, and what exactly it takes in return, is not
+clearly understood by anyone in Kivotos.

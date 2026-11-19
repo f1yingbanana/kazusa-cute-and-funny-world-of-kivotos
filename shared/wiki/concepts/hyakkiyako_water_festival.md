@@ -1,13 +1,19 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.hyakkiyako_water_festival
-title: "Hyakkiyako Water Festival"
-community: hyakkiyako_alliance_academy
+name: Hyakkiyako Water Festival
+summary: A Hyakkiyako festival built around a team competition in the water.
+known:
+  hyakkiyako_school: knows
+  hyakkaryouran_resolution_council: close
 ---
 
 # Hyakkiyako Water Festival
 
-During a Hyakkiyako water festival competition, members of the Hyakkaryouran
-helped Kikyou when she struggled in the water. The event included several teams
-and gave the friends a chance to support one another outside their usual duties.
+Hyakkiyako's water festival centers on a competition in the water, entered by
+several teams, with the usual festival crowds along the bank.
+
+## The Hyakkaryouran's day
+
+The [[hyakkaryouran_resolution_council]] entered too. When
+[[kikyou-kiryuu|Kikyou]], who cannot swim, struggled in the water, the others
+came to her help. It gave the four friends a chance to support one another
+outside their usual duties.

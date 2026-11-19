@@ -1,7 +1,7 @@
 {
   "name": "cute-and-funny-world-of-kivotos",
   "displayName": "Cute and Funny World of Kivotos",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "The students of Kivotos, from Trinity to Millennium. 145 characters, with ARONA as your system admin.",
   "author": "breados17",
   "homepage": "https://openrp.ai/kazusa",
@@ -15,7 +15,17 @@
     "defaultGroup": "After-School Sweets Club",
     "renames": {
       "black_market": "black_market_district",
-      "red_winter_office": "red_winter_secretariat"
+      "red_winter_office": "red_winter_secretariat",
+      "abydos_high_school": "abydos_school",
+      "arius_satellite_school": "arius_school",
+      "gehenna_academy": "gehenna_school",
+      "hyakkiyako_alliance_academy": "hyakkiyako_school",
+      "ebisu_satellite_school": "ebisu_school",
+      "millennium_science_school": "millennium_school",
+      "red_winter_federal_academy": "red_winter_school",
+      "srt_special_academy": "srt_training_facility",
+      "trinity_general_school": "trinity_school",
+      "twilight_temple": "twilight_temple_grounds"
     },
     "config": {
       "welcome": [

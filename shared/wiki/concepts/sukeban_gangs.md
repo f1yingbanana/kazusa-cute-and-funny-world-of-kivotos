@@ -1,12 +1,13 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.sukeban_gangs
-title: "Sukeban Gangs"
-renown: known
+name: Sukeban Gangs
+summary: Delinquent girl gangs found around Kivotos's rougher streets.
+group: true
+known:
+  everyone: heard of
 ---
 
 # Sukeban Gangs
 
-Sukeban are delinquent groups in Kivotos. Some have clashed with helmet-wearing
-gangs and other organizations over local disputes or reputation.
+Sukeban are delinquent gangs found around Kivotos. Some have clashed with the
+[[helmet_gang|helmet-wearing gangs]] and other groups over local turf or
+reputation.

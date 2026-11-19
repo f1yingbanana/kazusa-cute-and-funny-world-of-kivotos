@@ -12,11 +12,12 @@ are the full listing.
 
 ## What's here
 
-- `concepts/`: 147 pages of lore: academies, clubs, factions, story events and
-  world rules.
-- `entities/places/`: 720 places, in 13 districts plus 14 stations.
-- `entities/characters/`: 146 cards: 144 simulated students, ARONA, and Sensei
-  (the player).
+- `characters/`: 146 pages: 144 simulated students, ARONA, and Sensei (the
+  player).
+- `concepts/`: 857 pages. 720 are places (`place_id`), in 13 districts plus 14
+  stations; 76 are groups (`group: true`): schools, clubs, councils, squads,
+  gangs and companies. The rest is lore: story events and world rules. A school
+  and its campus are one page, both a group and a place.
 
 ## Start with
 
@@ -29,8 +30,9 @@ are the full listing.
 - `concepts/student_housing.md`: dorms, curfews, and who lives elsewhere.
 - `concepts/schale.md` and `concepts/schale_student_duty.md`: the SCHALE
   building and the weekly duty roster.
-- One concept per academy (`trinity_general_school.md`, `gehenna_academy.md` and
-  so on), each the community root for its clubs and groups.
+- One page per academy (`trinity_school.md`, `gehenna_school.md` and so on):
+  the school, its campus, and the group its students are in. Its clubs link to
+  it.
 
 ## The map
 
@@ -66,16 +68,20 @@ Red Winter nearly two hours.
   her dorm. Canon exceptions: shared rooms at Wild Hunt, RABBIT's tents, Aris
   and Yuzu in the Game Development club room, Koyuki in the Self-Reflection
   Room, and hideouts for Rio, Kasumi and Wakamo.
+- **Groups:** each student's page lists the groups she is in (`in`), with how
+  involved she is: her school, her club or committee, her squad.
 - **Workspaces:** each student's knowledge of places is her cards in
-  `workspaces/<id>/wiki/entities/places/`. Her weekly routine is the
-  `## My usual week` section of her `MEMORY.md`.
+  `workspaces/<id>/wiki/concepts/`. Her weekly routine is the `## My usual week`
+  section of her `MEMORY.md`.
 
 ## Conventions to keep
 
 - Place names and aliases are unique across the world, and never equal a
   concept's title. Use "Gehenna Dining Hall", never "Dining Hall".
-- Homes and hideouts are `renown: private`, and are never on a route between two
-  other places.
+- Homes and hideouts have no `known`, and are never on a route between two other
+  places.
+- Who knows a page is said by groups (`known`); pages relate by `[[links]]` in
+  their text, never by a `parent` outside the map.
 - Summaries carry hours, locks and curfews, and never name a simulated student:
   the model would think she is there.
 - A routine names at most five places by their exact world names. Places named

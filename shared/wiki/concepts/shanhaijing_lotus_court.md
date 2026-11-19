@@ -1,0 +1,34 @@
+---
+name: Lotus Court Dormitory
+summary: Courtyard-house dorm for Shanhaijing students in the inner district; gate locked 23:00, warden's roll call 22:30; a shared courtyard and well.
+known:
+  shanhaijing_senior_secondary_school: knows
+parent: shanhaijing_district
+place_id: shanhaijing_lotus_court
+entry_minutes: 8
+connections:
+  - to: shanhaijing_school
+    ways:
+      - by: walk
+        minutes: 4
+    note: Down the lane to the Central Special Zone.
+  - to: shanhaijing_inner_gate
+    ways:
+      - by: walk
+        minutes: 5
+    note: Through the alleys to the Inner Gate.
+map:
+  x: 0.288
+  y: 1.1728
+---
+
+# Lotus Court Dormitory
+
+Rows of grey-brick courtyard houses inside the inner walls, divided into student
+rooms around the shared [[lotus_court_courtyard]]. A warden lives by the gate
+and takes roll call before locking up for the night.
+
+## Residents
+
+Among the students here is [[reijo-kayama]], in [[room_reijo]] off the
+courtyard.

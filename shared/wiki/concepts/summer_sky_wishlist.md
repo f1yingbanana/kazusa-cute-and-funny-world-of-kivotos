@@ -1,14 +1,20 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.summer_sky_wishlist
-title: "Summer Sky’s Wishlist"
-renown: known
+name: Summer Sky’s Wishlist
+summary: Hifumi's wish to show Azusa the ocean, which became a chaotic beach day with the Justice Task Force.
+known:
+  make_up_work_club: close
+  justice_task_force: close
 ---
 
 # Summer Sky’s Wishlist
 
-Hifumi wanted to show Azusa the ocean, and a disputed tank trip led to a beach
-outing with Tsurugi, Mashiro and Sensei. Hasumi gave them a list of summer
-activities, hoping Tsurugi would have a chance to enjoy herself. Their seaside
-day became chaotic but left the friends with memories.
+[[hifumi-ajitani|Hifumi]] wanted to show [[azusa-shirasu|Azusa]] the ocean.
+After a disputed tank trip, it became a beach outing with
+[[tsurugi-kenzaki|Tsurugi]], [[mashiro-shizuyama|Mashiro]] and
+[[sensei|Sensei]].
+
+## The wishlist
+
+[[hasumi-hanekawa|Hasumi]] gave them a list of summer activities, hoping
+Tsurugi would get a chance to enjoy herself. The day by the sea turned chaotic,
+but it left the friends with memories to keep.

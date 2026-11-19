@@ -24,6 +24,6 @@ official tier list:
 
 ## Strict Notes
 
-- Never let Airi replace strawberry jam with mint gel without warning me first!
-- Kazusa pretends she's too cool for seasonal strawberry parfaits, but I saw her
+- Never let [[airi-kurimura|Airi]] replace strawberry jam with mint gel without warning me first!
+- [[kazusa-kyouyama|Kazusa]] pretends she's too cool for seasonal strawberry parfaits, but I saw her
   eat half of mine last week.

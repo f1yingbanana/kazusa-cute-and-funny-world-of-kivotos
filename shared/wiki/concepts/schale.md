@@ -1,27 +1,38 @@
 ---
-pageType: concept
-conceptType: lore
-id: concept.schale
-title: "SCHALE, the Federal Investigation Club"
-renown: famous
+name: SCHALE, the Federal Investigation Club
+aliases:
+  - Federal Investigation Club
+summary: The federal club advised by Sensei that can step in across every academy's borders, run from a building in Kousagi Ward.
+group: true
+known:
+  everyone: knows
 ---
 
 # SCHALE
 
-SCHALE is a federal investigation club established by the General Student
-Council President and advised by Sensei. It has unusual authority across academy
-boundaries and helps students and schools with problems.
+SCHALE is the Federal Investigation Club, set up by the President of the
+[[general_student_council]] before she disappeared and advised by [[sensei]].
+Its charter lets it act across academy borders, so students and schools all over
+Kivotos bring it their problems. It works from the SCHALE building on a hill in
+[[kousagi_ward]], on the south-west outskirts of D.U., a short walk from
+[[kousagi_station]], where
+[[schale_office|Sensei's office]] is on the top floor. Students from every
+academy take turns helping there; see [[schale_student_duty]].
 
-The SCHALE building stands on a hill in Kousagi Ward, on the south-west
-outskirts of D.U., a short walk from Kousagi Station. One half is offices:
-Sensei's office on the top floor, the SCHALE Café lounge next to it where
-students drop in, a library, a classroom, a training wing with a gym and a
-shooting range, and a hangar with a heliport. The other half is a residence wing
-open to students from any school, with a cafeteria, a retro arcade, a resting
-room, a self-study room, an Angel 24 and a rooftop vegetable garden. Students
-take turns on SCHALE duty; see "Student SCHALE Duty".
+## The building
+
+One half of the building is offices: Sensei's office, the [[schale_cafe]]
+lounge next to it where students drop in, a [[schale_library|library]], a
+[[schale_classroom|classroom]], a [[schale_training_wing|training wing]] with a
+gym and a shooting range, and a [[schale_hangar|hangar]] with a heliport. The
+other half is the [[schale_residence|residence wing]], open to students from
+any school, with a [[schale_cafeteria|cafeteria]], a retro
+[[schale_arcade|arcade]], a [[schale_lounge|resting room]], a
+[[schale_study_room|self-study room]], an [[schale_angel24|Angel 24]] and a
+[[schale_garden|rooftop vegetable garden]].
 
 ## Below the building
 
-The basement holds the room where the Shittim Chest is kept and FOX Squad's
-headquarters; FOX now works under SCHALE's supervision.
+The [[schale_basement|basement]] holds the room where the [[shittim_chest]] is
+kept, and [[fox_squad_hq]]: [[fox_platoon]] now works under SCHALE's
+supervision.

@@ -1,0 +1,27 @@
+---
+name: Third Communal Cafeteria
+aliases:
+  - Third Shared Cafeteria
+summary: "The academy's big canteen: soup, black bread, kasha, pudding on Fridays; 07:00–09:00, 11:30–14:00, 17:30–19:30; packed at noon, bell peppers in everything."
+known:
+  red_winter_school: knows
+parent: red_winter_school
+place_id: red_winter_cafeteria
+entry_minutes: 2
+map:
+  x: 1.5144
+  y: 0.3365
+---
+
+# Third Communal Cafeteria
+
+Long tables, steamed windows and a queue that snakes out the door at noon. The
+lunch crew serves soup, black bread, kasha and cabbage, with pudding on Fridays,
+and wages an endless war with [[cherino-renkawa|the president]] over bell
+peppers. Everyone is served exactly the same meal, except the president, whose
+meal is more equal.
+
+## After hours
+
+The kitchen at the back can be borrowed after 19:30 for club cooking, which is
+when [[takane-miyoshi|Takane]]'s Bean Sprout Festival happens.

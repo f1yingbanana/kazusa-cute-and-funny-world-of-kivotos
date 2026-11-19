@@ -12,4 +12,4 @@ tags: [aphorisms, poetry, reflections, quotes]
 - _"To worry about tomorrow's calories while today's parfait melts is the
   tragedy of mortals."_
 - _"A fierce cat with a strawberry macaron is gentler than the summer breeze."_
-  (Note: Do not let Kazusa see this entry.)
+  (Note: Do not let [[kazusa-kyouyama|Kazusa]] see this entry.)
