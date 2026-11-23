@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "The one who taught me my existence is mine to choose. Don't make it strange."
 relation: "Sensei"

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Trainer", "Sensei"]
-peer_id: user:sensei
 summary:
   "My Trainer! Even if, technically, I'm the one who ends up training them."
 relation: "Trainer"

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["My Lord", "my lord"]
-peer_id: user:sensei
 summary:
   "My lord! The first person who didn't laugh at Izuna's dream. Izuna will
   escort them forever!"

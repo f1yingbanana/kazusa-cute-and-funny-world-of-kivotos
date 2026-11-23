@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Darling", "あなた様", "Sensei"]
-peer_id: user:sensei
 summary:
   "My beloved Darling. I fled the first time we met, and I have been chasing
   them ever since. Ufufu."

@@ -2,9 +2,10 @@
 
 The World Wiki for the Blue Archive world: what is true in Kivotos, the academy
 city, as the main story stands after Volume 6. The Arius Squad is on parole, FOX
-Squad works under SCHALE, and Mika is on probation. The player is Sensei
-(`user:sensei`), SCHALE's adult advisor. ARONA (`arona`) is the system agent,
-living in the Shittim Chest.
+Squad works under SCHALE, and Mika is on probation. Sensei (`sensei`),
+SCHALE's adult advisor, is a character like the students: the player can play
+Sensei, any student, or nobody and watch. ARONA (`arona`) is the system agent,
+living in the Shittim Chest, and talks with the player directly.
 
 This page is for people and for ARONA, to find their way around. Characters
 never read it, and the memory index skips it. Keep it high level: the folders

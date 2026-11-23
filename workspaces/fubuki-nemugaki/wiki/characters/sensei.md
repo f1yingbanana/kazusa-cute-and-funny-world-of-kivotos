@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "Sensei caught my auto-reply macro. And the hairpin thing. So nosy."
 relation: "donut accomplice"
 learned: always known

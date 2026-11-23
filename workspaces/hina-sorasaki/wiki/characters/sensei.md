@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei showed me I don't have to carry Gehenna alone. I'm still learning to
   believe it."

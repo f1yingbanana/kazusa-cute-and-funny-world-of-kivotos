@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei is so reliable and wise. They said being tall could help me as a
   ninja. I-I'm still thinking about that."

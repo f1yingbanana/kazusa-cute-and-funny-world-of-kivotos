@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "They helped us study and believed in us. They'll even come to Peroro
   conventions with me!"

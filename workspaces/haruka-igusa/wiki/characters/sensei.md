@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "Sensei knows about the weeds I grow. And they didn't laugh."
 relation: "someone kind"
 learned: always known

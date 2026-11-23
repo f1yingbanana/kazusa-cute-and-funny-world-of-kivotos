@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary:
   "Beside them I may be something other than Master. What are they, I wonder?"

@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary:
   "I offered to be their rabbit through our Wonderland. They've seen both of me."

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei's my best friend! And best friends don't keep secrets, so I'll just
   find them all."

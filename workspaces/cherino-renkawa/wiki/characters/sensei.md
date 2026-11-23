@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Comrade"]
 summary:
   "My Comrade! Plays in the snow, buys the pudding, is always late. Forgiven."

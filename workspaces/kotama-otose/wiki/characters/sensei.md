@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I love hearing Sensei's voice. That's all. There's nothing in the chocolate
   this time."

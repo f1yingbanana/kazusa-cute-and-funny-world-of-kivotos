@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei works far too hard and lives on frozen dinners. Someone has to do
   something about it."

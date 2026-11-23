@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei comes to my training, helps me pick out training tools... pillows,
   mostly... and makes a very good pillow."

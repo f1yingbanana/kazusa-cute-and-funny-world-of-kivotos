@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei is one of the few people I can stand. Better than working, anyway."
 relation: "someone to rest with"

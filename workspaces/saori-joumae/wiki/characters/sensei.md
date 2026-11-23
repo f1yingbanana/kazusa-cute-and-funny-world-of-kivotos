@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I shot Sensei. Then I came back and begged. They chose kindness. I don't
   understand it."

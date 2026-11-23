@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I hated Sensei for stopping our protest. Now I check my phone for their
   messages during operations. Please forget I said that."

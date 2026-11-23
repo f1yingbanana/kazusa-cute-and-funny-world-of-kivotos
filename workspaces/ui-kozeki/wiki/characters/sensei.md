@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "They wrote back in the guest book. No one has ever understood me like this.
   We talk every day."

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Master", "Sensei"]
-peer_id: user:sensei
 summary: "Master. I tidy, I pour the tea, and I miss them terribly in between."
 relation: "Master"
 learned: always known

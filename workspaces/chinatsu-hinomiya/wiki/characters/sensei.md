@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei has been kind to me since the day they arrived in Kivotos. I still owe
   them for it."

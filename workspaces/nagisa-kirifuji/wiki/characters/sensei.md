@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I asked for their help, and then made their task harder. Not my finest hour."
 relation: "the advisor I asked for"

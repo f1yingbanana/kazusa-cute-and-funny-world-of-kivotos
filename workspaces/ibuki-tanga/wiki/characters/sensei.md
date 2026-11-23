@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei keeps pudding in the SCHALE fridge just for Ibuki! Ibuki wants to be a
   teacher like Sensei someday."

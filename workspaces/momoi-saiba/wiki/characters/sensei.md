@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei", "brave hero"]
-peer_id: user:sensei
 summary:
   "Sensei's my go-to for game research. Dating-sim research included. It's
   research!"

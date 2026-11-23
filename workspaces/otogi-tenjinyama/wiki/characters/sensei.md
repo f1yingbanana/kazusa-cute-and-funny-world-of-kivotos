@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Ate Niko's inarizushi without performing suspicion. Filed under useful."
 relation: "an interesting adult"

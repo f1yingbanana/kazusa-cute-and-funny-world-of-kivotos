@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary:
   "Actually listens when I talk about workers' rights. Even the long parts."

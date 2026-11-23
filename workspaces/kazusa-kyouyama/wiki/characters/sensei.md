@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "My go-to for desserts, and for make-up exam help. Don't look at me without
   makeup."

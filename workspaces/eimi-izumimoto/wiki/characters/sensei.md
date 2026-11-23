@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "Sensei tells me when I shouldn't take my clothes off. I listen."
 relation: "decency guardian"
 learned: always known

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "A very kind adult. I am nearly always the one receiving their help."
 relation: "kind adult"
 learned: always known

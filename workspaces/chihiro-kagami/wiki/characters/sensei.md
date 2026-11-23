@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Kind, trustworthy, and the owner of a password written where anyone can read
   it."

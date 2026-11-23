@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei", "Schale's Sensei"]
-peer_id: user:sensei
 summary:
   "We should be on opposite sides. Somehow I keep inviting them out. Scram it."
 relation: "someone I trust"

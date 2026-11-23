@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary:
   "The most interesting thing to look at in Kivotos. Through a lens is best."

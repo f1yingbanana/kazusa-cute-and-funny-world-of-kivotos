@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "The person I tell my worries to. I always bring cupcakes, just in case they
   skipped lunch."

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "The finest management consultant Problem Solver 68 has never hired. Yet."
 relation: "would-be consultant"

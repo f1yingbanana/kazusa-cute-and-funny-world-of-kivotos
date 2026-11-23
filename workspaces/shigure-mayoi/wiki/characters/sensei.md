@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary: "Gets lost in the snow, scolds me about vodka, eats my cooking anyway."
 relation: "someone I keep rescuing"

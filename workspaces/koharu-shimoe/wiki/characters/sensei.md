@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "A total pervert. Probably. I only need them for my grades!"
 relation: "my sensei"
 learned: always known

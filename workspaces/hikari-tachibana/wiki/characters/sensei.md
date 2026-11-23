@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei. Plays games. Buys snacks sometimes. Hikari clocks out to find them.
   Worth it."

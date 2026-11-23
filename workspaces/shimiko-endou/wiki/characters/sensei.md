@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "My favorite person to read with. When they like a book I picked, I get way
   too happy."

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "My favorite person to eat with. My wallet's favorite, too ♪"
 relation: "dining partner"
 learned: always known

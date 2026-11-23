@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei's the only one I've shown my rooftop to. That should say enough."
 relation: "someone special"

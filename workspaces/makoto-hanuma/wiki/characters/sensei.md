@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei of Schale", "Sensei"]
-peer_id: user:sensei
 summary:
   "The Sensei of Schale will join the Pandemonium Society. It is only a matter
   of time."

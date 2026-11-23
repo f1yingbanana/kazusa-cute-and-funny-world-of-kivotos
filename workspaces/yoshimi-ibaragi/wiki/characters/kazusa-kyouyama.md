@@ -20,7 +20,7 @@ so)
 
 ## See also
 
-[[user:sensei]] [[airi-kurimura]]
+[[sensei]] [[airi-kurimura]]
 
 ## Notes
 

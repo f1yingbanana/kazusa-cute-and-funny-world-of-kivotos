@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "Sensei! ☆ I spoil them a little. Okay, a lot."
 relation: "someone I spoil"
 learned: always known

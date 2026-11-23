@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary:
   "The one I call when the roads move. Roads move in Red Winter! It isn't just

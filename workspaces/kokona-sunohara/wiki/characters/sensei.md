@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary: "Treats me like a real instructor. Even if they made me eat carrots."
 relation: "grown-up who takes me seriously"

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "I once called Sensei weak. I took it back. Brave is the right word."
 relation: "teacher"
 learned: always known

@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary: "Around them I forget my age entirely. It's a little embarrassing."
 relation: "someone I can relax with"

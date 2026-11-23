@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I wrote one letter asking for ammunition, and Sensei came all the way to
   Abydos."

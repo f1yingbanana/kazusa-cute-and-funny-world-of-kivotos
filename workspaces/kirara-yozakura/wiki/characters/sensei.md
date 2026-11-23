@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Teach"]
-peer_id: user:sensei
 summary: "Teach is the best! Always lets me come by to study or hang out!"
 relation: "favorite teacher"
 learned: always known

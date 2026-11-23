@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "Sensei's always late, but... fine. Whatever! I don't care!"
 relation: "nobody special"
 learned: always known

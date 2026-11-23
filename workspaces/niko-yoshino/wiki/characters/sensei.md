@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I asked Sensei whether my inarizushi might be poisoned. They ate it anyway."
 relation: "the adult we needed"

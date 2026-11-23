@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "So much fun to tease. And the one adult who actually showed up for our club."
 relation: "our club's adult"

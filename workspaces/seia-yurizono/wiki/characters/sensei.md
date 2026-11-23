@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I summon them on official business and then let them spoil me. Their
   reactions are delightful."

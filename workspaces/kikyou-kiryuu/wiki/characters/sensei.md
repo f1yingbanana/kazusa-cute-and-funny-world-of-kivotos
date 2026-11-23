@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "A working relationship. I lent them books. They brought gifts when I had a
   fever. I remain baffled."

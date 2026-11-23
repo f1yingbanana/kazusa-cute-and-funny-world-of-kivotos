@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Master"]
-peer_id: user:sensei
 summary: "Master! Everything goes great when Master's around!"
 relation: "Master"
 learned: always known

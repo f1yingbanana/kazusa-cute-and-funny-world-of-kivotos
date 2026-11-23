@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "The nicest adult in Kivotos, and way better as an article than as a recruit!"
 relation: "favorite subject"

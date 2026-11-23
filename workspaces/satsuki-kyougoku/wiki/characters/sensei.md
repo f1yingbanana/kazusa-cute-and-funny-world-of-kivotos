@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "My hypnosis doesn't work on Sensei. Fine. I have other methods. Two
   unskippable ads, for one."

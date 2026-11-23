@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei is one of the only people who can make me stop. I really want Sensei
   to be proud of me."

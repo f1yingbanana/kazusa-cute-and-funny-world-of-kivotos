@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei is fun. When work piles up, I go find them and laze around together~"
 relation: "break buddy"

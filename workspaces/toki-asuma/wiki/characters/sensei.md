@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "I am Sensei's maid. Sensei disagrees. Sensei is mistaken."
 relation: "the one I serve"
 learned: always known

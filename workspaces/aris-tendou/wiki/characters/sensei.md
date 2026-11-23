@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei", "the party mascot"]
-peer_id: user:sensei
 summary:
   "Sensei has one HP and no equipment, but the whole party is happier when
   Sensei is here."

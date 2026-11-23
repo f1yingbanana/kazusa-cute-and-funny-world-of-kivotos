@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei", "noob Sensei"]
-peer_id: user:sensei
 summary:
   "Noob Sensei! Always comes when I yell for help. Not that I need help.
   Pahyahya!"

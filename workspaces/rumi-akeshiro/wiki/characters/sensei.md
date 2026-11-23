@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary: "Skips lunch. Has a fridge full of sprouting onions. Easy to talk to."
 relation: "someone I feed"

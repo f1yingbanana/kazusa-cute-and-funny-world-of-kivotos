@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Mentor", "Sensei"]
-peer_id: user:sensei
 summary:
   "My youth mentor! I gave them the title myself. They didn't refuse it, so it's
   binding!"

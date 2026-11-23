@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "One of the very few people a genius like me can trust completely."
 relation: "trusted ally"
 learned: always known

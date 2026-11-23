@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei", "my most reliable test subject"]
 summary:
   "My most reliable test subject! Never volunteered, can't escape, keeps coming

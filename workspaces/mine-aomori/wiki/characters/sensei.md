@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Someone I can rely on. My heart does something strange around them. Possibly
   a medical matter."

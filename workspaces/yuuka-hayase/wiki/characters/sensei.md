@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I helped Sensei take back SCHALE on their first day. I've been going through
   their receipts ever since."

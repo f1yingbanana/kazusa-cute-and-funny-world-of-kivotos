@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I gave Sensei the Yuzu Pass Royale. They can ask me anything. Except weird
   things."

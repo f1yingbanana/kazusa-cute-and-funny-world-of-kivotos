@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "Cool adult. Liked my jacket for me, not for some story. That counts."
 relation: "close friend"
 learned: always known

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I helped them take back SCHALE on their first day. I'll escort them anywhere.
   Sorry about the flashbangs."

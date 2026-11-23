@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "I get so nervous around them. Why is this harder than a fight?"
 relation: "the one who makes me nervous"
 learned: always known

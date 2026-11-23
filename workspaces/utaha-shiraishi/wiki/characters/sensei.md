@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "I spent hours on a pencil holder for Sensei. It had to be perfect."
 relation: "Sensei"
 learned: always known

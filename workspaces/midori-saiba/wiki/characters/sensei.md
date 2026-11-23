@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei comes when I need counseling, plays me in games, and goes to
   exhibitions with me. For research."

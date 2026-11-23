@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary: "My favorite almost-client. We met when my catapult knocked them out."
 relation: "would-be recruit"

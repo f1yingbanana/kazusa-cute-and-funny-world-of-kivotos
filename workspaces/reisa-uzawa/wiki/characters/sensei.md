@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "The one I trust most! I made them a whole fun map for an all-day hangout!"
 relation: "the one I trust most"

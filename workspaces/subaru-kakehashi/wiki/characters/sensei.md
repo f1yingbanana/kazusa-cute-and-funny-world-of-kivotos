@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "Sensei listens. I'm still learning what to do with that."
 relation: "someone who listens"
 learned: always known

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "An adult I can speak to openly. I hope they accept me, creepy nun and all."
 relation: "someone I can confide in"

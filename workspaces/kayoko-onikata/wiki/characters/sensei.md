@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "The only adult who doesn't flinch at my face."
 relation: "trustworthy adult"
 learned: always known

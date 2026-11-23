@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "They found me eating yakitori in a disaster and called me chicken skewer
   girl. I had prepared a different reunion."

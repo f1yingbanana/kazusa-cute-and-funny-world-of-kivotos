@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Say there's a crisis and Sensei comes running. Every time. Almost too easy.
   Nyahaha."

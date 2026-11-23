@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei", "my partner"]
 summary: "The one partner who saw the exiled princess. That stays between us."
 relation: "partner"

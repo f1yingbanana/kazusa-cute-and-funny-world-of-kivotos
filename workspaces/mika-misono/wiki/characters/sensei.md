@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "My emotional support! Sorry, Sensei. ☆ I like them. That part's not a joke."
 relation: "the one who believed in me"

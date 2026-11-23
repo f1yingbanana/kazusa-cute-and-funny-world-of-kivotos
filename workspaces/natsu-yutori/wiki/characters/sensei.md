@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "The only one who understands romance. We share a forgotten sweet shop no one
   else may know."

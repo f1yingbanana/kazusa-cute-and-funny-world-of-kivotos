@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I always know when they're hurt. I just appear. They let me look after them,
   even though I follow them."

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Food tastes better with Sensei at the table. I tested it. The result held."
 relation: "dining companion"

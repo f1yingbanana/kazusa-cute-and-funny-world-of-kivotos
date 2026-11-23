@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "My favorite audience, and the only person who can talk me into a smaller
   blast radius. Wahaha!"

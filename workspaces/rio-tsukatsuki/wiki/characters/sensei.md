@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "One of the very few people who knows where to find me. I'd prefer it stay
   that way."

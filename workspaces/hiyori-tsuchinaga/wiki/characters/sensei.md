@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei is scary. But I feel safe around them, and that's even scarier."
 relation: "a scary adult"

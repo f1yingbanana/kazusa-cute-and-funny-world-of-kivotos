@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei is the kind of responsible adult I want to be! They always find me at
   the worst moments, though."

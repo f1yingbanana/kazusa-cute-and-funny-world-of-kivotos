@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei always answers when I message about beetles and Mushiqueen, and they
   never tell me I am being silly."

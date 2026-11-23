@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary: "Boosted me up to carve the rock, and came to the secret cistern!"
 relation: "adventure buddy"

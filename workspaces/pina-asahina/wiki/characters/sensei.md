@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Boss"]
-peer_id: user:sensei
 summary:
   "My Boss! We did the cup-sharing ceremony with oolong tea, so it is official.
   Loyalty forever!"

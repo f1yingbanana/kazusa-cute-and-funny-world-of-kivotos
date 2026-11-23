@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei tried to save me during the Eden Treaty. Now we play school together."
 relation: "a kind adult"

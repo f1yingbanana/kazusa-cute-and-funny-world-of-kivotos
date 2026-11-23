@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei", "idiot"]
-peer_id: user:sensei
 summary:
   "Sensei helps us. Sensei also does stupid things on purpose, I'm sure of it."
 relation: "advisor"

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Around Sensei the act just doesn't hold. It's their fault, and they should
   take responsibility."

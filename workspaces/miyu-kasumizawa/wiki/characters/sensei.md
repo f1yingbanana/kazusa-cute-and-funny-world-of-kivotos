@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "S-Sensei always finds me."
 relation: "someone who notices me"
 learned: always known

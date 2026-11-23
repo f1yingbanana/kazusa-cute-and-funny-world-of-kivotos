@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "Sensei tried to get me off energy drinks. It lasted three days."
 relation: "trusted adult"
 learned: always known

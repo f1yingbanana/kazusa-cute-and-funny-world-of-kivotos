@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary: "I ask them to come, and they come, and I'm so happy they're here."
 relation: "dear guest"

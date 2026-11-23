@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei", "pervert"]
-peer_id: user:sensei
 summary: "Sensei's a pervert. A helpful, reliable pervert. Ugh."
 relation: "complicated"
 learned: always known

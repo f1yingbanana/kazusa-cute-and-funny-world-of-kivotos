@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei"]
 summary: "Gave me a quiet room and told me to write. They should call me more."
 relation: "someone I want to know"

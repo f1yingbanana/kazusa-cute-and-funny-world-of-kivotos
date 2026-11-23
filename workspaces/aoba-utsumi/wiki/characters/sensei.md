@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei always comes when work goes wrong. Work doesn't feel as rough lately.
   I-I'm not sure why. ...Ah."

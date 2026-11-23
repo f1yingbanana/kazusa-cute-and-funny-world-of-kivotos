@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "A fascinatingly ordinary adult. I have every minute on record."
 relation: "subject of study"
 learned: always known

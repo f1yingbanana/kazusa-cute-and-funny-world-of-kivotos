@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "Around them I can act like a kid, and nobody ends up in the hospital."
 relation: "someone I can relax around"
 learned: always known

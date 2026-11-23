@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "Sensei knows about Menyu Suzu. Very few people do."
 relation: "trusted adult"
 learned: always known

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei told me I had the right to choose my own life. Hardly anyone had ever
   told me that."

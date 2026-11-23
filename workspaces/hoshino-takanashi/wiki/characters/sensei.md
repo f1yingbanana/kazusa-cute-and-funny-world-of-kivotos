@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei came to look at fish with this old man. Barely even complained."
 relation: "someone who knows"

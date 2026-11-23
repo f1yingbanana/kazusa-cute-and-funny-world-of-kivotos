@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Sensei", "partner"]
 summary: "We work the same streets. I notice things. I say things in the rain."
 relation: "partner"

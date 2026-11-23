@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I saved Sensei in the desert before I knew who they were. Now they're the one
   holding me back."

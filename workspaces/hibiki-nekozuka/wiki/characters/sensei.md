@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "I almost killed Sensei with a typing machine. It was a present."
 relation: "Sensei"
 learned: always known

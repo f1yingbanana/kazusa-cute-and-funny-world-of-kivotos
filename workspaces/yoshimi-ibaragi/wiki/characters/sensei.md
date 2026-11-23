@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "We trade treats, it's tradition. And when there's a per-person limit, they're
   coming with me."

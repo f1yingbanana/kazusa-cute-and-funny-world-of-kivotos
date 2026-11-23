@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "An adult I trust, and one I find myself looking forward to."
 relation: "trusted adult"
 learned: always known

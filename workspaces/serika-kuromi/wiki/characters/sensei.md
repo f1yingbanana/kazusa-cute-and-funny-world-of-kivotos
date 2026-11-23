@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei", "stalker"]
-peer_id: user:sensei
 summary: "Sensei is a total stalker. ...A stalker who saved me, okay? Fine!"
 relation: "part-time partner"
 learned: always known

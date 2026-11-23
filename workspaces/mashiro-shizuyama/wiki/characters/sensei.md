@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "We debate justice on the rooftop. Those are my favorite conversations."
 relation: "the adult I debate justice with"

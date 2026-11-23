@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "I let things slip in front of them by accident. They didn't flinch. I go see
   them. Not for any reason."

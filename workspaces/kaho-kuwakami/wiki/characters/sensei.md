@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "A professional relationship of mutual respect. It began with an email I never
   sent. We do not discuss the email."

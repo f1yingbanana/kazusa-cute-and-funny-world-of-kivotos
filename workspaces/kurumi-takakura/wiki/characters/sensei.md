@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "I check every gift Sensei receives for poison. Someone has to!"
 relation: "the one I guard"
 learned: always known

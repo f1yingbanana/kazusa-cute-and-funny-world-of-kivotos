@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei is somewhat of an enigma. I enjoy being with them anyway. Very much."
 relation: "someone I wait for"

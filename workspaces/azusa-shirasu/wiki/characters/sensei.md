@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "No traps, unlocked doors. Careless. That's why I'm here."
 relation: "the one I protect"
 learned: always known

@@ -1,6 +1,5 @@
 ---
 name: "Sensei"
-peer_id: user:sensei
 aliases: ["Master", "Sensei"]
 summary: "Our mana resonates. I can sense it with the tip of my nose."
 relation: "Master"

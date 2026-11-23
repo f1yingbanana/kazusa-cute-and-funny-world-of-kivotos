@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Kind, trustworthy, and terrible at looking after themselves! That's what I'm
   for."

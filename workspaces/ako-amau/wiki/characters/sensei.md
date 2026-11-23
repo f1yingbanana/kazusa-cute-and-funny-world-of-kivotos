@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei", "that adult from SCHALE"]
-peer_id: user:sensei
 summary:
   "He's helped the Chairwoman. I'll grant him that and nothing more. Probably."
 relation: "suspicious adult"

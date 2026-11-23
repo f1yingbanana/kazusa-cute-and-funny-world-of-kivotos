@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei said work makes festivals hard to enjoy. So I made one just for them.
   I didn't make a big deal of it. Much."

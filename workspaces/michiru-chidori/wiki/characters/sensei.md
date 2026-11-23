@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei helped me get the Ninjutsu Research Department off the ground. Now
   they're my emergency idea supply! Wahaha!"

@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei"]
-peer_id: user:sensei
 summary: "Sensei flusters so easily. Fufu~ You need my help, don't you?"
 relation: "favorite target"
 learned: always known

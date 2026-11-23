@@ -1,7 +1,6 @@
 ---
 name: "Sensei"
 aliases: ["Sensei", "stupid Sensei"]
-peer_id: user:sensei
 summary:
   "Sensei is stupid and suspicious, and keeps telling me not to press things.
   Heeheehee."
